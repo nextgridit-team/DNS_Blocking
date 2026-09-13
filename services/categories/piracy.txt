@@ -1,7 +1,7 @@
 # Piracy Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 2153
+# Original domains (before deduplication): 2154
 
 0.0.0.0 0day.kiev.ua
 0.0.0.0 0daycn.net
@@ -630,6 +630,7 @@
 0.0.0.0 nsanedown.com
 0.0.0.0 nsw2u.com
 0.0.0.0 nulledhome.com
+0.0.0.0 nullforums.net
 0.0.0.0 nxbrew.com
 0.0.0.0 oakvilleorthotics.com
 0.0.0.0 okis.ru

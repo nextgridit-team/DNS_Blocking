@@ -1,10 +1,11 @@
 # HaGeZi Dynamic DNS
 # Category: dynamic_dns
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 1031
+# Original domains (before deduplication): 1065
 
 0.0.0.0 0000000000000000000000.com
+0.0.0.0 0rg.us
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
 0.0.0.0 10dv.com
@@ -34,22 +35,18 @@
 0.0.0.0 4pu.com
 0.0.0.0 4twenty.us
 0.0.0.0 688.org
-0.0.0.0 77qac.com
 0.0.0.0 77uam.com
-0.0.0.0 77ynd.com
-0.0.0.0 79ama.com
-0.0.0.0 88uan.com
 0.0.0.0 88zkt.com
-0.0.0.0 99tac.com
+0.0.0.0 aa.am
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
+0.0.0.0 abuser.eu
 0.0.0.0 access.ly
 0.0.0.0 acmetoy.com
 0.0.0.0 adagio.tw
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
-0.0.0.0 airdns.org
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
 0.0.0.0 allez.la
@@ -57,7 +54,6 @@
 0.0.0.0 allowed.org
 0.0.0.0 almostmy.com
 0.0.0.0 americanunfinished.com
-0.0.0.0 amsprich.com
 0.0.0.0 anal-slavery.com
 0.0.0.0 anastasion.com
 0.0.0.0 aneisa.com
@@ -80,13 +76,16 @@
 0.0.0.0 ask2ask.com
 0.0.0.0 astrabus.ru
 0.0.0.0 asuscomm.com
+0.0.0.0 atholdinginc.com
 0.0.0.0 atlantatruckdrivingschool.us
 0.0.0.0 auraria.org
+0.0.0.0 australia.ai
 0.0.0.0 authorizeddns.net
 0.0.0.0 authorizeddns.org
 0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
+0.0.0.0 awiki.org
 0.0.0.0 ax.lt
 0.0.0.0 b0tnet.com
 0.0.0.0 b33r.us
@@ -122,7 +121,6 @@
 0.0.0.0 brawlcustommusic.com
 0.0.0.0 briansagar.com
 0.0.0.0 brweb.org
-0.0.0.0 bsn2bsn.com
 0.0.0.0 burlingtondrywall.com
 0.0.0.0 byte4byte.com
 0.0.0.0 canadascastillo.com
@@ -137,6 +135,7 @@
 0.0.0.0 changeip.co
 0.0.0.0 changeip.co.uk
 0.0.0.0 changeip.com
+0.0.0.0 changeip.me
 0.0.0.0 changeip.name
 0.0.0.0 changeip.net
 0.0.0.0 changeip.org
@@ -175,11 +174,13 @@
 0.0.0.0 crabdance.com
 0.0.0.0 crackedsidewalks.com
 0.0.0.0 crafting.xyz
+0.0.0.0 crazedns.ru
 0.0.0.0 csproject.org
 0.0.0.0 cuesinc.com
 0.0.0.0 cupddns.net
 0.0.0.0 custom-gaming.net
 0.0.0.0 cw03.ru
+0.0.0.0 cybertv.tv
 0.0.0.0 d-n-s.name
 0.0.0.0 d-n-s.org.uk
 0.0.0.0 d2g.biz
@@ -187,7 +188,6 @@
 0.0.0.0 dark-byte.net
 0.0.0.0 darksair.org
 0.0.0.0 davidsagar.com
-0.0.0.0 ddns-dvr.com
 0.0.0.0 ddns.cam
 0.0.0.0 ddns.com.br
 0.0.0.0 ddns.com.co
@@ -198,10 +198,10 @@
 0.0.0.0 ddns.name
 0.0.0.0 ddns.us
 0.0.0.0 ddns5.com
+0.0.0.0 ddnsapp.com
 0.0.0.0 ddnslive.com
 0.0.0.0 ddnss.ch
 0.0.0.0 ddnss.eu
-0.0.0.0 ddnssec.de
 0.0.0.0 de-a.org
 0.0.0.0 dearabba.org
 0.0.0.0 demosoftonline.com
@@ -212,11 +212,14 @@
 0.0.0.0 dhs.org
 0.0.0.0 digikabel.hu
 0.0.0.0 digitalgroupe.com
+0.0.0.0 dip.jp
 0.0.0.0 diskstation.eu
 0.0.0.0 diskstation.org
+0.0.0.0 dive2.net
 0.0.0.0 divx.se
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
+0.0.0.0 dn3.co
 0.0.0.0 dnet.hu
 0.0.0.0 dnmcoffman.com
 0.0.0.0 dns-auth.com
@@ -249,7 +252,9 @@
 0.0.0.0 dnyp.com
 0.0.0.0 dob.jp
 0.0.0.0 donhoo.com
+0.0.0.0 donkeyhot.net
 0.0.0.0 dougtreadwell.com
+0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
 0.0.0.0 dray-dns.de
@@ -257,6 +262,7 @@
 0.0.0.0 drunkensailor.org
 0.0.0.0 dsmtp.com
 0.0.0.0 dtdns.com
+0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
 0.0.0.0 dubya.info
 0.0.0.0 dubya.net
@@ -299,9 +305,9 @@
 0.0.0.0 dyndns.icu
 0.0.0.0 dyndns.it
 0.0.0.0 dyndns.pro
+0.0.0.0 dyndns.za.org
 0.0.0.0 dyndns64.de
 0.0.0.0 dyndnss.net
-0.0.0.0 dyndnssec.de
 0.0.0.0 dyndnsservices.com
 0.0.0.0 dynect.net
 0.0.0.0 dynet.com
@@ -311,6 +317,7 @@
 0.0.0.0 dynme.ovh
 0.0.0.0 dynnamn.ru
 0.0.0.0 dyns.be
+0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynssl.com
 0.0.0.0 dynu.com
@@ -354,6 +361,7 @@
 0.0.0.0 eurotank.ro
 0.0.0.0 eva.hk
 0.0.0.0 everton.com
+0.0.0.0 evils.in
 0.0.0.0 expired-dns.com
 0.0.0.0 ez-dns.com
 0.0.0.0 ez-ip.net
@@ -376,12 +384,17 @@
 0.0.0.0 flashhub.net
 0.0.0.0 flat4free.com
 0.0.0.0 flazzard.com
+0.0.0.0 flick2.me
+0.0.0.0 flick2.net
 0.0.0.0 flnet.org
 0.0.0.0 flowergardendaycare.com
+0.0.0.0 flyme2.me
+0.0.0.0 flyme2.net
 0.0.0.0 foroemprende.com
 0.0.0.0 forss.to
 0.0.0.0 fortiddns.com
 0.0.0.0 fragmentary.info
+0.0.0.0 free-ddns.com
 0.0.0.0 freeddns.com
 0.0.0.0 freeddns.uk
 0.0.0.0 freedns.tech
@@ -396,8 +409,10 @@
 0.0.0.0 ftp1.biz
 0.0.0.0 ftpserver.biz
 0.0.0.0 fxnxs.com
+0.0.0.0 g2url.com
 0.0.0.0 gally.jp
 0.0.0.0 garmanage.com
+0.0.0.0 garypatel.com
 0.0.0.0 gastright.com
 0.0.0.0 geobattery.com
 0.0.0.0 gerastar.ru
@@ -409,6 +424,7 @@
 0.0.0.0 glddns.com
 0.0.0.0 global-instr.us
 0.0.0.0 gluebank.com
+0.0.0.0 go2host.co
 0.0.0.0 golaud.com
 0.0.0.0 goldcrestcc.com
 0.0.0.0 got-game.org
@@ -455,13 +471,14 @@
 0.0.0.0 hmao.pro
 0.0.0.0 hokum-smack.com
 0.0.0.0 home.kg
-0.0.0.0 home64.de
 0.0.0.0 homelinuxserver.org
 0.0.0.0 homenode.ca
 0.0.0.0 homepc.it
 0.0.0.0 homeplex.org
 0.0.0.0 homingbeacon.net
+0.0.0.0 host2.me
 0.0.0.0 host2go.net
+0.0.0.0 hostdns.me
 0.0.0.0 hosthampster.com
 0.0.0.0 hpc.tw
 0.0.0.0 hs.vc
@@ -499,8 +516,7 @@
 0.0.0.0 ipnodns.ru
 0.0.0.0 ipq.co
 0.0.0.0 iprowave.com
-0.0.0.0 ipv64.de
-0.0.0.0 ipv64.net
+0.0.0.0 ipupdater.com
 0.0.0.0 isageek.net
 0.0.0.0 isamotherfucking.ninja
 0.0.0.0 isasecret.com
@@ -526,6 +542,7 @@
 0.0.0.0 joe.dj
 0.0.0.0 jomblo.asia
 0.0.0.0 jonward.com
+0.0.0.0 jump2me.com
 0.0.0.0 jumpingcrab.com
 0.0.0.0 jundy.org
 0.0.0.0 jungleheart.com
@@ -557,6 +574,7 @@
 0.0.0.0 leitud.ee
 0.0.0.0 leivo.org
 0.0.0.0 lessmiths.com
+0.0.0.0 letsgo2.me
 0.0.0.0 level3.net
 0.0.0.0 lflink.com
 0.0.0.0 lflinkup.com
@@ -576,11 +594,12 @@
 0.0.0.0 logisoft-cy.com
 0.0.0.0 logular.com
 0.0.0.0 longmusic.com
+0.0.0.0 loophole.site
 0.0.0.0 lospenitentes.com
 0.0.0.0 lostgumball.com
 0.0.0.0 lovethosetrains.com
 0.0.0.0 lozan.com
-0.0.0.0 luckyweaving.com
+0.0.0.0 lundellnet.com
 0.0.0.0 macrofox.org
 0.0.0.0 madhacker.biz
 0.0.0.0 mao.fi
@@ -603,6 +622,7 @@
 0.0.0.0 midjava.com
 0.0.0.0 migibts.net
 0.0.0.0 mikata.ru
+0.0.0.0 mikecartwright.net
 0.0.0.0 mil.nf
 0.0.0.0 mindhackers.org
 0.0.0.0 mine.bz
@@ -674,8 +694,11 @@
 0.0.0.0 natrofa.com
 0.0.0.0 ndcg.com
 0.0.0.0 nerdcamp.net
+0.0.0.0 net2me.me
 0.0.0.0 netcabo.pt
+0.0.0.0 netcraze.pro
 0.0.0.0 netdorm.com
+0.0.0.0 netea.me
 0.0.0.0 netlord.de
 0.0.0.0 netmask.ca
 0.0.0.0 networkguru.com
@@ -740,6 +763,7 @@
 0.0.0.0 pendulumaudio.com
 0.0.0.0 peregrineair.com
 0.0.0.0 phenixs.org
+0.0.0.0 photo-cult.com
 0.0.0.0 photo-frame.com
 0.0.0.0 php-dev.net
 0.0.0.0 pics.mu
@@ -755,11 +779,11 @@
 0.0.0.0 port25.biz
 0.0.0.0 portfwd.com
 0.0.0.0 portmap.host
+0.0.0.0 portrelay.com
 0.0.0.0 possessed.us
 0.0.0.0 prettyweak.com
 0.0.0.0 priamaakcia.sk
 0.0.0.0 pride.moe
-0.0.0.0 pride.ngo
 0.0.0.0 privatedns.com
 0.0.0.0 privatedns.org
 0.0.0.0 privateimport.jp
@@ -773,6 +797,7 @@
 0.0.0.0 ptchat.net
 0.0.0.0 publicvm.com
 0.0.0.0 pudim.info
+0.0.0.0 punked.us
 0.0.0.0 qc.to
 0.0.0.0 qhigh.com
 0.0.0.0 qlbv.vn
@@ -788,7 +813,6 @@
 0.0.0.0 recyclesolutionsllc.com
 0.0.0.0 reijn.org
 0.0.0.0 remotecam.nu
-0.0.0.0 resolve.bar
 0.0.0.0 ro.lt
 0.0.0.0 robinhud.com
 0.0.0.0 robot-armies.com
@@ -798,13 +822,13 @@
 0.0.0.0 root64.de
 0.0.0.0 roth.ca
 0.0.0.0 route64.de
+0.0.0.0 routemehome.com
 0.0.0.0 rpz.su
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
 0.0.0.0 run.place
 0.0.0.0 rundis.com
 0.0.0.0 ruok.org
-0.0.0.0 russkoeumea.com
 0.0.0.0 rwbcode.com
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
@@ -832,6 +856,7 @@
 0.0.0.0 sexxxy.biz
 0.0.0.0 shacknet.biz
 0.0.0.0 shacknet.us
+0.0.0.0 shadir.com
 0.0.0.0 sharkltd.com
 0.0.0.0 sheatfish.org
 0.0.0.0 sheepindonesia.org
@@ -847,12 +872,16 @@
 0.0.0.0 sitelutions.com
 0.0.0.0 skc.su
 0.0.0.0 skies.tw
+0.0.0.0 skipurl.me
+0.0.0.0 skipurl.org
 0.0.0.0 slasdot.com
 0.0.0.0 sleepless.hk
+0.0.0.0 slide2.net
 0.0.0.0 sline.net
 0.0.0.0 sly.io
 0.0.0.0 slyip.net
 0.0.0.0 smelly.cc
+0.0.0.0 snap2.info
 0.0.0.0 sne.jp
 0.0.0.0 socialadhesion.com
 0.0.0.0 softether.net
@@ -870,7 +899,6 @@
 0.0.0.0 sqlconcepts.com
 0.0.0.0 squirly.info
 0.0.0.0 srv64.de
-0.0.0.0 srvdns.de
 0.0.0.0 ssitech.bg
 0.0.0.0 ssl443.org
 0.0.0.0 sslip.io
@@ -886,14 +914,15 @@
 0.0.0.0 stuns.org
 0.0.0.0 sumibi.org
 0.0.0.0 sundby.com
-0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 suroot.com
+0.0.0.0 swoop2.me
 0.0.0.0 swtest.ru
 0.0.0.0 syno-ds.de
 0.0.0.0 synology-diskstation.de
 0.0.0.0 synology-ds.de
 0.0.0.0 synoserver.com
+0.0.0.0 syntereo.com
 0.0.0.0 sysadminetworks.com
 0.0.0.0 system-ns.com
 0.0.0.0 systes.net
@@ -920,6 +949,7 @@
 0.0.0.0 thesemmels.com
 0.0.0.0 thingsnewandused.com
 0.0.0.0 tinyrealm.com
+0.0.0.0 tobuy.us
 0.0.0.0 toh.info
 0.0.0.0 topdns.com
 0.0.0.0 topsddns.net
@@ -965,6 +995,7 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
+0.0.0.0 vicinanza.org
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com
@@ -984,6 +1015,7 @@
 0.0.0.0 wakingmoon.com
 0.0.0.0 wan64.de
 0.0.0.0 wanip.ch
+0.0.0.0 warp9computers.com
 0.0.0.0 webok.net
 0.0.0.0 webs.vc
 0.0.0.0 westblade.com
@@ -1004,6 +1036,7 @@
 0.0.0.0 work.gd
 0.0.0.0 www1.biz
 0.0.0.0 wwwhost.biz
+0.0.0.0 wwwhost.us
 0.0.0.0 x24hr.com
 0.0.0.0 xddns.de
 0.0.0.0 xname.org
@@ -1027,6 +1060,7 @@
 0.0.0.0 z86.ru
 0.0.0.0 zaibar.ro
 0.0.0.0 zanity.net
+0.0.0.0 zeitr.ch
 0.0.0.0 zelslonik.info
 0.0.0.0 zneth.com
 0.0.0.0 zoneedit.com

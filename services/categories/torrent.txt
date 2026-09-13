@@ -1,7 +1,7 @@
 # Torrent Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 2623
+# Original domains (before deduplication): 2620
 
 0.0.0.0 00-torrnets.com
 0.0.0.0 0day.ro
@@ -388,7 +388,6 @@
 0.0.0.0 cartoonmenace.com
 0.0.0.0 casanovax.com
 0.0.0.0 cattorrent.co.uk
-0.0.0.0 cbc.ca
 0.0.0.0 cbr-ro.com
 0.0.0.0 ccfbits.org
 0.0.0.0 ceasers-palace.info
@@ -810,7 +809,6 @@
 0.0.0.0 hadopeer.org
 0.0.0.0 hairymel.gotdns.com
 0.0.0.0 haitou.org
-0.0.0.0 haldrie.com
 0.0.0.0 hama3.net
 0.0.0.0 hanfparade.org
 0.0.0.0 happytorrents.org
@@ -1212,6 +1210,7 @@
 0.0.0.0 natorrente.com
 0.0.0.0 ncore.cc
 0.0.0.0 ncore.hu
+0.0.0.0 ncore.pro
 0.0.0.0 nemesis09.com
 0.0.0.0 neomagician.net
 0.0.0.0 neptunepinkfloyd.co.uk
@@ -1815,7 +1814,6 @@
 0.0.0.0 tom.ru
 0.0.0.0 tooziq.com
 0.0.0.0 top-torrent0.net
-0.0.0.0 topbytes.net
 0.0.0.0 tophos.org
 0.0.0.0 topseed.lt
 0.0.0.0 tor-eiffel.net

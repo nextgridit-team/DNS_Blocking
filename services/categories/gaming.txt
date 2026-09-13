@@ -1,15 +1,19 @@
 # Gaming Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 249
+# Original domains (before deduplication): 329
 
 0.0.0.0 163.com
 0.0.0.0 8686c.com
 0.0.0.0 activision.com
 0.0.0.0 activisionblizzard.com
+0.0.0.0 algebra.best
+0.0.0.0 algebra.monster
+0.0.0.0 algebra.vip
 0.0.0.0 arenanetworks.com
 0.0.0.0 battle.net
 0.0.0.0 battlenet.com.cn
+0.0.0.0 biologyclass.club
 0.0.0.0 blizzard.cn
 0.0.0.0 blizzard.com
 0.0.0.0 blizzardgames.cn
@@ -25,10 +29,15 @@
 0.0.0.0 callofdutyleague.com
 0.0.0.0 clngaa.com
 0.0.0.0 codmwest.com
+0.0.0.0 combateggs.com
 0.0.0.0 comcast.net
 0.0.0.0 crypticstudios.com
+0.0.0.0 cubecraft.net
 0.0.0.0 dawngate.com
 0.0.0.0 daybreakgames.com
+0.0.0.0 deadlyegg.com
+0.0.0.0 deathegg.life
+0.0.0.0 deathegg.world
 0.0.0.0 demonware.net
 0.0.0.0 ea.com
 0.0.0.0 eac-cdn.com
@@ -40,6 +49,24 @@
 0.0.0.0 eccdnx.com
 0.0.0.0 eft-store.com
 0.0.0.0 egdownload.fastly-edge.com
+0.0.0.0 egg.dance
+0.0.0.0 eggbattle.com
+0.0.0.0 eggboy.club
+0.0.0.0 eggboy.me
+0.0.0.0 eggboy.xyz
+0.0.0.0 eggcombat.com
+0.0.0.0 eggfacts.fun
+0.0.0.0 egggames.best
+0.0.0.0 egghead.institute
+0.0.0.0 eggisthenewblack.com
+0.0.0.0 eggsarecool.com
+0.0.0.0 eggshock.com
+0.0.0.0 eggshock.me
+0.0.0.0 eggshock.net
+0.0.0.0 eggshooter.best
+0.0.0.0 eggshooter.com
+0.0.0.0 eggwarfare.com
+0.0.0.0 eggwars.io
 0.0.0.0 elderscrollsonline.com
 0.0.0.0 epicgames-download1.akamaized.net
 0.0.0.0 epicgames.com
@@ -49,12 +76,19 @@
 0.0.0.0 gaikai.com
 0.0.0.0 gamepass.com
 0.0.0.0 gcdn.co
+0.0.0.0 geometry.best
+0.0.0.0 geometry.monster
+0.0.0.0 geometry.pw
+0.0.0.0 geometry.report
 0.0.0.0 gog-statics.com
 0.0.0.0 gog.com
 0.0.0.0 gogalaxy.com
+0.0.0.0 hardboiled.life
+0.0.0.0 hardshell.life
 0.0.0.0 hitman.com
 0.0.0.0 hitman.io
 0.0.0.0 homecomingservers.com
+0.0.0.0 humanorganising.org
 0.0.0.0 ioi.dk
 0.0.0.0 ksyna.com
 0.0.0.0 leagueoflegends.co.kr
@@ -63,7 +97,18 @@
 0.0.0.0 lolstatic.com
 0.0.0.0 lolusercontent.com
 0.0.0.0 lordofultima.com
+0.0.0.0 math.international
+0.0.0.0 mathactivity.club
+0.0.0.0 mathactivity.xyz
+0.0.0.0 mathdrills.info
+0.0.0.0 mathdrills.life
+0.0.0.0 mathfun.rocks
+0.0.0.0 mathgames.world
+0.0.0.0 mathlete.fun
+0.0.0.0 mathlete.pro
+0.0.0.0 megasmp.gg
 0.0.0.0 microsoft.com
+0.0.0.0 minecraft-services.net
 0.0.0.0 minecraft.net
 0.0.0.0 minecraftservices.com
 0.0.0.0 mojang.com
@@ -90,6 +135,7 @@
 0.0.0.0 origin-a.akamaihd.net
 0.0.0.0 origin.com
 0.0.0.0 origin.tv
+0.0.0.0 overeasy.club
 0.0.0.0 pathofexile.com
 0.0.0.0 pinyuncloud.com
 0.0.0.0 playartifact.com
@@ -114,6 +160,7 @@
 0.0.0.0 riotcdn.net
 0.0.0.0 riotgames.com
 0.0.0.0 riotgamespatcher-a.akamaihd.net
+0.0.0.0 risenegg.com
 0.0.0.0 roblox.cn
 0.0.0.0 roblox.com
 0.0.0.0 robloxcdn.com
@@ -122,6 +169,27 @@
 0.0.0.0 rsg.sc
 0.0.0.0 s.team
 0.0.0.0 scea.com
+0.0.0.0 scrambled.tech
+0.0.0.0 scrambled.today
+0.0.0.0 scrambled.us
+0.0.0.0 scrambled.world
+0.0.0.0 shellgame.me
+0.0.0.0 shellplay.live
+0.0.0.0 shellshock.guru
+0.0.0.0 shellshock.io
+0.0.0.0 shellshockers.best
+0.0.0.0 shellshockers.ca
+0.0.0.0 shellshockers.club
+0.0.0.0 shellshockers.life
+0.0.0.0 shellshockers.site
+0.0.0.0 shellshockers.today
+0.0.0.0 shellshockers.us
+0.0.0.0 shellshockers.website
+0.0.0.0 shellshockers.wiki
+0.0.0.0 shellshockers.world
+0.0.0.0 shellshockers.xyz
+0.0.0.0 shellsocks.com
+0.0.0.0 softboiled.club
 0.0.0.0 sony.akadns.net
 0.0.0.0 sony.com
 0.0.0.0 sonyentertainmentnetwork.com
@@ -155,7 +223,10 @@
 0.0.0.0 ubisoftconnect.com
 0.0.0.0 underlords.com
 0.0.0.0 unrealengine.com
+0.0.0.0 urbanegger.com
 0.0.0.0 valvesoftware.com
+0.0.0.0 violentegg.club
+0.0.0.0 violentegg.fun
 0.0.0.0 warframe.com
 0.0.0.0 wargaming.com
 0.0.0.0 wargaming.net
@@ -173,4 +244,12 @@
 0.0.0.0 xboxab.net
 0.0.0.0 xboxlive.com
 0.0.0.0 xboxservices.com
+0.0.0.0 yolk.best
+0.0.0.0 yolk.life
+0.0.0.0 yolk.monster
+0.0.0.0 yolk.quest
+0.0.0.0 yolk.rocks
+0.0.0.0 yolk.tech
+0.0.0.0 yolk.today
 0.0.0.0 zaonce.net
+0.0.0.0 zygote.cafe

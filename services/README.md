@@ -1,6 +1,6 @@
 # Threat Intelligence & Content Blocklists
 
-**Generated:** 2026-06-07 06:36:22 UTC
+**Generated:** 2026-09-13 04:57:22 UTC
 
 **Audience:** Home-safe / standard
 
@@ -26,9 +26,9 @@ Use these starter bundles if you want a fast, opinionated default instead of pic
 
 | Bundle | Best For | Root Domains | Includes | File | Raw URL |
 |--------|----------|---------|----------|------|---------|
-| **Home Safe** | Most home users | 785,958 | Abuse & Malvertising, Badware Hosters, Dynamic DNS, Malware & Threats, Phishing & Scam Sites, Redirectors, Scam & Fraud, Tracking & Analytics | [home_safe.txt](recommended/home_safe.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/home_safe.txt) |
-| **Family** | Shared devices and kid-safe networks | 885,635 | Abuse & Malvertising, Adult Content, Badware Hosters, Dating Services, Drugs, Dynamic DNS, Gambling & Betting, Malware & Threats, Phishing & Scam Sites, Redirectors, Scam & Fraud, Tracking & Analytics, Vaping | [family.txt](recommended/family.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/family.txt) |
-| **Aggressive** | Lock-it-down blocking | 891,310 | Abuse & Malvertising, Adult Content, Badware Hosters, Crypto & Cryptojacking, Dating Services, Drugs, Dynamic DNS, Gambling & Betting, Malware & Threats, Phishing & Scam Sites, Piracy, Redirectors, Scam & Fraud, Torrent, Tracking & Analytics, Vaping | [aggressive.txt](recommended/aggressive.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/aggressive.txt) |
+| **Home Safe** | Most home users | 938,199 | Abuse & Malvertising, Badware Hosters, Dynamic DNS, Malware & Threats, Phishing & Scam Sites, Redirectors, Scam & Fraud, Tracking & Analytics | [home_safe.txt](recommended/home_safe.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/home_safe.txt) |
+| **Family** | Shared devices and kid-safe networks | 1,032,864 | Abuse & Malvertising, Adult Content, Badware Hosters, Dating Services, Drugs, Dynamic DNS, Gambling & Betting, Malware & Threats, Phishing & Scam Sites, Redirectors, Scam & Fraud, Tracking & Analytics, Vaping | [family.txt](recommended/family.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/family.txt) |
+| **Aggressive** | Lock-it-down blocking | 1,036,272 | Abuse & Malvertising, Adult Content, Badware Hosters, Crypto & Cryptojacking, Dating Services, Drugs, Dynamic DNS, Gambling & Betting, Malware & Threats, Phishing & Scam Sites, Piracy, Redirectors, Scam & Fraud, Torrent, Tracking & Analytics, Vaping | [aggressive.txt](recommended/aggressive.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/recommended/aggressive.txt) |
 
 ## Why Trust This Layer
 
@@ -43,35 +43,35 @@ One-click blocklists combining multiple sources for everyday blocking.
 
 | Category | Root Domains | Sources | File | Raw URL |
 |----------|---------|---------|------|---------|
-| [🚨 Abuse & Malvertising](#abuse) | 240,662 | 1 | [abuse.txt](categories/abuse.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/abuse.txt) |
-| [🔞 Adult Content](#adult) | 80,339 | 3 | [adult.txt](categories/adult.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/adult.txt) |
-| [🤖 AI Assistants](#ai) | 19 | 9 | [ai.txt](categories/ai.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/ai.txt) |
-| [🗄️ Badware Hosters](#badware-hoster) | 903 | 1 | [badware_hoster.txt](categories/badware_hoster.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/badware_hoster.txt) |
+| [🚨 Abuse & Malvertising](#abuse) | 240,648 | 1 | [abuse.txt](categories/abuse.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/abuse.txt) |
+| [🔞 Adult Content](#adult) | 75,299 | 2 | [adult.txt](categories/adult.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/adult.txt) |
+| [🤖 AI Assistants](#ai) | 18 | 9 | [ai.txt](categories/ai.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/ai.txt) |
+| [🗄️ Badware Hosters](#badware-hoster) | 1,229 | 1 | [badware_hoster.txt](categories/badware_hoster.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/badware_hoster.txt) |
 | [☁️ CDNs & Edge](#cdn) | 24 | 1 | [cdn.txt](categories/cdn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/cdn.txt) |
-| [🪙 Crypto & Cryptojacking](#crypto) | 8,130 | 1 | [crypto.txt](categories/crypto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/crypto.txt) |
-| [💕 Dating Services](#dating) | 1,316 | 1073 | [dating.txt](categories/dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dating.txt) |
+| [🪙 Crypto & Cryptojacking](#crypto) | 1,269 | 1 | [crypto.txt](categories/crypto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/crypto.txt) |
+| [💕 Dating Services](#dating) | 1,361 | 1115 | [dating.txt](categories/dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dating.txt) |
 | [🛜 DNS Providers](#dns) | 2 | 2 | [dns.txt](categories/dns.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dns.txt) |
-| [🛡️ DNS / VPN Bypass](#dns-bypass) | 16,992 | 1 | [dns_bypass.txt](categories/dns_bypass.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dns_bypass.txt) |
-| [💊 Drugs](#drugs) | 18,320 | 1 | [drugs.txt](categories/drugs.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/drugs.txt) |
-| [🌐 Dynamic DNS](#dynamic-dns) | 1,031 | 1 | [dynamic_dns.txt](categories/dynamic_dns.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dynamic_dns.txt) |
-| [🎰 Gambling & Betting](#gambling) | 33 | 4 | [gambling.txt](categories/gambling.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/gambling.txt) |
-| [🎮 Gaming Platforms](#gaming) | 171 | 33 | [gaming.txt](categories/gaming.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/gaming.txt) |
+| [🛡️ DNS / VPN Bypass](#dns-bypass) | 16,271 | 1 | [dns_bypass.txt](categories/dns_bypass.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dns_bypass.txt) |
+| [💊 Drugs](#drugs) | 18,317 | 1 | [drugs.txt](categories/drugs.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/drugs.txt) |
+| [🌐 Dynamic DNS](#dynamic-dns) | 1,065 | 1 | [dynamic_dns.txt](categories/dynamic_dns.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/dynamic_dns.txt) |
+| [🎰 Gambling & Betting](#gambling) | 61 | 5 | [gambling.txt](categories/gambling.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/gambling.txt) |
+| [🎮 Gaming Platforms](#gaming) | 250 | 34 | [gaming.txt](categories/gaming.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/gaming.txt) |
 | [🗃️ Hosting & File Platforms](#hosting) | 33 | 4 | [hosting.txt](categories/hosting.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/hosting.txt) |
-| [🦠 Malware & Threats](#malware) | 3,498 | 3 | [malware.txt](categories/malware.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/malware.txt) |
+| [🦠 Malware & Threats](#malware) | 2,783 | 3 | [malware.txt](categories/malware.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/malware.txt) |
 | [💬 Messaging Apps](#messenger) | 55 | 12 | [messenger.txt](categories/messenger.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/messenger.txt) |
-| [🎣 Phishing & Scam Sites](#phishing) | 304,809 | 3 | [phishing.txt](categories/phishing.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/phishing.txt) |
-| [🏴‍☠️ Piracy](#piracy) | 1,065 | 1 | [piracy.txt](categories/piracy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/piracy.txt) |
+| [🎣 Phishing & Scam Sites](#phishing) | 312,213 | 3 | [phishing.txt](categories/phishing.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/phishing.txt) |
+| [🏴‍☠️ Piracy](#piracy) | 1,066 | 1 | [piracy.txt](categories/piracy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/piracy.txt) |
 | [🕶️ Privacy Tools](#privacy) | 6 | 2 | [privacy.txt](categories/privacy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/privacy.txt) |
-| [↪️ Redirectors](#redirect) | 99,201 | 1 | [redirect.txt](categories/redirect.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/redirect.txt) |
-| [💸 Scam & Fraud](#scam) | 130,498 | 3 | [scam.txt](categories/scam.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/scam.txt) |
+| [↪️ Redirectors](#redirect) | 99,202 | 1 | [redirect.txt](categories/redirect.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/redirect.txt) |
+| [💸 Scam & Fraud](#scam) | 181,539 | 3 | [scam.txt](categories/scam.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/scam.txt) |
 | [🛍️ Shopping & Marketplaces](#shopping) | 567 | 10 | [shopping.txt](categories/shopping.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/shopping.txt) |
 | [📡 Smart TV Telemetry](#smart-tv) | 70 | 1 | [smart_tv.txt](categories/smart_tv.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/smart_tv.txt) |
-| [📱 Social Networks](#social-network) | 835 | 26 | [social_network.txt](categories/social_network.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/social_network.txt) |
+| [📱 Social Networks](#social-network) | 836 | 27 | [social_network.txt](categories/social_network.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/social_network.txt) |
 | [🧰 Software & Updates](#software) | 13 | 2 | [software.txt](categories/software.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/software.txt) |
 | [📺 Streaming Services](#streaming) | 454 | 41 | [streaming.txt](categories/streaming.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/streaming.txt) |
-| [🧲 Torrent](#torrent) | 2,192 | 1 | [torrent.txt](categories/torrent.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/torrent.txt) |
-| [🛰️ Tracking & Analytics](#tracking) | 14,761 | 1 | [tracking.txt](categories/tracking.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/tracking.txt) |
-| [🔗 URL Shorteners](#url-shortener) | 9,820 | 1 | [url_shortener.txt](categories/url_shortener.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/url_shortener.txt) |
+| [🧲 Torrent](#torrent) | 2,190 | 1 | [torrent.txt](categories/torrent.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/torrent.txt) |
+| [🛰️ Tracking & Analytics](#tracking) | 115,748 | 1 | [tracking.txt](categories/tracking.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/tracking.txt) |
+| [🔗 URL Shorteners](#url-shortener) | 9,878 | 1 | [url_shortener.txt](categories/url_shortener.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/url_shortener.txt) |
 | [💨 Vaping](#vaping) | 32 | 1 | [vaping.txt](categories/vaping.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/categories/vaping.txt) |
 
 ## Individual Sources
@@ -82,15 +82,14 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Abuse | 240,662 | [blp_abuse.txt](lists/abuse/blp_abuse.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/abuse/blp_abuse.txt) |
+| Block List Project Abuse | 240,648 | [blp_abuse.txt](lists/abuse/blp_abuse.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/abuse/blp_abuse.txt) |
 
 ### Adult Content
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Chad Mayfield Porn | 5,538 | [chadmayfield_porn.txt](lists/adult/chadmayfield_porn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/adult/chadmayfield_porn.txt) |
-| Grindr | 1 | [grindr.txt](lists/adult/grindr.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/adult/grindr.txt) |
-| StevenBlack Porn | 77,781 | [stevenblack_porn.txt](lists/adult/stevenblack_porn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/adult/stevenblack_porn.txt) |
+| Chad Mayfield Porn | 5,505 | [chadmayfield_porn.txt](lists/adult/chadmayfield_porn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/adult/chadmayfield_porn.txt) |
+| StevenBlack Porn | 72,765 | [stevenblack_porn.txt](lists/adult/stevenblack_porn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/adult/stevenblack_porn.txt) |
 
 ### AI Assistants
 
@@ -100,7 +99,7 @@ For granular control, each source is available separately if you want source-lev
 | Claude | 2 | [claude.txt](lists/ai/claude.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/claude.txt) |
 | Copilot | 4 | [copilot.txt](lists/ai/copilot.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/copilot.txt) |
 | DeepSeek | 1 | [deepseek.txt](lists/ai/deepseek.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/deepseek.txt) |
-| Gemini | 2 | [gemini.txt](lists/ai/gemini.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/gemini.txt) |
+| Google Gemini | 1 | [gemini.txt](lists/ai/gemini.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/gemini.txt) |
 | Grok | 2 | [grok.txt](lists/ai/grok.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/grok.txt) |
 | Manus | 2 | [manus.txt](lists/ai/manus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/manus.txt) |
 | Meta AI | 1 | [meta_ai.txt](lists/ai/meta_ai.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/ai/meta_ai.txt) |
@@ -110,7 +109,7 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| HaGeZi Badware Hoster | 903 | [hagezi_hoster.txt](lists/badware_hoster/hagezi_hoster.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/badware_hoster/hagezi_hoster.txt) |
+| HaGeZi Badware Hoster | 1,229 | [hagezi_hoster.txt](lists/badware_hoster/hagezi_hoster.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/badware_hoster/hagezi_hoster.txt) |
 
 ### CDNs & Edge
 
@@ -122,7 +121,7 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Crypto | 8,130 | [blp_crypto.txt](lists/crypto/blp_crypto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/crypto/blp_crypto.txt) |
+| Block List Project Crypto | 1,269 | [blp_crypto.txt](lists/crypto/blp_crypto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/crypto/blp_crypto.txt) |
 
 ### Dating Services
 
@@ -194,8 +193,10 @@ For granular control, each source is available separately if you want source-lev
 | Amiouplus | 1 | [amiouplus.txt](lists/dating/amiouplus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amiouplus.txt) |
 | Amirru | 1 | [amirru.txt](lists/dating/amirru.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amirru.txt) |
 | Amistarium | 1 | [amistarium.txt](lists/dating/amistarium.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amistarium.txt) |
+| Amoredate | 1 | [amoredate.txt](lists/dating/amoredate.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amoredate.txt) |
 | Amour | 1 | [amour.txt](lists/dating/amour.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amour.txt) |
 | Amourfactory | 1 | [amourfactory.txt](lists/dating/amourfactory.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amourfactory.txt) |
+| Amourfeel | 1 | [amourfeel.txt](lists/dating/amourfeel.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amourfeel.txt) |
 | Amourland | 1 | [amourland.txt](lists/dating/amourland.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amourland.txt) |
 | Amours Bio | 1 | [amours_bio.txt](lists/dating/amours_bio.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amours_bio.txt) |
 | Amourtimes | 1 | [amourtimes.txt](lists/dating/amourtimes.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/amourtimes.txt) |
@@ -238,12 +239,17 @@ For granular control, each source is available separately if you want source-lev
 | Baltic Women | 1 | [baltic_women.txt](lists/dating/baltic_women.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/baltic_women.txt) |
 | Bangatrans | 1 | [bangatrans.txt](lists/dating/bangatrans.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bangatrans.txt) |
 | Baseballovers | 1 | [baseballovers.txt](lists/dating/baseballovers.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/baseballovers.txt) |
+| Bbdiva | 1 | [bbdiva.txt](lists/dating/bbdiva.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbdiva.txt) |
 | Bbpeoplemeet | 2 | [bbpeoplemeet.txt](lists/dating/bbpeoplemeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbpeoplemeet.txt) |
+| Bbw | 1 | [bbw.txt](lists/dating/bbw.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbw.txt) |
+| Bbwbbm | 1 | [bbwbbm.txt](lists/dating/bbwbbm.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbwbbm.txt) |
 | Bbwcupid | 1 | [bbwcupid.txt](lists/dating/bbwcupid.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbwcupid.txt) |
+| Bbwdate | 1 | [bbwdate.txt](lists/dating/bbwdate.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bbwdate.txt) |
 | Be2 | 10 | [be2.txt](lists/dating/be2.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/be2.txt) |
 | Beboo | 1 | [beboo.txt](lists/dating/beboo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/beboo.txt) |
 | Becoquin | 1 | [becoquin.txt](lists/dating/becoquin.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/becoquin.txt) |
 | Behappy2Day | 1 | [behappy2day.txt](lists/dating/behappy2day.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/behappy2day.txt) |
+| Belleronde | 1 | [belleronde.txt](lists/dating/belleronde.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/belleronde.txt) |
 | Benaughty | 1 | [benaughty.txt](lists/dating/benaughty.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/benaughty.txt) |
 | Beshert | 1 | [beshert.txt](lists/dating/beshert.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/beshert.txt) |
 | Bestprice | 1 | [bestprice.txt](lists/dating/bestprice.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/bestprice.txt) |
@@ -282,6 +288,7 @@ For granular control, each source is available separately if you want source-lev
 | C Dating | 1 | [c_dating.txt](lists/dating/c_dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/c_dating.txt) |
 | Californiaflirt | 1 | [californiaflirt.txt](lists/dating/californiaflirt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/californiaflirt.txt) |
 | Campus | 1 | [campus.txt](lists/dating/campus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/campus.txt) |
+| Caribsingles | 1 | [caribsingles.txt](lists/dating/caribsingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/caribsingles.txt) |
 | Casual Date | 1 | [casual_date.txt](lists/dating/casual_date.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/casual_date.txt) |
 | Casual Fling | 1 | [casual_fling.txt](lists/dating/casual_fling.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/casual_fling.txt) |
 | Casualdating | 1 | [casualdating.txt](lists/dating/casualdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/casualdating.txt) |
@@ -293,7 +300,9 @@ For granular control, each source is available separately if you want source-lev
 | Casualxhookups | 1 | [casualxhookups.txt](lists/dating/casualxhookups.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/casualxhookups.txt) |
 | Catholicmates | 1 | [catholicmates.txt](lists/dating/catholicmates.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/catholicmates.txt) |
 | Catholicpeoplemeet | 1 | [catholicpeoplemeet.txt](lists/dating/catholicpeoplemeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/catholicpeoplemeet.txt) |
+| Cazavo | 1 | [cazavo.txt](lists/dating/cazavo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/cazavo.txt) |
 | Celibapatch | 1 | [celibapatch.txt](lists/dating/celibapatch.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/celibapatch.txt) |
+| Celibataires | 1 | [celibataires.txt](lists/dating/celibataires.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/celibataires.txt) |
 | Celibatairesduweb | 1 | [celibatairesduweb.txt](lists/dating/celibatairesduweb.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/celibatairesduweb.txt) |
 | Celibest | 1 | [celibest.txt](lists/dating/celibest.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/celibest.txt) |
 | Celibouest | 1 | [celibouest.txt](lists/dating/celibouest.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/celibouest.txt) |
@@ -321,6 +330,7 @@ For granular control, each source is available separately if you want source-lev
 | Clubs De Rencontres | 1 | [clubs_de_rencontres.txt](lists/dating/clubs_de_rencontres.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/clubs_de_rencontres.txt) |
 | Clubsadomasoquismo | 1 | [clubsadomasoquismo.txt](lists/dating/clubsadomasoquismo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/clubsadomasoquismo.txt) |
 | Coffee Meets Bagel | 1 | [coffee_meets_bagel.txt](lists/dating/coffee_meets_bagel.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/coffee_meets_bagel.txt) |
+| Communityincontri | 1 | [communityincontri.txt](lists/dating/communityincontri.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/communityincontri.txt) |
 | Comunidadbondage | 1 | [comunidadbondage.txt](lists/dating/comunidadbondage.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/comunidadbondage.txt) |
 | Conexionbisexual | 1 | [conexionbisexual.txt](lists/dating/conexionbisexual.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/conexionbisexual.txt) |
 | Conexiongay | 1 | [conexiongay.txt](lists/dating/conexiongay.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/conexiongay.txt) |
@@ -344,6 +354,7 @@ For granular control, each source is available separately if you want source-lev
 | Cupido | 1 | [cupido.txt](lists/dating/cupido.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/cupido.txt) |
 | Czech Bride | 1 | [czech_bride.txt](lists/dating/czech_bride.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/czech_bride.txt) |
 | D8U | 1 | [d8u.txt](lists/dating/d8u.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/d8u.txt) |
+| D8Uk | 1 | [d8uk.txt](lists/dating/d8uk.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/d8uk.txt) |
 | Date In Aachen | 1 | [date_in_aachen.txt](lists/dating/date_in_aachen.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/date_in_aachen.txt) |
 | Date In Augsburg | 1 | [date_in_augsburg.txt](lists/dating/date_in_augsburg.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/date_in_augsburg.txt) |
 | Date In Berlin | 1 | [date_in_berlin.txt](lists/dating/date_in_berlin.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/date_in_berlin.txt) |
@@ -427,12 +438,15 @@ For granular control, each source is available separately if you want source-lev
 | Datinggold | 1 | [datinggold.txt](lists/dating/datinggold.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datinggold.txt) |
 | Datingguide | 1 | [datingguide.txt](lists/dating/datingguide.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingguide.txt) |
 | Datinghaven | 1 | [datinghaven.txt](lists/dating/datinghaven.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datinghaven.txt) |
+| Datinginqatar | 1 | [datinginqatar.txt](lists/dating/datinginqatar.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datinginqatar.txt) |
 | Datinginterracialsingles | 1 | [datinginterracialsingles.txt](lists/dating/datinginterracialsingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datinginterracialsingles.txt) |
+| Datinglargewomen | 1 | [datinglargewomen.txt](lists/dating/datinglargewomen.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datinglargewomen.txt) |
 | Datingline | 1 | [datingline.txt](lists/dating/datingline.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingline.txt) |
 | Datingme | 1 | [datingme.txt](lists/dating/datingme.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingme.txt) |
 | Datingoman | 1 | [datingoman.txt](lists/dating/datingoman.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingoman.txt) |
 | Datingonline | 1 | [datingonline.txt](lists/dating/datingonline.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingonline.txt) |
 | Datingplanet | 1 | [datingplanet.txt](lists/dating/datingplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingplanet.txt) |
+| Datingplanetnetwork | 1 | [datingplanetnetwork.txt](lists/dating/datingplanetnetwork.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingplanetnetwork.txt) |
 | Datingpro | 1 | [datingpro.txt](lists/dating/datingpro.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingpro.txt) |
 | Datingrichgirls | 1 | [datingrichgirls.txt](lists/dating/datingrichgirls.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingrichgirls.txt) |
 | Datingrussianangels | 1 | [datingrussianangels.txt](lists/dating/datingrussianangels.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/datingrussianangels.txt) |
@@ -471,6 +485,7 @@ For granular control, each source is available separately if you want source-lev
 | Divorceddatelink | 1 | [divorceddatelink.txt](lists/dating/divorceddatelink.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/divorceddatelink.txt) |
 | Divorcedpeoplemeet | 1 | [divorcedpeoplemeet.txt](lists/dating/divorcedpeoplemeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/divorcedpeoplemeet.txt) |
 | Divorcedsingles | 1 | [divorcedsingles.txt](lists/dating/divorcedsingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/divorcedsingles.txt) |
+| Dnaromance | 1 | [dnaromance.txt](lists/dating/dnaromance.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/dnaromance.txt) |
 | Dogdatingplanet | 1 | [dogdatingplanet.txt](lists/dating/dogdatingplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/dogdatingplanet.txt) |
 | Dogging | 1 | [dogging.txt](lists/dating/dogging.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/dogging.txt) |
 | Domerencontre | 1 | [domerencontre.txt](lists/dating/domerencontre.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/domerencontre.txt) |
@@ -491,6 +506,7 @@ For granular control, each source is available separately if you want source-lev
 | Elitesingles | 1 | [elitesingles.txt](lists/dating/elitesingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/elitesingles.txt) |
 | Elovedates | 1 | [elovedates.txt](lists/dating/elovedates.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/elovedates.txt) |
 | Encount | 1 | [encount.txt](lists/dating/encount.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/encount.txt) |
+| Encounters | 1 | [encounters.txt](lists/dating/encounters.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/encounters.txt) |
 | Encuentroadulto | 2 | [encuentroadulto.txt](lists/dating/encuentroadulto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/encuentroadulto.txt) |
 | Encuentrosparagays | 1 | [encuentrosparagays.txt](lists/dating/encuentrosparagays.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/encuentrosparagays.txt) |
 | Engagedencounter | 1 | [engagedencounter.txt](lists/dating/engagedencounter.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/engagedencounter.txt) |
@@ -509,6 +525,7 @@ For granular control, each source is available separately if you want source-lev
 | Farmersonly | 1 | [farmersonly.txt](lists/dating/farmersonly.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/farmersonly.txt) |
 | Fastmatch | 1 | [fastmatch.txt](lists/dating/fastmatch.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/fastmatch.txt) |
 | Fdating | 1 | [fdating.txt](lists/dating/fdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/fdating.txt) |
+| Femmemure | 1 | [femmemure.txt](lists/dating/femmemure.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/femmemure.txt) |
 | Fetishcontacts | 1 | [fetishcontacts.txt](lists/dating/fetishcontacts.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/fetishcontacts.txt) |
 | Filipinadatingsites | 1 | [filipinadatingsites.txt](lists/dating/filipinadatingsites.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/filipinadatingsites.txt) |
 | Filipinawife | 1 | [filipinawife.txt](lists/dating/filipinawife.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/filipinawife.txt) |
@@ -533,6 +550,7 @@ For granular control, each source is available separately if you want source-lev
 | Flirtejetzt | 1 | [flirtejetzt.txt](lists/dating/flirtejetzt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtejetzt.txt) |
 | Flirthits | 1 | [flirthits.txt](lists/dating/flirthits.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirthits.txt) |
 | Flirtic | 1 | [flirtic.txt](lists/dating/flirtic.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtic.txt) |
+| Flirtingbuddies | 1 | [flirtingbuddies.txt](lists/dating/flirtingbuddies.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtingbuddies.txt) |
 | Flirtmoi | 1 | [flirtmoi.txt](lists/dating/flirtmoi.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtmoi.txt) |
 | Flirtpiraten | 1 | [flirtpiraten.txt](lists/dating/flirtpiraten.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtpiraten.txt) |
 | Flirtschiff | 1 | [flirtschiff.txt](lists/dating/flirtschiff.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/flirtschiff.txt) |
@@ -583,12 +601,15 @@ For granular control, each source is available separately if you want source-lev
 | Grannydatingclub | 1 | [grannydatingclub.txt](lists/dating/grannydatingclub.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/grannydatingclub.txt) |
 | Grannysexfriend | 1 | [grannysexfriend.txt](lists/dating/grannysexfriend.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/grannysexfriend.txt) |
 | Gratissexkontakt | 1 | [gratissexkontakt.txt](lists/dating/gratissexkontakt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/gratissexkontakt.txt) |
+| Grindr | 2 | [grindr.txt](lists/dating/grindr.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/grindr.txt) |
 | Groony | 1 | [groony.txt](lists/dating/groony.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/groony.txt) |
+| Gstatvb | 1 | [gstatvb.txt](lists/dating/gstatvb.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/gstatvb.txt) |
 | Guapasmaduras | 1 | [guapasmaduras.txt](lists/dating/guapasmaduras.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/guapasmaduras.txt) |
 | Guayu | 1 | [guayu.txt](lists/dating/guayu.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/guayu.txt) |
 | Guidedenuit | 1 | [guidedenuit.txt](lists/dating/guidedenuit.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/guidedenuit.txt) |
 | HER | 1 | [her.txt](lists/dating/her.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/her.txt) |
 | Hallokoko | 1 | [hallokoko.txt](lists/dating/hallokoko.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/hallokoko.txt) |
+| Handilove | 1 | [handilove.txt](lists/dating/handilove.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/handilove.txt) |
 | Happysingles | 1 | [happysingles.txt](lists/dating/happysingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/happysingles.txt) |
 | Harmonylove | 1 | [harmonylove.txt](lists/dating/harmonylove.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/harmonylove.txt) |
 | Hasimausi | 1 | [hasimausi.txt](lists/dating/hasimausi.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/hasimausi.txt) |
@@ -621,6 +642,7 @@ For granular control, each source is available separately if you want source-lev
 | Incontri | 1 | [incontri.txt](lists/dating/incontri.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontri.txt) |
 | Incontri Adulti | 1 | [incontri_adulti.txt](lists/dating/incontri_adulti.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontri_adulti.txt) |
 | Incontricasual | 2 | [incontricasual.txt](lists/dating/incontricasual.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontricasual.txt) |
+| Incontricatanzaro | 1 | [incontricatanzaro.txt](lists/dating/incontricatanzaro.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontricatanzaro.txt) |
 | Incontrilatex | 1 | [incontrilatex.txt](lists/dating/incontrilatex.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontrilatex.txt) |
 | Incontriromantici | 1 | [incontriromantici.txt](lists/dating/incontriromantici.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontriromantici.txt) |
 | Incontrisugardaddy | 1 | [incontrisugardaddy.txt](lists/dating/incontrisugardaddy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/incontrisugardaddy.txt) |
@@ -678,6 +700,7 @@ For granular control, each source is available separately if you want source-lev
 | Kuumatpaikat | 1 | [kuumatpaikat.txt](lists/dating/kuumatpaikat.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/kuumatpaikat.txt) |
 | Laisvas | 1 | [laisvas.txt](lists/dating/laisvas.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/laisvas.txt) |
 | Latamdate | 1 | [latamdate.txt](lists/dating/latamdate.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/latamdate.txt) |
+| Latesummerlove | 1 | [latesummerlove.txt](lists/dating/latesummerlove.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/latesummerlove.txt) |
 | Latinamericancupid | 1 | [latinamericancupid.txt](lists/dating/latinamericancupid.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/latinamericancupid.txt) |
 | Latinlove | 1 | [latinlove.txt](lists/dating/latinlove.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/latinlove.txt) |
 | Latinopeoplemeet | 1 | [latinopeoplemeet.txt](lists/dating/latinopeoplemeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/latinopeoplemeet.txt) |
@@ -689,6 +712,7 @@ For granular control, each source is available separately if you want source-lev
 | Ldsplanet | 1 | [ldsplanet.txt](lists/dating/ldsplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/ldsplanet.txt) |
 | Leboncoup | 1 | [leboncoup.txt](lists/dating/leboncoup.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/leboncoup.txt) |
 | Lekdate | 1 | [lekdate.txt](lists/dating/lekdate.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lekdate.txt) |
+| Lekgay | 1 | [lekgay.txt](lists/dating/lekgay.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lekgay.txt) |
 | Lesbian | 1 | [lesbian.txt](lists/dating/lesbian.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lesbian.txt) |
 | Lesbianasenmexico | 1 | [lesbianasenmexico.txt](lists/dating/lesbianasenmexico.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lesbianasenmexico.txt) |
 | Lesbianchatonline | 1 | [lesbianchatonline.txt](lists/dating/lesbianchatonline.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lesbianchatonline.txt) |
@@ -724,11 +748,13 @@ For granular control, each source is available separately if you want source-lev
 | Lovearts | 1 | [lovearts.txt](lists/dating/lovearts.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovearts.txt) |
 | Loveawake | 1 | [loveawake.txt](lists/dating/loveawake.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/loveawake.txt) |
 | Lovedating | 1 | [lovedating.txt](lists/dating/lovedating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovedating.txt) |
+| Lovedesir | 1 | [lovedesir.txt](lists/dating/lovedesir.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovedesir.txt) |
 | Loveismatch | 1 | [loveismatch.txt](lists/dating/loveismatch.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/loveismatch.txt) |
 | Lovelife | 1 | [lovelife.txt](lists/dating/lovelife.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovelife.txt) |
 | Lovely | 1 | [lovely.txt](lists/dating/lovely.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovely.txt) |
 | Lovemage | 1 | [lovemage.txt](lists/dating/lovemage.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovemage.txt) |
 | Loveme | 1 | [loveme.txt](lists/dating/loveme.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/loveme.txt) |
+| Loveplace | 1 | [loveplace.txt](lists/dating/loveplace.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/loveplace.txt) |
 | Loveplanet | 1 | [loveplanet.txt](lists/dating/loveplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/loveplanet.txt) |
 | Lover2Cu | 1 | [lover2cu.txt](lists/dating/lover2cu.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lover2cu.txt) |
 | Lovespiritually | 1 | [lovespiritually.txt](lists/dating/lovespiritually.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/lovespiritually.txt) |
@@ -753,7 +779,9 @@ For granular control, each source is available separately if you want source-lev
 | Masochiste | 1 | [masochiste.txt](lists/dating/masochiste.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/masochiste.txt) |
 | Match | 1 | [match.txt](lists/dating/match.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/match.txt) |
 | Match Usa | 1 | [match_usa.txt](lists/dating/match_usa.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/match_usa.txt) |
+| Match Wizard | 1 | [match_wizard.txt](lists/dating/match_wizard.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/match_wizard.txt) |
 | Match21 | 1 | [match21.txt](lists/dating/match21.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/match21.txt) |
+| Matchasiansingles | 1 | [matchasiansingles.txt](lists/dating/matchasiansingles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/matchasiansingles.txt) |
 | Matchmaker | 1 | [matchmaker.txt](lists/dating/matchmaker.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/matchmaker.txt) |
 | Matchmet | 1 | [matchmet.txt](lists/dating/matchmet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/matchmet.txt) |
 | Matrymonia | 1 | [matrymonia.txt](lists/dating/matrymonia.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/matrymonia.txt) |
@@ -790,6 +818,7 @@ For granular control, each source is available separately if you want source-lev
 | Menwedding | 1 | [menwedding.txt](lists/dating/menwedding.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/menwedding.txt) |
 | Mexflirt | 1 | [mexflirt.txt](lists/dating/mexflirt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/mexflirt.txt) |
 | Mexicancupid | 1 | [mexicancupid.txt](lists/dating/mexicancupid.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/mexicancupid.txt) |
+| Miayo | 1 | [miayo.txt](lists/dating/miayo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/miayo.txt) |
 | Midsummerseve | 1 | [midsummerseve.txt](lists/dating/midsummerseve.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/midsummerseve.txt) |
 | Mignons | 1 | [mignons.txt](lists/dating/mignons.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/mignons.txt) |
 | Milalol | 1 | [milalol.txt](lists/dating/milalol.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/milalol.txt) |
@@ -855,6 +884,7 @@ For granular control, each source is available separately if you want source-lev
 | Over50Datingnorge | 1 | [over50datingnorge.txt](lists/dating/over50datingnorge.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/over50datingnorge.txt) |
 | Over50Sdating | 1 | [over50sdating.txt](lists/dating/over50sdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/over50sdating.txt) |
 | Over50Singlesmeet | 1 | [over50singlesmeet.txt](lists/dating/over50singlesmeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/over50singlesmeet.txt) |
+| Over60Dating | 1 | [over60dating.txt](lists/dating/over60dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/over60dating.txt) |
 | Parisvideochat | 1 | [parisvideochat.txt](lists/dating/parisvideochat.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/parisvideochat.txt) |
 | Parom | 1 | [parom.txt](lists/dating/parom.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/parom.txt) |
 | Parship | 3 | [parship.txt](lists/dating/parship.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/parship.txt) |
@@ -944,6 +974,7 @@ For granular control, each source is available separately if you want source-lev
 | Roastdating | 1 | [roastdating.txt](lists/dating/roastdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/roastdating.txt) |
 | Rollosfaciles | 1 | [rollosfaciles.txt](lists/dating/rollosfaciles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/rollosfaciles.txt) |
 | Romancedubai | 1 | [romancedubai.txt](lists/dating/romancedubai.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/romancedubai.txt) |
+| Romancelinker | 1 | [romancelinker.txt](lists/dating/romancelinker.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/romancelinker.txt) |
 | Romancium | 1 | [romancium.txt](lists/dating/romancium.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/romancium.txt) |
 | Romanticrelay | 1 | [romanticrelay.txt](lists/dating/romanticrelay.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/romanticrelay.txt) |
 | Ropebondagemeetups | 1 | [ropebondagemeetups.txt](lists/dating/ropebondagemeetups.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/ropebondagemeetups.txt) |
@@ -992,6 +1023,7 @@ For granular control, each source is available separately if you want source-lev
 | Seniorfetish | 1 | [seniorfetish.txt](lists/dating/seniorfetish.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorfetish.txt) |
 | Seniorfriendfinder | 1 | [seniorfriendfinder.txt](lists/dating/seniorfriendfinder.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorfriendfinder.txt) |
 | Seniorlesbians | 1 | [seniorlesbians.txt](lists/dating/seniorlesbians.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorlesbians.txt) |
+| Seniormatch | 1 | [seniormatch.txt](lists/dating/seniormatch.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniormatch.txt) |
 | Seniorpeoplemeet | 1 | [seniorpeoplemeet.txt](lists/dating/seniorpeoplemeet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorpeoplemeet.txt) |
 | Seniorpolyamory | 1 | [seniorpolyamory.txt](lists/dating/seniorpolyamory.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorpolyamory.txt) |
 | Seniorsbi | 1 | [seniorsbi.txt](lists/dating/seniorsbi.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/seniorsbi.txt) |
@@ -1026,11 +1058,12 @@ For granular control, each source is available separately if you want source-lev
 | Singler | 1 | [singler.txt](lists/dating/singler.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singler.txt) |
 | Singles | 1 | [singles.txt](lists/dating/singles.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singles.txt) |
 | Singles2Meet | 1 | [singles2meet.txt](lists/dating/singles2meet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singles2meet.txt) |
-| Singlescrowd | 1 | [singlescrowd.txt](lists/dating/singlescrowd.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlescrowd.txt) |
+| Singlescrowd | 2 | [singlescrowd.txt](lists/dating/singlescrowd.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlescrowd.txt) |
 | Singlesdatingagency | 1 | [singlesdatingagency.txt](lists/dating/singlesdatingagency.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlesdatingagency.txt) |
 | Singlesintoronto | 1 | [singlesintoronto.txt](lists/dating/singlesintoronto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlesintoronto.txt) |
 | Singlesmontreal | 1 | [singlesmontreal.txt](lists/dating/singlesmontreal.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlesmontreal.txt) |
 | Singlesolution | 1 | [singlesolution.txt](lists/dating/singlesolution.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlesolution.txt) |
+| Singlesover60 | 1 | [singlesover60.txt](lists/dating/singlesover60.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singlesover60.txt) |
 | Singletreffpunkt | 1 | [singletreffpunkt.txt](lists/dating/singletreffpunkt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/singletreffpunkt.txt) |
 | Sinsflirt | 1 | [sinsflirt.txt](lists/dating/sinsflirt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/sinsflirt.txt) |
 | Sitederencontregratuit | 1 | [sitederencontregratuit.txt](lists/dating/sitederencontregratuit.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/sitederencontregratuit.txt) |
@@ -1056,6 +1089,7 @@ For granular control, each source is available separately if you want source-lev
 | Speeddating | 1 | [speeddating.txt](lists/dating/speeddating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/speeddating.txt) |
 | Speeddatinglondon | 1 | [speeddatinglondon.txt](lists/dating/speeddatinglondon.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/speeddatinglondon.txt) |
 | Speeddatingmontreal | 1 | [speeddatingmontreal.txt](lists/dating/speeddatingmontreal.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/speeddatingmontreal.txt) |
+| Spojeniprotebe | 1 | [spojeniprotebe.txt](lists/dating/spojeniprotebe.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/spojeniprotebe.txt) |
 | Sportdatingplanet | 1 | [sportdatingplanet.txt](lists/dating/sportdatingplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/sportdatingplanet.txt) |
 | Sportydates | 1 | [sportydates.txt](lists/dating/sportydates.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/sportydates.txt) |
 | Ssbbwdating | 1 | [ssbbwdating.txt](lists/dating/ssbbwdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/ssbbwdating.txt) |
@@ -1072,6 +1106,7 @@ For granular control, each source is available separately if you want source-lev
 | Tagged | 1 | [tagged.txt](lists/dating/tagged.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tagged.txt) |
 | Tagstat | 1 | [tagstat.txt](lists/dating/tagstat.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tagstat.txt) |
 | Talksaferdating | 1 | [talksaferdating.txt](lists/dating/talksaferdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/talksaferdating.txt) |
+| Talldater | 1 | [talldater.txt](lists/dating/talldater.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/talldater.txt) |
 | Tallfriends | 1 | [tallfriends.txt](lists/dating/tallfriends.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tallfriends.txt) |
 | TanTan | 2 | [tantan.txt](lists/dating/tantan.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tantan.txt) |
 | Tangodatingonline | 1 | [tangodatingonline.txt](lists/dating/tangodatingonline.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tangodatingonline.txt) |
@@ -1079,6 +1114,7 @@ For granular control, each source is available separately if you want source-lev
 | Tchatche | 1 | [tchatche.txt](lists/dating/tchatche.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tchatche.txt) |
 | Teamo | 1 | [teamo.txt](lists/dating/teamo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/teamo.txt) |
 | Teendatingplanet | 1 | [teendatingplanet.txt](lists/dating/teendatingplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/teendatingplanet.txt) |
+| Teendatingsite | 1 | [teendatingsite.txt](lists/dating/teendatingsite.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/teendatingsite.txt) |
 | Tennesseeflirt | 1 | [tennesseeflirt.txt](lists/dating/tennesseeflirt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tennesseeflirt.txt) |
 | Tennisdating | 1 | [tennisdating.txt](lists/dating/tennisdating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tennisdating.txt) |
 | Thai Dating | 1 | [thai_dating.txt](lists/dating/thai_dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/thai_dating.txt) |
@@ -1099,7 +1135,7 @@ For granular control, each source is available separately if you want source-lev
 | Threesomegroup | 2 | [threesomegroup.txt](lists/dating/threesomegroup.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/threesomegroup.txt) |
 | Thunderboltcity | 1 | [thunderboltcity.txt](lists/dating/thunderboltcity.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/thunderboltcity.txt) |
 | Tiilt | 1 | [tiilt.txt](lists/dating/tiilt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tiilt.txt) |
-| Tinder | 3 | [tinder.txt](lists/dating/tinder.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tinder.txt) |
+| Tinder | 4 | [tinder.txt](lists/dating/tinder.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tinder.txt) |
 | Tinderoplus | 1 | [tinderoplus.txt](lists/dating/tinderoplus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tinderoplus.txt) |
 | Todomaduras | 1 | [todomaduras.txt](lists/dating/todomaduras.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/todomaduras.txt) |
 | Togethernetworks | 1 | [togethernetworks.txt](lists/dating/togethernetworks.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/togethernetworks.txt) |
@@ -1112,6 +1148,7 @@ For granular control, each source is available separately if you want source-lev
 | Toplop | 1 | [toplop.txt](lists/dating/toplop.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/toplop.txt) |
 | Toprencontres | 1 | [toprencontres.txt](lists/dating/toprencontres.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/toprencontres.txt) |
 | Transen Dating | 1 | [transen_dating.txt](lists/dating/transen_dating.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/transen_dating.txt) |
+| Travesti | 1 | [travesti.txt](lists/dating/travesti.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/travesti.txt) |
 | Tresor Sexe | 1 | [tresor_sexe.txt](lists/dating/tresor_sexe.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/tresor_sexe.txt) |
 | Triocontactos | 1 | [triocontactos.txt](lists/dating/triocontactos.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/triocontactos.txt) |
 | Trioespana | 1 | [trioespana.txt](lists/dating/trioespana.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/trioespana.txt) |
@@ -1136,6 +1173,7 @@ For granular control, each source is available separately if you want source-lev
 | Upward App | 1 | [upward_app.txt](lists/dating/upward_app.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/upward_app.txt) |
 | Urbansocial | 1 | [urbansocial.txt](lists/dating/urbansocial.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/urbansocial.txt) |
 | Usadatingplanet | 1 | [usadatingplanet.txt](lists/dating/usadatingplanet.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/usadatingplanet.txt) |
+| Usgay | 1 | [usgay.txt](lists/dating/usgay.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/usgay.txt) |
 | Valentimatchmaking | 1 | [valentimatchmaking.txt](lists/dating/valentimatchmaking.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/valentimatchmaking.txt) |
 | Vanessa69 | 1 | [vanessa69.txt](lists/dating/vanessa69.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/vanessa69.txt) |
 | Veemance | 1 | [veemance.txt](lists/dating/veemance.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/veemance.txt) |
@@ -1155,7 +1193,9 @@ For granular control, each source is available separately if you want source-lev
 | Violetdates | 1 | [violetdates.txt](lists/dating/violetdates.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/violetdates.txt) |
 | Virginiaonlinepersonals | 1 | [virginiaonlinepersonals.txt](lists/dating/virginiaonlinepersonals.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/virginiaonlinepersonals.txt) |
 | Virtumatch | 1 | [virtumatch.txt](lists/dating/virtumatch.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/virtumatch.txt) |
+| Voksenkontakt | 1 | [voksenkontakt.txt](lists/dating/voksenkontakt.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/voksenkontakt.txt) |
 | Volosdate | 1 | [volosdate.txt](lists/dating/volosdate.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/volosdate.txt) |
+| Vryers | 1 | [vryers.txt](lists/dating/vryers.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/vryers.txt) |
 | W Ru | 1 | [w_ru.txt](lists/dating/w_ru.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/w_ru.txt) |
 | Wantubad | 1 | [wantubad.txt](lists/dating/wantubad.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/wantubad.txt) |
 | Waplog | 1 | [waplog.txt](lists/dating/waplog.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/waplog.txt) |
@@ -1198,6 +1238,7 @@ For granular control, each source is available separately if you want source-lev
 | Znamost | 1 | [znamost.txt](lists/dating/znamost.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/znamost.txt) |
 | Zonabdsm | 1 | [zonabdsm.txt](lists/dating/zonabdsm.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/zonabdsm.txt) |
 | Zonabisexual | 1 | [zonabisexual.txt](lists/dating/zonabisexual.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/zonabisexual.txt) |
+| Zone | 1 | [zone.txt](lists/dating/zone.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/zone.txt) |
 | Zoosk | 1 | [zoosk.txt](lists/dating/zoosk.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/zoosk.txt) |
 | eHarmony | 3 | [eharmony.txt](lists/dating/eharmony.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/eharmony.txt) |
 | happn | 1 | [happn.txt](lists/dating/happn.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dating/happn.txt) |
@@ -1213,19 +1254,19 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| HaGeZi DoH VPN Proxy Bypass | 16,992 | [hagezi_doh_vpn_proxy_bypass.txt](lists/dns_bypass/hagezi_doh_vpn_proxy_bypass.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dns_bypass/hagezi_doh_vpn_proxy_bypass.txt) |
+| HaGeZi DoH VPN Proxy Bypass | 16,271 | [hagezi_doh_vpn_proxy_bypass.txt](lists/dns_bypass/hagezi_doh_vpn_proxy_bypass.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dns_bypass/hagezi_doh_vpn_proxy_bypass.txt) |
 
 ### Drugs
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Drugs | 18,320 | [blp_drugs.txt](lists/drugs/blp_drugs.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/drugs/blp_drugs.txt) |
+| Block List Project Drugs | 18,317 | [blp_drugs.txt](lists/drugs/blp_drugs.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/drugs/blp_drugs.txt) |
 
 ### Dynamic DNS
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| HaGeZi Dynamic DNS | 1,031 | [hagezi_dyndns.txt](lists/dynamic_dns/hagezi_dyndns.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dynamic_dns/hagezi_dyndns.txt) |
+| HaGeZi Dynamic DNS | 1,065 | [hagezi_dyndns.txt](lists/dynamic_dns/hagezi_dyndns.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/dynamic_dns/hagezi_dyndns.txt) |
 
 ### Gambling & Betting
 
@@ -1235,6 +1276,7 @@ For granular control, each source is available separately if you want source-lev
 | Betfair | 6 | [betfair.txt](lists/gambling/betfair.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gambling/betfair.txt) |
 | Betway | 16 | [betway.txt](lists/gambling/betway.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gambling/betway.txt) |
 | Blaze | 4 | [blaze.txt](lists/gambling/blaze.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gambling/blaze.txt) |
+| FDJ United | 28 | [fdj_united.txt](lists/gambling/fdj_united.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gambling/fdj_united.txt) |
 
 ### Gaming Platforms
 
@@ -1253,7 +1295,7 @@ For granular control, each source is available separately if you want source-lev
 | GOG | 4 | [gog.txt](lists/gaming/gog.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/gog.txt) |
 | IO Interactive | 3 | [io_interactive.txt](lists/gaming/io_interactive.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/io_interactive.txt) |
 | League of Legends | 5 | [leagueoflegends.txt](lists/gaming/leagueoflegends.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/leagueoflegends.txt) |
-| Minecraft | 3 | [minecraft.txt](lists/gaming/minecraft.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/minecraft.txt) |
+| Minecraft | 6 | [minecraft.txt](lists/gaming/minecraft.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/minecraft.txt) |
 | Neverwinter | 1 | [neverwinter.txt](lists/gaming/neverwinter.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/neverwinter.txt) |
 | Nexus Mods | 1 | [nexusmods.txt](lists/gaming/nexusmods.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/nexusmods.txt) |
 | Nintendo | 17 | [nintendo.txt](lists/gaming/nintendo.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/nintendo.txt) |
@@ -1264,6 +1306,7 @@ For granular control, each source is available separately if you want source-lev
 | Riot Games | 7 | [riot_games.txt](lists/gaming/riot_games.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/riot_games.txt) |
 | Roblox | 13 | [roblox.txt](lists/gaming/roblox.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/roblox.txt) |
 | Rockstar Games | 2 | [rockstar_games.txt](lists/gaming/rockstar_games.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/rockstar_games.txt) |
+| Shell Shockers | 76 | [shell_shockers.txt](lists/gaming/shell_shockers.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/shell_shockers.txt) |
 | Square Enix | 1 | [square_enix.txt](lists/gaming/square_enix.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/square_enix.txt) |
 | Steam | 33 | [steam.txt](lists/gaming/steam.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/steam.txt) |
 | The Elder Scrolls Online | 1 | [the_elder_scrolls_online.txt](lists/gaming/the_elder_scrolls_online.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/gaming/the_elder_scrolls_online.txt) |
@@ -1288,8 +1331,8 @@ For granular control, each source is available separately if you want source-lev
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
 | Block List Project Ransomware | 1,669 | [blp_ransomware.txt](lists/malware/blp_ransomware.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/malware/blp_ransomware.txt) |
-| ThreatFox | 202 | [threatfox.txt](lists/malware/threatfox.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/malware/threatfox.txt) |
-| URLhaus | 1,748 | [urlhaus.txt](lists/malware/urlhaus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/malware/urlhaus.txt) |
+| ThreatFox | 727 | [threatfox.txt](lists/malware/threatfox.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/malware/threatfox.txt) |
+| URLhaus | 389 | [urlhaus.txt](lists/malware/urlhaus.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/malware/urlhaus.txt) |
 
 ### Messaging Apps
 
@@ -1312,15 +1355,15 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| OpenPhish | 253 | [openphish.txt](lists/phishing/openphish.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/openphish.txt) |
-| PhishTank | 22,817 | [phishtank.txt](lists/phishing/phishtank.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/phishtank.txt) |
-| Phishing Army | 283,744 | [phishing_army.txt](lists/phishing/phishing_army.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/phishing_army.txt) |
+| OpenPhish | 193 | [openphish.txt](lists/phishing/openphish.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/openphish.txt) |
+| PhishTank | 30,019 | [phishtank.txt](lists/phishing/phishtank.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/phishtank.txt) |
+| Phishing Army | 283,934 | [phishing_army.txt](lists/phishing/phishing_army.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/phishing/phishing_army.txt) |
 
 ### Piracy
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Piracy | 1,065 | [blp_piracy.txt](lists/piracy/blp_piracy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/piracy/blp_piracy.txt) |
+| Block List Project Piracy | 1,066 | [blp_piracy.txt](lists/piracy/blp_piracy.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/piracy/blp_piracy.txt) |
 
 ### Privacy Tools
 
@@ -1333,15 +1376,15 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Redirect | 99,201 | [blp_redirect.txt](lists/redirect/blp_redirect.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/redirect/blp_redirect.txt) |
+| Block List Project Redirect | 99,202 | [blp_redirect.txt](lists/redirect/blp_redirect.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/redirect/blp_redirect.txt) |
 
 ### Scam & Fraud
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Fraud | 114,108 | [blp_fraud.txt](lists/scam/blp_fraud.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/blp_fraud.txt) |
-| Block List Project Scam | 726 | [blp_scam.txt](lists/scam/blp_scam.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/blp_scam.txt) |
-| HaGeZi Fake | 15,685 | [hagezi_fake.txt](lists/scam/hagezi_fake.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/hagezi_fake.txt) |
+| Block List Project Fraud | 157,356 | [blp_fraud.txt](lists/scam/blp_fraud.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/blp_fraud.txt) |
+| Block List Project Scam | 7,932 | [blp_scam.txt](lists/scam/blp_scam.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/blp_scam.txt) |
+| HaGeZi Fake | 16,646 | [hagezi_fake.txt](lists/scam/hagezi_fake.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/scam/hagezi_fake.txt) |
 
 ### Shopping & Marketplaces
 
@@ -1393,6 +1436,7 @@ For granular control, each source is available separately if you want source-lev
 | Tumblr | 1 | [tumblr.txt](lists/social_network/tumblr.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/social_network/tumblr.txt) |
 | VK.com | 20 | [vk.txt](lists/social_network/vk.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/social_network/vk.txt) |
 | X (formerly Twitter) | 23 | [twitter.txt](lists/social_network/twitter.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/social_network/twitter.txt) |
+| ZEPETO | 1 | [zepeto.txt](lists/social_network/zepeto.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/social_network/zepeto.txt) |
 | Zhihu | 2 | [zhihu.txt](lists/social_network/zhihu.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/social_network/zhihu.txt) |
 
 ### Software & Updates
@@ -1452,19 +1496,19 @@ For granular control, each source is available separately if you want source-lev
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Torrent | 2,192 | [blp_torrent.txt](lists/torrent/blp_torrent.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/torrent/blp_torrent.txt) |
+| Block List Project Torrent | 2,190 | [blp_torrent.txt](lists/torrent/blp_torrent.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/torrent/blp_torrent.txt) |
 
 ### Tracking & Analytics
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| Block List Project Tracking | 14,761 | [blp_tracking.txt](lists/tracking/blp_tracking.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/tracking/blp_tracking.txt) |
+| Block List Project Tracking | 115,748 | [blp_tracking.txt](lists/tracking/blp_tracking.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/tracking/blp_tracking.txt) |
 
 ### URL Shorteners
 
 | Source | Root Domains | File | Raw URL |
 |--------|---------|------|---------|
-| HaGeZi URL Shortener | 9,820 | [hagezi_urlshortener.txt](lists/url_shortener/hagezi_urlshortener.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/url_shortener/hagezi_urlshortener.txt) |
+| HaGeZi URL Shortener | 9,878 | [hagezi_urlshortener.txt](lists/url_shortener/hagezi_urlshortener.txt) | [Raw](https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/services/lists/url_shortener/hagezi_urlshortener.txt) |
 
 ### Vaping
 

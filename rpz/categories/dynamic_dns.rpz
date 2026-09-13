@@ -1,13 +1,14 @@
 ; Dynamic Dns Blocklist
-; Generated: 2026-06-07 06:36:22 UTC
+; Generated: 2026-09-13 04:57:22 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1031
+; Original domains (before deduplication): 1065
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026060706 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091304 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
+0rg.us CNAME .
 0x.no CNAME .
 100mountain.com CNAME .
 10dv.com CNAME .
@@ -37,22 +38,18 @@ $TTL 300
 4pu.com CNAME .
 4twenty.us CNAME .
 688.org CNAME .
-77qac.com CNAME .
 77uam.com CNAME .
-77ynd.com CNAME .
-79ama.com CNAME .
-88uan.com CNAME .
 88zkt.com CNAME .
-99tac.com CNAME .
+aa.am CNAME .
 abatek.com CNAME .
 abmetalmecanica.com CNAME .
+abuser.eu CNAME .
 access.ly CNAME .
 acmetoy.com CNAME .
 adagio.tw CNAME .
 afraid.org CNAME .
 agropeople.ru CNAME .
 aintno.info CNAME .
-airdns.org CNAME .
 airlinemeals.net CNAME .
 albertn.ru CNAME .
 allez.la CNAME .
@@ -60,7 +57,6 @@ allisons.org CNAME .
 allowed.org CNAME .
 almostmy.com CNAME .
 americanunfinished.com CNAME .
-amsprich.com CNAME .
 anal-slavery.com CNAME .
 anastasion.com CNAME .
 aneisa.com CNAME .
@@ -83,13 +79,16 @@ asianfreshproduce.com CNAME .
 ask2ask.com CNAME .
 astrabus.ru CNAME .
 asuscomm.com CNAME .
+atholdinginc.com CNAME .
 atlantatruckdrivingschool.us CNAME .
 auraria.org CNAME .
+australia.ai CNAME .
 authorizeddns.net CNAME .
 authorizeddns.org CNAME .
 authorizeddns.us CNAME .
 autoipset.com CNAME .
 avandns.com CNAME .
+awiki.org CNAME .
 ax.lt CNAME .
 b0tnet.com CNAME .
 b33r.us CNAME .
@@ -125,7 +124,6 @@ brajkovic.com CNAME .
 brawlcustommusic.com CNAME .
 briansagar.com CNAME .
 brweb.org CNAME .
-bsn2bsn.com CNAME .
 burlingtondrywall.com CNAME .
 byte4byte.com CNAME .
 canadascastillo.com CNAME .
@@ -140,6 +138,7 @@ changeip.biz CNAME .
 changeip.co CNAME .
 changeip.co.uk CNAME .
 changeip.com CNAME .
+changeip.me CNAME .
 changeip.name CNAME .
 changeip.net CNAME .
 changeip.org CNAME .
@@ -178,11 +177,13 @@ cpsnet.cz CNAME .
 crabdance.com CNAME .
 crackedsidewalks.com CNAME .
 crafting.xyz CNAME .
+crazedns.ru CNAME .
 csproject.org CNAME .
 cuesinc.com CNAME .
 cupddns.net CNAME .
 custom-gaming.net CNAME .
 cw03.ru CNAME .
+cybertv.tv CNAME .
 d-n-s.name CNAME .
 d-n-s.org.uk CNAME .
 d2g.biz CNAME .
@@ -190,7 +191,6 @@ dagz.ru CNAME .
 dark-byte.net CNAME .
 darksair.org CNAME .
 davidsagar.com CNAME .
-ddns-dvr.com CNAME .
 ddns.cam CNAME .
 ddns.com.br CNAME .
 ddns.com.co CNAME .
@@ -201,10 +201,10 @@ ddns.ms CNAME .
 ddns.name CNAME .
 ddns.us CNAME .
 ddns5.com CNAME .
+ddnsapp.com CNAME .
 ddnslive.com CNAME .
 ddnss.ch CNAME .
 ddnss.eu CNAME .
-ddnssec.de CNAME .
 de-a.org CNAME .
 dearabba.org CNAME .
 demosoftonline.com CNAME .
@@ -215,11 +215,14 @@ dhis.org CNAME .
 dhs.org CNAME .
 digikabel.hu CNAME .
 digitalgroupe.com CNAME .
+dip.jp CNAME .
 diskstation.eu CNAME .
 diskstation.org CNAME .
+dive2.net CNAME .
 divx.se CNAME .
 dlinkddns.com CNAME .
 dmtr.ru CNAME .
+dn3.co CNAME .
 dnet.hu CNAME .
 dnmcoffman.com CNAME .
 dns-auth.com CNAME .
@@ -252,7 +255,9 @@ dnsrd.com CNAME .
 dnyp.com CNAME .
 dob.jp CNAME .
 donhoo.com CNAME .
+donkeyhot.net CNAME .
 dougtreadwell.com CNAME .
+doyleandprendergast.com CNAME .
 dp76.com CNAME .
 dpcube.com CNAME .
 dray-dns.de CNAME .
@@ -260,6 +265,7 @@ dropfiles.net CNAME .
 drunkensailor.org CNAME .
 dsmtp.com CNAME .
 dtdns.com CNAME .
+dtdns.net CNAME .
 dtdns.org CNAME .
 dubya.info CNAME .
 dubya.net CNAME .
@@ -302,9 +308,9 @@ dyndns.dk CNAME .
 dyndns.icu CNAME .
 dyndns.it CNAME .
 dyndns.pro CNAME .
+dyndns.za.org CNAME .
 dyndns64.de CNAME .
 dyndnss.net CNAME .
-dyndnssec.de CNAME .
 dyndnsservices.com CNAME .
 dynect.net CNAME .
 dynet.com CNAME .
@@ -314,6 +320,7 @@ dynipv6.de CNAME .
 dynme.ovh CNAME .
 dynnamn.ru CNAME .
 dyns.be CNAME .
+dyns.cx CNAME .
 dyns.net CNAME .
 dynssl.com CNAME .
 dynu.com CNAME .
@@ -357,6 +364,7 @@ etitrans.com CNAME .
 eurotank.ro CNAME .
 eva.hk CNAME .
 everton.com CNAME .
+evils.in CNAME .
 expired-dns.com CNAME .
 ez-dns.com CNAME .
 ez-ip.net CNAME .
@@ -379,12 +387,17 @@ fivepals.com CNAME .
 flashhub.net CNAME .
 flat4free.com CNAME .
 flazzard.com CNAME .
+flick2.me CNAME .
+flick2.net CNAME .
 flnet.org CNAME .
 flowergardendaycare.com CNAME .
+flyme2.me CNAME .
+flyme2.net CNAME .
 foroemprende.com CNAME .
 forss.to CNAME .
 fortiddns.com CNAME .
 fragmentary.info CNAME .
+free-ddns.com CNAME .
 freeddns.com CNAME .
 freeddns.uk CNAME .
 freedns.tech CNAME .
@@ -399,8 +412,10 @@ ftp.sh CNAME .
 ftp1.biz CNAME .
 ftpserver.biz CNAME .
 fxnxs.com CNAME .
+g2url.com CNAME .
 gally.jp CNAME .
 garmanage.com CNAME .
+garypatel.com CNAME .
 gastright.com CNAME .
 geobattery.com CNAME .
 gerastar.ru CNAME .
@@ -412,6 +427,7 @@ gigaportal.pl CNAME .
 glddns.com CNAME .
 global-instr.us CNAME .
 gluebank.com CNAME .
+go2host.co CNAME .
 golaud.com CNAME .
 goldcrestcc.com CNAME .
 got-game.org CNAME .
@@ -458,13 +474,14 @@ hmail.us CNAME .
 hmao.pro CNAME .
 hokum-smack.com CNAME .
 home.kg CNAME .
-home64.de CNAME .
 homelinuxserver.org CNAME .
 homenode.ca CNAME .
 homepc.it CNAME .
 homeplex.org CNAME .
 homingbeacon.net CNAME .
+host2.me CNAME .
 host2go.net CNAME .
+hostdns.me CNAME .
 hosthampster.com CNAME .
 hpc.tw CNAME .
 hs.vc CNAME .
@@ -502,8 +519,7 @@ ip-dynamic.com CNAME .
 ipnodns.ru CNAME .
 ipq.co CNAME .
 iprowave.com CNAME .
-ipv64.de CNAME .
-ipv64.net CNAME .
+ipupdater.com CNAME .
 isageek.net CNAME .
 isamotherfucking.ninja CNAME .
 isasecret.com CNAME .
@@ -529,6 +545,7 @@ jkub.com CNAME .
 joe.dj CNAME .
 jomblo.asia CNAME .
 jonward.com CNAME .
+jump2me.com CNAME .
 jumpingcrab.com CNAME .
 jundy.org CNAME .
 jungleheart.com CNAME .
@@ -560,6 +577,7 @@ legitdns.com CNAME .
 leitud.ee CNAME .
 leivo.org CNAME .
 lessmiths.com CNAME .
+letsgo2.me CNAME .
 level3.net CNAME .
 lflink.com CNAME .
 lflinkup.com CNAME .
@@ -579,11 +597,12 @@ locumm.com CNAME .
 logisoft-cy.com CNAME .
 logular.com CNAME .
 longmusic.com CNAME .
+loophole.site CNAME .
 lospenitentes.com CNAME .
 lostgumball.com CNAME .
 lovethosetrains.com CNAME .
 lozan.com CNAME .
-luckyweaving.com CNAME .
+lundellnet.com CNAME .
 macrofox.org CNAME .
 madhacker.biz CNAME .
 mao.fi CNAME .
@@ -606,6 +625,7 @@ mh-it.com CNAME .
 midjava.com CNAME .
 migibts.net CNAME .
 mikata.ru CNAME .
+mikecartwright.net CNAME .
 mil.nf CNAME .
 mindhackers.org CNAME .
 mine.bz CNAME .
@@ -677,8 +697,11 @@ nat-ddns.com CNAME .
 natrofa.com CNAME .
 ndcg.com CNAME .
 nerdcamp.net CNAME .
+net2me.me CNAME .
 netcabo.pt CNAME .
+netcraze.pro CNAME .
 netdorm.com CNAME .
+netea.me CNAME .
 netlord.de CNAME .
 netmask.ca CNAME .
 networkguru.com CNAME .
@@ -743,6 +766,7 @@ pedie.info CNAME .
 pendulumaudio.com CNAME .
 peregrineair.com CNAME .
 phenixs.org CNAME .
+photo-cult.com CNAME .
 photo-frame.com CNAME .
 php-dev.net CNAME .
 pics.mu CNAME .
@@ -758,11 +782,11 @@ port0.org CNAME .
 port25.biz CNAME .
 portfwd.com CNAME .
 portmap.host CNAME .
+portrelay.com CNAME .
 possessed.us CNAME .
 prettyweak.com CNAME .
 priamaakcia.sk CNAME .
 pride.moe CNAME .
-pride.ngo CNAME .
 privatedns.com CNAME .
 privatedns.org CNAME .
 privateimport.jp CNAME .
@@ -776,6 +800,7 @@ psybnc.org CNAME .
 ptchat.net CNAME .
 publicvm.com CNAME .
 pudim.info CNAME .
+punked.us CNAME .
 qc.to CNAME .
 qhigh.com CNAME .
 qlbv.vn CNAME .
@@ -791,7 +816,6 @@ recruitment7.com CNAME .
 recyclesolutionsllc.com CNAME .
 reijn.org CNAME .
 remotecam.nu CNAME .
-resolve.bar CNAME .
 ro.lt CNAME .
 robinhud.com CNAME .
 robot-armies.com CNAME .
@@ -801,13 +825,13 @@ root.sx CNAME .
 root64.de CNAME .
 roth.ca CNAME .
 route64.de CNAME .
+routemehome.com CNAME .
 rpz.su CNAME .
 rtam.net CNAME .
 rum.si CNAME .
 run.place CNAME .
 rundis.com CNAME .
 ruok.org CNAME .
-russkoeumea.com CNAME .
 rwbcode.com CNAME .
 ryointernational.com CNAME .
 sandmeiers.ch CNAME .
@@ -835,6 +859,7 @@ sexmistrz.pl CNAME .
 sexxxy.biz CNAME .
 shacknet.biz CNAME .
 shacknet.us CNAME .
+shadir.com CNAME .
 sharkltd.com CNAME .
 sheatfish.org CNAME .
 sheepindonesia.org CNAME .
@@ -850,12 +875,16 @@ sino.tw CNAME .
 sitelutions.com CNAME .
 skc.su CNAME .
 skies.tw CNAME .
+skipurl.me CNAME .
+skipurl.org CNAME .
 slasdot.com CNAME .
 sleepless.hk CNAME .
+slide2.net CNAME .
 sline.net CNAME .
 sly.io CNAME .
 slyip.net CNAME .
 smelly.cc CNAME .
+snap2.info CNAME .
 sne.jp CNAME .
 socialadhesion.com CNAME .
 softether.net CNAME .
@@ -873,7 +902,6 @@ sql01.com CNAME .
 sqlconcepts.com CNAME .
 squirly.info CNAME .
 srv64.de CNAME .
-srvdns.de CNAME .
 ssitech.bg CNAME .
 ssl443.org CNAME .
 sslip.io CNAME .
@@ -889,14 +917,15 @@ stughead.com CNAME .
 stuns.org CNAME .
 sumibi.org CNAME .
 sundby.com CNAME .
-surak.kz CNAME .
 surfnet.ca CNAME .
 suroot.com CNAME .
+swoop2.me CNAME .
 swtest.ru CNAME .
 syno-ds.de CNAME .
 synology-diskstation.de CNAME .
 synology-ds.de CNAME .
 synoserver.com CNAME .
+syntereo.com CNAME .
 sysadminetworks.com CNAME .
 system-ns.com CNAME .
 systes.net CNAME .
@@ -923,6 +952,7 @@ thenme.net CNAME .
 thesemmels.com CNAME .
 thingsnewandused.com CNAME .
 tinyrealm.com CNAME .
+tobuy.us CNAME .
 toh.info CNAME .
 topdns.com CNAME .
 topsddns.net CNAME .
@@ -968,6 +998,7 @@ venez.fr CNAME .
 venez.net CNAME .
 verymad.net CNAME .
 viamisoftware.com CNAME .
+vicinanza.org CNAME .
 vicp.cc CNAME .
 vicp.net CNAME .
 vietnamddns.com CNAME .
@@ -987,6 +1018,7 @@ vxe6.net CNAME .
 wakingmoon.com CNAME .
 wan64.de CNAME .
 wanip.ch CNAME .
+warp9computers.com CNAME .
 webok.net CNAME .
 webs.vc CNAME .
 westblade.com CNAME .
@@ -1007,6 +1039,7 @@ womenclothingtoday.com CNAME .
 work.gd CNAME .
 www1.biz CNAME .
 wwwhost.biz CNAME .
+wwwhost.us CNAME .
 x24hr.com CNAME .
 xddns.de CNAME .
 xname.org CNAME .
@@ -1030,6 +1063,7 @@ z0d.eu CNAME .
 z86.ru CNAME .
 zaibar.ro CNAME .
 zanity.net CNAME .
+zeitr.ch CNAME .
 zelslonik.info CNAME .
 zneth.com CNAME .
 zoneedit.com CNAME .

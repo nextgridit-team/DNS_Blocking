@@ -1,8 +1,8 @@
 # Block List Project Abuse
 # Category: abuse
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 434685
+# Original domains (before deduplication): 434661
 
 0.0.0.0 0-07.ru
 0.0.0.0 0-29.com
@@ -8828,7 +8828,6 @@
 0.0.0.0 acman.us
 0.0.0.0 acmao.com
 0.0.0.0 acme-challenge.cf
-0.0.0.0 acme.com
 0.0.0.0 acme.com.mx
 0.0.0.0 acmeblock.com
 0.0.0.0 acmecepl.com
@@ -12774,7 +12773,6 @@
 0.0.0.0 ahzybvwdwrhi.com
 0.0.0.0 ai-studio.jp
 0.0.0.0 ai-sweets.com
-0.0.0.0 ai.com
 0.0.0.0 ai.net
 0.0.0.0 ai08.org
 0.0.0.0 ai2xrgmhbzytdqytww.stream
@@ -74228,7 +74226,6 @@
 0.0.0.0 euuu.com
 0.0.0.0 euvdyfphknonplusses.review
 0.0.0.0 euvtavrow.net
-0.0.0.0 euwb.co.uk
 0.0.0.0 euweb.cz
 0.0.0.0 euwed.com
 0.0.0.0 euxisszoyader.com
@@ -93505,7 +93502,6 @@
 0.0.0.0 google-stats49.info
 0.0.0.0 google-stats55.info
 0.0.0.0 google-update.com
-0.0.0.0 google.com
 0.0.0.0 google.kozow.com
 0.0.0.0 google20.net
 0.0.0.0 google4.it
@@ -111508,7 +111504,6 @@
 0.0.0.0 isportes.com
 0.0.0.0 isportskids.com
 0.0.0.0 ispot.cc
-0.0.0.0 isprambiente.gov.it
 0.0.0.0 isprime.com
 0.0.0.0 ispysoft.com
 0.0.0.0 ispyveemlvygba.com
@@ -116335,7 +116330,6 @@
 0.0.0.0 jquery-framework.com
 0.0.0.0 jquery-js.com
 0.0.0.0 jquery-web.com
-0.0.0.0 jquery.com
 0.0.0.0 jquery.me
 0.0.0.0 jquery.su
 0.0.0.0 jqueryapi.info
@@ -121451,7 +121445,6 @@
 0.0.0.0 komponententechnik.com
 0.0.0.0 kompresoruremonts.lv
 0.0.0.0 komputersaya.com
-0.0.0.0 komputerswiat.pl
 0.0.0.0 komputerswiatplcdn.com
 0.0.0.0 komputerswiatportal.com
 0.0.0.0 komqezsarmentose.download
@@ -138008,7 +138001,6 @@
 0.0.0.0 miaomedia.com
 0.0.0.0 miaoqiling.com
 0.0.0.0 miaozhen.com
-0.0.0.0 miarroba.com
 0.0.0.0 miarun.ru
 0.0.0.0 miastolomza.pl
 0.0.0.0 miaudogs.pt
@@ -138283,7 +138275,6 @@
 0.0.0.0 microsoft-update.serveirc.com
 0.0.0.0 microsoft-windows-help24x7.com
 0.0.0.0 microsoft.akadns.net
-0.0.0.0 microsoft.com
 0.0.0.0 microsoft.hr
 0.0.0.0 microsoft.serveftp.com
 0.0.0.0 microsoft0x80240033us.ml
@@ -163427,7 +163418,6 @@
 0.0.0.0 pckhpollpp.bid
 0.0.0.0 pcknights.net
 0.0.0.0 pcl818.top
-0.0.0.0 pclab.pl
 0.0.0.0 pclian.top
 0.0.0.0 pclicensekeys.com
 0.0.0.0 pclink.fr
@@ -181002,7 +180992,6 @@
 0.0.0.0 runer.my
 0.0.0.0 runerra.com
 0.0.0.0 runerror308guide.today
-0.0.0.0 runescape.com
 0.0.0.0 runescape.ws
 0.0.0.0 runescapeglitchez.tk
 0.0.0.0 runesolbu.com
@@ -184793,7 +184782,6 @@
 0.0.0.0 schuler-rozzi.ch
 0.0.0.0 schuler-vt.de
 0.0.0.0 schulmeister.nrw
-0.0.0.0 schulranzen-onlineshop.de
 0.0.0.0 schultedesign.de
 0.0.0.0 schultzremodelinginc.com
 0.0.0.0 schuna-trainer.de
@@ -187700,7 +187688,6 @@
 0.0.0.0 serveitup.io
 0.0.0.0 servemai.science
 0.0.0.0 servemeads.com
-0.0.0.0 serveo.net
 0.0.0.0 servepurpose.tk
 0.0.0.0 server-cheatchard.ddns.net
 0.0.0.0 server-he.de
@@ -234709,7 +234696,6 @@
 0.0.0.0 yeonenukejm.bid
 0.0.0.0 yeoufhivwwu.biz
 0.0.0.0 yeouyamall.com
-0.0.0.0 yep.com
 0.0.0.0 yepaxlnuossuaries.club
 0.0.0.0 yephjhhcg.com
 0.0.0.0 yepiafsrxffl.com

@@ -2,8 +2,8 @@
   "files": [
     {
       "baseline_count": 240662,
-      "delta_pct": 0.0,
-      "domain_count": 240662,
+      "delta_pct": 0.01,
+      "domain_count": 240648,
       "group": "abuse",
       "kind": "service",
       "path": "services/lists/abuse/blp_abuse.txt",
@@ -12,8 +12,8 @@
     },
     {
       "baseline_count": 5538,
-      "delta_pct": 0.0,
-      "domain_count": 5538,
+      "delta_pct": 0.6,
+      "domain_count": 5505,
       "group": "adult",
       "kind": "service",
       "path": "services/lists/adult/chadmayfield_porn.txt",
@@ -21,19 +21,9 @@
       "service": "chadmayfield_porn"
     },
     {
-      "baseline_count": 1,
-      "delta_pct": null,
-      "domain_count": 1,
-      "group": "adult",
-      "kind": "service",
-      "path": "services/lists/adult/grindr.txt",
-      "profile": "services",
-      "service": "grindr"
-    },
-    {
       "baseline_count": 77781,
-      "delta_pct": 0.0,
-      "domain_count": 77781,
+      "delta_pct": 6.45,
+      "domain_count": 72765,
       "group": "adult",
       "kind": "service",
       "path": "services/lists/adult/stevenblack_porn.txt",
@@ -83,7 +73,7 @@
     {
       "baseline_count": 2,
       "delta_pct": null,
-      "domain_count": 2,
+      "domain_count": 1,
       "group": "ai",
       "kind": "service",
       "path": "services/lists/ai/gemini.txt",
@@ -132,8 +122,8 @@
     },
     {
       "baseline_count": 903,
-      "delta_pct": 0.0,
-      "domain_count": 903,
+      "delta_pct": 36.1,
+      "domain_count": 1229,
       "group": "badware_hoster",
       "kind": "service",
       "path": "services/lists/badware_hoster/hagezi_hoster.txt",
@@ -152,8 +142,8 @@
     },
     {
       "baseline_count": 8130,
-      "delta_pct": 0.0,
-      "domain_count": 8130,
+      "delta_pct": 84.39,
+      "domain_count": 1269,
       "group": "crypto",
       "kind": "service",
       "path": "services/lists/crypto/blp_crypto.txt",
@@ -821,6 +811,16 @@
       "service": "amistarium"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/amoredate.txt",
+      "profile": "services",
+      "service": "amoredate"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -839,6 +839,16 @@
       "path": "services/lists/dating/amourfactory.txt",
       "profile": "services",
       "service": "amourfactory"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/amourfeel.txt",
+      "profile": "services",
+      "service": "amourfeel"
     },
     {
       "baseline_count": 1,
@@ -1261,6 +1271,16 @@
       "service": "baseballovers"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/bbdiva.txt",
+      "profile": "services",
+      "service": "bbdiva"
+    },
+    {
       "baseline_count": 2,
       "delta_pct": null,
       "domain_count": 2,
@@ -1271,6 +1291,26 @@
       "service": "bbpeoplemeet"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/bbw.txt",
+      "profile": "services",
+      "service": "bbw"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/bbwbbm.txt",
+      "profile": "services",
+      "service": "bbwbbm"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -1279,6 +1319,16 @@
       "path": "services/lists/dating/bbwcupid.txt",
       "profile": "services",
       "service": "bbwcupid"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/bbwdate.txt",
+      "profile": "services",
+      "service": "bbwdate"
     },
     {
       "baseline_count": 10,
@@ -1319,6 +1369,16 @@
       "path": "services/lists/dating/behappy2day.txt",
       "profile": "services",
       "service": "behappy2day"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/belleronde.txt",
+      "profile": "services",
+      "service": "belleronde"
     },
     {
       "baseline_count": 1,
@@ -1701,6 +1761,16 @@
       "service": "campus"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/caribsingles.txt",
+      "profile": "services",
+      "service": "caribsingles"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -1811,6 +1881,16 @@
       "service": "catholicpeoplemeet"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/cazavo.txt",
+      "profile": "services",
+      "service": "cazavo"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -1819,6 +1899,16 @@
       "path": "services/lists/dating/celibapatch.txt",
       "profile": "services",
       "service": "celibapatch"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/celibataires.txt",
+      "profile": "services",
+      "service": "celibataires"
     },
     {
       "baseline_count": 1,
@@ -2091,6 +2181,16 @@
       "service": "coffee_meets_bagel"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/communityincontri.txt",
+      "profile": "services",
+      "service": "communityincontri"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -2319,6 +2419,16 @@
       "path": "services/lists/dating/d8u.txt",
       "profile": "services",
       "service": "d8u"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/d8uk.txt",
+      "profile": "services",
+      "service": "d8uk"
     },
     {
       "baseline_count": 1,
@@ -3151,6 +3261,16 @@
       "service": "datinghaven"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/datinginqatar.txt",
+      "profile": "services",
+      "service": "datinginqatar"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -3159,6 +3279,16 @@
       "path": "services/lists/dating/datinginterracialsingles.txt",
       "profile": "services",
       "service": "datinginterracialsingles"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/datinglargewomen.txt",
+      "profile": "services",
+      "service": "datinglargewomen"
     },
     {
       "baseline_count": 1,
@@ -3209,6 +3339,16 @@
       "path": "services/lists/dating/datingplanet.txt",
       "profile": "services",
       "service": "datingplanet"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/datingplanetnetwork.txt",
+      "profile": "services",
+      "service": "datingplanetnetwork"
     },
     {
       "baseline_count": 1,
@@ -3591,6 +3731,16 @@
       "service": "divorcedsingles"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/dnaromance.txt",
+      "profile": "services",
+      "service": "dnaromance"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -3801,6 +3951,16 @@
       "service": "encount"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/encounters.txt",
+      "profile": "services",
+      "service": "encounters"
+    },
+    {
       "baseline_count": 2,
       "delta_pct": null,
       "domain_count": 2,
@@ -3979,6 +4139,16 @@
       "path": "services/lists/dating/fdating.txt",
       "profile": "services",
       "service": "fdating"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/femmemure.txt",
+      "profile": "services",
+      "service": "femmemure"
     },
     {
       "baseline_count": 1,
@@ -4219,6 +4389,16 @@
       "path": "services/lists/dating/flirtic.txt",
       "profile": "services",
       "service": "flirtic"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/flirtingbuddies.txt",
+      "profile": "services",
+      "service": "flirtingbuddies"
     },
     {
       "baseline_count": 1,
@@ -4721,6 +4901,16 @@
       "service": "gratissexkontakt"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 2,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/grindr.txt",
+      "profile": "services",
+      "service": "grindr"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -4729,6 +4919,16 @@
       "path": "services/lists/dating/groony.txt",
       "profile": "services",
       "service": "groony"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/gstatvb.txt",
+      "profile": "services",
+      "service": "gstatvb"
     },
     {
       "baseline_count": 1,
@@ -4769,6 +4969,16 @@
       "path": "services/lists/dating/hallokoko.txt",
       "profile": "services",
       "service": "hallokoko"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/handilove.txt",
+      "profile": "services",
+      "service": "handilove"
     },
     {
       "baseline_count": 1,
@@ -5109,6 +5319,16 @@
       "path": "services/lists/dating/incontricasual.txt",
       "profile": "services",
       "service": "incontricasual"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/incontricatanzaro.txt",
+      "profile": "services",
+      "service": "incontricatanzaro"
     },
     {
       "baseline_count": 1,
@@ -5681,6 +5901,16 @@
       "service": "latamdate"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/latesummerlove.txt",
+      "profile": "services",
+      "service": "latesummerlove"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -5789,6 +6019,16 @@
       "path": "services/lists/dating/lekdate.txt",
       "profile": "services",
       "service": "lekdate"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/lekgay.txt",
+      "profile": "services",
+      "service": "lekgay"
     },
     {
       "baseline_count": 1,
@@ -6141,6 +6381,16 @@
       "service": "lovedating"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/lovedesir.txt",
+      "profile": "services",
+      "service": "lovedesir"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -6189,6 +6439,16 @@
       "path": "services/lists/dating/loveme.txt",
       "profile": "services",
       "service": "loveme"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/loveplace.txt",
+      "profile": "services",
+      "service": "loveplace"
     },
     {
       "baseline_count": 1,
@@ -6439,6 +6699,26 @@
       "path": "services/lists/dating/match_usa.txt",
       "profile": "services",
       "service": "match_usa"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/match_wizard.txt",
+      "profile": "services",
+      "service": "match_wizard"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/matchasiansingles.txt",
+      "profile": "services",
+      "service": "matchasiansingles"
     },
     {
       "baseline_count": 1,
@@ -6799,6 +7079,16 @@
       "path": "services/lists/dating/mexicancupid.txt",
       "profile": "services",
       "service": "mexicancupid"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/miayo.txt",
+      "profile": "services",
+      "service": "miayo"
     },
     {
       "baseline_count": 1,
@@ -7449,6 +7739,16 @@
       "path": "services/lists/dating/over50singlesmeet.txt",
       "profile": "services",
       "service": "over50singlesmeet"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/over60dating.txt",
+      "profile": "services",
+      "service": "over60dating"
     },
     {
       "baseline_count": 1,
@@ -8341,6 +8641,16 @@
       "service": "romancedubai"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/romancelinker.txt",
+      "profile": "services",
+      "service": "romancelinker"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -8821,6 +9131,16 @@
       "service": "seniorlesbians"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/seniormatch.txt",
+      "profile": "services",
+      "service": "seniormatch"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -9163,7 +9483,7 @@
     {
       "baseline_count": 1,
       "delta_pct": null,
-      "domain_count": 1,
+      "domain_count": 2,
       "group": "dating",
       "kind": "service",
       "path": "services/lists/dating/singlescrowd.txt",
@@ -9209,6 +9529,16 @@
       "path": "services/lists/dating/singlesolution.txt",
       "profile": "services",
       "service": "singlesolution"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/singlesover60.txt",
+      "profile": "services",
+      "service": "singlesover60"
     },
     {
       "baseline_count": 1,
@@ -9461,6 +9791,16 @@
       "service": "speeddatingmontreal"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/spojeniprotebe.txt",
+      "profile": "services",
+      "service": "spojeniprotebe"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -9621,6 +9961,16 @@
       "service": "talksaferdating"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/talldater.txt",
+      "profile": "services",
+      "service": "talldater"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -9689,6 +10039,16 @@
       "path": "services/lists/dating/teendatingplanet.txt",
       "profile": "services",
       "service": "teendatingplanet"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/teendatingsite.txt",
+      "profile": "services",
+      "service": "teendatingsite"
     },
     {
       "baseline_count": 1,
@@ -9893,7 +10253,7 @@
     {
       "baseline_count": 3,
       "delta_pct": null,
-      "domain_count": 3,
+      "domain_count": 4,
       "group": "dating",
       "kind": "service",
       "path": "services/lists/dating/tinder.txt",
@@ -10019,6 +10379,16 @@
       "path": "services/lists/dating/transen_dating.txt",
       "profile": "services",
       "service": "transen_dating"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/travesti.txt",
+      "profile": "services",
+      "service": "travesti"
     },
     {
       "baseline_count": 1,
@@ -10261,6 +10631,16 @@
       "service": "usadatingplanet"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/usgay.txt",
+      "profile": "services",
+      "service": "usgay"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -10451,6 +10831,16 @@
       "service": "virtumatch"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/voksenkontakt.txt",
+      "profile": "services",
+      "service": "voksenkontakt"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -10459,6 +10849,16 @@
       "path": "services/lists/dating/volosdate.txt",
       "profile": "services",
       "service": "volosdate"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/vryers.txt",
+      "profile": "services",
+      "service": "vryers"
     },
     {
       "baseline_count": 1,
@@ -10881,6 +11281,16 @@
       "service": "zonabisexual"
     },
     {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "dating",
+      "kind": "service",
+      "path": "services/lists/dating/zone.txt",
+      "profile": "services",
+      "service": "zone"
+    },
+    {
       "baseline_count": 1,
       "delta_pct": null,
       "domain_count": 1,
@@ -10911,9 +11321,9 @@
       "service": "googleDNS"
     },
     {
-      "baseline_count": 17015,
-      "delta_pct": 0.14,
-      "domain_count": 16992,
+      "baseline_count": 16992,
+      "delta_pct": 4.24,
+      "domain_count": 16271,
       "group": "dns_bypass",
       "kind": "service",
       "path": "services/lists/dns_bypass/hagezi_doh_vpn_proxy_bypass.txt",
@@ -10922,8 +11332,8 @@
     },
     {
       "baseline_count": 18320,
-      "delta_pct": 0.0,
-      "domain_count": 18320,
+      "delta_pct": 0.02,
+      "domain_count": 18317,
       "group": "drugs",
       "kind": "service",
       "path": "services/lists/drugs/blp_drugs.txt",
@@ -10932,8 +11342,8 @@
     },
     {
       "baseline_count": 1031,
-      "delta_pct": 0.0,
-      "domain_count": 1031,
+      "delta_pct": 3.3,
+      "domain_count": 1065,
       "group": "dynamic_dns",
       "kind": "service",
       "path": "services/lists/dynamic_dns/hagezi_dyndns.txt",
@@ -10979,6 +11389,16 @@
       "path": "services/lists/gambling/blaze.txt",
       "profile": "services",
       "service": "blaze"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 28,
+      "group": "gambling",
+      "kind": "service",
+      "path": "services/lists/gambling/fdj_united.txt",
+      "profile": "services",
+      "service": "fdj_united"
     },
     {
       "baseline_count": 6,
@@ -11113,7 +11533,7 @@
     {
       "baseline_count": 3,
       "delta_pct": null,
-      "domain_count": 3,
+      "domain_count": 6,
       "group": "gaming",
       "kind": "service",
       "path": "services/lists/gaming/minecraft.txt",
@@ -11219,6 +11639,16 @@
       "path": "services/lists/gaming/rockstar_games.txt",
       "profile": "services",
       "service": "rockstar_games"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 76,
+      "group": "gaming",
+      "kind": "service",
+      "path": "services/lists/gaming/shell_shockers.txt",
+      "profile": "services",
+      "service": "shell_shockers"
     },
     {
       "baseline_count": 1,
@@ -11361,9 +11791,9 @@
       "service": "blp_ransomware"
     },
     {
-      "baseline_count": 234,
-      "delta_pct": 13.68,
-      "domain_count": 202,
+      "baseline_count": 202,
+      "delta_pct": 259.9,
+      "domain_count": 727,
       "group": "malware",
       "kind": "service",
       "path": "services/lists/malware/threatfox.txt",
@@ -11371,9 +11801,9 @@
       "service": "threatfox"
     },
     {
-      "baseline_count": 1753,
-      "delta_pct": 0.29,
-      "domain_count": 1748,
+      "baseline_count": 1748,
+      "delta_pct": 77.75,
+      "domain_count": 389,
       "group": "malware",
       "kind": "service",
       "path": "services/lists/malware/urlhaus.txt",
@@ -11501,9 +11931,9 @@
       "service": "whatsapp"
     },
     {
-      "baseline_count": 246,
-      "delta_pct": 2.85,
-      "domain_count": 253,
+      "baseline_count": 253,
+      "delta_pct": 23.72,
+      "domain_count": 193,
       "group": "phishing",
       "kind": "service",
       "path": "services/lists/phishing/openphish.txt",
@@ -11511,9 +11941,9 @@
       "service": "openphish"
     },
     {
-      "baseline_count": 283741,
-      "delta_pct": 0.0,
-      "domain_count": 283744,
+      "baseline_count": 283744,
+      "delta_pct": 0.07,
+      "domain_count": 283934,
       "group": "phishing",
       "kind": "service",
       "path": "services/lists/phishing/phishing_army.txt",
@@ -11521,9 +11951,9 @@
       "service": "phishing_army"
     },
     {
-      "baseline_count": 22740,
-      "delta_pct": 0.34,
-      "domain_count": 22817,
+      "baseline_count": 22817,
+      "delta_pct": 31.56,
+      "domain_count": 30019,
       "group": "phishing",
       "kind": "service",
       "path": "services/lists/phishing/phishtank.txt",
@@ -11532,8 +11962,8 @@
     },
     {
       "baseline_count": 1065,
-      "delta_pct": 0.0,
-      "domain_count": 1065,
+      "delta_pct": 0.09,
+      "domain_count": 1066,
       "group": "piracy",
       "kind": "service",
       "path": "services/lists/piracy/blp_piracy.txt",
@@ -11563,7 +11993,7 @@
     {
       "baseline_count": 99201,
       "delta_pct": 0.0,
-      "domain_count": 99201,
+      "domain_count": 99202,
       "group": "redirect",
       "kind": "service",
       "path": "services/lists/redirect/blp_redirect.txt",
@@ -11572,8 +12002,8 @@
     },
     {
       "baseline_count": 114108,
-      "delta_pct": 0.0,
-      "domain_count": 114108,
+      "delta_pct": 37.9,
+      "domain_count": 157356,
       "group": "scam",
       "kind": "service",
       "path": "services/lists/scam/blp_fraud.txt",
@@ -11582,8 +12012,8 @@
     },
     {
       "baseline_count": 726,
-      "delta_pct": 0.0,
-      "domain_count": 726,
+      "delta_pct": 992.56,
+      "domain_count": 7932,
       "group": "scam",
       "kind": "service",
       "path": "services/lists/scam/blp_scam.txt",
@@ -11591,9 +12021,9 @@
       "service": "blp_scam"
     },
     {
-      "baseline_count": 15678,
-      "delta_pct": 0.04,
-      "domain_count": 15685,
+      "baseline_count": 15685,
+      "delta_pct": 6.13,
+      "domain_count": 16646,
       "group": "scam",
       "kind": "service",
       "path": "services/lists/scam/hagezi_fake.txt",
@@ -11959,6 +12389,16 @@
       "path": "services/lists/social_network/vk.txt",
       "profile": "services",
       "service": "vk"
+    },
+    {
+      "baseline_count": null,
+      "delta_pct": null,
+      "domain_count": 1,
+      "group": "social_network",
+      "kind": "service",
+      "path": "services/lists/social_network/zepeto.txt",
+      "profile": "services",
+      "service": "zepeto"
     },
     {
       "baseline_count": 2,
@@ -12402,8 +12842,8 @@
     },
     {
       "baseline_count": 2192,
-      "delta_pct": 0.0,
-      "domain_count": 2192,
+      "delta_pct": 0.09,
+      "domain_count": 2190,
       "group": "torrent",
       "kind": "service",
       "path": "services/lists/torrent/blp_torrent.txt",
@@ -12412,8 +12852,8 @@
     },
     {
       "baseline_count": 14761,
-      "delta_pct": 0.0,
-      "domain_count": 14761,
+      "delta_pct": 684.15,
+      "domain_count": 115748,
       "group": "tracking",
       "kind": "service",
       "path": "services/lists/tracking/blp_tracking.txt",
@@ -12421,9 +12861,9 @@
       "service": "blp_tracking"
     },
     {
-      "baseline_count": 9835,
-      "delta_pct": 0.15,
-      "domain_count": 9820,
+      "baseline_count": 9820,
+      "delta_pct": 0.59,
+      "domain_count": 9878,
       "group": "url_shortener",
       "kind": "service",
       "path": "services/lists/url_shortener/hagezi_urlshortener.txt",
@@ -12442,8 +12882,8 @@
     },
     {
       "baseline_count": 240662,
-      "delta_pct": 0.0,
-      "domain_count": 240662,
+      "delta_pct": 0.01,
+      "domain_count": 240648,
       "group": "abuse",
       "kind": "category",
       "path": "services/categories/abuse.txt",
@@ -12452,8 +12892,8 @@
     },
     {
       "baseline_count": 80339,
-      "delta_pct": 0.0,
-      "domain_count": 80339,
+      "delta_pct": 6.27,
+      "domain_count": 75299,
       "group": "adult",
       "kind": "category",
       "path": "services/categories/adult.txt",
@@ -12462,8 +12902,8 @@
     },
     {
       "baseline_count": 19,
-      "delta_pct": 0.0,
-      "domain_count": 19,
+      "delta_pct": 5.26,
+      "domain_count": 18,
       "group": "ai",
       "kind": "category",
       "path": "services/categories/ai.txt",
@@ -12472,8 +12912,8 @@
     },
     {
       "baseline_count": 903,
-      "delta_pct": 0.0,
-      "domain_count": 903,
+      "delta_pct": 36.1,
+      "domain_count": 1229,
       "group": "badware_hoster",
       "kind": "category",
       "path": "services/categories/badware_hoster.txt",
@@ -12492,8 +12932,8 @@
     },
     {
       "baseline_count": 8130,
-      "delta_pct": 0.0,
-      "domain_count": 8130,
+      "delta_pct": 84.39,
+      "domain_count": 1269,
       "group": "crypto",
       "kind": "category",
       "path": "services/categories/crypto.txt",
@@ -12502,8 +12942,8 @@
     },
     {
       "baseline_count": 1316,
-      "delta_pct": 0.0,
-      "domain_count": 1316,
+      "delta_pct": 3.42,
+      "domain_count": 1361,
       "group": "dating",
       "kind": "category",
       "path": "services/categories/dating.txt",
@@ -12521,9 +12961,9 @@
       "service": null
     },
     {
-      "baseline_count": 17015,
-      "delta_pct": 0.14,
-      "domain_count": 16992,
+      "baseline_count": 16992,
+      "delta_pct": 4.24,
+      "domain_count": 16271,
       "group": "dns_bypass",
       "kind": "category",
       "path": "services/categories/dns_bypass.txt",
@@ -12532,8 +12972,8 @@
     },
     {
       "baseline_count": 18320,
-      "delta_pct": 0.0,
-      "domain_count": 18320,
+      "delta_pct": 0.02,
+      "domain_count": 18317,
       "group": "drugs",
       "kind": "category",
       "path": "services/categories/drugs.txt",
@@ -12542,8 +12982,8 @@
     },
     {
       "baseline_count": 1031,
-      "delta_pct": 0.0,
-      "domain_count": 1031,
+      "delta_pct": 3.3,
+      "domain_count": 1065,
       "group": "dynamic_dns",
       "kind": "category",
       "path": "services/categories/dynamic_dns.txt",
@@ -12552,8 +12992,8 @@
     },
     {
       "baseline_count": 33,
-      "delta_pct": 0.0,
-      "domain_count": 33,
+      "delta_pct": 84.85,
+      "domain_count": 61,
       "group": "gambling",
       "kind": "category",
       "path": "services/categories/gambling.txt",
@@ -12562,8 +13002,8 @@
     },
     {
       "baseline_count": 171,
-      "delta_pct": 0.0,
-      "domain_count": 171,
+      "delta_pct": 46.2,
+      "domain_count": 250,
       "group": "gaming",
       "kind": "category",
       "path": "services/categories/gaming.txt",
@@ -12581,9 +13021,9 @@
       "service": null
     },
     {
-      "baseline_count": 3537,
-      "delta_pct": 1.1,
-      "domain_count": 3498,
+      "baseline_count": 3498,
+      "delta_pct": 20.44,
+      "domain_count": 2783,
       "group": "malware",
       "kind": "category",
       "path": "services/categories/malware.txt",
@@ -12601,9 +13041,9 @@
       "service": null
     },
     {
-      "baseline_count": 304720,
-      "delta_pct": 0.03,
-      "domain_count": 304809,
+      "baseline_count": 304809,
+      "delta_pct": 2.43,
+      "domain_count": 312213,
       "group": "phishing",
       "kind": "category",
       "path": "services/categories/phishing.txt",
@@ -12612,8 +13052,8 @@
     },
     {
       "baseline_count": 1065,
-      "delta_pct": 0.0,
-      "domain_count": 1065,
+      "delta_pct": 0.09,
+      "domain_count": 1066,
       "group": "piracy",
       "kind": "category",
       "path": "services/categories/piracy.txt",
@@ -12633,7 +13073,7 @@
     {
       "baseline_count": 99201,
       "delta_pct": 0.0,
-      "domain_count": 99201,
+      "domain_count": 99202,
       "group": "redirect",
       "kind": "category",
       "path": "services/categories/redirect.txt",
@@ -12641,9 +13081,9 @@
       "service": null
     },
     {
-      "baseline_count": 130491,
-      "delta_pct": 0.01,
-      "domain_count": 130498,
+      "baseline_count": 130498,
+      "delta_pct": 39.11,
+      "domain_count": 181539,
       "group": "scam",
       "kind": "category",
       "path": "services/categories/scam.txt",
@@ -12672,8 +13112,8 @@
     },
     {
       "baseline_count": 835,
-      "delta_pct": 0.0,
-      "domain_count": 835,
+      "delta_pct": 0.12,
+      "domain_count": 836,
       "group": "social_network",
       "kind": "category",
       "path": "services/categories/social_network.txt",
@@ -12702,8 +13142,8 @@
     },
     {
       "baseline_count": 2192,
-      "delta_pct": 0.0,
-      "domain_count": 2192,
+      "delta_pct": 0.09,
+      "domain_count": 2190,
       "group": "torrent",
       "kind": "category",
       "path": "services/categories/torrent.txt",
@@ -12712,8 +13152,8 @@
     },
     {
       "baseline_count": 14761,
-      "delta_pct": 0.0,
-      "domain_count": 14761,
+      "delta_pct": 684.15,
+      "domain_count": 115748,
       "group": "tracking",
       "kind": "category",
       "path": "services/categories/tracking.txt",
@@ -12721,9 +13161,9 @@
       "service": null
     },
     {
-      "baseline_count": 9835,
-      "delta_pct": 0.15,
-      "domain_count": 9820,
+      "baseline_count": 9820,
+      "delta_pct": 0.59,
+      "domain_count": 9878,
       "group": "url_shortener",
       "kind": "category",
       "path": "services/categories/url_shortener.txt",
@@ -12741,13 +13181,13 @@
       "service": null
     }
   ],
-  "generated_at": "2026-06-07T06:37:34.529853+00:00",
+  "generated_at": "2026-09-13T04:58:42.444353+00:00",
   "issues": [],
   "profile": "services",
   "status": "passed",
   "summary": {
-    "files_checked": 1274,
+    "files_checked": 1318,
     "issues": 0,
-    "total_domains": 1876846
+    "total_domains": 2170315
   }
 }

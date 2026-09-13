@@ -1,7 +1,7 @@
 # Redirect Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 108677
+# Original domains (before deduplication): 108678
 
 0.0.0.0 0----0.info
 0.0.0.0 0---0.info
@@ -11640,6 +11640,7 @@
 0.0.0.0 blocklessinter9tk.tk
 0.0.0.0 blocklink.info
 0.0.0.0 blocklinkbypass.tk
+0.0.0.0 blocklist.site
 0.0.0.0 blockmeno.com
 0.0.0.0 blockmenot.biz
 0.0.0.0 blockmenot.co.uk

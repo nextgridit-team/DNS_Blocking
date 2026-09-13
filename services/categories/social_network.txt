@@ -1,7 +1,7 @@
 # Social Network Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 838
+# Original domains (before deduplication): 839
 
 0.0.0.0 4cdn.org
 0.0.0.0 4chan.org
@@ -833,6 +833,7 @@
 0.0.0.0 yogalayout.com
 0.0.0.0 zaclys.com
 0.0.0.0 zendesk.com
+0.0.0.0 zepeto.me
 0.0.0.0 zhihu.com
 0.0.0.0 zhimg.com
 0.0.0.0 zijieapi.com

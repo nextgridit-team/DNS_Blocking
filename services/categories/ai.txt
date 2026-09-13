@@ -1,7 +1,7 @@
 # Ai Blocklist
-# Generated: 2026-06-07 06:36:22 UTC
+# Generated: 2026-09-13 04:57:22 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 20
+# Original domains (before deduplication): 19
 
 0.0.0.0 anthropic.com
 0.0.0.0 chatgpt.com
@@ -10,7 +10,6 @@
 0.0.0.0 copilot.ai
 0.0.0.0 copilot.com
 0.0.0.0 deepseek.com
-0.0.0.0 gemini.com
 0.0.0.0 google.com
 0.0.0.0 grok.com
 0.0.0.0 manus.im
