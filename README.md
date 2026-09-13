@@ -1,5 +1,6 @@
 # 🛡️ DNS Filters & Blocking Lists
 ![Auto Update](https://img.shields.io/badge/Update-Automated-success)
+[![Update](https://github.com/nextgridit-team/DNS_Blocking/actions/workflows/update.yml/badge.svg)](https://github.com/nextgridit-team/DNS_Blocking/actions/workflows/update.yml)
 ![License](https://img.shields.io/github/license/sparksbenjamin/DNS_Blocking)
 ![Lists](https://img.shields.io/badge/Lists-1200%2B-blue)
 ![Last Updated](https://img.shields.io/github/last-commit/sparksbenjamin/DNS_Blocking)
