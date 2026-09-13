@@ -16,6 +16,19 @@
       "allow_shared_hosts": true,
       "max_delta_pct": 70
     },
+    "gambling": {
+      "allow_shared_hosts": true,
+      "max_delta_pct": 100
+    },
+    
+    "gaming": {
+      "exclude_suffix": [
+        "edgekey.net",
+        "edgesuite.net",
+        "s3.amazonaws.com"
+      ],
+      "max_delta_pct": 60
+    },
     "adult": {
       "allow_shared_hosts": true,
       "max_delta_pct": 70
