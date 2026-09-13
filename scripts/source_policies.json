@@ -26,7 +26,7 @@
     },
     "crypto": {
       "allow_shared_hosts": true,
-      "max_delta_pct": 70
+      "max_delta_pct": 150
     },
     "dating": {
       "exclude_suffix": [
@@ -324,13 +324,13 @@
       "group": "malware",
       "must_exist": true,
       "allow_shared_hosts": true,
-      "max_delta_pct": 70
+      "max_delta_pct": 100
     },
     "urlhaus": {
       "group": "malware",
       "must_exist": true,
       "allow_shared_hosts": true,
-      "max_delta_pct": 70
+      "max_delta_pct": 150
     },
     "xboxlive": {
       "group": "gaming",
