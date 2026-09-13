@@ -1,11 +1,11 @@
 ; OpenPhish
 ; Category: phishing
-; Generated: 2026-09-13 04:57:22 UTC
+; Generated: 2026-09-13 07:23:47 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 219
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091304 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091307 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 146a1.casmex.at CNAME .

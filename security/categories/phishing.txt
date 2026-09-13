@@ -1,7 +1,7 @@
 # Phishing Blocklist
-# Generated: 2026-09-13 04:57:22 UTC
+# Generated: 2026-09-13 07:23:47 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 424167
+# Original domains (before deduplication): 424170
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -53341,6 +53341,7 @@
 0.0.0.0 allegro.prwatn4238129j.mom
 0.0.0.0 allegro.pry2318127192.click
 0.0.0.0 allegro.pry43096582120.click
+0.0.0.0 allegro.pry5nmm6798.buzz
 0.0.0.0 allegro.pry6128h0j0j0jjh984.shop
 0.0.0.0 allegro.pryb67463.cfd
 0.0.0.0 allegro.pryi40-23gf2.casa
@@ -54804,6 +54805,7 @@
 0.0.0.0 allegrolokalnie.oferta37265412.shop
 0.0.0.0 allegrolokalnie.oferta37654208.shop
 0.0.0.0 allegrolokalnie.oferta383462.shop
+0.0.0.0 allegrolokalnie.oferta384hw2nd8.click
 0.0.0.0 allegrolokalnie.oferta38557637.lat
 0.0.0.0 allegrolokalnie.oferta389212.click
 0.0.0.0 allegrolokalnie.oferta3922910273.cfd
@@ -399916,6 +399918,7 @@
 0.0.0.0 serverincorperationupdate.weebly.com
 0.0.0.0 serveris.pb3.duckdns.org
 0.0.0.0 serverlicenses.com
+0.0.0.0 servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com
 0.0.0.0 servermaintenance80008.weebly.com
 0.0.0.0 servermeupdatmaiintel.pory.app
 0.0.0.0 servernotice645.wixsite.com

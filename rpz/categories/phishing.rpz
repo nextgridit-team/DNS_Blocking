@@ -1,10 +1,10 @@
 ; Phishing Blocklist
-; Generated: 2026-09-13 04:57:22 UTC
+; Generated: 2026-09-13 07:23:47 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 424167
+; Original domains (before deduplication): 424170
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091304 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091307 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -53345,6 +53345,7 @@ allegro.proy5283hh.help CNAME .
 allegro.prwatn4238129j.mom CNAME .
 allegro.pry2318127192.click CNAME .
 allegro.pry43096582120.click CNAME .
+allegro.pry5nmm6798.buzz CNAME .
 allegro.pry6128h0j0j0jjh984.shop CNAME .
 allegro.pryb67463.cfd CNAME .
 allegro.pryi40-23gf2.casa CNAME .
@@ -54808,6 +54809,7 @@ allegrolokalnie.oferta368283.icu CNAME .
 allegrolokalnie.oferta37265412.shop CNAME .
 allegrolokalnie.oferta37654208.shop CNAME .
 allegrolokalnie.oferta383462.shop CNAME .
+allegrolokalnie.oferta384hw2nd8.click CNAME .
 allegrolokalnie.oferta38557637.lat CNAME .
 allegrolokalnie.oferta389212.click CNAME .
 allegrolokalnie.oferta3922910273.cfd CNAME .
@@ -399920,6 +399922,7 @@ serverhosting227.mdcomp.com.au CNAME .
 serverincorperationupdate.weebly.com CNAME .
 serveris.pb3.duckdns.org CNAME .
 serverlicenses.com CNAME .
+servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com CNAME .
 servermaintenance80008.weebly.com CNAME .
 servermeupdatmaiintel.pory.app CNAME .
 servernotice645.wixsite.com CNAME .
