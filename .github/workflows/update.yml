@@ -37,12 +37,14 @@ jobs:
       - name: Configure Git for push
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git 
-          
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
           git add services/ security/ rpz/ README.md tunneling/ services.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update blocklists - $(date +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update blocklists - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push origin HEAD:main
