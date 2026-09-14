@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-13 07:23:47 UTC
+; Generated: 2026-09-14 07:48:57 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 309838
+; Original domains (before deduplication): 309840
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091307 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091407 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -21291,6 +21291,7 @@ awwindowservices.com CNAME .
 awww.24x7help.org CNAME .
 awxjpkxoqfwaj.bid CNAME .
 ax-trading.com CNAME .
+axacoins.com CNAME .
 axacrypto.com CNAME .
 axaggthnkquj.com CNAME .
 axaimarketfx.com CNAME .
@@ -30434,6 +30435,7 @@ canada-update-secure.com CNAME .
 canadaappletechsupport.com CNAME .
 canadacarhistory.com CNAME .
 canadacis.org CNAME .
+canadadrugstore.com CNAME .
 canadafirearmspower.com CNAME .
 canadafreepress.com CNAME .
 canadagoogsejp.com CNAME .
@@ -62359,6 +62361,7 @@ fetischkamera.com CNAME .
 fetischkamera.net CNAME .
 fetish-nextdoor.com CNAME .
 fetishmatch.stream CNAME .
+fetishmegastore.com CNAME .
 fetormate.stream CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettamated.stream CNAME .
@@ -115394,6 +115397,7 @@ onlinecasinoe.us CNAME .
 onlinecasinoh.us CNAME .
 onlinecasinoparis.com CNAME .
 onlinecasinositeindia.com CNAME .
+onlinecasinoslasvegas.com CNAME .
 onlinecasinosohneverifizierung.de CNAME .
 onlinecasinoss.us CNAME .
 onlinecasinosupport.com CNAME .
@@ -132473,7 +132477,6 @@ reinelucrange.live CNAME .
 reinemaontour.com CNAME .
 reinforcaware.com CNAME .
 reings.store CNAME .
-reinholdrasenmaher.com CNAME .
 reinholzexpress.com CNAME .
 reinigungszubehor.com CNAME .
 reino-capital.live CNAME .
@@ -162495,7 +162498,6 @@ topcoachoutlet.com CNAME .
 topcoatzone.com CNAME .
 topcomparison.com CNAME .
 topcomsupport.world CNAME .
-topcyclebike.com CNAME .
 topdailynewz.com CNAME .
 topdatingsites.party CNAME .
 topdeals-shop.online CNAME .

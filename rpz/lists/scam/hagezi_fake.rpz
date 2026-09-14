@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-13 07:23:47 UTC
+; Generated: 2026-09-14 07:48:57 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 16707
+; Original domains (before deduplication): 16709
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091307 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091407 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -1178,6 +1178,7 @@ awishday.com CNAME .
 awo-baumarkt.de CNAME .
 awsea.eu.cc CNAME .
 ax-trading.com CNAME .
+axacoins.com CNAME .
 axaimarketfx.com CNAME .
 axatechviewou.com CNAME .
 axel-maschine.de CNAME .
@@ -2416,6 +2417,7 @@ campingzubehorhub.com CNAME .
 camptool-shop.com CNAME .
 camuya.shop CNAME .
 canada-pharmacy-24h.com CNAME .
+canadadrugstore.com CNAME .
 canadanewsreport.com CNAME .
 canadapharmacypro.com CNAME .
 canadapharmacytrust.net CNAME .
@@ -4990,6 +4992,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -11057,6 +11060,7 @@ onlinebonuscasino-de.de CNAME .
 onlinebusinessdorf.de CNAME .
 onlinecasinoparis.com CNAME .
 onlinecasinositeindia.com CNAME .
+onlinecasinoslasvegas.com CNAME .
 onlinecasinosohneverifizierung.de CNAME .
 onlinedamen.de CNAME .
 onlinedrugsnorx.com CNAME .
@@ -12389,7 +12393,6 @@ reindesign-garten.de CNAME .
 reindesigner-handel.de CNAME .
 reineblume.de CNAME .
 reings.store CNAME .
-reinholdrasenmaher.com CNAME .
 reinholzexpress.com CNAME .
 reinigungszubehor.com CNAME .
 reinpeptid.de CNAME .
@@ -14863,7 +14866,6 @@ topautoteile.com CNAME .
 topbaumaschinen.com CNAME .
 topbrennstoffe.de CNAME .
 topbrokersranking.com CNAME .
-topcyclebike.com CNAME .
 topdeals-shop.online CNAME .
 topeuro-shop.com CNAME .
 topeuropenews.com CNAME .

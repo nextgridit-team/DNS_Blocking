@@ -1,7 +1,7 @@
 # Url Shortener Blocklist
-# Generated: 2026-09-13 07:23:47 UTC
+# Generated: 2026-09-14 07:48:57 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 9878
+# Original domains (before deduplication): 9874
 
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -2129,7 +2129,6 @@
 0.0.0.0 dl100.cc
 0.0.0.0 dld.bz
 0.0.0.0 dlik.ch
-0.0.0.0 dlink.me
 0.0.0.0 dlsh.it
 0.0.0.0 dlvr.it
 0.0.0.0 dly.es
@@ -2899,7 +2898,6 @@
 0.0.0.0 glincker.com
 0.0.0.0 glintsurvey.com
 0.0.0.0 glmr.co
-0.0.0.0 glnk.io
 0.0.0.0 glo.bo
 0.0.0.0 glo.wf
 0.0.0.0 glob.li
@@ -6116,7 +6114,6 @@
 0.0.0.0 pxl.fm
 0.0.0.0 pxlcrv.co
 0.0.0.0 pxlfy.me
-0.0.0.0 pxlme.me
 0.0.0.0 pxs.cl
 0.0.0.0 pxu.co
 0.0.0.0 pxxbet.promo
@@ -8578,6 +8575,7 @@
 0.0.0.0 unl.one
 0.0.0.0 unlink.fr
 0.0.0.0 unlockflowurls.com
+0.0.0.0 unnajd.com
 0.0.0.0 unp.my.id
 0.0.0.0 unpixly.com
 0.0.0.0 unshort.site
@@ -9459,7 +9457,6 @@
 0.0.0.0 wwtt.to
 0.0.0.0 www-go.net
 0.0.0.0 www-tinyurl.com
-0.0.0.0 www.temporary-url.com
 0.0.0.0 wwww.destockdrive.com
 0.0.0.0 wwy.me
 0.0.0.0 wx.pn
@@ -9542,7 +9539,6 @@
 0.0.0.0 xortly.com
 0.0.0.0 xoxourl.com
 0.0.0.0 xozap.com
-0.0.0.0 xpixl.me
 0.0.0.0 xpol.com.tr
 0.0.0.0 xpr.li
 0.0.0.0 xprt.re

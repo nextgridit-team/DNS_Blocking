@@ -1,8 +1,9 @@
-2fcornwallintranet-cornwallservices.msappproxy.net
+05894af0-cb28-46d8-8716-74cdb46e2226.tenant.runtime.msappproxy.net
 5d471751-9675-428d-917b-70f44f9630b0.tenant.runtime.msappproxy.net
 autoupdate.msappproxy.net
 bootstrap-appproxy-cus-dm2p-1.msappproxy.net
 bootstrap-appproxy-eus-bl2p-1.msappproxy.net
+bootstrap-appproxy-weur-am3p-1.msappproxy.net
 bootstrap-cwap-eur1-runtime.routing.msappproxy.net
 bootstrap-cwap-nam1-runtime.routing.msappproxy.net
 bootstrap-eur1.his.msappproxy.net
@@ -18,8 +19,6 @@ connector.msappproxy.net
 crl-sunocoinc.msappproxy.net
 crl-wmic.msappproxy.net
 crldistributionpoint-viadcorp.msappproxy.net
-cwap-asia1-runtime.routing.msappproxy.net
-cwap-asia2-runtime.routing.msappproxy.net
 cwap-aus1-runtime.routing.msappproxy.net
 cwap-aus2-runtime.routing.msappproxy.net
 cwap-eur1-runtime.routing.msappproxy.net
@@ -46,14 +45,11 @@ ndes01-ansys.msappproxy.net
 ndescont-petrobrasbr.msappproxy.net
 ocsp-aeliadutyfree.msappproxy.net
 ocsp-arrowelectronics.msappproxy.net
+pkicrl-abcportal.msappproxy.net
 porto.wus24.msappproxy.net
 proxy-appproxy-cus-dsm01p-5.msappproxy.net
 proxy-appproxy-eus-bl02p-2.msappproxy.net
 proxy-appproxy-seaus-ml1p-1.msappproxy.net
-proxy-porto-cae-qb1p-1.msappproxy.net
-proxy-porto-scus-sat02p-2.msappproxy.net
-proxy-porto-scus-sn3p-1.msappproxy.net
-proxy-porto-scus-snz04p-3.msappproxy.net
 pshr-nmhealth.msappproxy.net
 pta.bootstrap.his.msappproxy.net
 pursuitndesintune-pursuit365.msappproxy.net
@@ -62,6 +58,7 @@ recastgateway-armstrongceilings.msappproxy.net
 renewtrust.msappproxy.net
 routing.msappproxy.net
 runtime.msappproxy.net
+skyseagw01-saijoedu.msappproxy.net
 syncfabric.bootstrap.his.msappproxy.net
 tenant.runtime.msappproxy.net
 update-cus-dm2p-1.msappproxy.net

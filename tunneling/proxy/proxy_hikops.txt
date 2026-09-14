@@ -29,7 +29,6 @@ sslproxy.gateway-php.hikops.com
 sslproxy.gateway-prd.cslaves-org-ad.hikops.com
 sslproxy.gateway-stats.gateway-resetcvs-v.hikops.com
 sslproxy.gateway-v-login.cmsaops-v-login.hikops.com
-sslproxy.gateway-v-login.cvs-login-login.hikops.com
 sslproxy.gateway-v-login.cvs-login.hikops.com
 sslproxy.gateway-v-login.cvs-v-login.hikops.com
 sslproxy.gateway-v-login.prod-v.hikops.com
@@ -77,6 +76,7 @@ sslproxy.gateway.traincvs-cslaves-v-v-v.cvs-pages.hikops.com
 sslproxy.gateway.webapp-vcvs-v.hikops.com
 sslproxy.gateway2.v.hikops.com
 sslproxy.gateway2001.cslaves-v-v-vmeeting.cvs.hikops.com
+sslproxy.gateway5-login.prod-v-login.hikops.com
 sslproxy.gateway7.prod-login-login.hikops.com
 sslproxy.gateway8-v.hikops.com
 sslproxy.gateway8.hikops.com

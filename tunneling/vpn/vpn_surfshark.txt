@@ -3,6 +3,7 @@ ae-dub.prod.surfshark.com
 al-tia.prod.surfshark.com
 am-evn.prod.surfshark.com
 api.surfshark.com
+app-stats.surfshark.com
 ar-bua.prod.surfshark.com
 at-vie.prod.surfshark.com
 au-adl.prod.surfshark.com
@@ -40,7 +41,6 @@ co-bog.prod.surfshark.com
 cr-sjn.prod.surfshark.com
 cy-nic.prod.surfshark.com
 cz-prg.prod.surfshark.com
-d.surfshark.com
 de-ber.prod.surfshark.com
 de-fra-st001.prod.surfshark.com
 de-fra-st002.prod.surfshark.com
@@ -62,7 +62,6 @@ es-mad.prod.surfshark.com
 es-vlc.prod.surfshark.com
 ext.surfshark.com
 fi-hel.prod.surfshark.com
-fr-bod-v043.prod.surfshark.com
 fr-bod.prod.surfshark.com
 fr-mrs.prod.surfshark.com
 fr-par.prod.surfshark.com
@@ -195,16 +194,11 @@ uk-lon-st005.prod.surfshark.com
 uk-lon-v118.prod.surfshark.com
 uk-lon-v130.prod.surfshark.com
 uk-lon-v186.prod.surfshark.com
-uk-lon-v188.prod.surfshark.com
 uk-lon-v193.prod.surfshark.com
 uk-lon-v202.prod.surfshark.com
 uk-lon-v217.prod.surfshark.com
 uk-lon-v221.prod.surfshark.com
 uk-lon-v234.prod.surfshark.com
-uk-lon-v273.prod.surfshark.com
-uk-lon-v279.prod.surfshark.com
-uk-lon-v333.prod.surfshark.com
-uk-lon-v363.prod.surfshark.com
 uk-lon-v385.prod.surfshark.com
 uk-lon.prod.surfshark.com
 uk-man-v221.prod.surfshark.com
@@ -218,7 +212,6 @@ us-ash-v009.prod.surfshark.com
 us-ash-v010.prod.surfshark.com
 us-ash-v011.prod.surfshark.com
 us-ash-v013.prod.surfshark.com
-us-ash-v014.prod.surfshark.com
 us-ash-v015.prod.surfshark.com
 us-ash-v017.prod.surfshark.com
 us-ash-v019.prod.surfshark.com
@@ -226,19 +219,16 @@ us-ash-v020.prod.surfshark.com
 us-ash-v025.prod.surfshark.com
 us-ash-v028.prod.surfshark.com
 us-ash-v030.prod.surfshark.com
-us-ash-v032.prod.surfshark.com
 us-ash-v034.prod.surfshark.com
 us-ash-v036.prod.surfshark.com
 us-ash-v038.prod.surfshark.com
 us-ash-v039.prod.surfshark.com
 us-ash-v041.prod.surfshark.com
 us-ash-v047.prod.surfshark.com
-us-ash-v051.prod.surfshark.com
 us-ash-v052.prod.surfshark.com
 us-ash-v053.prod.surfshark.com
 us-ash-v058.prod.surfshark.com
 us-ash.prod.surfshark.com
-us-atl-v047.prod.surfshark.com
 us-atl-v068.prod.surfshark.com
 us-atl.prod.surfshark.com
 us-bdn.prod.surfshark.com
@@ -273,7 +263,6 @@ us-nyc-st002.prod.surfshark.com
 us-nyc-st003.prod.surfshark.com
 us-nyc-st004.prod.surfshark.com
 us-nyc-st005.prod.surfshark.com
-us-nyc-v032.prod.surfshark.com
 us-nyc-v049.prod.surfshark.com
 us-nyc-v051.prod.surfshark.com
 us-nyc-v055.prod.surfshark.com
@@ -287,9 +276,7 @@ us-nyc-v098.prod.surfshark.com
 us-nyc-v108.prod.surfshark.com
 us-nyc-v111.prod.surfshark.com
 us-nyc-v116.prod.surfshark.com
-us-nyc-v134.prod.surfshark.com
-us-nyc-v139.prod.surfshark.com
-us-nyc-v143.prod.surfshark.com
+us-nyc-v122.prod.surfshark.com
 us-nyc-v145.prod.surfshark.com
 us-nyc-v150.prod.surfshark.com
 us-nyc-v157.prod.surfshark.com
@@ -308,6 +295,5 @@ uz-tas.prod.surfshark.com
 ve-car.prod.surfshark.com
 vn-hcm.prod.surfshark.com
 webfilter.surfshark.com
-webfilterstatus.surfshark.com
 wgs.prod.surfshark.com
 za-jnb.prod.surfshark.com
