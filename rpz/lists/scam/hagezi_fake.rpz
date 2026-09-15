@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-14 07:48:57 UTC
+; Generated: 2026-09-15 07:34:32 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 16709
+; Original domains (before deduplication): 16727
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091407 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091507 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -1046,6 +1046,9 @@ aureamunich.de CNAME .
 aureliustrust.uk CNAME .
 aurelllc.com CNAME .
 aurendal.com CNAME .
+aureon-corevix.net CNAME .
+aureoncorevix-fr.com CNAME .
+aureoncorevix.net CNAME .
 auresthiqan.sbs CNAME .
 aurevo-fashion.com CNAME .
 aurexk-pital.com CNAME .
@@ -1294,6 +1297,7 @@ balfourcapitalgroup.com CNAME .
 balkonfix.com CNAME .
 balloret.com CNAME .
 ballqen.com CNAME .
+ballshops.com CNAME .
 ballszone.de CNAME .
 balony.de CNAME .
 balotracity.com CNAME .
@@ -1615,6 +1619,7 @@ best-elekt.com CNAME .
 best-good-winery.com CNAME .
 best-musical-discount.com CNAME .
 best-parts-warehouse.com CNAME .
+best-pdf.com CNAME .
 best-pharmacy.to CNAME .
 best-sauna.org CNAME .
 best-shop-it.com CNAME .
@@ -1656,6 +1661,7 @@ bestermarkt.com CNAME .
 bestes-brennholz-pellets.de CNAME .
 bestesangebot24.de CNAME .
 besteschlaftabletten.com CNAME .
+bestestrikot.com CNAME .
 besteuhren.io CNAME .
 besteuhren.to CNAME .
 besteware24.de CNAME .
@@ -1896,7 +1902,6 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -2417,7 +2422,6 @@ campingzubehorhub.com CNAME .
 camptool-shop.com CNAME .
 camuya.shop CNAME .
 canada-pharmacy-24h.com CNAME .
-canadadrugstore.com CNAME .
 canadanewsreport.com CNAME .
 canadapharmacypro.com CNAME .
 canadapharmacytrust.net CNAME .
@@ -2948,6 +2952,7 @@ consumptione.com CNAME .
 container-sodex.com CNAME .
 containerbike.de CNAME .
 containerbikes.de CNAME .
+containerdhggmbh.de CNAME .
 containerdienst-aur.de CNAME .
 containerdienstheiliggmbh.de CNAME .
 containergierichgmbh.de CNAME .
@@ -2993,6 +2998,7 @@ corestationsystems.sbs CNAME .
 corevitalnutraceuticals.com CNAME .
 corisfinance.com CNAME .
 corkandopop.shop CNAME .
+corpagenesis-fr.net CNAME .
 corporationw.com CNAME .
 corralwestboot.com CNAME .
 correspondine.com CNAME .
@@ -3407,6 +3413,7 @@ decisionw.com CNAME .
 deckcalmn.com CNAME .
 decohousely.com CNAME .
 decokento.com CNAME .
+deconestprolab.com CNAME .
 decoopy.com CNAME .
 decor-muse.com CNAME .
 decoratetheroom.com CNAME .
@@ -4296,6 +4303,7 @@ elevista.de CNAME .
 elevus.de CNAME .
 elfbarsvape.com CNAME .
 elffreundeshop.de CNAME .
+eliovence.com CNAME .
 elipolyse.de CNAME .
 elisabethwien.at CNAME .
 elisabethwien.com CNAME .
@@ -4992,7 +5000,6 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
-fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -5451,6 +5458,7 @@ fuehrungsregister.de CNAME .
 fuehrungszeugnis.at CNAME .
 fuelglovet.com CNAME .
 fuelmeister.de CNAME .
+fugespace.com CNAME .
 fuggler.at CNAME .
 fuhrerschein-kaufenonline.com CNAME .
 fuhrmann.store CNAME .
@@ -6877,7 +6885,6 @@ hezoposo.com CNAME .
 hgtyfd.shop CNAME .
 hi-goeedoo.com CNAME .
 hibote.de CNAME .
-hicity.de CNAME .
 hico-shop.de CNAME .
 hiddenbarandgrill.com CNAME .
 hiddenhertz.com CNAME .
@@ -7011,6 +7018,7 @@ holzharry.shop CNAME .
 holzhausenug.de CNAME .
 holzheiz.com CNAME .
 holzkerssenbrock.de CNAME .
+holzklima.de CNAME .
 holzkraft.pro CNAME .
 holzlangbau.de CNAME .
 holzleitnergmbh.de CNAME .
@@ -7110,6 +7118,7 @@ horizontfenster.de CNAME .
 horizontix.de CNAME .
 hormanns24.de CNAME .
 hormans.de CNAME .
+hornwald.com CNAME .
 hornwald.de CNAME .
 horstseefeld.de CNAME .
 hortmann-gesetz.de CNAME .
@@ -8956,6 +8965,7 @@ locationconseilsfinanciers.fr CNAME .
 locations.crocs.de CNAME .
 lockpickingstore.de CNAME .
 locmyparcel.com CNAME .
+locmyparcel.info CNAME .
 locomotivey.com CNAME .
 lodgeo.shop CNAME .
 lodischuhedeutschland.com CNAME .
@@ -9399,6 +9409,7 @@ marketgiants.com CNAME .
 marketinghouse.at CNAME .
 marketmarkdowns.com CNAME .
 marketoptions.com CNAME .
+marketorbitlabs.it.com CNAME .
 marketpills4you.com CNAME .
 markets-capital.com CNAME .
 markets-investment.com CNAME .
@@ -9850,6 +9861,7 @@ minosec.com CNAME .
 minoxidil-shop.cz CNAME .
 minoxidily.eu CNAME .
 mintchop.com CNAME .
+minteech.com CNAME .
 miraeeparis.de CNAME .
 mirainvestments.ltd CNAME .
 miraiweb.org CNAME .
@@ -10101,6 +10113,7 @@ monthlyi.com CNAME .
 montivo.de CNAME .
 montmode.de CNAME .
 montparvie-v-gestion.com CNAME .
+montrereplique.to CNAME .
 monvada.de CNAME .
 moodcheerful.com CNAME .
 moodlily.de CNAME .
@@ -10438,6 +10451,7 @@ ndfinitee.com CNAME .
 near-on-chain.de CNAME .
 neary.de CNAME .
 neatherlandnewstoday.com CNAME .
+nebelrad.de CNAME .
 nebula-witch-power.com CNAME .
 nebulain.com CNAME .
 necessityi.com CNAME .
@@ -11194,6 +11208,8 @@ originalcrypto.com CNAME .
 originalshrvatska.co CNAME .
 origincrypto.com CNAME .
 orileda.de CNAME .
+orion-warenhandel.com CNAME .
+orion-warenhandel.de CNAME .
 orivelle-official.com CNAME .
 orizo.de CNAME .
 orlend.com CNAME .
@@ -11401,7 +11417,6 @@ pandoracharms.uk.com CNAME .
 pandorade.de CNAME .
 pandorakorut.com CNAME .
 pandoraringsuk.com CNAME .
-pandoras-outlet.com CNAME .
 panelaeki.de CNAME .
 pankratiusgarten.de CNAME .
 panolu-shop.com CNAME .
@@ -12350,6 +12365,7 @@ red-ph-market.com CNAME .
 reda-prikolica.com CNAME .
 redbeautysalon.com CNAME .
 redefinedrebelit.com CNAME .
+redlich-becker.de CNAME .
 redstarchain.com CNAME .
 reduktionszone.de CNAME .
 redwing.at CNAME .
@@ -13636,7 +13652,6 @@ sofort-registerauszug24.de CNAME .
 sofortfinanz.com CNAME .
 soft-handel.de CNAME .
 softdays-shop.de CNAME .
-softelektro.com CNAME .
 softgarments.com CNAME .
 softritualsco.shop CNAME .
 software-onsale.com CNAME .
@@ -13937,6 +13952,7 @@ ssystrypers.com CNAME .
 st-conseils.com CNAME .
 stabileersatzteile.com CNAME .
 stabletrader-ai.net CNAME .
+stadlwerk.de CNAME .
 stadsug.com CNAME .
 stadtplan-local.com CNAME .
 stahlmotorrad.com CNAME .
@@ -14299,6 +14315,7 @@ surflyn.myshopify.com CNAME .
 surroun.com CNAME .
 suscap-ag.de CNAME .
 suveneoutlet.com CNAME .
+suxxessfx.com CNAME .
 svelton.com CNAME .
 sverigewind.com CNAME .
 svetozar.org CNAME .
@@ -15382,6 +15399,7 @@ uschristmashalloween.com CNAME .
 usebrainonline.com CNAME .
 user.manson-group.pro CNAME .
 user.portal-zone.org CNAME .
+usezazzi.com CNAME .
 usezunna.com CNAME .
 usgolfofficial.com CNAME .
 ushomeshop.com CNAME .

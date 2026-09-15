@@ -1,7 +1,7 @@
 # Scam Blocklist
-# Generated: 2026-09-14 07:48:57 UTC
+# Generated: 2026-09-15 07:34:32 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 309840
+# Original domains (before deduplication): 309858
 
 0.0.0.0 0-0-----------------------------------------------------------0.com
 0.0.0.0 0-google.com
@@ -16998,6 +16998,9 @@
 0.0.0.0 aurendal.com
 0.0.0.0 aurentcore.live
 0.0.0.0 aureo-flowdex-platform.com
+0.0.0.0 aureon-corevix.net
+0.0.0.0 aureoncorevix-fr.com
+0.0.0.0 aureoncorevix.net
 0.0.0.0 auresthiqan.sbs
 0.0.0.0 aureumcapital.live
 0.0.0.0 aureuswealth-app.com
@@ -18695,6 +18698,7 @@
 0.0.0.0 ballonfahrten-in-saarland.de
 0.0.0.0 balloret.com
 0.0.0.0 ballqen.com
+0.0.0.0 ballshops.com
 0.0.0.0 ballszone.de
 0.0.0.0 ballwatch.top
 0.0.0.0 balmiscay.shop
@@ -20322,6 +20326,7 @@
 0.0.0.0 best-parts-warehouse.com
 0.0.0.0 best-pc-security.uk
 0.0.0.0 best-pc-support.com
+0.0.0.0 best-pdf.com
 0.0.0.0 best-pharmacy.to
 0.0.0.0 best-printer-support.uk
 0.0.0.0 best-prizehouse.com
@@ -20527,6 +20532,7 @@
 0.0.0.0 bestessaysdiscountcode.com
 0.0.0.0 bestessaysexperts.com
 0.0.0.0 bestessaytips.com
+0.0.0.0 bestestrikot.com
 0.0.0.0 bestetechsupport.com
 0.0.0.0 bestetnpool.com
 0.0.0.0 bestetter.com
@@ -21937,7 +21943,6 @@
 0.0.0.0 bitcoin-tipaul.com
 0.0.0.0 bitcoin-uk.ga
 0.0.0.0 bitcoin-ukraine.com.ua
-0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoin.bg
 0.0.0.0 bitcoin.cz
@@ -27484,7 +27489,6 @@
 0.0.0.0 canadaappletechsupport.com
 0.0.0.0 canadacarhistory.com
 0.0.0.0 canadacis.org
-0.0.0.0 canadadrugstore.com
 0.0.0.0 canadafirearmspower.com
 0.0.0.0 canadafreepress.com
 0.0.0.0 canadagoogsejp.com
@@ -39079,6 +39083,7 @@
 0.0.0.0 containeralliance.co.za
 0.0.0.0 containerbike.de
 0.0.0.0 containerbikes.de
+0.0.0.0 containerdhggmbh.de
 0.0.0.0 containerdienst-aur.de
 0.0.0.0 containerdienstheiliggmbh.de
 0.0.0.0 containergierichgmbh.de
@@ -39428,6 +39433,7 @@
 0.0.0.0 coronafondenza.live
 0.0.0.0 coronatoken.org
 0.0.0.0 coronrinfr.cyou
+0.0.0.0 corpagenesis-fr.net
 0.0.0.0 corporate-helpdesk.com
 0.0.0.0 corporate-policy-updates.com
 0.0.0.0 corporateofficesupport.com
@@ -43645,6 +43651,7 @@
 0.0.0.0 decompressive.us
 0.0.0.0 deconciliocornici.it
 0.0.0.0 decondition.us
+0.0.0.0 deconestprolab.com
 0.0.0.0 decongest.us
 0.0.0.0 decongestant.us
 0.0.0.0 decongestion.us
@@ -50148,6 +50155,7 @@
 0.0.0.0 elinvetic.com
 0.0.0.0 elioroom.com
 0.0.0.0 eliotfetel.cyou
+0.0.0.0 eliovence.com
 0.0.0.0 elipolyse.de
 0.0.0.0 elisabethwien.at
 0.0.0.0 elisabethwien.com
@@ -59709,7 +59717,6 @@
 0.0.0.0 fetischkamera.net
 0.0.0.0 fetish-nextdoor.com
 0.0.0.0 fetishmatch.stream
-0.0.0.0 fetishmegastore.com
 0.0.0.0 fetormate.stream
 0.0.0.0 fettabsaugung-in-koeln.de
 0.0.0.0 fettamated.stream
@@ -63890,6 +63897,7 @@
 0.0.0.0 fuenteprofitaje.live
 0.0.0.0 fuertecoin.network
 0.0.0.0 fugacity.us
+0.0.0.0 fugespace.com
 0.0.0.0 fuggiest.us
 0.0.0.0 fuggler.at
 0.0.0.0 fugkkarh.shop
@@ -72289,7 +72297,6 @@
 0.0.0.0 hibote.de
 0.0.0.0 hibtgsibarfg.bid
 0.0.0.0 hichina.co.uk
-0.0.0.0 hicity.de
 0.0.0.0 hickmedia.com
 0.0.0.0 hickorysun.com
 0.0.0.0 hico-shop.de
@@ -72919,6 +72926,7 @@
 0.0.0.0 holzhausenug.de
 0.0.0.0 holzheiz.com
 0.0.0.0 holzkerssenbrock.de
+0.0.0.0 holzklima.de
 0.0.0.0 holzkraft.pro
 0.0.0.0 holzlangbau.de
 0.0.0.0 holzleitnergmbh.de
@@ -73443,6 +73451,7 @@
 0.0.0.0 hornpipe.us
 0.0.0.0 hornpout.us
 0.0.0.0 horntail.us
+0.0.0.0 hornwald.com
 0.0.0.0 hornwald.de
 0.0.0.0 hornworm.us
 0.0.0.0 hornwort.us
@@ -90472,6 +90481,7 @@
 0.0.0.0 lockrams.stream
 0.0.0.0 lockyertwo.stream
 0.0.0.0 locmyparcel.com
+0.0.0.0 locmyparcel.info
 0.0.0.0 locomotivey.com
 0.0.0.0 locomotivk.com
 0.0.0.0 locumrecoils.online
@@ -94610,6 +94620,7 @@
 0.0.0.0 marketonline-pl.shop
 0.0.0.0 marketopia.shop
 0.0.0.0 marketoptions.com
+0.0.0.0 marketorbitlabs.it.com
 0.0.0.0 marketoria.shop
 0.0.0.0 marketosupportservices.com
 0.0.0.0 marketpills4you.com
@@ -98741,6 +98752,7 @@
 0.0.0.0 mintbastro.pro
 0.0.0.0 mintchop.com
 0.0.0.0 mintcustomersupport.com
+0.0.0.0 minteech.com
 0.0.0.0 minti.live
 0.0.0.0 mintme.cf
 0.0.0.0 mintme.com
@@ -100604,6 +100616,7 @@
 0.0.0.0 montreal-pest-control.ca
 0.0.0.0 montrehublot.com
 0.0.0.0 montrelakrovanixora.site
+0.0.0.0 montrereplique.to
 0.0.0.0 montres-pascher.fr
 0.0.0.0 montrielle.live
 0.0.0.0 montytool.ru
@@ -103848,6 +103861,7 @@
 0.0.0.0 nebabrop.com
 0.0.0.0 nebarinna.cyou
 0.0.0.0 nebbiafroa.cyou
+0.0.0.0 nebelrad.de
 0.0.0.0 nebraska-job-openings.info
 0.0.0.0 nebraska-jobs.info
 0.0.0.0 nebronflex-software.com
@@ -113210,6 +113224,8 @@
 0.0.0.0 orileda.de
 0.0.0.0 oriolusnu.online
 0.0.0.0 orion-code-software.com
+0.0.0.0 orion-warenhandel.com
+0.0.0.0 orion-warenhandel.de
 0.0.0.0 orionsalessupport.com
 0.0.0.0 orionsalessupport.net
 0.0.0.0 orionstaffingsupport.com
@@ -114761,7 +114777,6 @@
 0.0.0.0 pandorarings.cn
 0.0.0.0 pandorarings.me
 0.0.0.0 pandoraringsuk.com
-0.0.0.0 pandoras-outlet.com
 0.0.0.0 pandorashoponline.top
 0.0.0.0 pandorastoresaleol.top
 0.0.0.0 pandorasupportnumber.com
@@ -128670,6 +128685,7 @@
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redirhub.top
 0.0.0.0 redit.support
+0.0.0.0 redlich-becker.de
 0.0.0.0 redlily.com
 0.0.0.0 redlink.life
 0.0.0.0 redlink.net.ru
@@ -139892,7 +139908,6 @@
 0.0.0.0 softdays-shop.de
 0.0.0.0 softechrevolution.online
 0.0.0.0 softechsupport.com
-0.0.0.0 softelektro.com
 0.0.0.0 softfileslink.com
 0.0.0.0 softfix.co.uk
 0.0.0.0 softgarments.com
@@ -142146,6 +142161,7 @@
 0.0.0.0 stacos.shop
 0.0.0.0 staddbusinessgroup.com
 0.0.0.0 stadiumshop.sbs
+0.0.0.0 stadlwerk.de
 0.0.0.0 stadsug.com
 0.0.0.0 stadtplan-local.com
 0.0.0.0 staerkkapitalekt-da.com
@@ -148212,6 +148228,7 @@
 0.0.0.0 suvsee.com
 0.0.0.0 suwadesdshrg.com
 0.0.0.0 suwarisara.com
+0.0.0.0 suxxessfx.com
 0.0.0.0 suzdalcrb.ru
 0.0.0.0 suzunokiyou.net
 0.0.0.0 suzzaalleg.cyou
@@ -163963,6 +163980,7 @@
 0.0.0.0 userwebalerts.win
 0.0.0.0 usetech.co
 0.0.0.0 useum.org
+0.0.0.0 usezazzi.com
 0.0.0.0 usezunna.com
 0.0.0.0 usfactoies.com
 0.0.0.0 usfakdxuo.bid

@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-14 07:48:57 UTC
+; Generated: 2026-09-15 07:34:32 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 309840
+; Original domains (before deduplication): 309858
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091407 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091507 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -20232,6 +20232,9 @@ aurelvanto-ai.com CNAME .
 aurendal.com CNAME .
 aurentcore.live CNAME .
 aureo-flowdex-platform.com CNAME .
+aureon-corevix.net CNAME .
+aureoncorevix-fr.com CNAME .
+aureoncorevix.net CNAME .
 auresthiqan.sbs CNAME .
 aureumcapital.live CNAME .
 aureuswealth-app.com CNAME .
@@ -21940,6 +21943,7 @@ ballmoneys.com CNAME .
 ballonfahrten-in-saarland.de CNAME .
 balloret.com CNAME .
 ballqen.com CNAME .
+ballshops.com CNAME .
 ballszone.de CNAME .
 ballwatch.top CNAME .
 balmiscay.shop CNAME .
@@ -23500,6 +23504,7 @@ best-online-profits3.com CNAME .
 best-p2pool.eu CNAME .
 best-parts-warehouse.com CNAME .
 best-pc-support.com CNAME .
+best-pdf.com CNAME .
 best-pharmacy.to CNAME .
 best-printer-support.uk CNAME .
 best-prizehouse.com CNAME .
@@ -23702,6 +23707,7 @@ bestessays.topnotchpapers.com CNAME .
 bestessaysdiscountcode.com CNAME .
 bestessaysexperts.com CNAME .
 bestessaytips.com CNAME .
+bestestrikot.com CNAME .
 bestetnpool.com CNAME .
 bestetter.com CNAME .
 besteuhren.io CNAME .
@@ -25065,7 +25071,6 @@ bitcoin-server.de CNAME .
 bitcoin-smart.net CNAME .
 bitcoin-support-number.com CNAME .
 bitcoin-ukraine.com.ua CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoin.au-topselection.online CNAME .
 bitcoin.bg CNAME .
@@ -30435,7 +30440,6 @@ canada-update-secure.com CNAME .
 canadaappletechsupport.com CNAME .
 canadacarhistory.com CNAME .
 canadacis.org CNAME .
-canadadrugstore.com CNAME .
 canadafirearmspower.com CNAME .
 canadafreepress.com CNAME .
 canadagoogsejp.com CNAME .
@@ -41731,6 +41735,7 @@ container-sodex.com CNAME .
 containeralliance.co.za CNAME .
 containerbike.de CNAME .
 containerbikes.de CNAME .
+containerdhggmbh.de CNAME .
 containerdienst-aur.de CNAME .
 containerdienstheiliggmbh.de CNAME .
 containergierichgmbh.de CNAME .
@@ -42064,6 +42069,7 @@ coronacrypto.site CNAME .
 coronafondenza.live CNAME .
 coronatoken.org CNAME .
 coronrinfr.cyou CNAME .
+corpagenesis-fr.net CNAME .
 corporate-helpdesk.com CNAME .
 corporate-policy-updates.com CNAME .
 corporateofficesupport.com CNAME .
@@ -46268,6 +46274,7 @@ decomposing.us CNAME .
 decompress.us CNAME .
 decompressive.us CNAME .
 decondition.us CNAME .
+deconestprolab.com CNAME .
 decongest.us CNAME .
 decongestant.us CNAME .
 decongestion.us CNAME .
@@ -52700,6 +52707,7 @@ elimiware.com CNAME .
 elinvetic.com CNAME .
 elioroom.com CNAME .
 eliotfetel.cyou CNAME .
+eliovence.com CNAME .
 elipolyse.de CNAME .
 elisabethwien.at CNAME .
 elisabethwien.com CNAME .
@@ -62361,7 +62369,6 @@ fetischkamera.com CNAME .
 fetischkamera.net CNAME .
 fetish-nextdoor.com CNAME .
 fetishmatch.stream CNAME .
-fetishmegastore.com CNAME .
 fetormate.stream CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettamated.stream CNAME .
@@ -66571,6 +66578,7 @@ fuenteprofitaje-ai-es.com CNAME .
 fuenteprofitaje.live CNAME .
 fuertecoin.network CNAME .
 fugacity.us CNAME .
+fugespace.com CNAME .
 fuggiest.us CNAME .
 fuggler.at CNAME .
 fugkkarh.shop CNAME .
@@ -75269,7 +75277,6 @@ hibiscushollow.com CNAME .
 hibote.de CNAME .
 hibtgsibarfg.bid CNAME .
 hichina.co.uk CNAME .
-hicity.de CNAME .
 hickmedia.com CNAME .
 hickorysun.com CNAME .
 hico-shop.de CNAME .
@@ -76043,6 +76050,7 @@ holzharry.shop CNAME .
 holzhausenug.de CNAME .
 holzheiz.com CNAME .
 holzkerssenbrock.de CNAME .
+holzklima.de CNAME .
 holzkraft.pro CNAME .
 holzlangbau.de CNAME .
 holzleitnergmbh.de CNAME .
@@ -76561,6 +76569,7 @@ hornlike.us CNAME .
 hornpipe.us CNAME .
 hornpout.us CNAME .
 horntail.us CNAME .
+hornwald.com CNAME .
 hornwald.de CNAME .
 hornworm.us CNAME .
 hornwort.us CNAME .
@@ -94952,6 +94961,7 @@ lockrams.stream CNAME .
 lockssky.radioguesser.com CNAME .
 lockyertwo.stream CNAME .
 locmyparcel.com CNAME .
+locmyparcel.info CNAME .
 locomotivey.com CNAME .
 locomotivk.com CNAME .
 locumrecoils.online CNAME .
@@ -99165,6 +99175,7 @@ marketmoney.pro CNAME .
 marketonline-pl.shop CNAME .
 marketopia.shop CNAME .
 marketoptions.com CNAME .
+marketorbitlabs.it.com CNAME .
 marketoria.shop CNAME .
 marketosupportservices.com CNAME .
 marketpills4you.com CNAME .
@@ -103408,6 +103419,7 @@ mint-star.pl CNAME .
 mintbastro.pro CNAME .
 mintchop.com CNAME .
 mintcustomersupport.com CNAME .
+minteech.com CNAME .
 minti.live CNAME .
 mintme.cf CNAME .
 mintme.com CNAME .
@@ -105284,6 +105296,7 @@ montreal-pelouse.ca CNAME .
 montreal-pest-control.ca CNAME .
 montrehublot.com CNAME .
 montrelakrovanixora.site CNAME .
+montrereplique.to CNAME .
 montres-pascher.fr CNAME .
 montrielle.live CNAME .
 montytool.ru CNAME .
@@ -108493,6 +108506,7 @@ neatone.stream CNAME .
 nebabrop.com CNAME .
 nebarinna.cyou CNAME .
 nebbiafroa.cyou CNAME .
+nebelrad.de CNAME .
 nebraska-job-openings.info CNAME .
 nebraska-jobs.info CNAME .
 nebronflex-software.com CNAME .
@@ -116497,6 +116511,8 @@ origyne.it CNAME .
 orileda.de CNAME .
 oriolusnu.online CNAME .
 orion-code-software.com CNAME .
+orion-warenhandel.com CNAME .
+orion-warenhandel.de CNAME .
 orionsalessupport.com CNAME .
 orionsalessupport.net CNAME .
 orionstaffingsupport.com CNAME .
@@ -118093,7 +118109,6 @@ pandorapow.com CNAME .
 pandorarings.cn CNAME .
 pandorarings.me CNAME .
 pandoraringsuk.com CNAME .
-pandoras-outlet.com CNAME .
 pandorashoponline.top CNAME .
 pandorastoresaleol.top CNAME .
 pandorasupportnumber.com CNAME .
@@ -132082,6 +132097,7 @@ redirector.me CNAME .
 redirectvirus.com CNAME .
 redirhub.top CNAME .
 redit.support CNAME .
+redlich-becker.de CNAME .
 redlily.com CNAME .
 redlink.life CNAME .
 redlink.net.ru CNAME .
@@ -143790,7 +143806,6 @@ softcorenet.site CNAME .
 softdays-shop.de CNAME .
 softechrevolution.online CNAME .
 softechsupport.com CNAME .
-softelektro.com CNAME .
 softfileslink.com CNAME .
 softfix.co.uk CNAME .
 softgarments.com CNAME .
@@ -146025,6 +146040,7 @@ stacos.shop CNAME .
 stacy53.hookupdating33.com CNAME .
 staddbusinessgroup.com CNAME .
 stadiumshop.sbs CNAME .
+stadlwerk.de CNAME .
 stadsug.com CNAME .
 stadtplan-local.com CNAME .
 staerkkapitalekt-da.com CNAME .
@@ -152158,6 +152174,7 @@ suveneoutlet.com CNAME .
 suvsee.com CNAME .
 suwadesdshrg.com CNAME .
 suwarisara.com CNAME .
+suxxessfx.com CNAME .
 suzdalcrb.ru CNAME .
 suzunokiyou.net CNAME .
 suzzaalleg.cyou CNAME .
@@ -168071,6 +168088,7 @@ userwebalerts.download CNAME .
 userwebalerts.review CNAME .
 userwebalerts.win CNAME .
 usetech.co CNAME .
+usezazzi.com CNAME .
 usezunna.com CNAME .
 usfactoies.com CNAME .
 usfakdxuo.bid CNAME .

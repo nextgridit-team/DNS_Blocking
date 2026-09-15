@@ -1,7 +1,7 @@
 # Badware Hoster Blocklist
-# Generated: 2026-09-14 07:48:57 UTC
+# Generated: 2026-09-15 07:34:32 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 1230
+# Original domains (before deduplication): 1229
 
 0.0.0.0 000.pe
 0.0.0.0 000a.de
@@ -976,7 +976,6 @@
 0.0.0.0 seite.ru
 0.0.0.0 seite24.eu
 0.0.0.0 seite77.de
-0.0.0.0 sendspace.com
 0.0.0.0 serv00.net
 0.0.0.0 server.gg
 0.0.0.0 server.tl

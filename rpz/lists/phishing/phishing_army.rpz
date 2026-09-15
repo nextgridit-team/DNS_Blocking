@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-14 07:48:57 UTC
+; Generated: 2026-09-15 07:34:32 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 385771
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091407 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091507 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -75136,7 +75136,6 @@ asporescxz.000webhostapp.com CNAME .
 aspossible.amazonyou.monster CNAME .
 aspprescfd.000webhostapp.com CNAME .
 aspqfdmlvv.duckdns.org CNAME .
-asprosport.es CNAME .
 asps.receivepost.com CNAME .
 asptgjhmfdf.weebly.com CNAME .
 aspvugfqnyatcrug-dot-millinium.ey.r.appspot.com CNAME .
@@ -371482,6 +371481,7 @@ splju-touchdownpr.ghjigclbopy.es CNAME .
 splorbnet.vercel.app CNAME .
 spoasmascaasro.shop CNAME .
 spoasmascaassk.shop CNAME .
+spoasmascsalero.com CNAME .
 spoasmotasa.com CNAME .
 spoasmotasro.shop CNAME .
 spoasmotsdro.shop CNAME .
