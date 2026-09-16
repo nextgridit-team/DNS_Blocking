@@ -15,6 +15,7 @@ bootstrap.msappproxy.net
 chartcrl-chartindustries.msappproxy.net
 connector.his.msappproxy.net
 connector.msappproxy.net
+cp1ra22-microsoft.msappproxy.net
 crl-sunocoinc.msappproxy.net
 crl-wmic.msappproxy.net
 crldistributionpoint-viadcorp.msappproxy.net
@@ -22,10 +23,12 @@ cwap-aus2-runtime.routing.msappproxy.net
 cwap-eur1-runtime.routing.msappproxy.net
 cwap-eur2-runtime.routing.msappproxy.net
 cwap-eur3-runtime.routing.msappproxy.net
+cwap-ind1-runtime.routing.msappproxy.net
 cwap-nam1-runtime.routing.msappproxy.net
 cwap-nam2-runtime.routing.msappproxy.net
 cwap-nam3-runtime.routing.msappproxy.net
 dhscares-nychra.msappproxy.net
+edf442f5-b994-4c86-a131-b42b03a16c95.tenant.runtime.msappproxy.net
 his.msappproxy.net
 intunendes-aeliadutyfree.msappproxy.net
 intunendesscep-jtekt.msappproxy.net
@@ -42,8 +45,11 @@ ndescont-petrobrasbr.msappproxy.net
 ndesscep-ocpsfl.msappproxy.net
 ocsp-aeliadutyfree.msappproxy.net
 ocsp-arrowelectronics.msappproxy.net
+orbit-techmahindra.msappproxy.net
+pr1ra22-microsoft.msappproxy.net
 proxy-appproxy-cus-dsm01p-5.msappproxy.net
 proxy-appproxy-eus-bl02p-2.msappproxy.net
+proxy-appproxy-ins-ma1p-1.msappproxy.net
 proxy-appproxy-seaus-ml1p-1.msappproxy.net
 psfs-nmhealth.msappproxy.net
 pshr-nmhealth.msappproxy.net
@@ -56,6 +62,7 @@ runtime.msappproxy.net
 student-uniwa.msappproxy.net
 syncfabric.bootstrap.his.msappproxy.net
 tenant.runtime.msappproxy.net
+timesheet-techmahindra.msappproxy.net
 update-cus-dm2p-1.msappproxy.net
 update-eus-bl2p-1.msappproxy.net
 updater-nam1-routing.msappproxy.net

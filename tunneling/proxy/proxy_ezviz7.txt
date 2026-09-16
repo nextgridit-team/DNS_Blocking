@@ -10,6 +10,7 @@ app0-idsru-0-splunk-miservicemanagerorwarder-account4-prd.webproxy.idsru-hd.0-id
 app0-idsru-0-splunk-miservicemanagerorwarder-cnbj3sgist5.webproxy.idsru-hd.0-idsru-0-docker-miservicemanagerorwarder-cnbj6semea.ezviz7.com
 app0-idsru-0-splunk-miservicemanagerorwarder-mesgpbj4bj6.webproxy.idsru-hd.0-idsru-0-splunk-admins-cnbj6semeasemea.ezviz7.com
 appapi-client.cas6dev.webproxy.idsru-hd.tester1.ezviz7.com
+appapi-www.cas6dev.webproxy.idsru-hd.tester1.ezviz7.com
 appapi.cas6dev.webproxy.idsru-hd.tester1.ezviz7.com
 appapi.webproxy.idsru-0-idsru-0-splunk-miservicemanagerorwarder-meseu-prd.0-idsru-0-splunk-miservicemanagerorwarder-cnbj5sawss8s.ezviz7.com
 appapi.webproxy.idsru-0-idsru-0-splunk-miservicemanagerorwarder-signed1.0-idsru-0-splunk-miservicemanagerorwarder-ebsbj6semea6semea.ezviz7.com
@@ -191,6 +192,7 @@ webproxy.idsru-apac1sip.0-idsru-0-splunk-miservicemanagerorwarder-pmssa8.ezviz7.
 webproxy.idsru-appapi.0-idsru-0-splunk-miserviceblogrorwarder-cnbj6semea.ezviz7.com
 webproxy.idsru-cnbj6sappapi.0-idsru-0-splunk-miservicemanagerorwarder-testbj3semeasemea.ezviz7.com
 webproxy.idsru-engine.0-idsru-0-cascn1-miservicemanagerorwarder66semea.ezviz7.com
+webproxy.idsru-hd-0-idsru-0-splunk-miservicedocsrorwarder-cnbj6-cnbj6.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd-0-idsru-0-splunk-tmesdev-priv6-prd.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd-angelo.ws-f5cassa3dev.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd-apache.0-idsru-0-splunk-miservicemanagerorwarder-cnbj6saws6.ezviz7.com
@@ -200,6 +202,7 @@ webproxy.idsru-hd-docsapi.0-idsru-0-splunk-miservicemanagerorwarder-cnbj6strial.
 webproxy.idsru-hd-financial-services-apigw.hml.cassa3dev.api-recoargoship.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd-financial-services-apigw.hml.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd-giftshop.sqa-tpm-eur104.cdcassa3dev.tesvtmng2dev.ezviz7.com
+webproxy.idsru-hd-hylt2.gcom.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd-messa.0-idsru-0-splunk-miservicemanagerorwarder-tester.ezviz7.com
 webproxy.idsru-hd-mx.0-idsru-0-splunk-miservicemanagement0rorwarder-cnbj6semea.ezviz7.com
 webproxy.idsru-hd-mx.0-idsru-0-splunk-miservicemanagerorwarder-cnbj6semea.ezviz7.com
@@ -351,25 +354,28 @@ webproxy.idsru-hd.cassa3dev-api.breviewbcc.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev-api.investorlineperfbcc.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev-catalogo.m.monthlybilling.secure.mobile.crownbet.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev-catalogo.m.monthlybilling.tesvtmng2dev.ezviz7.com
-webproxy.idsru-hd.cassa3dev-m-zh.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.87399tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-jobs-qa2.paknsave.cerberus.lyncdiscoveryatta.tesvtmng2dev-videof5ing.stage.alpha.m.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod-chi.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus-myperf.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.apmember-yatta.tesvtmng2dev-videof5ing-rms-qp.np-apps.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.ndes1.dev.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
+webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.secure.mobile.atgyattaeipp.tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.webmail.host3.yattaeipp.secure.mobile.artemisbet.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.int-asset2.vptesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.int-asset2.vptesvtmng2dev-videomeetingstage-logistics-scheduler-www9.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.stage.m.tesvtmng2dev-videof5ing.stage.alpha.test-android-api.app.m.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.test.scheduling.cargoservices.dit2.onlinebrokeragef5ing-rms-qp.np-apps.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.stage.ezviz7.com
+webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.stageuat-locations.mdm.ezviz7.com
+webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videof5ing.ubi-screen-stage.sccs.wellness.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.stage-bpm3-prod.xp.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.test.scheduling.cargoservices.stage-bpm3-prod.xp.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videomeetingqbdtipd.qbinproduct.stage.emby.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2dev-videomeetingqbdtipd.qbinproduct.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yatta.tesvtmng2harrowschoolonlinemeeting.stage.ezviz7.com
+webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yattaeipp.pos.int-sbusinesscenter-tesvtmng2dev-videomeeting.82-webtripquotesplus.sppro.pp-stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yattaeipp.ruscus.pierrefabretesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yattaeipp.tesvtmng2dev-videomeeting.eq-stage.ezviz7.com
 webproxy.idsru-hd.cassa3dev.api-recoprod.cerberus.yattaeipp.tesvtmng2dev-videomeeting.notebook-plp-dstage.ezviz7.com
@@ -418,6 +424,7 @@ webproxy.idsru-hd.cassa3dev.stage.sbx.clm-crmau-use.cdnacademy-westonfoods.devop
 webproxy.idsru-hd.cassa3dev.stage.sbx.ffc-static-cdn.oobesaasusecbjs.cdnacademy-westonfoods.pulseuatyestaxonline.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.mcontent-intg3.use.cdnacademy-westonfoodscreditoconsignado.i.tpulse.checkout-apollo-treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.media.resolutionrooms.supply-chain-use.cdnacademy-westonfoodscreditoconsignado.i.tpulse.checkout-apollo-treinamentotesvtmng2dev.ezviz7.com
+webproxy.idsru-hd.cassa3dev.stage.sbx.rtc.use.cdnacademy-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.uat-preview-www.accessonlineclientstaging.mideast.use.cdnacademy-westonfoods.www.lrh.usace.pulse.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.uat-preview.k.mideast.use.cdnacademy-westonfoods-m-ecwebq2.univision.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.uat-preview.mideast.csqua9fmcp.gw.use.cdnacademy-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
@@ -443,7 +450,6 @@ webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse-cms-argos
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse-cms.stg.nyc1.ff.web2.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse-cms.stg.treinamentotesvtmng2devstage.web2.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse.treinamentoomniview.ezviz7.com
-webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse.treinamentotesvtmng2dev-devadmin.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulse.www-147tesvtmng2devcontactless.ezviz7.com
 webproxy.idsru-hd.cassa3dev.stage.sbx.use.cdnacademy-westonfoods.pulseai-workflow.supply-chain.treinamentotesvtmng2dev.ezviz7.com
@@ -507,9 +513,11 @@ webproxy.idsru-hd.cassa3dev.tesvtmng2developer-ex-static-ltameeting.stage.ezviz7
 webproxy.idsru-hd.cassa3dev.tesvtmng2devgmrewards-cms.ext.ezviz7.com
 webproxy.idsru-hd.cassa3dev.tesvtmng2devsng-qa.businesscentral.ezviz7.com
 webproxy.idsru-hd.cassa3dev.www.fordeumedia-e-tesvtmng2dev.ezviz7.com
+webproxy.idsru-hd.cassa3dev.www.srs.sbx.use.cdnacademy-westonfoods.pulse.www-147tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3devasset-es.stage.sbx.useloyaltychair.cdn.pulse.www.nystateofhealth-treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3devinscricaopme.stage.web-asbx.use.cdnacademy-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3devinscricaopme.stage.web-asbx.use.cdnsimuharvest-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
+webproxy.idsru-hd.cassa3devpartners-commerce.stage.ott.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3devwebcentral.florists.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3mall.industry.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.cassa3mobile1.tesvtmng2dev.ezviz7.com
@@ -524,12 +532,13 @@ webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.pigeontesvtmng2dev-vide
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.sigma-api-int.search.tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.invoicestage.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.searchwe.ezviz7.com
-webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.stage.cashproonline-static-lta.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.stage.gpngyycgoyy.gw.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.ubusinesscenter.stage.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.wfm-pt-www-idtdev3-www.stage.ezviz7.com
 webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videomeeting.wfm-pt.stage.ezviz7.com
+webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.tesvtmng2dev-videouat.educationing.stage.ezviz7.com
+webproxy.idsru-hd.cassa3super-qa-recoprod.cerberus.yatta.webdisk.new-tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.cnbj3sidss8.ezviz7.com
 webproxy.idsru-hd.cnbj6scns3s.ezviz7.com
 webproxy.idsru-hd.cnbj6sisgp1s.ezviz7.com
@@ -554,10 +563,8 @@ webproxy.idsru-hd.embeds.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.events.ezviz7.com
 webproxy.idsru-hd.events6semea-admin.skins.ezviz7.com
 webproxy.idsru-hd.federalreserveplaza-uat-cassa3devwebcentral.florists.tangerinefx-secure.api-nfta.ezviz7.com
-webproxy.idsru-hd.federalreserveplaza-uat-cassa3devwebcentral.florists.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.federalreserveplaza-uat-cassa3devwebcentral.florists.tesvtmng2devpartner-secure.api-nfta-stagerbcdirectaccess.ezviz7.com
 webproxy.idsru-hd.federalreserveplaza-uat-dev-lexwebcentral.florists.tesvtmng2dev.ezviz7.com
-webproxy.idsru-hd.firewall5sctl5.ezviz7.com
 webproxy.idsru-hd.funpass-cassa3dev.m.monthlybilling.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.gh1euauth7devtesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.git3sip.ezviz7.com
@@ -573,6 +580,7 @@ webproxy.idsru-hd.kube.ezviz7.com
 webproxy.idsru-hd.las.0-idsru-0-splunk-miservicemanagerorwarder-cnbj6semeaeuauth5.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.lax-tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.m.configuratortesvtmng2dev.symptoms.preview.api-qp.np-events.0-idsru-0-splunk-cashproonline-ex-static-uat1c.vj-js-advisorgrouprorwarder-cnbjscassa65s3.ezviz7.com
+webproxy.idsru-hd.mgmt1-qa-gcpcassa3dev.api-recoprod.cerberus.yattaeipp.cbonline-sit5.tesvtmng2dev-videomeeting.stage.ezviz7.com
 webproxy.idsru-hd.miservice0rorwardertesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.miservicemesus1rorwarder-tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.navivrfy.symptoms.preview.0-idsru-0-splunk-cashproonline-ex-static-uat1c.vj-js-advisorgrouprorwarder-cnbjscassa65s3.ezviz7.com
@@ -581,7 +589,6 @@ webproxy.idsru-hd.pite.wpi.mortgage-cassa3dev.stage.sbx.use.business-bos-nft.tes
 webproxy.idsru-hd.retailfinancing-ti.apisxhr1cassa3dev.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.rm4-f5.democassa3dev.stage.sbx.use.business-bos-nft.test-westonfoods.pulse.treinamentotesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.sqa-tpm-eur104-ingest-pcd-emea2.cdcassa3dev.tesvtmng2dev.ezviz7.com
-webproxy.idsru-hd.sqa-tpm-eur104.cdcassa3dev.myfastermoneytesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.sqa-tpm-eur104.cdcassa3dev.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.sqa-tpm-eur104.cdcassa3devwebtools.tesvtmng2dev.ezviz7.com
 webproxy.idsru-hd.sqa-tpm-eur104.gb-pb.tesvtmng2dev.ezviz7.com
@@ -698,6 +705,7 @@ webproxy.idsru-ny-secure.mobile.livescore.0-idsru-0-splunk-miteammanagerorwarder
 webproxy.idsru-ny-stage-static.de.skyq.test-fleet.0-idsru-0-splunk-miteammanagerorwarder-cnbj6semeaswag.ezviz7.com
 webproxy.idsru-ny.0-idsru-0-splunk-miteammanagerorwarder-cnbj6semeaswag.ezviz7.com
 webproxy.idsru-ny.0-idsru-0-splunk-miteammanagerorwarder-cnbj6semeaswagpci-ccare.ezviz7.com
+webproxy.idsru-ny.test-fleet.0-idsru-0-splunk-miteammanagerorwarder-cnbj6semeaswag.ezviz7.com
 webproxy.idsru-nywww.go.0-idsru-0-splunk-miteammanagerorwarder-cnbj6semeaswag.ezviz7.com
 webproxy.idsru-wdev4.0-idsru-0-splunk-miservicemanagerorwarder-cnbj2smails2s.ezviz7.com
 webproxy.idsru-web.0-idsru-0-splunk-miservicemanagerorwarder-cnbj6semea-vtmeu.ezviz7.com
@@ -712,6 +720,7 @@ webproxy.idsru4ru-academy-westonfoods.bigred.idsru-hd.www.volkfield.ang.cafrtesv
 webproxy.idsru4ru-academy-westonfoods.bigred.witt-weiden.dam.acmeidsru-hd.dev.bundler.watchcode-gazer-staging.developerssignup.cafrtesvtmng2dev.ezviz7.com
 webproxy.idsru4ru-academy-westonfoods.bigred.witt-weiden.dam.acmeidsru-hd.signupladbrokes.cafrtesvtmng2dev.ezviz7.com
 webproxy.idsru4ru-academy-westonfoods.bigred.witt-weiden.dam.acmeidsru-hdpreprod2-bp.navitas.signup.pteweb-stg.ezviz7.com
+webproxy.idsru4ru-academy-westonfoods.bigred.www.m.shopidsru-hd.signup.cafrtesvtmng2dev.ezviz7.com
 webproxy.idsru4ru-academy-westonfoods.stepup-testbigred.idsru-hd-ext-dev.soa.morningstar.www.discoverup.cafrtesvtmng2dev.ezviz7.com
 webproxy.idsru4ru-academy-westonfoodsapi.investorlineperfscc.bigred.idsru-hd.signup.www03310aging.encafrtesvtmng2dev.ezviz7.com
 webproxy.idsru4ru-acdn.ocws.officeappsmy-westonfoods.bigred.idsru-hd.www.discoverup.cafrtesvtmng2dev.ezviz7.com
@@ -740,7 +749,6 @@ webproxy.idsru4ru.archerext-siprivatebankingidsru-hd-fwdl-mivo400.tesvtmng2dev.e
 webproxy.idsru4ru.archerext-siprivatebankingidsru-hd-fwdl-mivo400.tesvtmng2devkosodate-okuizumo-tool.ezviz7.com
 webproxy.idsru4ru.assets-global-idsru-hd.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.bigred-i.bg.idsru-hd.tesvtmng2dev.ezviz7.com
-webproxy.idsru4ru.bigred-science-resources.stg-wdf.idsru-hd.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.bigred.idsru-hd.tesvtmng2dev-us.qa.ezviz7.com
 webproxy.idsru4ru.bigred.idsru-hd.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.controllercheckinqaidsru-hd.tesvtmng2dev.ezviz7.com
@@ -755,6 +763,7 @@ webproxy.idsru4ru.idsru-hd-mobile-retail-baume-et-mercier-ext.tesvtmng2dev.ezviz
 webproxy.idsru4ru.idsru-hd-mobile-retail-baume-et-mercier-ext.tnzprdweb1cf8.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.idsru-hd-mobile-rmapsearch-baume-et-mercier-ext.tnzprdweb1cf8.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.idsru-hd-networkservices.tesvtmng2dev.ezviz7.com
+webproxy.idsru4ru.idsru-hd-www-dev3.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.idsru-hd.onemobile-tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.idsru-hd.st1-pm-benl.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.idsru-hd.st1-pm-benleastus.cxcs.tesvtmng2dev.ezviz7.com
@@ -767,7 +776,6 @@ webproxy.idsru4ru.idsru-hd.tesvtmng2dev.patient-telemedicine.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2dev.preprod-mfa-aggregate.nonprod.dsl.aws.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2dev.uat-static.ethan.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2dev7i.ezviz7.com
-webproxy.idsru4ru.idsru-hd.tesvtmng2devapi-hml.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2devcustomer-api-sit1.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2devdevapi.invest.ezviz7.com
 webproxy.idsru4ru.idsru-hd.tesvtmng2devemployerb.ezviz7.com
@@ -789,8 +797,8 @@ webproxy.idsru4ru.img09-idsru-hd.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.mediafiles.tesvtmng2dev-cargoservices.ezviz7.com
 webproxy.idsru4ru.one-brasil.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.onlinebanking-r8-qa.enroll-pre-tesvtmng2dev.ezviz7.com
-webproxy.idsru4ru.onlinebanking-r8-qa.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.pcfa-idsru-hd.tesvtmng2dev.ezviz7.com
+webproxy.idsru4ru.pcfa-idsru-hd.tesvtmng2dev.ripcurrents.ezviz7.com
 webproxy.idsru4ru.platformservicestest.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.privatebankingidsru-hd-fwdl-mivo400.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.privatebankingidsru-hd-wwwdf.tesvtmng2dev.ezviz7.com
@@ -858,6 +866,7 @@ webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mer
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp-partnerdeliverybeta.mercaripost.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp-partnerdem.tmupitrybeta.mercaripost.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp.m.mediateur.mercaripost.tesvtmng2dev.cerberus.ezviz7.com
+webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp.mercaripost-es-mx.tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp.mercaripost.image.beta.us-west-2.treadstonesalesforce-tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp.mercaripost.image.beta.us-west-2test-digital-congress.treadstonesalesforce-tesvtmng2dev.ezviz7.com
 webproxy.idsru4ru.push-center-sandbox-dev.ep-idsru-hd-mobile-retail-baume-et-mercier-ext-api-itg.storeedgefd.dsx.mp.mercaripost.image.salesforce-tesvtmng2dev.ezviz7.com

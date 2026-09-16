@@ -18,11 +18,13 @@ flightproxy-afrc-teams.trafficmanager.net
 flightproxy-apac-teams.trafficmanager.net
 flightproxy-aust-teams.trafficmanager.net
 flightproxy-emea-teams.trafficmanager.net
+flightproxy-india-teams.trafficmanager.net
 flightproxy-latm-noam-teams.trafficmanager.net
 flightproxy-noam-teams.trafficmanager.net
 flightproxy.teams.trafficmanager.net
 fw-proxy-ds-prod-eastus2.trafficmanager.net
 gs-achievements-shadowproxy-prodpme-traffic-manager.trafficmanager.net
+ind.proxy-1.appproxy.trafficmanager.net
 nam.bootstrap-1.appproxy.trafficmanager.net
 nam.proxy-1.appproxy.trafficmanager.net
 nam.proxy-2.appproxy.trafficmanager.net
@@ -37,6 +39,7 @@ proxy-amsub0202.trafficmanager.net
 proxy-amsub0302.trafficmanager.net
 proxy-amsud0101.trafficmanager.net
 proxy-msua06.trafficmanager.net
+r2-api-flightproxy-teams.trafficmanager.net
 r3-api-flightproxy-teams.trafficmanager.net
 reverseproxy.onenote.trafficmanager.net
 tm.aus.proxy-1.appproxy.trafficmanager.net
@@ -44,6 +47,7 @@ tm.aus.proxy-2.appproxy.trafficmanager.net
 tm.eur.proxy-1.appproxy.trafficmanager.net
 tm.eur.proxy-2.appproxy.trafficmanager.net
 tm.eur.proxy-3.appproxy.trafficmanager.net
+tm.ind.proxy-1.appproxy.trafficmanager.net
 tm.nam.bootstrap-1.appproxy.trafficmanager.net
 tm.nam.proxy-1.appproxy.trafficmanager.net
 tm.nam.proxy-2.appproxy.trafficmanager.net
@@ -58,6 +62,7 @@ www.tm.aus.proxy-2.appproxy.trafficmanager.net
 www.tm.eur.proxy-1.appproxy.trafficmanager.net
 www.tm.eur.proxy-2.appproxy.trafficmanager.net
 www.tm.eur.proxy-3.appproxy.trafficmanager.net
+www.tm.ind.proxy-1.appproxy.trafficmanager.net
 www.tm.nam.bootstrap-1.appproxy.trafficmanager.net
 www.tm.nam.proxy-1.appproxy.trafficmanager.net
 www.tm.nam.proxy-2.appproxy.trafficmanager.net

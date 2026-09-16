@@ -1,7 +1,7 @@
 # Adult Blocklist
-# Generated: 2026-09-15 07:34:32 UTC
+# Generated: 2026-09-16 07:33:32 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 125879
+# Original domains (before deduplication): 125877
 
 0.0.0.0 00000.uno
 0.0.0.0 0012238949191929.com
@@ -45361,7 +45361,6 @@
 0.0.0.0 plasfield.info
 0.0.0.0 plashporn.com
 0.0.0.0 plasmanai.net
-0.0.0.0 plasmaringa.com
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmid904.site
 0.0.0.0 plasmimmun.store
