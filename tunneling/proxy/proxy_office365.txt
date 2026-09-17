@@ -1,3 +1,5 @@
+be.proxyservice.directory.office365.com
+dc.proxyservice.directory.office365.com
 dod-govaz-02.ic3-calling-enterpriseproxy.usgovarizona-dod.cosmic-dod.office365.us
 dod-govtx-02.ic3-calling-enterpriseproxy.usgovtexas-dod.cosmic-dod.office365.us
 epx-enterpriseproxy-1.fd02-016.ic3-calling-enterpriseproxy.01-usgovarizona-dod.cosmic-dod.office365.us
@@ -20,6 +22,8 @@ fd02-016.ic3-calling-enterpriseproxy.01-usgovarizona-dod.cosmic-dod.office365.us
 fd02-016.ic3-calling-enterpriseproxy.01-usgovtexas-dod.cosmic-dod.office365.us
 fh02-014.ic3-calling-enterpriseproxy.01-usgovtexas-gcch.cosmic-gcch.office365.us
 fh02-015.ic3-calling-enterpriseproxy.01-usgovarizona-gcch.cosmic-gcch.office365.us
+fh02-015.ic3-calling-enterpriseproxy.01-usgovtexas-gcch.cosmic-gcch.office365.us
+fh02-016.ic3-calling-enterpriseproxy.01-usgovarizona-gcch.cosmic-gcch.office365.us
 govaz-02.ic3-calling-enterpriseproxy.usgovarizona-gcch.cosmic-gcch.office365.us
 govtx-02.ic3-calling-enterpriseproxy.usgovtexas-gcch.cosmic-gcch.office365.us
 ic3-calling-enterpriseproxy.01-usgovarizona-dod.cosmic-dod.office365.us
@@ -30,3 +34,5 @@ ic3-calling-enterpriseproxy.usgovarizona-dod.cosmic-dod.office365.us
 ic3-calling-enterpriseproxy.usgovarizona-gcch.cosmic-gcch.office365.us
 ic3-calling-enterpriseproxy.usgovtexas-dod.cosmic-dod.office365.us
 ic3-calling-enterpriseproxy.usgovtexas-gcch.cosmic-gcch.office365.us
+proxyservice.directory.office365.com
+rw.proxyservice.directory.office365.com

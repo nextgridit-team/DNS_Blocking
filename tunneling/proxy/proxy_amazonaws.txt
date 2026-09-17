@@ -126,6 +126,7 @@ collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com
 collector-proxy-alb-219327045.eu-west-2.elb.amazonaws.com
 collector-proxy-alb-744229001.ap-southeast-2.elb.amazonaws.com
 connect-prod-rev-proxy-1939600382.us-east-1.elb.amazonaws.com
+consproxy-usw2-prod-alb-655411174.us-west-2.elb.amazonaws.com
 consproxy-usw2-prod-nlb-0a749017bdeedff9.elb.us-west-2.amazonaws.com
 consproxy-usw2-prod-nlb-e3e0cd6f96c4a7ad.elb.us-west-2.amazonaws.com
 ct-phoenix-proxy-it-prod-v6-44d1f2230a55cb76.elb.eu-west-3.amazonaws.com
@@ -197,7 +198,6 @@ proxy-uni-login-cigna-prod-1630199742.us-east-1.elb.amazonaws.com
 proxy-universal-login-prod-1779027556.us-east-1.elb.amazonaws.com
 proxybox-lb-250966913.us-east-1.elb.amazonaws.com
 proxys-ecscl-fy0oi8jdxdki-295572098.us-east-2.elb.amazonaws.com
-proxyv3-public-prod-1797398447.us-east-1.elb.amazonaws.com
 registry-proxy-134442355.us-east-1.elb.amazonaws.com
 registry-proxy-access-1712650575.us-east-1.elb.amazonaws.com
 rpcloud-media-haproxy-elb-1517361419.us-west-2.elb.amazonaws.com

@@ -1,7 +1,7 @@
 # Url Shortener Blocklist
-# Generated: 2026-09-16 07:33:32 UTC
+# Generated: 2026-09-17 07:29:57 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 9880
+# Original domains (before deduplication): 9896
 
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -1174,6 +1174,7 @@
 0.0.0.0 bitly.to
 0.0.0.0 bitly.weballtools.com
 0.0.0.0 bitly.ws
+0.0.0.0 bitlyli.com
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitlyshort.com
 0.0.0.0 bitlyvi.com
@@ -1419,6 +1420,7 @@
 0.0.0.0 by1.eu
 0.0.0.0 by2.io
 0.0.0.0 bydqy.com
+0.0.0.0 byebye.pro
 0.0.0.0 byestar.com
 0.0.0.0 byflexy.com
 0.0.0.0 byli.pro
@@ -1477,6 +1479,7 @@
 0.0.0.0 cardinates.me
 0.0.0.0 cardprofile.de
 0.0.0.0 cardprofile.link
+0.0.0.0 cardstap.com
 0.0.0.0 careem.me
 0.0.0.0 careercrawlerslmv.com
 0.0.0.0 caridomainku.org
@@ -1760,6 +1763,7 @@
 0.0.0.0 coinbarlink.net
 0.0.0.0 coinbot.kr
 0.0.0.0 coinclix.co
+0.0.0.0 coki.me
 0.0.0.0 coklat.vip
 0.0.0.0 comca.st
 0.0.0.0 come.ac
@@ -1866,6 +1870,7 @@
 0.0.0.0 cu7.co
 0.0.0.0 cuanbio.com
 0.0.0.0 cuer.io
+0.0.0.0 cukbaray.com
 0.0.0.0 cultm.ac
 0.0.0.0 culy.top
 0.0.0.0 cup.org
@@ -2000,6 +2005,7 @@
 0.0.0.0 databrains.net
 0.0.0.0 datalisa.id
 0.0.0.0 datalotrk.com
+0.0.0.0 dataurbia.com
 0.0.0.0 datayi.cn
 0.0.0.0 datenami.tw
 0.0.0.0 dausel.co
@@ -2148,6 +2154,7 @@
 0.0.0.0 dndii.com
 0.0.0.0 dnl.biz.id
 0.0.0.0 dnt.st
+0.0.0.0 dntl.me
 0.0.0.0 do.co
 0.0.0.0 do.my
 0.0.0.0 doaistri.com
@@ -2231,6 +2238,7 @@
 0.0.0.0 dti.io
 0.0.0.0 dtl.la
 0.0.0.0 dtsx.io
+0.0.0.0 du-link.in
 0.0.0.0 duakale.me
 0.0.0.0 dub.co
 0.0.0.0 dub.link
@@ -2411,11 +2419,13 @@
 0.0.0.0 enlac.ee
 0.0.0.0 enlaces.entrelasgestiones.com
 0.0.0.0 enlacify.com
+0.0.0.0 enraptureminims.com
 0.0.0.0 enshom.link
 0.0.0.0 enter.bestbody.com.au
 0.0.0.0 enter.id.vn
 0.0.0.0 entm.ag
 0.0.0.0 entryurl.com
+0.0.0.0 envs.sh
 0.0.0.0 eohelp.link
 0.0.0.0 epicureanrecipevault.one
 0.0.0.0 eplt.net
@@ -2626,6 +2636,7 @@
 0.0.0.0 fliplink.eu
 0.0.0.0 fliplink.io
 0.0.0.0 fll.sh
+0.0.0.0 fllk.io
 0.0.0.0 fllw.link
 0.0.0.0 flnk.fr
 0.0.0.0 flomuz.io
@@ -2667,6 +2678,7 @@
 0.0.0.0 foll.link
 0.0.0.0 followmy.bio
 0.0.0.0 folm.org
+0.0.0.0 folu.me
 0.0.0.0 fon.gs
 0.0.0.0 fondby.com
 0.0.0.0 font.ai
@@ -2693,6 +2705,7 @@
 0.0.0.0 francosolerio.com
 0.0.0.0 frdm.mobi
 0.0.0.0 fre.to
+0.0.0.0 free-sex.live
 0.0.0.0 free-url.vercel.app
 0.0.0.0 freebiolink.com
 0.0.0.0 freedirector.io
@@ -2852,6 +2865,7 @@
 0.0.0.0 getsmallurl.com
 0.0.0.0 getthot.com
 0.0.0.0 gettolink.net
+0.0.0.0 geturls.net
 0.0.0.0 getus.at
 0.0.0.0 gf.to
 0.0.0.0 gfl2exilium.link
@@ -3101,6 +3115,7 @@
 0.0.0.0 goprotect.link
 0.0.0.0 gopvote.co
 0.0.0.0 goqr.me
+0.0.0.0 goqrgen.com
 0.0.0.0 gorio.page
 0.0.0.0 goshopurl.com
 0.0.0.0 goshort.pro
@@ -3168,6 +3183,7 @@
 0.0.0.0 groves.link
 0.0.0.0 gruntwork.io
 0.0.0.0 gscc.events
+0.0.0.0 gscc.pro
 0.0.0.0 gsght.com
 0.0.0.0 gskvn.live
 0.0.0.0 gsms.jp

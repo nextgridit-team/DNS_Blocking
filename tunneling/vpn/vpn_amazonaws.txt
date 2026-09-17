@@ -14,6 +14,7 @@ clientvpn.ap-south-1.amazonaws.com
 clientvpn.ap-southeast-1.amazonaws.com
 clientvpn.ap-southeast-2.amazonaws.com
 clientvpn.ap-southeast-7.amazonaws.com
+clientvpn.ca-central-1.amazonaws.com
 clientvpn.eu-central-1.amazonaws.com
 clientvpn.eu-west-1.amazonaws.com
 clientvpn.eu-west-2.amazonaws.com
@@ -50,6 +51,7 @@ prod.clientvpn.ap-south-1.amazonaws.com
 prod.clientvpn.ap-southeast-1.amazonaws.com
 prod.clientvpn.ap-southeast-2.amazonaws.com
 prod.clientvpn.ap-southeast-7.amazonaws.com
+prod.clientvpn.ca-central-1.amazonaws.com
 prod.clientvpn.eu-central-1.amazonaws.com
 prod.clientvpn.eu-west-1.amazonaws.com
 prod.clientvpn.eu-west-2.amazonaws.com
@@ -63,6 +65,6 @@ promisewebndth.cvpn-endpoint-0c0cb53c76300eaab.prod.clientvpn.ap-southeast-1.ama
 sfjg245.cvpn-endpoint-035a85807ded926c0.prod.clientvpn.us-east-1.amazonaws.com
 slvpn-flatfiles.s3.amazonaws.com
 tally-prod-365rm-us-vpn2-271926693.us-west-2.elb.amazonaws.com
+tierbase4.s3.amazonaws.com
 vdkd6nz8qr.s3.amazonaws.com
 vse-vpns-a-ipvc-ext-alb-1869831317.us-east-1.elb.amazonaws.com
-xv-client-json-configuration.s3.us-east-1.amazonaws.com

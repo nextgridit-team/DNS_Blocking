@@ -1,10 +1,10 @@
 ; Dynamic Dns Blocklist
-; Generated: 2026-09-16 07:33:32 UTC
+; Generated: 2026-09-17 07:29:57 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1065
+; Original domains (before deduplication): 1067
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091607 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091707 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
@@ -169,6 +169,7 @@ compy.ca CNAME .
 con-ip.com CNAME .
 conditsis.com CNAME .
 contepsa.com CNAME .
+coplien.org CNAME .
 corbina.ru CNAME .
 coreytech.com CNAME .
 counterlight.com CNAME .
@@ -220,6 +221,7 @@ diskstation.eu CNAME .
 diskstation.org CNAME .
 dive2.net CNAME .
 divx.se CNAME .
+diyplans.org CNAME .
 dlinkddns.com CNAME .
 dmtr.ru CNAME .
 dn3.co CNAME .

@@ -1,7 +1,7 @@
 # Dynamic Dns Blocklist
-# Generated: 2026-09-16 07:33:32 UTC
+# Generated: 2026-09-17 07:29:57 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 1065
+# Original domains (before deduplication): 1067
 
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -165,6 +165,7 @@
 0.0.0.0 con-ip.com
 0.0.0.0 conditsis.com
 0.0.0.0 contepsa.com
+0.0.0.0 coplien.org
 0.0.0.0 corbina.ru
 0.0.0.0 coreytech.com
 0.0.0.0 counterlight.com
@@ -216,6 +217,7 @@
 0.0.0.0 diskstation.org
 0.0.0.0 dive2.net
 0.0.0.0 divx.se
+0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
 0.0.0.0 dn3.co

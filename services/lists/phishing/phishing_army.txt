@@ -1,6 +1,6 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-16 07:33:32 UTC
+# Generated: 2026-09-17 07:29:57 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
 # Original domains (before deduplication): 385771
 
@@ -253873,7 +253873,6 @@
 0.0.0.0 riverterrace.org
 0.0.0.0 rivertownadvisors.com
 0.0.0.0 rivertownrealty.top
-0.0.0.0 rivertree.church
 0.0.0.0 rivervievvschools.duckdns.org
 0.0.0.0 riverwestmeetings.com
 0.0.0.0 riverwool.ru
@@ -264694,6 +264693,7 @@
 0.0.0.0 spoasmotasro.shop
 0.0.0.0 spoasmotsdro.shop
 0.0.0.0 spoasmotssxro.shop
+0.0.0.0 spoasmowscsalero.com
 0.0.0.0 spock.repl.co
 0.0.0.0 spokenonline.net
 0.0.0.0 sponsorgenie.xyz

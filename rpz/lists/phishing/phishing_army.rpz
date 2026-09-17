@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-16 07:33:32 UTC
+; Generated: 2026-09-17 07:29:57 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 385771
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091607 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091707 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -359889,7 +359889,6 @@ riversmarketingroup.com CNAME .
 riversportokc-dot-t6yq5rw.rj.r.appspot.com CNAME .
 rivertownadvisors.com CNAME .
 rivertownrealty.top CNAME .
-rivertree.church CNAME .
 rivervievvschools.duckdns.org CNAME .
 riverwestmeetings.com CNAME .
 riverwool.ru CNAME .
@@ -371486,6 +371485,7 @@ spoasmotasa.com CNAME .
 spoasmotasro.shop CNAME .
 spoasmotsdro.shop CNAME .
 spoasmotssxro.shop CNAME .
+spoasmowscsalero.com CNAME .
 sponsoring-idle.vercel.app CNAME .
 spontaneous-manatee-e1e35c.netlify.app CNAME .
 spontaneous-mermaid-05e205.netlify.app CNAME .
