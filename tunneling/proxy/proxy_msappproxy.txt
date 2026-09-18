@@ -1,5 +1,6 @@
 05894af0-cb28-46d8-8716-74cdb46e2226.tenant.runtime.msappproxy.net
 28fbb2af-a743-4fb9-8e66-24d90147e2ec.tenant.runtime.msappproxy.net
+2fcornwallintranet-cornwallservices.msappproxy.net
 adminfrontend-cus-dm2p-1.msappproxy.net
 autoupdate.msappproxy.net
 baldoauthserviceprod-volvogroup.msappproxy.net
@@ -18,6 +19,7 @@ connector.msappproxy.net
 crl-sunocoinc.msappproxy.net
 crl-wmic.msappproxy.net
 crldistributionpoint-viadcorp.msappproxy.net
+cwap-aus1-runtime.routing.msappproxy.net
 cwap-aus2-runtime.routing.msappproxy.net
 cwap-eur1-runtime.routing.msappproxy.net
 cwap-eur2-runtime.routing.msappproxy.net
@@ -27,8 +29,10 @@ cwap-nam1-runtime.routing.msappproxy.net
 cwap-nam2-runtime.routing.msappproxy.net
 cwap-nam3-runtime.routing.msappproxy.net
 dhscares-nychra.msappproxy.net
+e0793d39-0939-496d-b129-198edd916feb.tenant.runtime.msappproxy.net
 edf442f5-b994-4c86-a131-b42b03a16c95.tenant.runtime.msappproxy.net
 his.msappproxy.net
+ilpip.porto.wus24.msappproxy.net
 intunendes-aeliadutyfree.msappproxy.net
 intunendesscep-jtekt.msappproxy.net
 intunescep01-nlhss.msappproxy.net
@@ -43,8 +47,8 @@ ndes-petrobrasbr.msappproxy.net
 ndescont-petrobrasbr.msappproxy.net
 ndesscep-ocpsfl.msappproxy.net
 ocsp-aeliadutyfree.msappproxy.net
-ocsp-crestron1.msappproxy.net
 orbit-techmahindra.msappproxy.net
+porto.wus24.msappproxy.net
 proxy-appproxy-cus-dsm01p-5.msappproxy.net
 proxy-appproxy-eus-bl02p-2.msappproxy.net
 proxy-appproxy-ins-ma1p-1.msappproxy.net
@@ -183,7 +187,6 @@ vm6-proxy-hisgeneral-eus-bl02p-2.connector.his.msappproxy.net
 vm6-proxy-hisgeneral-eus-bl2p-1.connector.his.msappproxy.net
 vm6-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
 vm6-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
-vm6-proxy-hisgeneral-wus2-mw1p-1.connector.his.msappproxy.net
 vm6-proxy-hisgeneral-wus2-mwh01p-3.connector.his.msappproxy.net
 vm6-proxy-hisgeneral-wus2-mwh02p-2.connector.his.msappproxy.net
 vm6-proxy-pta-eus-bl02p-2.connector.his.msappproxy.net
@@ -200,6 +203,7 @@ vm7-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-wus2-mwh01p-3.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-wus2-mwh02p-2.connector.his.msappproxy.net
+vm7-proxy-pta-eus-bl02p-2.connector.his.msappproxy.net
 vm7-proxy-pta-eus-mnz01p-3.connector.his.msappproxy.net
 vm7-proxy-pta-ncus-chi01p-2.connector.his.msappproxy.net
 vm7-proxy-pta-ncus-chi01p-6.connector.his.msappproxy.net
@@ -229,4 +233,5 @@ vm9-proxy-pta-wus-by3p-2.connector.his.msappproxy.net
 vm9-proxy-pta-wus-sjc01p-3.connector.his.msappproxy.net
 whfbndes01-sunocoinc.msappproxy.net
 whfbndes02-sunocoinc.msappproxy.net
+wus24.msappproxy.net
 yoursource-mcdermottwillemery.msappproxy.net

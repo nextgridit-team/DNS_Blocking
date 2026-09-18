@@ -1,8 +1,8 @@
 # HaGeZi Dynamic DNS
 # Category: dynamic_dns
-# Generated: 2026-09-17 07:29:57 UTC
+# Generated: 2026-09-18 07:18:44 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 1067
+# Original domains (before deduplication): 1069
 
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -617,6 +617,7 @@
 0.0.0.0 melakaboy.com
 0.0.0.0 merseine.com
 0.0.0.0 merseine.org
+0.0.0.0 metadns.cx
 0.0.0.0 mett.ru
 0.0.0.0 mexsipel.net
 0.0.0.0 mgipr.com
@@ -1062,6 +1063,7 @@
 0.0.0.0 z86.ru
 0.0.0.0 zaibar.ro
 0.0.0.0 zanity.net
+0.0.0.0 zapto.xyz
 0.0.0.0 zeitr.ch
 0.0.0.0 zelslonik.info
 0.0.0.0 zneth.com

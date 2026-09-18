@@ -107,7 +107,6 @@ apiproxy-website-nlb-prod-3-e3c82d64e19c1cb2.elb.us-east-2.amazonaws.com
 apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com
 arc-acn-reverseproxy-b9311a6a27b5f523.elb.eu-central-1.amazonaws.com
 arc-reverseproxy-de-new-7a6fc762c67107d3.elb.eu-central-1.amazonaws.com
-blog-rt-proxy-prd-9be7b76b0fb012b7.elb.us-west-2.amazonaws.com
 brave-production-proxy-238320562.us-west-2.elb.amazonaws.com
 brazil-proxy-6dd3fa02e902f93c.elb.sa-east-1.amazonaws.com
 cf-proxy-cf-br10-9fde872d4468879a.elb.sa-east-1.amazonaws.com
@@ -128,7 +127,6 @@ collector-proxy-alb-744229001.ap-southeast-2.elb.amazonaws.com
 connect-prod-rev-proxy-1939600382.us-east-1.elb.amazonaws.com
 consproxy-usw2-prod-alb-655411174.us-west-2.elb.amazonaws.com
 consproxy-usw2-prod-nlb-0a749017bdeedff9.elb.us-west-2.amazonaws.com
-consproxy-usw2-prod-nlb-e3e0cd6f96c4a7ad.elb.us-west-2.amazonaws.com
 ct-phoenix-proxy-it-prod-v6-44d1f2230a55cb76.elb.eu-west-3.amazonaws.com
 ddos-prod-ecs-proxy-1810540203.us-east-1.elb.amazonaws.com
 ecr-haproxy-prod-network-lb-1866656a79c6f789.elb.us-east-1.amazonaws.com
