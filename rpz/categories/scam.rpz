@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-18 07:18:44 UTC
+; Generated: 2026-09-19 07:15:06 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310232
+; Original domains (before deduplication): 310363
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091807 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091907 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -6749,6 +6749,7 @@ agritech-solutions.com CNAME .
 agriupdates.info CNAME .
 agro-f.biz CNAME .
 agro24.site CNAME .
+agroelementgmbh.de CNAME .
 agrogame.ru CNAME .
 agroleplay.com CNAME .
 agropolbud.pl CNAME .
@@ -16553,6 +16554,7 @@ annegsilla.cyou CNAME .
 annelids.stream CNAME .
 annemus.com CNAME .
 annesoft.com CNAME .
+annett-mode.com CNAME .
 annettthomasdecor.com CNAME .
 annewalsh.shop CNAME .
 annexinapote.com CNAME .
@@ -17871,6 +17873,7 @@ apotheke-neu.com CNAME .
 apotheke-rezeptfrei.com CNAME .
 apotheke-schweiz.net CNAME .
 apotheke-windischgarsten.com CNAME .
+apotheke-zaversko.shop CNAME .
 apotheke.buzz CNAME .
 apotheke24eu.de CNAME .
 apothekedeutsche.de CNAME .
@@ -18704,6 +18707,7 @@ arbionisplatform.com CNAME .
 arbiquantpl.com CNAME .
 arbitgo.com CNAME .
 arbitics.com CNAME .
+arbitpad.de CNAME .
 arbitracoin.com CNAME .
 arbitradeum.com CNAME .
 arbitrage-solar.de CNAME .
@@ -20249,6 +20253,7 @@ aureamercovia.live CNAME .
 aureamunich.de CNAME .
 aureliahealth.pl CNAME .
 aureliaportdex-tech.com CNAME .
+aureliawien.com CNAME .
 aurelionolive.com CNAME .
 aureliustrust.uk CNAME .
 aurelllc.com CNAME .
@@ -23342,6 +23347,7 @@ bergkuppeportia.live CNAME .
 berglust.shop CNAME .
 bergmann-dusseldorf.de CNAME .
 bergmann-mode.de CNAME .
+bergmann-outdoor.com CNAME .
 bergmann.com CNAME .
 bergmanngoldschmied.com CNAME .
 bergmannmode.de CNAME .
@@ -23706,6 +23712,7 @@ bestelektronicshop.de CNAME .
 bestellen-ciao-ciao-pf.de CNAME .
 bestellundgut.de CNAME .
 bestelnuar.click CNAME .
+bestemed.com CNAME .
 bestemedikamente.com CNAME .
 bestemoneys.com CNAME .
 bestenkaufen.com CNAME .
@@ -24602,7 +24609,6 @@ billigerstore.de CNAME .
 billigesalg.com CNAME .
 billigesanitaerwerkzeuge.com CNAME .
 billigesfahrrad.com CNAME .
-billigeuhren.com CNAME .
 billigfahrrad.com CNAME .
 billigfahrradteile.com CNAME .
 billiggarten.com CNAME .
@@ -24967,6 +24973,7 @@ birminghamnetworksupport.com CNAME .
 birmotion-ai-software-com.financecryptoworld.com CNAME .
 birmotion-ai-solution.com CNAME .
 birnbaumholz.de CNAME .
+birnerforsttechnik.de CNAME .
 birridemon.cyou CNAME .
 birsorun.com CNAME .
 birtadilat.com CNAME .
@@ -25157,6 +25164,7 @@ bitcoindoubler.site CNAME .
 bitcoineer-platform.com CNAME .
 bitcoineer.ai CNAME .
 bitcoineer.de CNAME .
+bitcoineer.io CNAME .
 bitcoiner.win CNAME .
 bitcoinera.com CNAME .
 bitcoinera.org CNAME .
@@ -26243,6 +26251,7 @@ blukaweekndts.site CNAME .
 blum-film.de CNAME .
 blum2000.com CNAME .
 blumelife.co CNAME .
+blumen-fusshoeller.de CNAME .
 blumen365.at CNAME .
 blumenbanmai.de CNAME .
 blumenelbracht.de CNAME .
@@ -27490,6 +27499,7 @@ brenn-holzinger.at CNAME .
 brenner-berlin.com CNAME .
 brennerwoodboats.com CNAME .
 brennholz-anhaenger.de CNAME .
+brennholz-bernd.com CNAME .
 brennholz-de.com CNAME .
 brennholz-deutsch.com CNAME .
 brennholz-direkt-de.com CNAME .
@@ -27516,6 +27526,7 @@ brennholzkamin.de CNAME .
 brennholzkaufen.shop CNAME .
 brennholzmarkt.com CNAME .
 brennholzmichalhoff.com CNAME .
+brennholzmoorausmoor-de.com CNAME .
 brennholzruhl.de CNAME .
 brennholzrupp.de CNAME .
 brennholzs.com CNAME .
@@ -28588,6 +28599,7 @@ bucharest.support CNAME .
 buchberger-innsbruck.com CNAME .
 buchnergmbh.com CNAME .
 buchverlag-scholz.de CNAME .
+bucinator.shop CNAME .
 buckbasil.com CNAME .
 buckbirch.com CNAME .
 bucketbolt.com CNAME .
@@ -30502,6 +30514,7 @@ canada-update-secure.com CNAME .
 canadaappletechsupport.com CNAME .
 canadacarhistory.com CNAME .
 canadacis.org CNAME .
+canadadrugstore.com CNAME .
 canadafirearmspower.com CNAME .
 canadafreepress.com CNAME .
 canadagoogsejp.com CNAME .
@@ -41809,7 +41822,9 @@ containerdhggmbh.de CNAME .
 containerdienst-aur.de CNAME .
 containerdienstheiliggmbh.de CNAME .
 containergierichgmbh.de CNAME .
+containerlog-gmbh.de CNAME .
 containerprodau.com CNAME .
+containerschiffsreedereigmbh.de CNAME .
 containerslager.com CNAME .
 containersparks.com CNAME .
 containerstatic-unsualactivy-verifyinfo.com CNAME .
@@ -47114,6 +47129,7 @@ derbestewerkzeug.com CNAME .
 derbies.stream CNAME .
 derbsuwe232.cc CNAME .
 derbybikesholding.de CNAME .
+derbyfahrrader.de CNAME .
 derci.fggmnbn.top CNAME .
 deregresoalafuente.com CNAME .
 dereklyall.co.uk CNAME .
@@ -48860,7 +48876,6 @@ doctordeposit.com CNAME .
 doctordepozito.com CNAME .
 doctormuscle.com CNAME .
 doctorsmm.com CNAME .
-doctorsolve.com CNAME .
 doctorsvoicebest.tk CNAME .
 doctorthere.tk CNAME .
 doctortrf.com CNAME .
@@ -57653,6 +57668,7 @@ europejskaedukacja.pl CNAME .
 europelilliput.com CNAME .
 europeoutlet.shop CNAME .
 europepellets.com CNAME .
+europharmacy.net CNAME .
 europharmacyonline.com CNAME .
 europharms.com CNAME .
 europharmsonline.com CNAME .
@@ -67956,6 +67972,7 @@ gbgtegzxz.com CNAME .
 gbhjgj.com CNAME .
 gbinstagram.com CNAME .
 gbisorting.com CNAME .
+gbkirchwerder.com CNAME .
 gblkaufen.net CNAME .
 gbminers.com CNAME .
 gbnwjjxb.bid CNAME .
@@ -70864,6 +70881,7 @@ goldenticket.giveaway-official.com CNAME .
 goldently.com CNAME .
 goldenwillownest.digital CNAME .
 goldenyazilim.net CNAME .
+golderstarbeer.com CNAME .
 goldflame.com CNAME .
 goldfund.gq CNAME .
 goldgooseberry.d4dpro.com CNAME .
@@ -73838,6 +73856,7 @@ haushaltgeschirr.com CNAME .
 haushaltland.de CNAME .
 haushaltmarkt.de CNAME .
 haushaltofficial.com CNAME .
+haushalts-fuchs.de CNAME .
 haushalts-versand.de CNAME .
 haushalts.store CNAME .
 haushaltsgeraete-profis.de CNAME .
@@ -74187,6 +74206,7 @@ healthlifereport.com CNAME .
 healthoffersreview.info CNAME .
 healthoffertrial.com CNAME .
 healthonlinereviews.com CNAME .
+healthpillsonline.com CNAME .
 healthplansamerica.org CNAME .
 healthpluscogni.com CNAME .
 healthproviding.info CNAME .
@@ -75081,6 +75101,7 @@ henricofop4.com CNAME .
 henricotimes.com CNAME .
 henrydesafio.com CNAME .
 henryfirearmsstore.com CNAME .
+hensel-markt.com CNAME .
 hensix.stream CNAME .
 henslymo.com CNAME .
 hentaifapland.com CNAME .
@@ -80509,6 +80530,7 @@ immediate-duac-soft.com CNAME .
 immediate-edge-reviews.info CNAME .
 immediate-edge.biz CNAME .
 immediate-edge.co CNAME .
+immediate-edge2.com CNAME .
 immediate-elitas-app.com CNAME .
 immediate-flik.com CNAME .
 immediate-futuresoft.com CNAME .
@@ -86979,6 +87001,7 @@ jogglers.us CNAME .
 jogili.com CNAME .
 joglojawa.com CNAME .
 jogosrcg.com CNAME .
+johannawien.com CNAME .
 johanneslemke.de CNAME .
 johannis-apotheke-bielefeld.de CNAME .
 johannisstein.eu CNAME .
@@ -89532,6 +89555,7 @@ klavern.stream CNAME .
 klaxons.stream CNAME .
 kldf-vvod-12ck.view-shared-document-reviewpending-document.workers.dev CNAME .
 kleaskunst.de CNAME .
+kleefmode.nl CNAME .
 kleidermafia.shop CNAME .
 kleidung-prada.com CNAME .
 kleidungangebote.com CNAME .
@@ -90131,6 +90155,7 @@ krakowrynowektabot.live CNAME .
 krakowrynowektabot.net CNAME .
 krakowrynowektapl.com CNAME .
 kramertechnik.de CNAME .
+kranbrennholzgmbh-de.com CNAME .
 kranzkapitburg.live CNAME .
 kratos.biz CNAME .
 kratuxil-ai-app.com CNAME .
@@ -90233,6 +90258,7 @@ kronikawokolicy.info CNAME .
 kronometre.com CNAME .
 kronosyx.info CNAME .
 kronstic.bid CNAME .
+kronsummitgmbh.de CNAME .
 kronverixan-tech.com CNAME .
 kronwald-mode.de CNAME .
 krosht453.eu.cc CNAME .
@@ -93355,6 +93381,7 @@ lkiuy7ring.tk CNAME .
 lkiuyt7call.tk CNAME .
 lkjhroithjrtoijtreiojgrioetje.site CNAME .
 lkndvl.tk CNAME .
+lkntransport.com CNAME .
 lkou0support.tk CNAME .
 lkw-mieten-wien.at CNAME .
 lkw-reifenpanne.com CNAME .
@@ -100546,6 +100573,7 @@ medisoft-support.com CNAME .
 meditatem.com CNAME .
 mediterrianbest.com CNAME .
 medivita-de.com CNAME .
+medizinversand24.com CNAME .
 medorders.space CNAME .
 medosashop.de CNAME .
 medovmir.ru CNAME .
@@ -105486,6 +105514,7 @@ monstrousmomen.tk CNAME .
 monstrouswas.tk CNAME .
 monsus.vip CNAME .
 montageanziehen.com CNAME .
+montagereparaturbohren.com CNAME .
 montagetwo.stream CNAME .
 montaguehome.eu CNAME .
 montalmi.eu CNAME .
@@ -108376,6 +108405,7 @@ narco24.biz CNAME .
 narcose.stream CNAME .
 narcosenine.stream CNAME .
 narcoten.stream CNAME .
+narcyveloshop.com CNAME .
 nardoohereto.online CNAME .
 nardoopoop.icu CNAME .
 nareatsvolis.info CNAME .
@@ -118001,6 +118031,7 @@ ozzo.world CNAME .
 ozzyfuckslut.com CNAME .
 p-and-f-services.com CNAME .
 p-bau.at CNAME .
+p-ep.com CNAME .
 p-link.mobi CNAME .
 p.cpcempower.com CNAME .
 p.oprosnik.ga CNAME .
@@ -118414,6 +118445,7 @@ pandorapow.com CNAME .
 pandorarings.cn CNAME .
 pandorarings.me CNAME .
 pandoraringsuk.com CNAME .
+pandoras-outlet.com CNAME .
 pandorashoponline.top CNAME .
 pandorastoresaleol.top CNAME .
 pandorasupportnumber.com CNAME .
@@ -123325,6 +123357,7 @@ pelletkraft.de CNAME .
 pelletopia.de CNAME .
 pelletor.at CNAME .
 pellets-maschinen.de CNAME .
+pellets-skog.com CNAME .
 pelletsgeschaft.com CNAME .
 pelletwerk.com CNAME .
 pelloistanbul.com CNAME .
@@ -123939,6 +123972,7 @@ pharmacious.com CNAME .
 pharmacy-europe.com CNAME .
 pharmacyeurope24.com CNAME .
 pharmacyinventory.org CNAME .
+pharmacymarketonline.com CNAME .
 pharmacyonline24.com CNAME .
 pharmagenerique.com CNAME .
 pharmagiant.com CNAME .
@@ -128785,6 +128819,7 @@ prosleepy.com CNAME .
 prosmoker.ru CNAME .
 prosoftcloud.info CNAME .
 prosoftservice.com CNAME .
+prosolargen-strip.de CNAME .
 prospadepot.com CNAME .
 prospectvaleteacuphome.com CNAME .
 prosperamundi.info CNAME .
@@ -131867,6 +131902,7 @@ rbone.pw CNAME .
 rbonto.com CNAME .
 rbowv.com CNAME .
 rbpartytime.pw CNAME .
+rbpelleteck.com CNAME .
 rbpkp.com CNAME .
 rbpoq.com CNAME .
 rbpsc.com CNAME .
@@ -136180,6 +136216,7 @@ rwiudwiruwieudiwere.site CNAME .
 rwtvvdspsbll.com CNAME .
 rwwny7.com CNAME .
 rx-budapest.com CNAME .
+rx-discount.com CNAME .
 rx-dl.net CNAME .
 rx-order-support.com CNAME .
 rx-pharma.net CNAME .
@@ -136250,6 +136287,7 @@ ryowebwallet.com CNAME .
 ryplon-sync-gpt.com CNAME .
 ryplonsyncgpt-de.live CNAME .
 ryplonsyncgpt.live CNAME .
+ryse-marketing.com CNAME .
 rytewerkone.com CNAME .
 rytmpelnymozliwosci.site CNAME .
 rytnuiiroidsusifufsf.site CNAME .
@@ -136483,6 +136521,7 @@ safenordicsolutions.com CNAME .
 safenow.tk CNAME .
 safeofferz.com CNAME .
 safeordersystem.com CNAME .
+safepayweb.xyz CNAME .
 safepcinstructions.com CNAME .
 safepcscan22.xyz CNAME .
 safepcsolution.com CNAME .
@@ -137041,6 +137080,7 @@ salok.laurice.info CNAME .
 salolchirp.online CNAME .
 saloltrowe.cyou CNAME .
 salomer.top CNAME .
+salomon-deutschland.de CNAME .
 salomon.styx.net.pl CNAME .
 salomonbuty.pl CNAME .
 salomonbutypolska.com CNAME .
@@ -137140,6 +137180,7 @@ sampoline.com CNAME .
 samratbaba.co.in CNAME .
 samsebebankrot.ru CNAME .
 samsonite-suomi.com CNAME .
+samsonite.com.de CNAME .
 samsoniteoutlet.pl CNAME .
 samsuneurorepar.com CNAME .
 samsung-akcja.e-kei.pl CNAME .
@@ -137365,6 +137406,7 @@ sarahkothari.com CNAME .
 sarahmeyer.com CNAME .
 sarahravengb.com CNAME .
 sarahrodigari.com CNAME .
+saramaud.com CNAME .
 sarasotafun.info CNAME .
 sarasotaguncompany.com CNAME .
 sarasotaonlinesupport.com CNAME .
@@ -137714,6 +137756,7 @@ scan-pc-error0x4511.pw CNAME .
 scan-pc-report0x101.xyz CNAME .
 scan.icemobi.club CNAME .
 scanbusinesserror.com CNAME .
+scanbuymart.com CNAME .
 scandagra.info CNAME .
 scandalsonya.ru CNAME .
 scandalsonya.ua CNAME .
@@ -137920,6 +137963,7 @@ schulte-boutique.de CNAME .
 schultefashion.com CNAME .
 schultemode.de CNAME .
 schultes-netz.de CNAME .
+schultzebraun-anwaelte.de CNAME .
 schulze-rechtsanwaelte.com CNAME .
 schulze1.myshopify.com CNAME .
 schulzholz.com CNAME .
@@ -139469,7 +139513,9 @@ sedgedfour.us CNAME .
 sedgyten.us CNAME .
 sedilenine.us CNAME .
 sediliaone.us CNAME .
+sediop.com CNAME .
 sedive.com CNAME .
+sedore.de CNAME .
 seds.online CNAME .
 seducerfour.us CNAME .
 seduchat.com CNAME .
@@ -139799,6 +139845,7 @@ sell-ukaldi.vintagewarmthllc.com CNAME .
 sell-ukaldi.websellera.com CNAME .
 sell-usaldi.coddttontextiles.com CNAME .
 sell-your-house-quick-help.com CNAME .
+sellano.de CNAME .
 sellarnine.us CNAME .
 sellautoz.com CNAME .
 selldom.eu CNAME .
@@ -139954,6 +140001,7 @@ sensiblechoose.com CNAME .
 sensiblier.com CNAME .
 sensingfour.us CNAME .
 sensisupport.com CNAME .
+sensodecken.de CNAME .
 sensor500chenix-ai.com CNAME .
 sensoraloxixr-ai.live CNAME .
 sensorchenix.live CNAME .
@@ -139993,6 +140041,7 @@ senuarchitects.com CNAME .
 senuarchitecture.com CNAME .
 senumimarlik.com CNAME .
 senuyapi.com CNAME .
+senvix.de CNAME .
 senvixai-app.com CNAME .
 senvixai.live CNAME .
 senvixitaly-it.live CNAME .
@@ -141079,6 +141128,7 @@ shakeonline.com.br CNAME .
 shakes.pro CNAME .
 shakesin.com CNAME .
 shaktibharat.com CNAME .
+shalevet.org CNAME .
 shall-grow.tk CNAME .
 shall-nevercall.tk CNAME .
 shall-stay.tk CNAME .
@@ -141357,6 +141407,7 @@ shoesforsale.net CNAME .
 shoesheart.com CNAME .
 shoesjimmychoo.cn CNAME .
 shoesjimmychoo.net CNAME .
+shoesonlineus.com CNAME .
 shoesora.shop CNAME .
 shoesoutletstore.com CNAME .
 shoespl.shop CNAME .
@@ -141441,6 +141492,7 @@ shop.gpstrackingtracker.com CNAME .
 shop.guide-books.co.uk CNAME .
 shop.haji.com CNAME .
 shop.heinrichsweikamp.com CNAME .
+shop.hochocl.shop CNAME .
 shop.hokus-pokus.com CNAME .
 shop.inkfast.com.au CNAME .
 shop.intel-car.ru CNAME .
@@ -141457,6 +141509,7 @@ shop.musiclassroom.com CNAME .
 shop.olacoffee.vn CNAME .
 shop.panasonic.co.kr CNAME .
 shop.pentagold.in CNAME .
+shop.rzerzed.shop CNAME .
 shop.salmaarastu.com CNAME .
 shop.shinyhair.de CNAME .
 shop.shopcider.com CNAME .
@@ -141517,6 +141570,7 @@ shopdapperkicks.com CNAME .
 shopdealmarket.com CNAME .
 shopdealsalert.com CNAME .
 shopdecorlight.com CNAME .
+shopdestina.shop CNAME .
 shopdeutschepost.de CNAME .
 shopdevaustria.de CNAME .
 shopdietsworld.com CNAME .
@@ -141623,6 +141677,7 @@ shoppinghahub.com CNAME .
 shoppinghatech.com CNAME .
 shoppingmoto.net CNAME .
 shoppingpropertie.com CNAME .
+shoppingsmart.store CNAME .
 shoppingt-shirt.com CNAME .
 shoppingtote.shop CNAME .
 shoppocski.com CNAME .
@@ -142106,6 +142161,7 @@ simcitygenerator.online CNAME .
 simeonbatmen.stream CNAME .
 simianbatna.stream CNAME .
 simicbaton.stream CNAME .
+simikj.com CNAME .
 similaritiesdice.best CNAME .
 similarty.com CNAME .
 similassrity.info CNAME .
@@ -142114,6 +142170,7 @@ siminart.com CNAME .
 simon-smith-flowers.com CNAME .
 simonal.top CNAME .
 simonbirds.com CNAME .
+simonbois.de CNAME .
 simonimmed.cyou CNAME .
 simp.life CNAME .
 simpa.tagmebabe.com CNAME .
@@ -142945,6 +143002,7 @@ smalmat.se CNAME .
 smalt-handbag.shop CNAME .
 smalt-sneakers.shop CNAME .
 smanepicch.cyou CNAME .
+smangeln.de CNAME .
 smanimesco.cyou CNAME .
 smanzammal.cyou CNAME .
 smar3465.shop CNAME .
@@ -143044,6 +143102,7 @@ smartgmailtechnicalsupport.wordpress.com CNAME .
 smartguru.us CNAME .
 smarthauswerk.com CNAME .
 smarthavanesepuppiesshop.com CNAME .
+smartheizer.de CNAME .
 smarthome-report.com CNAME .
 smarthomehungyen.com CNAME .
 smarthomerabatt.de CNAME .
@@ -143054,6 +143113,7 @@ smarthotels-room3542.com CNAME .
 smartino.ru CNAME .
 smartinvest.company CNAME .
 smartinvestorvision.com CNAME .
+smartinvestsas.com CNAME .
 smartiq.co CNAME .
 smartitems.co.nz CNAME .
 smartk9germanshepherds.com CNAME .
@@ -143790,6 +143850,7 @@ sneezyfour.us CNAME .
 snefe.cc CNAME .
 snefrutwo.us CNAME .
 snela-ai.com CNAME .
+snelkreditet.com CNAME .
 snellafondovia-ai.live CNAME .
 snellafondovia.company CNAME .
 snellafondovia.live CNAME .
@@ -144308,6 +144369,7 @@ solanzo.de CNAME .
 solar-energie24.com CNAME .
 solar-liquid.de CNAME .
 solar-pl.top CNAME .
+solar-pv24.com CNAME .
 solar-starter.de CNAME .
 solar-tracking-efficiency.com CNAME .
 solar1erp.com CNAME .
@@ -144571,6 +144633,7 @@ solvopatrimanzo.company CNAME .
 solvopatrimanzo.live CNAME .
 solvusoft.com CNAME .
 solxio-ai.live CNAME .
+solyball.com CNAME .
 solzenover.eu CNAME .
 somakiret.site CNAME .
 somanysupp.tk CNAME .
@@ -145091,6 +145154,7 @@ spavinfour.us CNAME .
 spawnfive.us CNAME .
 spawnpoint.store CNAME .
 spaynine.us CNAME .
+spazioconcept.com CNAME .
 spazioperamori.com CNAME .
 spazioprezzi.it CNAME .
 spazten.us CNAME .
@@ -145134,6 +145198,7 @@ specialmdassortment.com CNAME .
 specialnalekaren.com CNAME .
 specialnilekarna.com CNAME .
 specialoffers.pw CNAME .
+specialpurchasepoint.com CNAME .
 specialselling.com CNAME .
 specialsix.us CNAME .
 specialsupportnetwork.com CNAME .
@@ -145377,6 +145442,7 @@ spieletorrent.ch CNAME .
 spielewelt.shop CNAME .
 spielplatz-shop.net CNAME .
 spielsix.us CNAME .
+spieluniversum.com CNAME .
 spielwaren-tonies.com CNAME .
 spielwuerfel.com CNAME .
 spielzeug-gewinnen.de CNAME .
@@ -146310,6 +146376,7 @@ ssduniquesolution.com CNAME .
 sse-games.de CNAME .
 ssefis-arplies.fr CNAME .
 ssegames.net CNAME .
+ssense.vip CNAME .
 ssfreepdf.site CNAME .
 ssfrfsdfsosfiosfo.site CNAME .
 ssgss888.com CNAME .
@@ -146339,6 +146406,7 @@ sslcastlern.win CNAME .
 sslconnectionerror.net CNAME .
 sslcritical.com CNAME .
 ssloemwiszaz.com CNAME .
+sslzertifikatkaufen.de CNAME .
 ssmklfrn.bid CNAME .
 ssnsimple.com CNAME .
 sso-login-app-name.info CNAME .
@@ -146919,6 +146987,7 @@ stefaniesdailyshop.de CNAME .
 stefound.life CNAME .
 stehaufe.de CNAME .
 steigerungderpotenz.de CNAME .
+steinberg-modehaus.de CNAME .
 steinberg-munchen.com CNAME .
 steinberix-kapital.live CNAME .
 steinberixkapital.live CNAME .
@@ -147439,6 +147508,7 @@ storeax.com CNAME .
 storebathrooms.com CNAME .
 storebbb.com CNAME .
 storeben.de CNAME .
+storebisgaard.de CNAME .
 storebjergskolen.dk CNAME .
 storebyonline.com CNAME .
 storechcker.medianpay.xyz CNAME .
@@ -147462,6 +147532,7 @@ storesp.com CNAME .
 storesportsinggoods.com CNAME .
 storesupportusa.com CNAME .
 storetwo.com CNAME .
+storewrench.com CNAME .
 storiesmuddy.baykahin.com CNAME .
 storiesoftech.com CNAME .
 stormagasinoky.shop CNAME .
@@ -147580,6 +147651,7 @@ strauss-bf2.shop CNAME .
 strauss-bl168vip.shop CNAME .
 strauss-db.shop CNAME .
 strauss-market.shop CNAME .
+strauss-vip.shop CNAME .
 straussdiscountstorevip-1.shop CNAME .
 straussdiscountstorevip-a.shop CNAME .
 straussdiscountstorevip-b.shop CNAME .
@@ -147596,6 +147668,7 @@ strawanza.shop CNAME .
 strawberryi.com CNAME .
 strawberryjamshop.com CNAME .
 strawberrymilkshop.com CNAME .
+strawgoal.com CNAME .
 straxenforge-fr.live CNAME .
 straxenforge.live CNAME .
 strayapool.com CNAME .
@@ -147690,6 +147763,7 @@ strewsecant.host CNAME .
 stribfisti.cyou CNAME .
 strickwareverkauf.com CNAME .
 strictrigid.com CNAME .
+stridepure.de CNAME .
 striegel-k-containers.de CNAME .
 strielkowski.com CNAME .
 strigileesdanazol.info CNAME .
@@ -147842,10 +147916,12 @@ sturgiscoldwaternews.com CNAME .
 sturvo.shop CNAME .
 stushei.club CNAME .
 stussy-berlin.de CNAME .
+stussy-italia.com CNAME .
 stussyaustria.at CNAME .
 stussyaustrias.com CNAME .
 stussydeutschland.de CNAME .
 stussyfans.com CNAME .
+stussygreece.com CNAME .
 stussymarket.com CNAME .
 stussyonlinestore.com CNAME .
 stussystoresdeutschland.de CNAME .
@@ -148331,6 +148407,7 @@ sunkosmetikschule.de CNAME .
 sunleaftravel.com CNAME .
 sunlighta.com CNAME .
 sunlitcobblestone.digital CNAME .
+sunlitstyles.com CNAME .
 sunlu--resin.com CNAME .
 sunlu-print.com CNAME .
 sunlufilaments.com CNAME .
@@ -152592,6 +152669,7 @@ svvmintl.com CNAME .
 sw.cpcempower.com CNAME .
 swaasthya.org CNAME .
 swab-accn-update.com CNAME .
+swabytec24.de CNAME .
 swaddleeaze.com CNAME .
 swadeslooms.com CNAME .
 swagbucks.com CNAME .
@@ -152813,6 +152891,7 @@ swisscartier.cn CNAME .
 swissclaim-ag.ch CNAME .
 swisscoinco.com CNAME .
 swisscred.info.185-101-158-246.139.hosttech.eu CNAME .
+swissepargne.com CNAME .
 swissfake.com CNAME .
 swissguardpro.com CNAME .
 swissinfos1.net CNAME .
@@ -152918,6 +152997,7 @@ sxjcwensdwj.club CNAME .
 sxjingyue.com CNAME .
 sxjjdz.com CNAME .
 sxlzcvqfeacy.com CNAME .
+sxm.uk.com CNAME .
 sxpaztl4.com CNAME .
 sxprcyzcpqil.com CNAME .
 sxr0f278b-firewall-error-zeuslover.ml CNAME .
@@ -154217,6 +154297,7 @@ taicey.top CNAME .
 taichicoin.org CNAME .
 taichisupport.com CNAME .
 taiga-wutz.de CNAME .
+taihand.com CNAME .
 tailaaceto.cyou CNAME .
 tailbaboon.com CNAME .
 tailedten.us CNAME .
@@ -154353,6 +154434,7 @@ talentodeportivo.cl CNAME .
 talentpl.us CNAME .
 talentpsyche.com CNAME .
 talentpup.com CNAME .
+talents-peak.com CNAME .
 talentxperts.com CNAME .
 talenzio.store CNAME .
 talepilet.com CNAME .
@@ -154663,6 +154745,7 @@ tas-amazonfreetrials.com CNAME .
 taschenalle.com CNAME .
 taschenbookstore.shop CNAME .
 taschenclub.com CNAME .
+taschenmesser-de.com CNAME .
 taschenrabatt.com CNAME .
 taschenschmied.de CNAME .
 taserfour.us CNAME .
@@ -154866,6 +154949,7 @@ tcyeyccspxod.com CNAME .
 tcyyi.greatlifed.su CNAME .
 td-easywebcustomersupports.com CNAME .
 td-mobile-ca-login.info CNAME .
+td-treuhand.de CNAME .
 td-updateonline.com CNAME .
 td.cpcempower.com CNAME .
 td903.inspectionprocedure.shop CNAME .
@@ -157738,6 +157822,7 @@ technik-schnaeppchen-shop.de CNAME .
 technikambiente-gmbh.de CNAME .
 technikcenter24.com CNAME .
 technikhaus24.com CNAME .
+techniklager.com CNAME .
 technine.us CNAME .
 techniqueimporter.tk CNAME .
 techniquestaste.twofoldfashion.com CNAME .
@@ -158045,6 +158130,7 @@ tedzxrqpla.fit CNAME .
 tedzxrqpla.skin CNAME .
 tedzxrqpla.wiki CNAME .
 tedzxrqpla.xyz CNAME .
+tee-shopo.shop CNAME .
 tee1.shop CNAME .
 tee24h.com CNAME .
 teechip.online CNAME .
@@ -158465,6 +158551,7 @@ telvxqpnla.click CNAME .
 telvxqpnla.help CNAME .
 telvxqpnla.shop CNAME .
 telxtend.com CNAME .
+temala.de CNAME .
 temblored.stream CNAME .
 temelkaya.com CNAME .
 temeorufgan.pro CNAME .
@@ -160243,6 +160330,7 @@ thebullyyard.com CNAME .
 thebutlerspecialty.com CNAME .
 thecabinas.com CNAME .
 thecafer.com CNAME .
+thecameron.xyz CNAME .
 thecampingsite.co.uk CNAME .
 thecanvas-call.tk CNAME .
 thecanvasbag.shop CNAME .
@@ -160411,6 +160499,7 @@ thegoodbody.org CNAME .
 thegoodcaster.com CNAME .
 thegoodpillsstore.com CNAME .
 thegoodrewarded.tk CNAME .
+thegoodsite.store CNAME .
 thegoogle-homepage.com CNAME .
 thegoward.live CNAME .
 thegrand-outlet.com CNAME .
@@ -160671,6 +160760,7 @@ thepcoptimizer.com CNAME .
 thepcsupport.co.uk CNAME .
 thepebaxplate.shop CNAME .
 thepensters.com CNAME .
+thepeppymay.com CNAME .
 thepetshopsonline.com CNAME .
 thepetzone.vip CNAME .
 thepharmacriterion.com CNAME .
@@ -160795,6 +160885,7 @@ thermomix.world CNAME .
 thermoscup-shop.com CNAME .
 thermoshapers.de CNAME .
 thermostwo.pw CNAME .
+thermotrix.de CNAME .
 thermradio.cyou CNAME .
 theroidfour.pw CNAME .
 theronfive.pw CNAME .
@@ -162208,6 +162299,7 @@ tjsxy56.com CNAME .
 tjylhp.com CNAME .
 tjyzjtkutqvb.bid CNAME .
 tk-deburncalories.shop CNAME .
+tk-energiemanagement.de CNAME .
 tk-kontor.de CNAME .
 tkask.top CNAME .
 tkcases.com CNAME .
@@ -162256,8 +162348,10 @@ tkugbr.globin.pw CNAME .
 tkwpttzj.shop CNAME .
 tkxqufyp.shop CNAME .
 tl-audio.com CNAME .
+tl-treuhand.de CNAME .
 tl.lb1vso.sbs CNAME .
 tl4n7.gi2bmd.qpon CNAME .
+tlapka.cz CNAME .
 tlatv.info CNAME .
 tlceurope.net CNAME .
 tldbank.com CNAME .
@@ -162313,6 +162407,7 @@ tmsminer.com CNAME .
 tmspool.top CNAME .
 tmsteel.com.au CNAME .
 tmwhazsjnhip.com CNAME .
+tn766.com CNAME .
 tnbgycckfv.bid CNAME .
 tnblack.com CNAME .
 tnbtghpbdvz.bid CNAME .
@@ -162652,6 +162747,7 @@ toniesverkauf-de.com CNAME .
 toniesweb.com CNAME .
 toniger.com CNAME .
 tonkpi.info CNAME .
+tonmann.net CNAME .
 tonplanlibertin.fr CNAME .
 tonplanq.com CNAME .
 tonspintg.com CNAME .
@@ -162684,6 +162780,7 @@ toolink.link CNAME .
 toolino.shop CNAME .
 toolinstagram.com CNAME .
 toolkomp.com CNAME .
+toolmarketpro.com CNAME .
 toolnation-eu.ttimoo.com CNAME .
 toolnation-eu.wxxhzc.com CNAME .
 toolnation.ttimoo.com CNAME .
@@ -163001,6 +163098,7 @@ topseomaster.ru CNAME .
 topsevenreviews.com CNAME .
 topsfashionclub.com CNAME .
 topshareglobal.com CNAME .
+topshopdeal.com CNAME .
 topshopping.top CNAME .
 topsjacket.com CNAME .
 topsjp.info CNAME .
@@ -163359,6 +163457,7 @@ toztoplamafiltresi.com CNAME .
 toztoplamamakinasi.com CNAME .
 tp-linksroutercustomerhelpservice.blogspot.com CNAME .
 tp-linkwifinet.net CNAME .
+tp-treuhand.de CNAME .
 tp.cpcempower.com CNAME .
 tp5k5.filled.pw CNAME .
 tpassiven.spotlightboard.com CNAME .
@@ -163389,6 +163488,7 @@ tplinkroutersupport.net CNAME .
 tplinkroutertechsupportphonenumber.blogspot.com CNAME .
 tpmbgoiabxu.bid CNAME .
 tpmemhesupkn.bid CNAME .
+tpmgbike.com CNAME .
 tpnphooeqg.bid CNAME .
 tpool.io CNAME .
 tpool.yiluzhuanqian.com CNAME .
@@ -163584,6 +163684,7 @@ tradegpt-es.live CNAME .
 tradehub-lmxapp.com CNAME .
 tradei6-duac.com CNAME .
 tradeincrypto.pro CNAME .
+tradelanehub.com CNAME .
 tradelimited.com CNAME .
 tradellis.com CNAME .
 tradelyn.net CNAME .
@@ -164478,6 +164579,7 @@ tritelycomfit.stream CNAME .
 tritino.net CNAME .
 triton-online.com CNAME .
 tritoncapitalmarkets.com CNAME .
+tritonmarkets.com CNAME .
 trituratta.cyou CNAME .
 triumph-defeat.stream CNAME .
 triumphantbig.boozybrowser.com CNAME .
@@ -164907,6 +165009,7 @@ tsupportcastlelx.win CNAME .
 tsupportfixbi.win CNAME .
 tsuruya-all.co.jp CNAME .
 tsutomuishida.co.uk CNAME .
+tsv-erste.de CNAME .
 tsybqlldfsstw.bid CNAME .
 tt.cpcempower.com CNAME .
 ttc-eg.com CNAME .
@@ -166671,6 +166774,7 @@ umbrellacorp.fr CNAME .
 umbrellas-online.com CNAME .
 umbrianfour.pw CNAME .
 umbrielten.pw CNAME .
+umbro-deutschland.de CNAME .
 umbrreach.site CNAME .
 umbru.io CNAME .
 umcpmm.com CNAME .
@@ -166783,6 +166887,7 @@ uncomelypuritanism.tk CNAME .
 uncondisma.cyou CNAME .
 unconrisup.cyou CNAME .
 unconscalc.cyou CNAME .
+unconstituted.com CNAME .
 uncoverify.com CNAME .
 uncpbisdegree.com CNAME .
 uncratenine.pw CNAME .
@@ -167077,6 +167182,7 @@ universeshop.eu CNAME .
 university-after.tk CNAME .
 universityessaywriting.com CNAME .
 universjouets.com CNAME .
+universo-bois.com CNAME .
 univexim.pl CNAME .
 univormel.sbs CNAME .
 uniwersutet.blob.core.windows.net CNAME .
@@ -167921,7 +168027,6 @@ urpscavikbyv.com CNAME .
 urptvbryjgs.bid CNAME .
 urqctaruhm.bid CNAME .
 urqxrzrphsga.com CNAME .
-ursime.com CNAME .
 ursmovie.com CNAME .
 ursulam.com CNAME .
 urtbxola.bid CNAME .
@@ -168486,6 +168591,7 @@ usiusifusifuifsdiuadsisf.site CNAME .
 usjxjxiu.com CNAME .
 uskc.cf CNAME .
 uskeenfootwear.com CNAME .
+uskitchenstore.com CNAME .
 uslamall.com CNAME .
 uslawsupportjobs.com CNAME .
 uslbqxwum.bid CNAME .
@@ -169108,6 +169214,7 @@ valourone.pw CNAME .
 valoventixai-app.com CNAME .
 valpkiraenoq.xyz CNAME .
 valsenine.pw CNAME .
+valtama.com CNAME .
 valtoreno.shop CNAME .
 valtorinix.com CNAME .
 valtramedia.com CNAME .
@@ -169660,6 +169767,7 @@ veja-ireland.net CNAME .
 veja.at CNAME .
 veja.co.at CNAME .
 vejaathensgreece.net CNAME .
+vejaaustria.at CNAME .
 vejabelgium.com CNAME .
 vejadeutschland.com CNAME .
 vejanorge.com CNAME .
@@ -169884,6 +169992,7 @@ veraai-app.com CNAME .
 veractvactbca.site CNAME .
 veradam.com CNAME .
 veralo.de CNAME .
+veralosa.com CNAME .
 veramodehaus.de CNAME .
 verandochkafmfmgmbm.online CNAME .
 veranoclothing.de CNAME .
@@ -169896,6 +170005,7 @@ verbalsim.com CNAME .
 verbalsupport.com CNAME .
 verbasorna.cyou CNAME .
 verborgeneverlockung.com CNAME .
+verbraucher-institut.com CNAME .
 verbraucherfokus-test.de CNAME .
 verbraucherzentrale-finanzen.org CNAME .
 vercc.com.br CNAME .
@@ -170612,6 +170722,7 @@ versionda.xyz CNAME .
 versionzone.net CNAME .
 verssen-samer.de CNAME .
 verstechsupport.com CNAME .
+versu.pro CNAME .
 versusafteberr.ga CNAME .
 versusgame.com CNAME .
 versustrade.com.ng CNAME .
@@ -170867,10 +170978,12 @@ victorsdermalcosmetics.com CNAME .
 victorvalleytimes.com CNAME .
 victorvilleconcreteco.com CNAME .
 victory-analysis-today.xyz CNAME .
+victoryshop.shop CNAME .
 victoryyachts.com CNAME .
 victrolasix.pw CNAME .
 victualcushy.icu CNAME .
 victualia.cz CNAME .
+vidaq.de CNAME .
 vidarnine.pw CNAME .
 vidaserenahogar.com CNAME .
 vidaweird.blogspot.com CNAME .
@@ -172053,7 +172166,6 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -172228,6 +172340,7 @@ vlaamswinstor.live CNAME .
 vlamwaardiek.live CNAME .
 vland-official.com CNAME .
 vlandshop.com CNAME .
+vlastnilekarna.com CNAME .
 vlc-mac.com CNAME .
 vlcmediaplayersupport.com CNAME .
 vldep.lat CNAME .
@@ -172745,6 +172858,7 @@ vsupport247.com CNAME .
 vsupport24by7.com CNAME .
 vsupportservices.com CNAME .
 vswaapygj.bid CNAME .
+vswatches.net CNAME .
 vswitchh.jamatulli.com CNAME .
 vtaactfr.com CNAME .
 vtcquvxsaosz.com CNAME .
@@ -176993,6 +177107,7 @@ weber-baumarkt.com CNAME .
 weber-helper.com CNAME .
 weber-werkstatt.com CNAME .
 weberelektronik.de CNAME .
+webermode.com CNAME .
 webermuda.com CNAME .
 webernsix.pw CNAME .
 weberone.pw CNAME .
@@ -177340,6 +177455,7 @@ webtrader.capexgo.net CNAME .
 webtrader.finaurex.org CNAME .
 webtrader.nuxeros.app CNAME .
 webtrader.quantiumax.net CNAME .
+webtrader.swisscapitalplatform.com CNAME .
 webtrader.unfaileryx-worlmeix.com CNAME .
 webubisof409-online.gq CNAME .
 webuildbc.com CNAME .
@@ -177779,6 +177895,7 @@ wesleyhomespace.com CNAME .
 wesmere-bitmark-engine.com CNAME .
 wesolebuciki-pl.shop CNAME .
 wespanrntac47.club CNAME .
+wessmarkt.de CNAME .
 wessonguns.com CNAME .
 west-tek.com CNAME .
 westandvine.eu CNAME .
@@ -177924,6 +178041,7 @@ wfepim.com CNAME .
 wffreepdf.site CNAME .
 wfh-markt.de CNAME .
 wfhtoceo.com CNAME .
+wfk-klimatechnik.com CNAME .
 wflogin-app.online CNAME .
 wfmcsy.com CNAME .
 wfmpools.com CNAME .
@@ -179102,6 +179220,7 @@ windefenderalert.xyz CNAME .
 windefesyscarecom.000webhostapp.com CNAME .
 windefonlineerror.com CNAME .
 windeln-gewinnen.de CNAME .
+windelwissendepop.shop CNAME .
 windgentle.com CNAME .
 windgun.stream CNAME .
 windily.stream CNAME .
@@ -179854,6 +179973,7 @@ windowszero.com CNAME .
 windowtechnicalsupport.com CNAME .
 windowtintkits.net CNAME .
 windowvistarepair.com CNAME .
+windride.de CNAME .
 windriverupdate.com CNAME .
 windsflow.com CNAME .
 windshield.shop CNAME .
@@ -179867,6 +179987,7 @@ wine2watch.com CNAME .
 wine2watch.org CNAME .
 wineandtruffle.com CNAME .
 winecfm.com CNAME .
+winecom.shop CNAME .
 wineemu.autos CNAME .
 wineglassessaleshop.com CNAME .
 winektear.tutorialbar.com CNAME .
@@ -179983,6 +180104,7 @@ wintechsupport.info CNAME .
 wintechsupport.xyz CNAME .
 winter-coats.asia CNAME .
 winter-fillow.blogspot.com CNAME .
+winter-holz.com CNAME .
 winterbubble.com CNAME .
 winterbubbleaf.com CNAME .
 wintercoats.asia CNAME .
@@ -180512,6 +180634,7 @@ workingantivirus.com CNAME .
 workingkeys.org CNAME .
 workingpool-el.com CNAME .
 workingwounded.info CNAME .
+workkin.xyz CNAME .
 worklinesafety.co.uk CNAME .
 workmora.shop CNAME .
 worksand-thebible.tk CNAME .
@@ -181031,6 +181154,7 @@ ww1-secur-poczta-polska.dutamengineering.com CNAME .
 ww1.cpcempower.com CNAME .
 ww1.e-kino.tv CNAME .
 ww1pornhub.com CNAME .
+ww2-gv.bmf-at.com CNAME .
 ww2.24x7help.org CNAME .
 ww2.cpcempower.com CNAME .
 ww2.xn--30986-udb.biz CNAME .
@@ -307856,6 +307980,7 @@ ynewcdjtop.com CNAME .
 ynglb.net CNAME .
 ynjzz.super-promo.7552.info CNAME .
 ynkz.hpkgqhmp.biz CNAME .
+ynmwkmhs.shop CNAME .
 ynrbo.facebookdating.link CNAME .
 ynvplyprjr.bid CNAME .
 yo.cpcempower.com CNAME .
@@ -308025,6 +308150,7 @@ young-apple.info CNAME .
 young-manin.tk CNAME .
 younganiso.cyou CNAME .
 youngbetee.com CNAME .
+younger.educateimage.xyz CNAME .
 youngers.pt CNAME .
 youngfight.com CNAME .
 younggentleman.tk CNAME .
@@ -308849,6 +308975,7 @@ zalbani.is-best.net CNAME .
 zalderis-bit-software.com CNAME .
 zallona.de CNAME .
 zalmex.online CNAME .
+zalo-web.me CNAME .
 zalokaj.blogspot.com CNAME .
 zalori.de CNAME .
 zalou.icu CNAME .
@@ -309642,6 +309769,7 @@ zmine.io CNAME .
 zminer.zaloapp.com CNAME .
 zmnqoymznwng.com CNAME .
 zmowionewkorytarzu.xyz CNAME .
+zmr-handel.de CNAME .
 zmxcefuntbgf.com CNAME .
 zn.cpcempower.com CNAME .
 znajdzbdsmkontakt.pl CNAME .
@@ -309677,6 +309805,7 @@ zobacz24.pl CNAME .
 zobaczcosmowi.top CNAME .
 zobaczktopodgladaa.blogspot.com CNAME .
 zocalos.stream CNAME .
+zocdflgy.shop CNAME .
 zodernus.com CNAME .
 zodiacs.stream CNAME .
 zodly.app CNAME .
@@ -309734,6 +309863,7 @@ zonealarmantivirussupport.com CNAME .
 zoneautopro.com CNAME .
 zonedietz.com CNAME .
 zoneflowgate.site CNAME .
+zonemodern.com CNAME .
 zoneofrewards.com CNAME .
 zoneprizes4your.com CNAME .
 zoneprone.com CNAME .
@@ -309785,6 +309915,7 @@ zoominfoitsupport.com CNAME .
 zoomings.stream CNAME .
 zoommeetingsclassaction.com CNAME .
 zoomnature.info CNAME .
+zoomoption.com CNAME .
 zoompay.com CNAME .
 zoomsupport.com CNAME .
 zoomtiranno.online CNAME .

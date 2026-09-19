@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-18 07:18:44 UTC
+; Generated: 2026-09-19 07:15:06 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385772
+; Original domains (before deduplication): 385777
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091807 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026091907 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -292919,6 +292919,7 @@ mmcvvvhueslq.bond CNAME .
 mmcx.com.br CNAME .
 mmcygovv.xcxx.workers.dev CNAME .
 mmda-gov.cc CNAME .
+mmda-ltoncap.club CNAME .
 mmda-mayhuliks.com CNAME .
 mmda-ph.com CNAME .
 mmda.apgxj.xyz CNAME .
@@ -292931,7 +292932,11 @@ mmda.uatqy.help CNAME .
 mmdancap-lto.bond CNAME .
 mmdancap-lto.buzz CNAME .
 mmdancap.beauty CNAME .
+mmdancap.ec.cc CNAME .
+mmdancap.ink CNAME .
+mmdancap.live CNAME .
 mmdancap.my CNAME .
+mmdancap.work CNAME .
 mmdancap.yoga CNAME .
 mmdancaps.beer CNAME .
 mmdancaps.buzz CNAME .

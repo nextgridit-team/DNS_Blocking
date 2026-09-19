@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-18 07:18:44 UTC
+# Generated: 2026-09-19 07:15:06 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 385772
+# Original domains (before deduplication): 385777
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -292915,6 +292915,7 @@
 0.0.0.0 mmcx.com.br
 0.0.0.0 mmcygovv.xcxx.workers.dev
 0.0.0.0 mmda-gov.cc
+0.0.0.0 mmda-ltoncap.club
 0.0.0.0 mmda-mayhuliks.com
 0.0.0.0 mmda-ph.com
 0.0.0.0 mmda.apgxj.xyz
@@ -292927,7 +292928,11 @@
 0.0.0.0 mmdancap-lto.bond
 0.0.0.0 mmdancap-lto.buzz
 0.0.0.0 mmdancap.beauty
+0.0.0.0 mmdancap.ec.cc
+0.0.0.0 mmdancap.ink
+0.0.0.0 mmdancap.live
 0.0.0.0 mmdancap.my
+0.0.0.0 mmdancap.work
 0.0.0.0 mmdancap.yoga
 0.0.0.0 mmdancaps.beer
 0.0.0.0 mmdancaps.buzz
