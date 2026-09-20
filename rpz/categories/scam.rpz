@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-19 07:15:06 UTC
+; Generated: 2026-09-20 07:40:28 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310363
+; Original domains (before deduplication): 310386
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026091907 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092007 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -5603,6 +5603,7 @@ activealertapp.com CNAME .
 activearly.com CNAME .
 activebitcoinminers.com CNAME .
 activecrypto-minerclub.com CNAME .
+activeelectric.net CNAME .
 activeessentials.shop CNAME .
 activego.shop CNAME .
 activehyips.com CNAME .
@@ -26762,6 +26763,7 @@ boomhack.net CNAME .
 boomines.ru CNAME .
 booming-corking.stream CNAME .
 boomix.pl CNAME .
+boomjoo.co CNAME .
 boommer.ru CNAME .
 boompool.ru CNAME .
 boomsavings.com CNAME .
@@ -27534,6 +27536,7 @@ brennholzstein.de CNAME .
 brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
+brennholzwidmann.de CNAME .
 brenntagcleaning.com CNAME .
 brenocar.com.br CNAME .
 brenstoffe-versand.de CNAME .
@@ -34694,6 +34697,7 @@ cm880.fifth.pw CNAME .
 cmaralin.club CNAME .
 cmarecruits.com CNAME .
 cmchbhopal.com CNAME .
+cmctradingeu.com CNAME .
 cmdjujqlfbts.com CNAME .
 cmdnzbuynnm.com CNAME .
 cmdotgwjhpqf.com CNAME .
@@ -46114,6 +46118,7 @@ de-session-login-validation-id84925132.accountant CNAME .
 de-session-login-validation-id84925132.online CNAME .
 de-session-login-validation-id84925132.site CNAME .
 de-session-login-validation-id84925132.stream CNAME .
+de-shimano.com CNAME .
 de-startseite-login.com CNAME .
 de-tonies.com CNAME .
 de-toy.com CNAME .
@@ -46336,6 +46341,7 @@ decisionw.com CNAME .
 deck-cards.stream CNAME .
 deckaffiliating.com CNAME .
 deckcalmn.com CNAME .
+deckeldrauf.com CNAME .
 declaestim.cyou CNAME .
 declaredhis.tk CNAME .
 declarise.danielconesa.com CNAME .
@@ -46688,6 +46694,7 @@ dejia.shop CNAME .
 dejkuiper.com CNAME .
 dekalbganews.com CNAME .
 dekalbtimes.com CNAME .
+dekantier.de CNAME .
 dekhujoshop.com CNAME .
 dekoartikelrabatt.de CNAME .
 dekoder.ws CNAME .
@@ -47387,6 +47394,7 @@ deuteriacosmetics.com CNAME .
 deuterulla.cyou CNAME .
 deutmart.de CNAME .
 deutsch-brennholz.de CNAME .
+deutschapotheke.com CNAME .
 deutschdeal.com CNAME .
 deutsche-emark.org CNAME .
 deutsche-energieoptimierungsgesellschaft.com CNAME .
@@ -47994,6 +48002,7 @@ digitaltiplevel.com CNAME .
 digitaltoppers.com CNAME .
 digitalvikn.com.br CNAME .
 digitalvisiondaily.com CNAME .
+digitalwertezentrum.de CNAME .
 digitalwhatsapp.com CNAME .
 digitalworldwire.com CNAME .
 digitax-solutions.de CNAME .
@@ -64418,6 +64427,7 @@ flightzy.bi CNAME .
 flightzy.bid CNAME .
 flightzy.date CNAME .
 flightzy.win CNAME .
+flimmenpapst.com CNAME .
 flimscurtn.cyou CNAME .
 flinder.stream CNAME .
 flinganticipate.com CNAME .
@@ -68717,7 +68727,6 @@ get-thebest-prize1.com CNAME .
 get-vip-laidtonight.com CNAME .
 get-whitepaper-tech.com CNAME .
 get-woo.com CNAME .
-get-wuffy.com CNAME .
 get-your-credit-report.com CNAME .
 get-your-credit-report.net CNAME .
 get-your-credit-report.org CNAME .
@@ -75372,6 +75381,7 @@ hewlettpackardsupports.com CNAME .
 hewrotehis.tk CNAME .
 hexa-tronic.com CNAME .
 hexabitcoins.com CNAME .
+hexadistri.com CNAME .
 hexagonresources.org CNAME .
 hexainc.biz CNAME .
 hexamining.io CNAME .
@@ -78292,6 +78302,7 @@ hotelmanagementcolleges.co.in CNAME .
 hotelnordenpalace.it CNAME .
 hotelpalmea.com CNAME .
 hotels-colombo.com CNAME .
+hotels-colorado.net CNAME .
 hotels-inform4281.com CNAME .
 hotels-stay11240111.com CNAME .
 hotels-stay23240111.com CNAME .
@@ -91801,6 +91812,7 @@ lendzone.net CNAME .
 lengthsome.tk CNAME .
 lenimara.at CNAME .
 lenisaris.nl CNAME .
+lenkerclip.com CNAME .
 lennartkreutz.de CNAME .
 lenny.dnsd.me CNAME .
 lennys-autoteile.at CNAME .
@@ -99268,6 +99280,7 @@ marafon.strast-lubov-razvitie.ru CNAME .
 maragatafm.com CNAME .
 maralgel.pro CNAME .
 marapool.com CNAME .
+marathonasset.com CNAME .
 marathondh.com CNAME .
 marauder.pw CNAME .
 marbellagoldenvillas.com CNAME .
@@ -109544,6 +109557,7 @@ neu-anmeldung.com CNAME .
 neu-elektrofahrrad.com CNAME .
 neu-spielzeug.com CNAME .
 neubeleuchtung.com CNAME .
+neublasinstrumente.com CNAME .
 neubootsladen.com CNAME .
 neue-online-casinos-2026.de CNAME .
 neueberlin.de CNAME .
@@ -117253,6 +117267,7 @@ ouailwn.com CNAME .
 oubibahphzsz.com CNAME .
 oubliersemaine.tk CNAME .
 oubriojtpnps.com CNAME .
+ouces.heuristicreview.company CNAME .
 oucg.org CNAME .
 oucsx.com CNAME .
 oud.sint-janscollege.be CNAME .
@@ -118031,7 +118046,7 @@ ozzo.world CNAME .
 ozzyfuckslut.com CNAME .
 p-and-f-services.com CNAME .
 p-bau.at CNAME .
-p-ep.com CNAME .
+p-ep.org CNAME .
 p-link.mobi CNAME .
 p.cpcempower.com CNAME .
 p.oprosnik.ga CNAME .
@@ -123352,6 +123367,7 @@ pellerioai.live CNAME .
 pellet-bio.company.site CNAME .
 pellet-ecos.company.site CNAME .
 pellet-haus.com CNAME .
+pellet-werk.com CNAME .
 pelletgroup48.com CNAME .
 pelletkraft.de CNAME .
 pelletopia.de CNAME .
@@ -131629,6 +131645,7 @@ rarog24.ru CNAME .
 rarogvip.ru CNAME .
 ras.cpcempower.com CNAME .
 rasamesinbaru.com CNAME .
+rascassesas.com CNAME .
 rascidisdu.cyou CNAME .
 rasen-matt.eu CNAME .
 rasen-profis.de CNAME .
@@ -133436,6 +133453,7 @@ replicas99.com CNAME .
 replicasbolsos.org CNAME .
 replicaslouis-vuitton.com CNAME .
 replicaspecial.net CNAME .
+replicasrelojes.to CNAME .
 replicastore.net CNAME .
 replicaswatches.vip CNAME .
 replicaswisswatch.com CNAME .
@@ -133489,6 +133507,7 @@ replika-uhr.to CNAME .
 replikbay.com CNAME .
 replikeuhren.com CNAME .
 replikuhren.top CNAME .
+replikuhrenshop.de CNAME .
 replux.ru CNAME .
 reply-verify.info CNAME .
 replylinkedin.com CNAME .
@@ -135319,7 +135338,6 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
-rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -140934,7 +140952,6 @@ sexflirtbook.com CNAME .
 sexfriend.fr CNAME .
 sexhosty.com CNAME .
 sexhotel.fr CNAME .
-sexicats.com CNAME .
 sexinsecs.com CNAME .
 sexinspektor.com CNAME .
 sexkontakt-at.com CNAME .
@@ -160171,6 +160188,7 @@ the-bricks.com CNAME .
 the-cevap.ch CNAME .
 the-coin-growth.com CNAME .
 the-corner-of-life.blogspot.com CNAME .
+the-culinology.com CNAME .
 the-dubaiagency.com CNAME .
 the-essays.com CNAME .
 the-fastest-cleaning-iphone11.com CNAME .
@@ -164908,6 +164926,7 @@ trustsoft.com CNAME .
 trustspareparts.com CNAME .
 trustss.com CNAME .
 trustuu.com CNAME .
+trusty-eu.com CNAME .
 trustydealmarket.com CNAME .
 trustyhour.com CNAME .
 trustysolutions.net CNAME .
@@ -169911,6 +169930,7 @@ vendiavere.cyou CNAME .
 vendit24.de CNAME .
 venditacuffiemonster.com CNAME .
 venditt24.de CNAME .
+vendome-logistique.com CNAME .
 vendomeprestige.com CNAME .
 vendor-verify.com CNAME .
 vendorhub.store CNAME .
@@ -172166,6 +172186,7 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -172755,6 +172776,7 @@ vps140923.inmotionhosting.com CNAME .
 vpu-hilfe.at CNAME .
 vpu-vorbereitung.com CNAME .
 vpu-vorbereitung.online CNAME .
+vpudoktor.com CNAME .
 vpufuchs.com CNAME .
 vputest.online CNAME .
 vpzccwpyilvoyg.ru CNAME .
@@ -177771,6 +177793,7 @@ weneedand.tk CNAME .
 wenfis.com CNAME .
 wenked.com CNAME .
 wenlicht.de CNAME .
+wenndennpelletsgmbh.de CNAME .
 wenqlaorugaly.info CNAME .
 wenqyczxgpoyu.bid CNAME .
 wenrwrowrjedworo.com CNAME .

@@ -1,7 +1,7 @@
 # Adult Blocklist
-# Generated: 2026-09-19 07:15:06 UTC
+# Generated: 2026-09-20 07:40:28 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 127841
+# Original domains (before deduplication): 127842
 
 0.0.0.0 00000.uno
 0.0.0.0 0012238949191929.com
@@ -38362,6 +38362,7 @@
 0.0.0.0 mlookalporno.com
 0.0.0.0 mlpenterprises.com.ng
 0.0.0.0 mlplatformsoftware.com
+0.0.0.0 mlsend.com
 0.0.0.0 mltrk.io
 0.0.0.0 mm1cloud.com
 0.0.0.0 mm819.me
