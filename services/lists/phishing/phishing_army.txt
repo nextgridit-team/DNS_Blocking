@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-20 07:40:28 UTC
+# Generated: 2026-09-21 07:52:49 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 385777
+# Original domains (before deduplication): 385776
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -177363,7 +177363,6 @@
 0.0.0.0 lavyh8.github.io
 0.0.0.0 lavzewwclkpiipe-uiguiui-yutriug.workers.dev
 0.0.0.0 law-aspekt.ru
-0.0.0.0 law-daej-osaimi.com
 0.0.0.0 law-firm.uk
 0.0.0.0 lawasartantique.com
 0.0.0.0 lawayaddauze-2067.vercel.app

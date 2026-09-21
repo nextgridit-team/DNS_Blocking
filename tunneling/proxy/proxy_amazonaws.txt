@@ -115,7 +115,6 @@ arc-acn-reverseproxy-b9311a6a27b5f523.elb.eu-central-1.amazonaws.com
 blog-rt-proxy-prd-9be7b76b0fb012b7.elb.us-west-2.amazonaws.com
 brave-production-proxy-238320562.us-west-2.elb.amazonaws.com
 brazil-proxy-6dd3fa02e902f93c.elb.sa-east-1.amazonaws.com
-bubble-live-message-api-proxy-1852099838.ap-northeast-1.elb.amazonaws.com
 cf-proxy-cf-eu10-004-ca8ff5b93d5f2e9b.elb.eu-central-1.amazonaws.com
 cf-proxy-cf-eu10-005-ba611c4138a7f4f7.elb.eu-central-1.amazonaws.com
 cf-proxy-cf-eu11-4382b16c98f5d402.elb.eu-central-1.amazonaws.com
@@ -131,6 +130,7 @@ connect-prod-rev-proxy-1939600382.us-east-1.elb.amazonaws.com
 consproxy-usw2-prod-alb-655411174.us-west-2.elb.amazonaws.com
 consproxy-usw2-prod-nlb-0a749017bdeedff9.elb.us-west-2.amazonaws.com
 ct-phoenix-proxy-it-prod-v6-44d1f2230a55cb76.elb.eu-west-3.amazonaws.com
+dcp-devicetransproxy-nlb-07ac9a2427eb5ba0.elb.us-east-1.amazonaws.com
 ecr-haproxy-prod-network-lb-1866656a79c6f789.elb.us-east-1.amazonaws.com
 ecr-haproxy-prod-network-lb-644baca4840ef47f.elb.ap-northeast-1.amazonaws.com
 ecr-haproxy-prod-network-lb-aa8e7e1a72bf6923.elb.eu-central-1.amazonaws.com
@@ -138,11 +138,13 @@ ecr-haproxy-prod-network-lb-ee32cf1e43a1a749.elb.il-central-1.amazonaws.com
 elb-logproxy-963550089.us-west-2.elb.amazonaws.com
 emailocto-espsecuretrackingproxy-beb33fa4a237ae52.elb.eu-west-1.amazonaws.com
 essaws-p-proxy-nlb01-ab3e806b052740fc.elb.ap-northeast-1.amazonaws.com
+external-apne1-kproxy-1-925389829.ap-northeast-1.elb.amazonaws.com
 external-use1-kproxy-1-1056718813.us-east-1.elb.amazonaws.com
 external-usw1-kproxy-1-1404359753.us-west-1.elb.amazonaws.com
 fipsproxy-usw2-prod-nlb-442bf2da15bf2e5a.elb.us-west-2.amazonaws.com
 frp-prod-proxy-nlb-da3e8610d1790f30.elb.us-east-1.amazonaws.com
 gbproxy-lb-666270904.us-west-2.elb.amazonaws.com
+haproxy-49ead5d644ca659f.elb.us-west-1.amazonaws.com
 haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com
 haproxywildnlb-2e3f6bff22e84a79.elb.us-west-2.amazonaws.com
 ingress-sticky-haproxy-mt1-912d8b7308f82d6c.elb.us-east-1.amazonaws.com

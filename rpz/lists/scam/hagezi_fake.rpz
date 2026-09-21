@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-20 07:40:28 UTC
+; Generated: 2026-09-21 07:52:49 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 17256
+; Original domains (before deduplication): 17253
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092007 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092107 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -1813,6 +1813,7 @@ bier-systeme.com CNAME .
 bierbankdruckerei.de CNAME .
 biergarten-am-kuenettegraben.de CNAME .
 biergenusswel.com CNAME .
+bierundgarten.de CNAME .
 bigagnesoutlet.com CNAME .
 biggainersalerts-members.com CNAME .
 biglotshop.com CNAME .
@@ -1948,7 +1949,6 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -2269,6 +2269,7 @@ brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
 brennholzwidmann.de CNAME .
+brennstoffemokstat.shop CNAME .
 brenstoffe-versand.de CNAME .
 brenuingerde.com CNAME .
 breuer-boutique.de CNAME .
@@ -4707,7 +4708,6 @@ eugenefieldpac.com CNAME .
 eugeneoutlet.com CNAME .
 eumarketstores.com CNAME .
 eumeds24.com CNAME .
-eumedz.com CNAME .
 eunits.de CNAME .
 euonlinedeal.shop CNAME .
 euortovox.shop CNAME .
@@ -5146,6 +5146,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -7096,7 +7097,6 @@ hfbssxcd.shop CNAME .
 hgtyfd.shop CNAME .
 hi-goeedoo.com CNAME .
 hibote.de CNAME .
-hicity.de CNAME .
 hico-shop.de CNAME .
 hiddenbarandgrill.com CNAME .
 hiddenhertz.com CNAME .
@@ -7359,7 +7359,6 @@ hotel-ds.com CNAME .
 hotel-krone-muc.de CNAME .
 hotel-seetal.de CNAME .
 hotelaustralien.de CNAME .
-hotelinphuket.net CNAME .
 hotelladen.com CNAME .
 hotels-colombo.com CNAME .
 hotels-colorado.net CNAME .
@@ -9857,7 +9856,6 @@ medilifescience.com CNAME .
 medimaxstore.de CNAME .
 medinelle.com CNAME .
 mediplus-berlin.de CNAME .
-medirao.com CNAME .
 medirezept.net CNAME .
 meditatem.com CNAME .
 medivita-de.com CNAME .
@@ -10459,7 +10457,6 @@ moonpod.de CNAME .
 moontod.com CNAME .
 moonx.io CNAME .
 mooredvazwe.myshopify.com CNAME .
-mooris.de CNAME .
 moosufergarten.de CNAME .
 mooxishop.de CNAME .
 more2water.onshopbase.com CNAME .
@@ -11426,7 +11423,6 @@ onlinegearwrench.com CNAME .
 onlinegoodshub.com CNAME .
 onlinehealthworldtrust.com CNAME .
 onlineindiespiele.de CNAME .
-onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekohler.com CNAME .
 onlinelearningquality.org CNAME .
@@ -13079,6 +13075,7 @@ rohrshop24.com CNAME .
 roinvest.net CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
+rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -15649,7 +15646,6 @@ trustpharm7pills.com CNAME .
 trustpharmsonline.com CNAME .
 trustss.com CNAME .
 trustuu.com CNAME .
-trusty-eu.com CNAME .
 trustydealmarket.com CNAME .
 trustytime888.io CNAME .
 truthaboutyem.com CNAME .
@@ -16631,6 +16627,7 @@ wemidwestkids.com CNAME .
 wenked.com CNAME .
 wenlicht.de CNAME .
 wenndennpelletsgmbh.de CNAME .
+wensauer-holz.com CNAME .
 weram.shop CNAME .
 wereldparts.net CNAME .
 werk-garten.de CNAME .

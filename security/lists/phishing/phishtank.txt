@@ -1,8 +1,8 @@
 # PhishTank
 # Category: phishing
-# Generated: 2026-09-20 07:40:28 UTC
+# Generated: 2026-09-21 07:52:49 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 40980
+# Original domains (before deduplication): 41041
 
 0.0.0.0 0-lix-a8sbqnxt.d1cdej.top
 0.0.0.0 0.gravatar.com
@@ -1108,6 +1108,7 @@
 0.0.0.0 68-210-102-85.cprapid.com
 0.0.0.0 68-210-200-182.cprapid.com
 0.0.0.0 68-210-98-27.cprapid.com
+0.0.0.0 6823874568682y45236458625y.blogspot.com
 0.0.0.0 68392047.xyz
 0.0.0.0 6844762e.click.convertkit-mail2.com
 0.0.0.0 686792.venvoox6.pro
@@ -1337,6 +1338,7 @@
 0.0.0.0 85875943.weebly.com
 0.0.0.0 8589817314.dojiner.at
 0.0.0.0 85giqa.info
+0.0.0.0 862346556656123476245y432657r4.blogspot.com
 0.0.0.0 86315924.xyz
 0.0.0.0 86488.lundivjcxk.pro
 0.0.0.0 864889.lundivjcxk.pro
@@ -1813,6 +1815,7 @@
 0.0.0.0 account-lbpiaccess.web.app
 0.0.0.0 account-ndaax.webflow.io
 0.0.0.0 account-pionex.wixstudio.com
+0.0.0.0 account-restricted-verify-request.netlify.app
 0.0.0.0 account-security-s-school.teachable.com
 0.0.0.0 account-support-help.com
 0.0.0.0 account-update3.weebly.com
@@ -2852,11 +2855,16 @@
 0.0.0.0 allegro.1230093.qpon
 0.0.0.0 allegro.12300hhbbcc.study
 0.0.0.0 allegro.12301028g.qpon
+0.0.0.0 allegro.123010h8hh45g.click
 0.0.0.0 allegro.12301209.click
 0.0.0.0 allegro.1230120h5jg54.top
+0.0.0.0 allegro.1230120h85.buzz
+0.0.0.0 allegro.1230120h8h745.buzz
+0.0.0.0 allegro.1230129845.buzz
 0.0.0.0 allegro.1230129g8g734.click
 0.0.0.0 allegro.1230129h766.rest
 0.0.0.0 allegro.123098h5.buzz
+0.0.0.0 allegro.1230g59h45g54.forum
 0.0.0.0 allegro.1230h9457h45g.pics
 0.0.0.0 allegro.1231230h8h5.beer
 0.0.0.0 allegro.1231236kk.buzz
@@ -3096,6 +3104,7 @@
 0.0.0.0 allegro.9139120h5.cfd
 0.0.0.0 allegro.9209288774g.lat
 0.0.0.0 allegro.921-08g8.xyz
+0.0.0.0 allegro.9213899h45h954.buzz
 0.0.0.0 allegro.921931.lol
 0.0.0.0 allegro.92359293ghg.lol
 0.0.0.0 allegro.92381928h75.rest
@@ -3279,10 +3288,12 @@
 0.0.0.0 allegro.lokalna-ofeta054723231.lol
 0.0.0.0 allegro.lokalna-ofeta064623324.lol
 0.0.0.0 allegro.lokalna-ofeta0675421323.lol
+0.0.0.0 allegro.lokalna-ofeta07534529123.sbs
 0.0.0.0 allegro.lokalna-ofeta287689142.sbs
 0.0.0.0 allegro.lokalna-ofeta287689147.sbs
 0.0.0.0 allegro.lokalna-ofeta2891987121.sbs
 0.0.0.0 allegro.lokalna-ofeta328873200321.cfd
+0.0.0.0 allegro.lokalna-ofeta562356886.sbs
 0.0.0.0 allegro.lokalna-ofeta7891987121.sbs
 0.0.0.0 allegro.lokalna-ofeta843673458.lol
 0.0.0.0 allegro.lokalna-ofeta9567556623.lol
@@ -3332,6 +3343,7 @@
 0.0.0.0 allegro.ofeer2r39831.xyz
 0.0.0.0 allegro.ofep23891.shop
 0.0.0.0 allegro.ofepo12819.lat
+0.0.0.0 allegro.ofer09128875.buzz
 0.0.0.0 allegro.ofer93201.club
 0.0.0.0 allegro.ofera2939934349.shop
 0.0.0.0 allegro.ofera783727222.shop
@@ -3425,6 +3437,7 @@
 0.0.0.0 allegro.ofeta-1413.sbs
 0.0.0.0 allegro.ofeta-142233.sbs
 0.0.0.0 allegro.ofeta-19733.sbs
+0.0.0.0 allegro.ofeta-462789.sbs
 0.0.0.0 allegro.ofeta-59345.shop
 0.0.0.0 allegro.ofeta-62941432.shop
 0.0.0.0 allegro.ofeta-71903.lat
@@ -4397,6 +4410,7 @@
 0.0.0.0 allegrolokalnie.962554th.top
 0.0.0.0 allegrolokalnie.962854th.top
 0.0.0.0 allegrolokalnie.9642345.pl
+0.0.0.0 allegrolokalnie.9653452.top
 0.0.0.0 allegrolokalnie.9673754.lat
 0.0.0.0 allegrolokalnie.974325.lat
 0.0.0.0 allegrolokalnie.9745417.cfd
@@ -4562,6 +4576,7 @@
 0.0.0.0 allegrolokalnie.lokaina-oferta3029.sbs
 0.0.0.0 allegrolokalnie.lokala-191001.lol
 0.0.0.0 allegrolokalnie.lokala-ofera298.lol
+0.0.0.0 allegrolokalnie.lokala-ofera812819921.shop
 0.0.0.0 allegrolokalnie.lokala-ofera812911.sbs
 0.0.0.0 allegrolokalnie.lokala-ofera89121.cfd
 0.0.0.0 allegrolokalnie.lokala-ofera902.shop
@@ -4761,6 +4776,7 @@
 0.0.0.0 allegrolokalnie.lokalna-ofeta054723231.lol
 0.0.0.0 allegrolokalnie.lokalna-ofeta064623324.lol
 0.0.0.0 allegrolokalnie.lokalna-ofeta0675421323.lol
+0.0.0.0 allegrolokalnie.lokalna-ofeta07534529123.sbs
 0.0.0.0 allegrolokalnie.lokalna-ofeta08586312.sbs
 0.0.0.0 allegrolokalnie.lokalna-ofeta0955.sbs
 0.0.0.0 allegrolokalnie.lokalna-ofeta1023xz3y2j002.icu
@@ -4805,6 +4821,7 @@
 0.0.0.0 allegrolokalnie.lokalna-ofeta419.biz
 0.0.0.0 allegrolokalnie.lokalna-ofeta4788521.cyou
 0.0.0.0 allegrolokalnie.lokalna-ofeta489.sbs
+0.0.0.0 allegrolokalnie.lokalna-ofeta562356886.sbs
 0.0.0.0 allegrolokalnie.lokalna-ofeta6221.top
 0.0.0.0 allegrolokalnie.lokalna-ofeta6534636.cyou
 0.0.0.0 allegrolokalnie.lokalna-ofeta6767.sbs
@@ -4937,6 +4954,7 @@
 0.0.0.0 allegrolokalnie.oferta-423486.cfd
 0.0.0.0 allegrolokalnie.oferta-4490-pl.shop
 0.0.0.0 allegrolokalnie.oferta-471852.cfd
+0.0.0.0 allegrolokalnie.oferta-478221.sbs
 0.0.0.0 allegrolokalnie.oferta-5384913.cfd
 0.0.0.0 allegrolokalnie.oferta-735161-sprzedam-nowy-iphone-air-256.cfd
 0.0.0.0 allegrolokalnie.oferta-737376462647.shop
@@ -4986,6 +5004,7 @@
 0.0.0.0 allegrolokalnie.oferta1758691.click
 0.0.0.0 allegrolokalnie.oferta183052.click
 0.0.0.0 allegrolokalnie.oferta194178214141.sbs
+0.0.0.0 allegrolokalnie.oferta198273129.cfd
 0.0.0.0 allegrolokalnie.oferta19922.cfd
 0.0.0.0 allegrolokalnie.oferta20492649502747.shop
 0.0.0.0 allegrolokalnie.oferta204936294926484.shop
@@ -5162,6 +5181,7 @@
 0.0.0.0 allegrolokalnie.ofeta-19733.sbs
 0.0.0.0 allegrolokalnie.ofeta-291231413.sbs
 0.0.0.0 allegrolokalnie.ofeta-30503333.sbs
+0.0.0.0 allegrolokalnie.ofeta-462789.sbs
 0.0.0.0 allegrolokalnie.ofeta-59345.shop
 0.0.0.0 allegrolokalnie.ofeta-62941432.shop
 0.0.0.0 allegrolokalnie.ofeta-71903.lat
@@ -5839,6 +5859,7 @@
 0.0.0.0 allegrolokalnie.pl-przvf.sbs
 0.0.0.0 allegrolokalnie.pl-s.shop
 0.0.0.0 allegrolokalnie.pl-sklep.lat
+0.0.0.0 allegrolokalnie.pl-sklep7produkt512812497.shop
 0.0.0.0 allegrolokalnie.pl-smart0800679.sbs
 0.0.0.0 allegrolokalnie.pl-smart589154843.sbs
 0.0.0.0 allegrolokalnie.pl-smart758718581.pl
@@ -5867,6 +5888,7 @@
 0.0.0.0 allegrolokalnie.pl18363.lol
 0.0.0.0 allegrolokalnie.pl199622.icu
 0.0.0.0 allegrolokalnie.pl23953.top
+0.0.0.0 allegrolokalnie.pl27zx30bf.cfd
 0.0.0.0 allegrolokalnie.pl29139.top
 0.0.0.0 allegrolokalnie.pl292829.cyou
 0.0.0.0 allegrolokalnie.pl29333.top
@@ -5966,6 +5988,7 @@
 0.0.0.0 allegrolokalnie.po12801-f12.cfd
 0.0.0.0 allegrolokalnie.prywant8492119.xyz
 0.0.0.0 allegrolokalnie.prywante842012887j.shop
+0.0.0.0 allegrolokalnie.prywata-oferra912818.shop
 0.0.0.0 allegrolokalnie.prywatn83812034.bond
 0.0.0.0 allegrolokalnie.prywatna-ofera89290198.lol
 0.0.0.0 allegrolokalnie.prywatna-oferta555362.xyz
@@ -5984,6 +6007,7 @@
 0.0.0.0 allegrolokalnie.rezerwacja2647.sbs
 0.0.0.0 allegrolokalnie.rezerwacja2742.sbs
 0.0.0.0 allegrolokalnie.rezerwacja2762.sbs
+0.0.0.0 allegrolokalnie.rezerwacja49228.click
 0.0.0.0 allegrolokalnie.rezerwacja5274.click
 0.0.0.0 allegrolokalnie.rezerwacja5274.sbs
 0.0.0.0 allegrolokalnie.rezerwacja5297.click
@@ -6652,6 +6676,7 @@
 0.0.0.0 apphome-lezrstart.wixstudio.com
 0.0.0.0 appio-ledgrcdn.wixstudio.com
 0.0.0.0 appl-accounten.com
+0.0.0.0 apple-iforgetid.click
 0.0.0.0 apple.pay-wallet-review.com
 0.0.0.0 apple0d76cd38f0534778a97f4b98af49f6b3.4g7f9p.cn
 0.0.0.0 apple204797a7901743bf88326c2be2d7806e.4fvj23.cn
@@ -6659,7 +6684,9 @@
 0.0.0.0 appledger.wixstudio.com
 0.0.0.0 appledgerlive.framer.media
 0.0.0.0 appledgre.wixstudio.com
+0.0.0.0 appleidmapa.com
 0.0.0.0 applemymusic.com
+0.0.0.0 applesoporte.services
 0.0.0.0 appli-mondlalrelai1.com
 0.0.0.0 application.colibriathenas.com.br
 0.0.0.0 applinkzzz.weebly.com
@@ -9425,6 +9452,7 @@
 0.0.0.0 biometrie-carte-public.com
 0.0.0.0 biometrie-nouvelle-carte.com
 0.0.0.0 bionsevo.firebaseapp.com
+0.0.0.0 biotech-hub.de
 0.0.0.0 bioturbationhorizon.cfd
 0.0.0.0 biozium.com
 0.0.0.0 bipcancelarnet.webcindario.com
@@ -9504,6 +9532,7 @@
 0.0.0.0 blinq.me
 0.0.0.0 blissful-pages-854004.framer.app
 0.0.0.0 blissfulrubdown.com
+0.0.0.0 bljmg.com
 0.0.0.0 blluuepeak.weebly.com
 0.0.0.0 blocakchain-login.gitbook.io
 0.0.0.0 blocfk-filogin.gitbook.io
@@ -9763,6 +9792,7 @@
 0.0.0.0 br-2421-e33d1fb574e7ab7ede884f69e0b147de-p4rfo63nt-acq-ui-eng.vercel.app
 0.0.0.0 br-2441-02ced9604df3a000f4dfe50e3a1d1e06-qfq8dcdsu-acq-ui-eng.vercel.app
 0.0.0.0 br-atualiza-pendente.digital
+0.0.0.0 br-zim.netlify.app
 0.0.0.0 br.pinterest.com
 0.0.0.0 br1.bbbooss.shop
 0.0.0.0 br1.cccooss.shop
@@ -10350,6 +10380,7 @@
 0.0.0.0 bs-deliver-e817.61d8f0e6ac62c139abd08ba5.workers.dev
 0.0.0.0 bs-wylie393.mvt.so
 0.0.0.0 bs6lum61rjw5co-pages-dev.translate.goog
+0.0.0.0 bsaedrf.kinsta.cloud
 0.0.0.0 bsbygctheyeji78.w3spaces.com
 0.0.0.0 bscverification.netlify.app
 0.0.0.0 bsice5.webwave.dev
@@ -11499,6 +11530,7 @@
 0.0.0.0 chutlincrapo.web.app
 0.0.0.0 chuyestadare.firebaseapp.com
 0.0.0.0 chuyestadare.web.app
+0.0.0.0 chylzy.com
 0.0.0.0 ci-app294.info
 0.0.0.0 ci3plv.cfd
 0.0.0.0 ci5lbh.duckdns.org
@@ -11706,6 +11738,7 @@
 0.0.0.0 clientesseguros.blog
 0.0.0.0 clientesweboportunidades.com
 0.0.0.0 clientmaison.ulcraft.com
+0.0.0.0 clients-essais-primes.com
 0.0.0.0 clients.devtux.com
 0.0.0.0 clients.gruppobper.co.uk
 0.0.0.0 clientsgparticuliers.com
@@ -11871,6 +11904,7 @@
 0.0.0.0 coinbase-invest--camrongraves4.replit.app
 0.0.0.0 coinbase-leslie.com
 0.0.0.0 coinbase-referral-code.vercel.app
+0.0.0.0 coinbase.979217.com
 0.0.0.0 coinbasebackup.com
 0.0.0.0 coinbaseportalaccess.com
 0.0.0.0 coinbasepro10000.webcindario.com
@@ -12238,6 +12272,7 @@
 0.0.0.0 connectchase23.firebaseapp.com
 0.0.0.0 connectchase23.web.app
 0.0.0.0 connectenledgers.wixstudio.com
+0.0.0.0 connectezvousamicrosoftoutlook.weebly.com
 0.0.0.0 connecthub-b0f.mvt.so
 0.0.0.0 connecticuttechnicalupdate4422.ukit.me
 0.0.0.0 connectiiontodoomaiins.weebly.com
@@ -12877,6 +12912,7 @@
 0.0.0.0 customerc0mcastweb.framer.website
 0.0.0.0 customercaretslbellnetstatement.weebly.com
 0.0.0.0 customercomcast.framer.website
+0.0.0.0 customercomcastsignon.framer.website
 0.0.0.0 customerinvoice-534998.firebaseapp.com
 0.0.0.0 customerinvoice-534998.web.app
 0.0.0.0 customerrestoredata.servehttp.com
@@ -13180,6 +13216,7 @@
 0.0.0.0 dbk-debek.com
 0.0.0.0 dbklgovmyupdateforall.weebly.com
 0.0.0.0 dbklitservicesupdate.webflow.io
+0.0.0.0 dbs-cohesiveness2026.xyz
 0.0.0.0 dbs-secure.vercel.app
 0.0.0.0 dbs.applerewardsstore.com
 0.0.0.0 dbs.polimenopietrosrl.com
@@ -15034,7 +15071,6 @@
 0.0.0.0 eharmonyesec.weebly.com
 0.0.0.0 eharmonyline.weebly.com
 0.0.0.0 ehay-uk-login-secures-ww6rwgzs.carremovals247.com.au
-0.0.0.0 ehay.item.co.uk.login.secures-wr8wsvzt.sutanrajahotelkolaka.com
 0.0.0.0 ehay.item.com.login.secures-wr8wcvzo.thechennaistores.com
 0.0.0.0 ehay.uk.login.secures-wr2ssvastv.braxwebdesign.com
 0.0.0.0 ehesss1.weebly.com
@@ -15486,6 +15522,7 @@
 0.0.0.0 eppxqghubp.firebaseapp.com
 0.0.0.0 eppxqghubp.web.app
 0.0.0.0 eprime-access-index.com
+0.0.0.0 eprime-espace.com
 0.0.0.0 eprime-sav.com
 0.0.0.0 eqhvb-10ffe.firebaseapp.com
 0.0.0.0 eqhvb-10ffe.web.app
@@ -16043,6 +16080,7 @@
 0.0.0.0 fact-chorus.webflow.io
 0.0.0.0 fact-desktop.wixstudio.com
 0.0.0.0 fact01portroston.urest.org
+0.0.0.0 factdevslouhreiud.duckdns.org
 0.0.0.0 facto1-e8374.firebaseapp.com
 0.0.0.0 facto1-e8374.web.app
 0.0.0.0 factumebase.firebaseapp.com
@@ -16162,6 +16200,7 @@
 0.0.0.0 fascicolo-sanitario.com
 0.0.0.0 fascinating-eclair-fd3572.netlify.app
 0.0.0.0 fashionnvren.com
+0.0.0.0 fashionz-danube-dubai.weebly.com
 0.0.0.0 fast-changes-971790.framer.app
 0.0.0.0 fast-research-343880.framer.app
 0.0.0.0 fast-window-402815.framer.app
@@ -16679,6 +16718,7 @@
 0.0.0.0 fmbnc-acctservices.firebaseapp.com
 0.0.0.0 fmbnc-acctservices.web.app
 0.0.0.0 fmbrmotchecks.vercel.app
+0.0.0.0 fml-clouds-app.help
 0.0.0.0 fmlawrencebank.weebly.com
 0.0.0.0 fmntmd.webwave.dev
 0.0.0.0 fmpqwyp.cn
@@ -16702,6 +16742,8 @@
 0.0.0.0 foil-069-azalea-flange-elastic.s3.eu-central-1.amazonaws.com
 0.0.0.0 foilboardhydrofoilsurfboardelectric.vercel.app
 0.0.0.0 folder-dismissals.ddnsking.com
+0.0.0.0 folio-pass-cloud.help
+0.0.0.0 folio-service.life
 0.0.0.0 foltcrestresources.com
 0.0.0.0 fomnptlex.firebaseapp.com
 0.0.0.0 fomnptlex.web.app
@@ -18112,6 +18154,7 @@
 0.0.0.0 gpmctague.wixsite.com
 0.0.0.0 gpmpnf.fnjsbkt.cn
 0.0.0.0 gpppw.top
+0.0.0.0 gps-help-fmi.info
 0.0.0.0 gq36h6nz916j8hyp3v5n.s3.eu-west-3.amazonaws.com
 0.0.0.0 gqehegqgkdpf.com
 0.0.0.0 gr-mygov.firebaseapp.com
@@ -18192,6 +18235,7 @@
 0.0.0.0 groooufffgruisbdj.duckdns.org
 0.0.0.0 groucoles.firebaseapp.com
 0.0.0.0 groucoles.web.app
+0.0.0.0 groufreeemplisyd.duckdns.org
 0.0.0.0 grounded-predict-406753.framer.app
 0.0.0.0 group-gls-pstv.cfd
 0.0.0.0 group-gls-ptrc.cfd
@@ -18554,6 +18598,7 @@
 0.0.0.0 help.valverestore.com
 0.0.0.0 help021394912385712834.firebaseapp.com
 0.0.0.0 help021394912385712834.web.app
+0.0.0.0 help4me.help
 0.0.0.0 help762544assetbusiness24.github.io
 0.0.0.0 helpbrigde.wixstudio.com
 0.0.0.0 helpcenter-businesscommunity.pages.dev
@@ -19904,6 +19949,7 @@
 0.0.0.0 instagram-cam.vercel.app
 0.0.0.0 instagram-linkedin-51-20.s3.amazonaws.com
 0.0.0.0 instagram-login-authentication.duckdns.org
+0.0.0.0 instagram-login-support.vercel.app
 0.0.0.0 instagram-nepal.github.io
 0.0.0.0 instagram-password-recovery.vercel.app
 0.0.0.0 instagram-reset-password.vercel.app
@@ -20231,7 +20277,6 @@
 0.0.0.0 irsgovidmec7941f4d73b81490ed15f9438d3a5160.orofly.com.br
 0.0.0.0 irsgovtax.xyz
 0.0.0.0 irsgovusa.myportfolio.com
-0.0.0.0 irsrefundservice.us
 0.0.0.0 irsrred.w3spaces.com
 0.0.0.0 irtufgkdkgdkjgdgdgrfdgdfg-8808.twil.io
 0.0.0.0 irx-1na-zv7-3vcrw6-jrye-tfwwb6.pages.dev
@@ -21669,6 +21714,7 @@
 0.0.0.0 lcatscpzx.cz592401.cn
 0.0.0.0 lcentivoecuad0r.webcindario.com
 0.0.0.0 lchqxnykj.com
+0.0.0.0 lcloud-lforgetmaps.click
 0.0.0.0 lclsettings-vxds.firebaseapp.com
 0.0.0.0 lclsettings-vxds.web.app
 0.0.0.0 lcs5-7bfe-tji-4o5-04nrzp.pages.dev
@@ -21805,6 +21851,7 @@
 0.0.0.0 ledgelive-logn.wixstudio.com
 0.0.0.0 ledgelive-official.wixstudio.com
 0.0.0.0 ledgelive.wixstudio.com
+0.0.0.0 ledger-app.my
 0.0.0.0 ledger-com-dashboard.eaatelaf.com
 0.0.0.0 ledger-com-stariit.webflow.io
 0.0.0.0 ledger-com-start-en.netlify.app
@@ -22457,7 +22504,6 @@
 0.0.0.0 locus-lantern-nudge.s3.us-west-2.amazonaws.com
 0.0.0.0 lodbandbfr.firebaseapp.com
 0.0.0.0 lodgevinasdelsol.com
-0.0.0.0 log-1direct-to-home-serv1ces.com
 0.0.0.0 log-4ab446.webflow.io
 0.0.0.0 log-bcomqsgbgcmlofzllznzmpufotjjjt.opalooman.com
 0.0.0.0 log-coinbase-in.framer.ai
@@ -23561,6 +23607,7 @@
 0.0.0.0 masakkaktivasyondogrula.duckdns.org
 0.0.0.0 masante-renouvellement2025.com
 0.0.0.0 mascixs.us.cc
+0.0.0.0 mashrq.vercel.app
 0.0.0.0 masiabuilding.myportfolio.com
 0.0.0.0 masixk.us.cc
 0.0.0.0 mask-sign-inmeta2.godaddysites.com
@@ -23922,6 +23969,7 @@
 0.0.0.0 meta-compliance.com
 0.0.0.0 meta-finacier-ec.webcindario.com
 0.0.0.0 meta-helps.start.page
+0.0.0.0 meta-hiir.vercel.app
 0.0.0.0 meta-id17640.invoice-ads-manager.com
 0.0.0.0 meta-id17663.invoice-ads-manager.com
 0.0.0.0 meta-io-mask.wixstudio.com
@@ -24412,6 +24460,7 @@
 0.0.0.0 mnbvcxsdfghjkbhgf.weebly.com
 0.0.0.0 mncablemail.framer.website
 0.0.0.0 mnedkdflfdmcfk.weebly.com
+0.0.0.0 mngconsulting.net
 0.0.0.0 mnlpt-86y5f-8e2m-f01-olqu4d.pages.dev
 0.0.0.0 mnmbk-6c118.firebaseapp.com
 0.0.0.0 mnmbk-6c118.web.app
@@ -31356,6 +31405,7 @@
 0.0.0.0 retracez.web.app
 0.0.0.0 retractations-cdiscount.com
 0.0.0.0 retractations-prime.com
+0.0.0.0 retractations-service.com
 0.0.0.0 retrieve-2d6f3.firebaseapp.com
 0.0.0.0 retrieve-2d6f3.web.app
 0.0.0.0 retrievesuspendemail3.firebaseapp.com
@@ -32626,6 +32676,7 @@
 0.0.0.0 server-networksolutions.web.app
 0.0.0.0 server-page-editor--microsoft-o.replit.app
 0.0.0.0 server-restore-biglobe-ne-jp.weebly.com
+0.0.0.0 server-security-landing-page--docu-sign.replit.app
 0.0.0.0 server-security-page--redarazoukitv.replit.app
 0.0.0.0 server-static-page--optimumcarasls2.replit.app
 0.0.0.0 server-synchronization.pages.dev
@@ -32836,6 +32887,7 @@
 0.0.0.0 sg.skyproofco.com
 0.0.0.0 sg.token-verifys.com
 0.0.0.0 sg1932.craftum.io
+0.0.0.0 sgactivation.com
 0.0.0.0 sgbuci-0scrhc-kkd-ads70h.pages.dev
 0.0.0.0 sgddd.top
 0.0.0.0 sgdhfjeafwaesrdthssd-egsrhtjdrseesrhsseh.teemill.com
@@ -33019,7 +33071,6 @@
 0.0.0.0 shorten.tv
 0.0.0.0 shortu.be
 0.0.0.0 shorturl.asia
-0.0.0.0 shorturl.at
 0.0.0.0 shorturl.co.za
 0.0.0.0 shorturl.webcindario.com
 0.0.0.0 shorturlza.com
@@ -33105,6 +33156,7 @@
 0.0.0.0 sign2gmx43.weebly.com
 0.0.0.0 sign2gmx8.weebly.com
 0.0.0.0 signdd.weebly.com
+0.0.0.0 signdevicelocation.com.tr
 0.0.0.0 signdocs-beta.vercel.app
 0.0.0.0 signeharmony.weebly.com
 0.0.0.0 significant-answers-213421.framer.app
@@ -33218,6 +33270,7 @@
 0.0.0.0 site-1hyna9m46.godaddysites.com
 0.0.0.0 site-1vz7vyyl2.godaddysites.com
 0.0.0.0 site-21y0a1qjt.godaddysites.com
+0.0.0.0 site-2k4k5j4e6.godaddysites.com
 0.0.0.0 site-33brjdzkg.godaddysites.com
 0.0.0.0 site-34idh4pq3.godaddysites.com
 0.0.0.0 site-3ancsxizu.godaddysites.com
@@ -33763,6 +33816,7 @@
 0.0.0.0 soporcoabepmx-01--sopoortcobaepmx.replit.app
 0.0.0.0 soport1deusuario.webcindario.com
 0.0.0.0 soporte-loja.webcindario.com
+0.0.0.0 soportemaps.click
 0.0.0.0 soportetuexperto-orange-es.webflow.io
 0.0.0.0 soportexdeserviciodecorre0099.weebly.com
 0.0.0.0 soportexdeserviciodecorreo00080.weebly.com
@@ -34687,7 +34741,6 @@
 0.0.0.0 starsio-apps-trexiro.wixstudio.com
 0.0.0.0 start-en-ledgrecdn.wixstudio.com
 0.0.0.0 start-ledgrcom-cdn.wixstudio.com
-0.0.0.0 start-linkedin.com
 0.0.0.0 start-live--ledger-app.typedream.app
 0.0.0.0 start-live-io.created.app
 0.0.0.0 start-service.it
@@ -35887,6 +35940,7 @@
 0.0.0.0 targetpr0du.webcindario.com
 0.0.0.0 targetsalestores.com
 0.0.0.0 tarifasatualizadas.lat
+0.0.0.0 tarifasatualizadas.sbs
 0.0.0.0 tarifassatualizadas.online
 0.0.0.0 tarimorman-gov.weebly.com
 0.0.0.0 tarjetasprodubancsosiality.vercel.app
@@ -36642,6 +36696,7 @@
 0.0.0.0 transaction-auth-review.web.app
 0.0.0.0 transactionss.weebly.com
 0.0.0.0 transactiva.rf.gd
+0.0.0.0 transcendent-muffin-d5ca11.netlify.app
 0.0.0.0 transcript.bnktothefuturepolicyreview.com
 0.0.0.0 transcriptweaver-rnaforger.blogspot.com
 0.0.0.0 transcriptweaver-rnaforger.blogspot.gr
@@ -36784,6 +36839,7 @@
 0.0.0.0 trezorsuit-en.wixstudio.com
 0.0.0.0 trezorswalletin.webflow.io
 0.0.0.0 trezortyostart.gitbook.io
+0.0.0.0 trezorwollet.webador.com
 0.0.0.0 trezostarted.wixstudio.com
 0.0.0.0 trezostarten.framer.ai
 0.0.0.0 trezosuite-trezxo.wixstudio.com
@@ -37601,6 +37657,8 @@
 0.0.0.0 urlshort-linkms1se3cttal0.yi6x7whfkr.workers.dev
 0.0.0.0 urlshort-linkmteklac81e1x.s2908sytem4.workers.dev
 0.0.0.0 urlshort-linkmtekudxmxo0x.s2908sytem4.workers.dev
+0.0.0.0 urlshort-linkmu9unjr7t3a7.s2908sytem3.workers.dev
+0.0.0.0 urlshort-linkmu9uwm4tctbb.banksystem.workers.dev
 0.0.0.0 urlsnippets.dimensionsparcelsstatistics.org
 0.0.0.0 urlsnippets.promisesmanualsimplementations.fr
 0.0.0.0 urlsnippetsabout.asreasdistinctionsenvelopes.info
@@ -38161,7 +38219,9 @@
 0.0.0.0 verified-youraccount2nd.start.page
 0.0.0.0 verifiedbadge-azen.vercel.app
 0.0.0.0 verifiedbadge-azex.vercel.app
+0.0.0.0 verifiedbadge-dream11.vercel.app
 0.0.0.0 verifiedbadge-glow.vercel.app
+0.0.0.0 verifiedbadge-lunelle.vercel.app
 0.0.0.0 verifiedpoints.weebly.com
 0.0.0.0 verifiepost.firebaseapp.com
 0.0.0.0 verifiepost.web.app
@@ -38171,7 +38231,6 @@
 0.0.0.0 verifityprocess2steps.iceiy.com
 0.0.0.0 verifizierungs-update00.weebly.com
 0.0.0.0 veriflvaasdpsyteiuomrqf.weebly.com
-0.0.0.0 verifone-report.com
 0.0.0.0 veriftztrgm.weebly.com
 0.0.0.0 verify-account-system2023.start.page
 0.0.0.0 verify-att.app
@@ -38500,6 +38559,7 @@
 0.0.0.0 vmi3361004.contaboserver.net
 0.0.0.0 vmi3382936.contaboserver.net
 0.0.0.0 vmi3479190.contaboserver.net
+0.0.0.0 vmi3592227.contaboserver.net
 0.0.0.0 vmrecordingforyou.firebaseapp.com
 0.0.0.0 vmrecordingforyou.web.app
 0.0.0.0 vmsteeltech.in
@@ -39862,6 +39922,7 @@
 0.0.0.0 wyt2qsn4wc2j.s3.us-east-1.amazonaws.com
 0.0.0.0 wywgcy.com
 0.0.0.0 wz12376.com
+0.0.0.0 wznlmy.com
 0.0.0.0 x-fy.weebly.com
 0.0.0.0 x-ja.co
 0.0.0.0 x-novobanco.com

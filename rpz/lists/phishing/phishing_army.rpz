@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-20 07:40:28 UTC
+; Generated: 2026-09-21 07:52:49 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385777
+; Original domains (before deduplication): 385776
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092007 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092107 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -256823,7 +256823,6 @@ lavozdelquequen.com.ar CNAME .
 lavozdepucon.cl CNAME .
 lavyh8.github.io CNAME .
 law-aspekt.ru CNAME .
-law-daej-osaimi.com CNAME .
 law-firm.uk CNAME .
 law.cleancarenh.com.br CNAME .
 law.puc.edu.kh CNAME .

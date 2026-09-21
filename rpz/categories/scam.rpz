@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-20 07:40:28 UTC
+; Generated: 2026-09-21 07:52:49 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310386
+; Original domains (before deduplication): 310383
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092007 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092107 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -24356,6 +24356,7 @@ bierbankdruckerei.de CNAME .
 biergarten-am-kuenettegraben.de CNAME .
 biergenusswel.com CNAME .
 bierto.shop CNAME .
+bierundgarten.de CNAME .
 bierwinnen.nl CNAME .
 biescell.com CNAME .
 biethyt.com CNAME .
@@ -25116,7 +25117,6 @@ bitcoin-server.de CNAME .
 bitcoin-smart.net CNAME .
 bitcoin-support-number.com CNAME .
 bitcoin-ukraine.com.ua CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoin.au-topselection.online CNAME .
 bitcoin.bg CNAME .
@@ -27537,6 +27537,7 @@ brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
 brennholzwidmann.de CNAME .
+brennstoffemokstat.shop CNAME .
 brenntagcleaning.com CNAME .
 brenocar.com.br CNAME .
 brenstoffe-versand.de CNAME .
@@ -57563,7 +57564,6 @@ euiorksdowrorr.site CNAME .
 eulp.m-engine.net CNAME .
 eumarketstores.com CNAME .
 eumeds24.com CNAME .
-eumedz.com CNAME .
 eumetacom.it.com CNAME .
 eunicetoday.com CNAME .
 eunits.de CNAME .
@@ -62514,6 +62514,7 @@ fetischkamera.com CNAME .
 fetischkamera.net CNAME .
 fetish-nextdoor.com CNAME .
 fetishmatch.stream CNAME .
+fetishmegastore.com CNAME .
 fetormate.stream CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettamated.stream CNAME .
@@ -75487,7 +75488,6 @@ hibiscushollow.com CNAME .
 hibote.de CNAME .
 hibtgsibarfg.bid CNAME .
 hichina.co.uk CNAME .
-hicity.de CNAME .
 hickmedia.com CNAME .
 hickorysun.com CNAME .
 hico-shop.de CNAME .
@@ -78295,7 +78295,6 @@ hotel.validation-rooms13.com CNAME .
 hotel44405-request.com CNAME .
 hotelaustralien.de CNAME .
 hoteldivantalya.com CNAME .
-hotelinphuket.net CNAME .
 hotelkrome.com CNAME .
 hotelladen.com CNAME .
 hotelmanagementcolleges.co.in CNAME .
@@ -100579,7 +100578,6 @@ medinatoday.com CNAME .
 medinelle.com CNAME .
 medinistros.com CNAME .
 mediplus-berlin.de CNAME .
-medirao.com CNAME .
 medirezept.net CNAME .
 medisoft-help.com CNAME .
 medisoft-support.com CNAME .
@@ -105686,7 +105684,6 @@ moorcaptron-it.com CNAME .
 mooredvazwe.myshopify.com CNAME .
 mooremembered.tk CNAME .
 moorgate.tk CNAME .
-mooris.de CNAME .
 moorlandfarmer.tk CNAME .
 moorlandfarmermy.tk CNAME .
 moorlandgoods.eu CNAME .
@@ -115839,7 +115836,6 @@ onlineitsupport.co.uk CNAME .
 onlineitsupportservice.com CNAME .
 onlinejobsalert.com CNAME .
 onlinejobsupport.com CNAME .
-onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekindlefiresupport.com CNAME .
 onlinekino.pl CNAME .
@@ -135338,6 +135334,7 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
+rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -164926,7 +164923,6 @@ trustsoft.com CNAME .
 trustspareparts.com CNAME .
 trustss.com CNAME .
 trustuu.com CNAME .
-trusty-eu.com CNAME .
 trustydealmarket.com CNAME .
 trustyhour.com CNAME .
 trustysolutions.net CNAME .
@@ -177797,6 +177793,7 @@ wenndennpelletsgmbh.de CNAME .
 wenqlaorugaly.info CNAME .
 wenqyczxgpoyu.bid CNAME .
 wenrwrowrjedworo.com CNAME .
+wensauer-holz.com CNAME .
 went-towards.tk CNAME .
 wentbright.com CNAME .
 wentoutto.tk CNAME .
