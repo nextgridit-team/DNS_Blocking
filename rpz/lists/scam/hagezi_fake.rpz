@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-21 07:52:49 UTC
+; Generated: 2026-09-22 07:36:50 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 17253
+; Original domains (before deduplication): 17256
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092107 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092207 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -1728,6 +1728,7 @@ bestoutlet-tool.com CNAME .
 bestpagjkl.com CNAME .
 bestpharm-eu.com CNAME .
 bestpillpharmacy.com CNAME .
+bestpillsnetwork.com CNAME .
 bestpricetreatments.com CNAME .
 bestproductsonlinestore.com CNAME .
 bestprogift.com CNAME .
@@ -1778,7 +1779,6 @@ bfi-finance.com CNAME .
 bfmmarkets.com CNAME .
 bfmvip.com CNAME .
 bforbinary.com CNAME .
-bforex.com CNAME .
 bftb.org CNAME .
 bfxoption.com CNAME .
 bglshop.at CNAME .
@@ -1949,6 +1949,7 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -3504,6 +3505,7 @@ deangelnshop.com CNAME .
 deaspierhireworks.works CNAME .
 deautorabatt.com CNAME .
 debasketball.com CNAME .
+debot-maschinen.de CNAME .
 decantersale.com CNAME .
 decarba-mann.de CNAME .
 decarba.de CNAME .
@@ -4708,6 +4710,7 @@ eugenefieldpac.com CNAME .
 eugeneoutlet.com CNAME .
 eumarketstores.com CNAME .
 eumeds24.com CNAME .
+eumedz.com CNAME .
 eunits.de CNAME .
 euonlinedeal.shop CNAME .
 euortovox.shop CNAME .
@@ -4872,6 +4875,7 @@ ezoom.top CNAME .
 ezou.top CNAME .
 f.075756.net CNAME .
 f1authentics.shop CNAME .
+fabecodis.com CNAME .
 fabiomontto.com CNAME .
 fabricatem.com CNAME .
 fabrikverkaufmerrellschuhe.de CNAME .
@@ -7359,6 +7363,7 @@ hotel-ds.com CNAME .
 hotel-krone-muc.de CNAME .
 hotel-seetal.de CNAME .
 hotelaustralien.de CNAME .
+hotelinphuket.net CNAME .
 hotelladen.com CNAME .
 hotels-colombo.com CNAME .
 hotels-colorado.net CNAME .
@@ -9425,7 +9430,6 @@ lumawerks.de CNAME .
 lumelia-de.com CNAME .
 lumendecor.de CNAME .
 lumenrosa.de CNAME .
-lumentes.com CNAME .
 lumerabeautyclub.com CNAME .
 lumesdesign.com CNAME .
 lumetrix-ai.com CNAME .
@@ -10066,7 +10070,6 @@ mfmarketgmbh.de CNAME .
 mfomatratzenmarkt.de CNAME .
 mfsebike.com CNAME .
 mg-management.de CNAME .
-mgaffaires.com CNAME .
 mgmglobal.com CNAME .
 mhamzasaleem.com CNAME .
 mhoptions.com CNAME .
@@ -10457,6 +10460,7 @@ moonpod.de CNAME .
 moontod.com CNAME .
 moonx.io CNAME .
 mooredvazwe.myshopify.com CNAME .
+mooris.de CNAME .
 moosufergarten.de CNAME .
 mooxishop.de CNAME .
 more2water.onshopbase.com CNAME .
@@ -11529,7 +11533,6 @@ orcliacare.com CNAME .
 order-cs.eu CNAME .
 orderbuycheap.com CNAME .
 ordergunmagazinesonline.com CNAME .
-orderrxstore.com CNAME .
 ordersurfsite.com CNAME .
 orderumbrella.com CNAME .
 ordinarlim.com CNAME .
@@ -13075,7 +13078,6 @@ rohrshop24.com CNAME .
 roinvest.net CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
-rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -13459,6 +13461,7 @@ schmid-rechtsanwaelte.de CNAME .
 schmidt-digital.de CNAME .
 schmidt-express.com CNAME .
 schmidtiefbaugmbh.de CNAME .
+schmidtmaschine.de CNAME .
 schmidtmode.de CNAME .
 schmidts-handel.de CNAME .
 schmidtstil.com CNAME .
@@ -13658,6 +13661,7 @@ sevatrix.com CNAME .
 sevenfiguresolar.com CNAME .
 seveninter.com CNAME .
 seventeenk.com CNAME .
+sexicats.com CNAME .
 sexpuppenkaufen.at CNAME .
 sezaneclothingshop.sa.com CNAME .
 sgtruffe.com CNAME .
@@ -16260,7 +16264,6 @@ vivabikes.de CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

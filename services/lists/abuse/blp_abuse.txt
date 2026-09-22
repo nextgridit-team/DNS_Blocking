@@ -1,6 +1,6 @@
 # Block List Project Abuse
 # Category: abuse
-# Generated: 2026-09-21 07:52:49 UTC
+# Generated: 2026-09-22 07:36:50 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
 # Original domains (before deduplication): 434661
 
@@ -175944,6 +175944,7 @@
 0.0.0.0 recompensebell.com
 0.0.0.0 reconautodetailing.com
 0.0.0.0 reconblinds.co.in
+0.0.0.0 reconditeohouses.surge.sh
 0.0.0.0 reconeclimit.info
 0.0.0.0 reconfig.org
 0.0.0.0 reconfirm-account-service.tk
@@ -200200,7 +200201,6 @@
 0.0.0.0 surftastic.net
 0.0.0.0 surgamainanindonesia.com
 0.0.0.0 surgasusu.com
-0.0.0.0 surge.sh
 0.0.0.0 surge365bolivia.com
 0.0.0.0 surgefortune.com
 0.0.0.0 surgeglobalservices.com

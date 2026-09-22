@@ -1,15 +1,18 @@
 # Ai Blocklist
-# Generated: 2026-09-21 07:52:49 UTC
+# Generated: 2026-09-22 07:36:50 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 19
+# Original domains (before deduplication): 22
 
 0.0.0.0 anthropic.com
 0.0.0.0 chatgpt.com
+0.0.0.0 cici.com
+0.0.0.0 ciciai.com
 0.0.0.0 claude.ai
 0.0.0.0 cloud.microsoft
 0.0.0.0 copilot.ai
 0.0.0.0 copilot.com
 0.0.0.0 deepseek.com
+0.0.0.0 dola.com
 0.0.0.0 google.com
 0.0.0.0 grok.com
 0.0.0.0 manus.im

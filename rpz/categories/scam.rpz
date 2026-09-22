@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-21 07:52:49 UTC
+; Generated: 2026-09-22 07:36:50 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310383
+; Original domains (before deduplication): 310386
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092107 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092207 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -23883,6 +23883,7 @@ bestperform3nce.com CNAME .
 bestpharm-eu.com CNAME .
 bestphoneapps.mobi CNAME .
 bestpillpharmacy.com CNAME .
+bestpillsnetwork.com CNAME .
 bestplaywins.com CNAME .
 bestpool.me CNAME .
 bestpoolminer.cc CNAME .
@@ -24184,7 +24185,6 @@ bfloorf.whogarcia.com CNAME .
 bfmmarkets.com CNAME .
 bfmvip.com CNAME .
 bforbinary.com CNAME .
-bforex.com CNAME .
 bfredericke.club CNAME .
 bftb.org CNAME .
 bfx.e-podatk.com CNAME .
@@ -25117,6 +25117,7 @@ bitcoin-server.de CNAME .
 bitcoin-smart.net CNAME .
 bitcoin-support-number.com CNAME .
 bitcoin-ukraine.com.ua CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoin.au-topselection.online CNAME .
 bitcoin.bg CNAME .
@@ -46303,6 +46304,7 @@ debit-account-zone.live CNAME .
 debit-account.market CNAME .
 debithomeric.icu CNAME .
 deboplay.com CNAME .
+debot-maschinen.de CNAME .
 debra-morgan.com CNAME .
 debridleech.com CNAME .
 debrightsuite.com CNAME .
@@ -57564,6 +57566,7 @@ euiorksdowrorr.site CNAME .
 eulp.m-engine.net CNAME .
 eumarketstores.com CNAME .
 eumeds24.com CNAME .
+eumedz.com CNAME .
 eumetacom.it.com CNAME .
 eunicetoday.com CNAME .
 eunits.de CNAME .
@@ -58662,6 +58665,7 @@ fab24.biz CNAME .
 fabaaajoy.com CNAME .
 fabbing.com CNAME .
 fabdeals.co CNAME .
+fabecodis.com CNAME .
 faberservicecentre.com CNAME .
 fabgive.site CNAME .
 fabianaluperini.it CNAME .
@@ -78295,6 +78299,7 @@ hotel.validation-rooms13.com CNAME .
 hotel44405-request.com CNAME .
 hotelaustralien.de CNAME .
 hoteldivantalya.com CNAME .
+hotelinphuket.net CNAME .
 hotelkrome.com CNAME .
 hotelladen.com CNAME .
 hotelmanagementcolleges.co.in CNAME .
@@ -97112,7 +97117,6 @@ lumenade-ltg.com CNAME .
 lumendecor.de CNAME .
 lumenkapitexai.com CNAME .
 lumenrosa.de CNAME .
-lumentes.com CNAME .
 lumeportdex-system.com CNAME .
 lumerabeautyclub.com CNAME .
 lumervio-zantorex-ai.live CNAME .
@@ -101469,7 +101473,6 @@ mg.cpcempower.com CNAME .
 mg.sabzgostar.net CNAME .
 mg5-yahoo.com CNAME .
 mg6vlp.qpon CNAME .
-mgaffaires.com CNAME .
 mgassessments.com CNAME .
 mgbrown.com.au CNAME .
 mgdatasoft.com CNAME .
@@ -105684,6 +105687,7 @@ moorcaptron-it.com CNAME .
 mooredvazwe.myshopify.com CNAME .
 mooremembered.tk CNAME .
 moorgate.tk CNAME .
+mooris.de CNAME .
 moorlandfarmer.tk CNAME .
 moorlandfarmermy.tk CNAME .
 moorlandgoods.eu CNAME .
@@ -116752,7 +116756,6 @@ orderis-online.mom CNAME .
 ordermoreboxes.com CNAME .
 orderquilt.com CNAME .
 orderrids482.eu.cc CNAME .
-orderrxstore.com CNAME .
 orders247support.com CNAME .
 ordersonlinesthesblusheslaneszonesyoutubesshoppingschannels.com CNAME .
 ordersonlinesthesbostonspizzaszonesyoutubesshoppingschannels.com CNAME .
@@ -135334,7 +135337,6 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
-rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -137910,6 +137912,7 @@ schmid-rechtsanwaelte.de CNAME .
 schmidt-digital.de CNAME .
 schmidt-express.com CNAME .
 schmidtiefbaugmbh.de CNAME .
+schmidtmaschine.de CNAME .
 schmidtmode.de CNAME .
 schmidts-handel.de CNAME .
 schmidtstil.com CNAME .
@@ -140949,6 +140952,7 @@ sexflirtbook.com CNAME .
 sexfriend.fr CNAME .
 sexhosty.com CNAME .
 sexhotel.fr CNAME .
+sexicats.com CNAME .
 sexinsecs.com CNAME .
 sexinspektor.com CNAME .
 sexkontakt-at.com CNAME .
@@ -172182,7 +172186,6 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

@@ -1,0 +1,9 @@
+# Dola
+# Category: ai
+# Generated: 2026-09-22 07:36:50 UTC
+# Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
+# Original domains (before deduplication): 3
+
+0.0.0.0 cici.com
+0.0.0.0 ciciai.com
+0.0.0.0 dola.com

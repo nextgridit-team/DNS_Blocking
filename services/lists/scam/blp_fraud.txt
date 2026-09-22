@@ -1,6 +1,6 @@
 # Block List Project Fraud
 # Category: scam
-# Generated: 2026-09-21 07:52:49 UTC
+# Generated: 2026-09-22 07:36:50 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
 # Original domains (before deduplication): 285022
 
@@ -60900,6 +60900,7 @@
 0.0.0.0 hartwellhome.eu
 0.0.0.0 harumphs.us
 0.0.0.0 haruspex.us
+0.0.0.0 harvest.surge.sh
 0.0.0.0 harvestandhome.eu
 0.0.0.0 harvestchia.net
 0.0.0.0 harvestcornerdaily.eu
@@ -67499,6 +67500,7 @@
 0.0.0.0 inviterarge.tk
 0.0.0.0 invnews.live
 0.0.0.0 invogdiste.cyou
+0.0.0.0 invoice-3020923.surge.sh
 0.0.0.0 invoice-customer-support.com
 0.0.0.0 invoice-europe.com
 0.0.0.0 invoice-updated.com
@@ -127359,7 +127361,6 @@
 0.0.0.0 surfreturn.com
 0.0.0.0 surfycaleb.stream
 0.0.0.0 surfyfive.us
-0.0.0.0 surge.sh
 0.0.0.0 surgecaleche.stream
 0.0.0.0 surgedcalendar.stream
 0.0.0.0 surgedten.us
