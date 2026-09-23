@@ -1,6 +1,5 @@
 ; Active Impersonation Blocklist
-; Generated: 2026-09-22T10:27:51.914635+00:00
+; Generated: 2026-09-23T10:28:22.180864+00:00
 ; Format: RPZ zone file (<hostname> CNAME .) - exact hostnames preserved
-; Entries: 1
+; Entries: 0
 
-coinbose.com CNAME .
