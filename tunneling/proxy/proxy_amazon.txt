@@ -31,6 +31,7 @@ pact-proxy.amazon.eu
 pdx.proxy.amazon.com
 prod.gdps-proxy.geospatial.amazon.dev
 prod.proxy.live.amazon.com
+profile.cname-proxy.amazon.com
 proxy.amazon.com
 proxy.live.amazon.com
 quicksight.cname-proxy.amazon.com
@@ -49,4 +50,5 @@ vs.cname-proxy.amazon.com
 widget.console.cname-proxy.amazon.com
 wildcard.us-east-1.console.cname-proxy.amazon.com
 wildcard.us-east-2.console.cname-proxy.amazon.com
+wildcard.us-west-2.console.cname-proxy.amazon.com
 wildcard.widget.console.cname-proxy.amazon.com

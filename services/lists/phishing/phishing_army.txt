@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-22 07:36:50 UTC
+# Generated: 2026-09-23 07:38:54 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 385776
+# Original domains (before deduplication): 385777
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -95577,6 +95577,7 @@
 0.0.0.0 cosixe6193.workers.dev
 0.0.0.0 cosm.cc
 0.0.0.0 cosmediaviviane.com
+0.0.0.0 cosmetica-sale.com
 0.0.0.0 cosmeticeyebrowtattoomelbourne.com
 0.0.0.0 cosmeticosdevegetalesmioficina.com
 0.0.0.0 cosmeticoslatiendona.com

@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-22 07:36:50 UTC
+; Generated: 2026-09-23 07:38:54 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385776
+; Original domains (before deduplication): 385777
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092207 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092307 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -381604,6 +381604,7 @@ viturksars.click CNAME .
 vivacious-melon-sled.glitch.me CNAME .
 vivantis.1day-sk.shop CNAME .
 vivantis.cosibellapl-co.com CNAME .
+vivantis.cosmetica-sale.com CNAME .
 vivantis.cupio.it.com CNAME .
 vivantis.edeka24salede24.top CNAME .
 vivantis.ejnl.shop CNAME .

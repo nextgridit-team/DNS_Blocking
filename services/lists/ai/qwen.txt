@@ -1,0 +1,8 @@
+# Qwen
+# Category: ai
+# Generated: 2026-09-23 07:38:54 UTC
+# Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
+# Original domains (before deduplication): 2
+
+0.0.0.0 qwen.ai
+0.0.0.0 qwenlm.ai
