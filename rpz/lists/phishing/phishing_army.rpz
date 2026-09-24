@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-23 07:38:54 UTC
+; Generated: 2026-09-24 07:30:56 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385777
+; Original domains (before deduplication): 385786
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092307 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092407 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -58940,7 +58940,6 @@ andrewpapas.net CNAME .
 andrewpickenscollins.com CNAME .
 andrews-scared-different-anatomy.trycloudflare.com CNAME .
 andrewsilvaa.com CNAME .
-andrewsrobinson.com CNAME .
 andrewsteave.cf CNAME .
 andrewstoeten.com CNAME .
 andrewwelldrill.com CNAME .
@@ -133498,6 +133497,7 @@ check-entropy-verification.com CNAME .
 check-ethpayments.kissr.com CNAME .
 check-ethpayments1.kissr.com CNAME .
 check-grupos-chat.tk CNAME .
+check-hardware.org CNAME .
 check-id9283.mixh.jp CNAME .
 check-info-session1069.cf CNAME .
 check-info-session2012.ga CNAME .
@@ -133509,6 +133509,8 @@ check-paypal.org CNAME .
 check-point.pages.net.br CNAME .
 check-point88756.duckdns.org CNAME .
 check-post-media01-human-verification.weebly.com CNAME .
+check-products.org CNAME .
+check-products.shop CNAME .
 check-redirect.000webhostapp.com CNAME .
 check-review.business-minagne.com CNAME .
 check-securepayment.com CNAME .
@@ -171037,6 +171039,8 @@ en-ledger-live-login.blogspot.com CNAME .
 en-ledger-live-loginn.pages.dev CNAME .
 en-ledger-live-loginnn.pages.dev CNAME .
 en-ledger-wallet-live.pages.dev CNAME .
+en-ledger.app CNAME .
+en-ledger.com CNAME .
 en-ledger.io CNAME .
 en-ledgercom-help.squarespace.com CNAME .
 en-ledgercom-us-support.teachable.com CNAME .
@@ -258448,7 +258452,11 @@ ledger-comstart-auth.pages.dev CNAME .
 ledger-comstart.pages.dev CNAME .
 ledger-comtartt.webflow.io CNAME .
 ledger-confirm.com CNAME .
+ledger-connect-live-app.pages.dev CNAME .
+ledger-connect-live-login.pages.dev CNAME .
+ledger-connect-live.pages.dev CNAME .
 ledger-connect.pages.dev CNAME .
+ledger-connections.com CNAME .
 ledger-controle.com CNAME .
 ledger-cum-start-auth.webflow.io CNAME .
 ledger-de-secure.com CNAME .
@@ -327712,7 +327720,6 @@ pdmservices.ca CNAME .
 pdn.ma CNAME .
 pdnogsrue.vipsnapchatsexting.com CNAME .
 pdnwnk.nlqww.xyz CNAME .
-pdoctor.co.jp CNAME .
 pdodirfrxokqkziy-dot-millinium.ey.r.appspot.com CNAME .
 pdosbsjwafzevuaf-dot-millinium.ey.r.appspot.com CNAME .
 pdotuqp.associatedshipbroking-mc.com CNAME .
@@ -380869,6 +380876,8 @@ v2-dexcsreener.net CNAME .
 v2-dexscreener.cc CNAME .
 v2-electrum.com CNAME .
 v2-ether-fi.org CNAME .
+v2-exodus.com CNAME .
+v2-exodus.org CNAME .
 v2-extrafi.xyz CNAME .
 v2-jumperexchange.com CNAME .
 v2-o-p-e-n-s-e-a.com CNAME .

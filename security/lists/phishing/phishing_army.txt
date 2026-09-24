@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-23 07:38:54 UTC
+# Generated: 2026-09-24 07:30:56 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 385777
+# Original domains (before deduplication): 385786
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -58936,7 +58936,6 @@
 0.0.0.0 andrewpickenscollins.com
 0.0.0.0 andrews-scared-different-anatomy.trycloudflare.com
 0.0.0.0 andrewsilvaa.com
-0.0.0.0 andrewsrobinson.com
 0.0.0.0 andrewsteave.cf
 0.0.0.0 andrewstoeten.com
 0.0.0.0 andrewwelldrill.com
@@ -133494,6 +133493,7 @@
 0.0.0.0 check-ethpayments.kissr.com
 0.0.0.0 check-ethpayments1.kissr.com
 0.0.0.0 check-grupos-chat.tk
+0.0.0.0 check-hardware.org
 0.0.0.0 check-id9283.mixh.jp
 0.0.0.0 check-info-session1069.cf
 0.0.0.0 check-info-session2012.ga
@@ -133505,6 +133505,8 @@
 0.0.0.0 check-point.pages.net.br
 0.0.0.0 check-point88756.duckdns.org
 0.0.0.0 check-post-media01-human-verification.weebly.com
+0.0.0.0 check-products.org
+0.0.0.0 check-products.shop
 0.0.0.0 check-redirect.000webhostapp.com
 0.0.0.0 check-review.business-minagne.com
 0.0.0.0 check-securepayment.com
@@ -171033,6 +171035,8 @@
 0.0.0.0 en-ledger-live-loginn.pages.dev
 0.0.0.0 en-ledger-live-loginnn.pages.dev
 0.0.0.0 en-ledger-wallet-live.pages.dev
+0.0.0.0 en-ledger.app
+0.0.0.0 en-ledger.com
 0.0.0.0 en-ledger.io
 0.0.0.0 en-ledgercom-help.squarespace.com
 0.0.0.0 en-ledgercom-us-support.teachable.com
@@ -258444,7 +258448,11 @@
 0.0.0.0 ledger-comstart.pages.dev
 0.0.0.0 ledger-comtartt.webflow.io
 0.0.0.0 ledger-confirm.com
+0.0.0.0 ledger-connect-live-app.pages.dev
+0.0.0.0 ledger-connect-live-login.pages.dev
+0.0.0.0 ledger-connect-live.pages.dev
 0.0.0.0 ledger-connect.pages.dev
+0.0.0.0 ledger-connections.com
 0.0.0.0 ledger-controle.com
 0.0.0.0 ledger-cum-start-auth.webflow.io
 0.0.0.0 ledger-de-secure.com
@@ -327708,7 +327716,6 @@
 0.0.0.0 pdn.ma
 0.0.0.0 pdnogsrue.vipsnapchatsexting.com
 0.0.0.0 pdnwnk.nlqww.xyz
-0.0.0.0 pdoctor.co.jp
 0.0.0.0 pdodirfrxokqkziy-dot-millinium.ey.r.appspot.com
 0.0.0.0 pdosbsjwafzevuaf-dot-millinium.ey.r.appspot.com
 0.0.0.0 pdotuqp.associatedshipbroking-mc.com
@@ -380865,6 +380872,8 @@
 0.0.0.0 v2-dexscreener.cc
 0.0.0.0 v2-electrum.com
 0.0.0.0 v2-ether-fi.org
+0.0.0.0 v2-exodus.com
+0.0.0.0 v2-exodus.org
 0.0.0.0 v2-extrafi.xyz
 0.0.0.0 v2-jumperexchange.com
 0.0.0.0 v2-o-p-e-n-s-e-a.com

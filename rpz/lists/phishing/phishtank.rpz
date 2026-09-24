@@ -1,11 +1,11 @@
 ; PhishTank
 ; Category: phishing
-; Generated: 2026-09-23 07:38:54 UTC
+; Generated: 2026-09-24 07:30:56 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 41270
+; Original domains (before deduplication): 41296
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092307 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092407 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-lix-a8sbqnxt.d1cdej.top CNAME .
@@ -1664,6 +1664,7 @@ abovideo-regularisation.com CNAME .
 abpconcept.shop CNAME .
 abr.abbruchberlin.com CNAME .
 abracadabra-walet.blogspot.com CNAME .
+abriotanasteamworkspace.myclickfunnels.com CNAME .
 abrpafcwg.firebaseapp.com CNAME .
 abrpafcwg.web.app CNAME .
 absencestelefone.weebly.com CNAME .
@@ -1736,6 +1737,7 @@ acces-annulation.com CNAME .
 acces-client-91408.web.app CNAME .
 acces-form.com CNAME .
 acces-ldgr-com-strt.weebly.com CNAME .
+acces-primefamily.com CNAME .
 acces-protege.com CNAME .
 acces-renovacion-net.com CNAME .
 acces-sante-vitale.com CNAME .
@@ -3144,6 +3146,7 @@ allegro.9260425109728.click CNAME .
 allegro.9260475109817.click CNAME .
 allegro.9274106913507.click CNAME .
 allegro.9274186913507.click CNAME .
+allegro.9281238712gh9.beer CNAME .
 allegro.92877ggg.rest CNAME .
 allegro.93247609312.shop CNAME .
 allegro.9328812904.shop CNAME .
@@ -4129,6 +4132,7 @@ allegrolokalnie.1060725.cfd CNAME .
 allegrolokalnie.12069972.cfd CNAME .
 allegrolokalnie.121she131.xyz CNAME .
 allegrolokalnie.123210.shop CNAME .
+allegrolokalnie.1259812.top CNAME .
 allegrolokalnie.134083.click CNAME .
 allegrolokalnie.15334265x2.sbs CNAME .
 allegrolokalnie.162561.shop CNAME .
@@ -4409,6 +4413,7 @@ allegrolokalnie.882371.lol CNAME .
 allegrolokalnie.8841821248.lat CNAME .
 allegrolokalnie.88434.top CNAME .
 allegrolokalnie.8851885152.click CNAME .
+allegrolokalnie.888casino26.com CNAME .
 allegrolokalnie.88989702073.cfd CNAME .
 allegrolokalnie.89435.top CNAME .
 allegrolokalnie.89457-752.icu CNAME .
@@ -6007,6 +6012,7 @@ allegrolokalnie.pl84353.top CNAME .
 allegrolokalnie.pl852761.cfd CNAME .
 allegrolokalnie.pl87621.top CNAME .
 allegrolokalnie.pl89233.top CNAME .
+allegrolokalnie.pl91zc381.cyou CNAME .
 allegrolokalnie.pl9243rezerwacja6829.sbs CNAME .
 allegrolokalnie.pl92562.lol CNAME .
 allegrolokalnie.pl927382.cfd CNAME .
@@ -7076,6 +7082,7 @@ art-104170.weeblysite.com CNAME .
 art-gallery-128.webflow.io CNAME .
 art.com CNAME .
 artandculturetech.com CNAME .
+artbrandesign.co.za CNAME .
 arte.proartefunilaria.com.br CNAME .
 artehotellima.com CNAME .
 artekcollection.com CNAME .
@@ -7667,6 +7674,7 @@ autoatendimento.coupons CNAME .
 autocont--cz.weebly.com CNAME .
 autocontratacao.indiky.com CNAME .
 autocorebuyer.com CNAME .
+autoescolapremium-brown.vercel.app CNAME .
 autoimportferia.vercel.app CNAME .
 autolys.com CNAME .
 automagazin.rs CNAME .
@@ -10882,6 +10890,7 @@ caisse-depargneregional.web.app CNAME .
 caisse-epargne.mdps.fr CNAME .
 caissedepargnesacur.firebaseapp.com CNAME .
 caissedepargnesacur.web.app CNAME .
+caisseep.duckdns.org CNAME .
 caisseing-cab8a.firebaseapp.com CNAME .
 caisseing-cab8a.web.app CNAME .
 caitlinduffus.com CNAME .
@@ -11540,6 +11549,7 @@ chic-muffin-59f7d1.netlify.app CNAME .
 chicagobuzz.net CNAME .
 chicavas.com CNAME .
 chickenbloodfirezpzty.blogspot.com CNAME .
+chickenrodsapp.com CNAME .
 chicmajor.com CNAME .
 chijinjiqi.com CNAME .
 chikkuthomas.github.io CNAME .
@@ -11928,6 +11938,7 @@ cnce-continuer.bolt.host CNAME .
 cnci--seguridad019.replit.app CNAME .
 cncinsure.com CNAME .
 cnckitmill.com CNAME .
+cndevine.com CNAME .
 cni.sa.com CNAME .
 cnkedun.com CNAME .
 cnlin0-apgfcu-1uux-aspx.weebly.com CNAME .
@@ -13466,6 +13477,7 @@ delivery4648a.acces462705.pro CNAME .
 delivery4967tx.serv5781698.pro CNAME .
 deliverydhl-invoice.firebaseapp.com CNAME .
 deliverydhl-invoice.web.app CNAME .
+deliverypayment.click CNAME .
 della-rocca.hub5780137.pro CNAME .
 dellavillas.com CNAME .
 delokguio.firebaseapp.com CNAME .
@@ -16266,6 +16278,7 @@ fallsemesters2026.weebly.com CNAME .
 fallupdates.weebly.com CNAME .
 falselection.shop CNAME .
 familiya42.ru CNAME .
+famirja.com CNAME .
 fancy-group.com CNAME .
 fancy-panda-773999.framer.app CNAME .
 fancy-pluto-198673.framer.app CNAME .
@@ -20466,6 +20479,7 @@ it.pb3.duckdns.org CNAME .
 itaca.in CNAME .
 itacolor.com.br CNAME .
 italhandel.com CNAME .
+italia-dental.com CNAME .
 italydigital.it CNAME .
 itau-acesse-sua-conta.org CNAME .
 itau-com.vercel.app CNAME .
@@ -20743,6 +20757,7 @@ jiolatest.vercel.app CNAME .
 jiongmama.com CNAME .
 jiophones.epizy.com CNAME .
 jismiggo.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click CNAME .
+jitu26-naga.com CNAME .
 jixiurabbit.com CNAME .
 jjb-103869tuta.weeblysite.com CNAME .
 jjffjfjfuxuxux.weebly.com CNAME .
@@ -25242,6 +25257,7 @@ mybtcom.square.site CNAME .
 mybtm47816.wcard.me CNAME .
 mybusiness361.com CNAME .
 mybussa.co.za CNAME .
+mycanal.serviceabo-fr.com CNAME .
 mycascadefcu-acc-sec.weebly.com CNAME .
 mycbcbank.weebly.com CNAME .
 mycciservicemail.weebly.com CNAME .
@@ -28039,6 +28055,7 @@ planosupermax.uk CNAME .
 plasma-wallet.webflow.io CNAME .
 plasmaringa.com CNAME .
 plasticostermoencogibles.pe CNAME .
+plateforme-de3418.com CNAME .
 platfom-desktop.wixstudio.com CNAME .
 platform-bridgehome.wixstudio.com CNAME .
 platform-en-live.wixstudio.com CNAME .
@@ -30837,6 +30854,7 @@ quiet-mind-597576.framer.app CNAME .
 quiet-seahorse-393bb9.netlify.app CNAME .
 quiet-service-486618.framer.app CNAME .
 quiet-tulip-244862.framer.app CNAME .
+quietcontext.blog CNAME .
 quilinelogind.weebly.com CNAME .
 quilinlojnch.weebly.com CNAME .
 quillacollo.gob.bo CNAME .
@@ -32267,6 +32285,7 @@ sbc-verifier-sign-in-84bfcd.webflow.io CNAME .
 sbc-verifier-sign-in-85c1f5.webflow.io CNAME .
 sbc-verifier-sign-in-9b3b50.webflow.io CNAME .
 sbc-verifier-sign-in-ac283d.webflow.io CNAME .
+sbc-verifier-sign-in-cd9bfa.webflow.io CNAME .
 sbc-verifier-sign-in-db5d5d.webflow.io CNAME .
 sbc-verifier-sign-in-eb7663.webflow.io CNAME .
 sbc-verifier-sign-in-f4a17c.webflow.io CNAME .
@@ -33083,7 +33102,9 @@ sg-activation.bolt.host CNAME .
 sg-app-52.info CNAME .
 sg-confirmation.bolt.host CNAME .
 sg-secupassinfo.com CNAME .
+sg.annulation-paiement.com CNAME .
 sg.appdiret.club CNAME .
+sg.davidagostinotattoo.com CNAME .
 sg.internal-support.xyz CNAME .
 sg.skyproofco.com CNAME .
 sg.token-verifys.com CNAME .
@@ -35483,6 +35504,7 @@ suejhd4w4skkwiis8woos8998wjjdun.us.cc CNAME .
 sugar-0007.github.io CNAME .
 sugarnspicebyradhika.in CNAME .
 sui-slush-dev.webflow.io CNAME .
+sui.faultllnecomms.com CNAME .
 suid.kinderschuhe-krempe.de CNAME .
 suietsapp.framer.media CNAME .
 suiits-io.zapier.app CNAME .
@@ -35757,6 +35779,7 @@ supporto-ids.eu.cc CNAME .
 supporto-in.eu.cc CNAME .
 supporto-io.eu.cc CNAME .
 supporto-it.eu.cc CNAME .
+supporto-on.eu.cc CNAME .
 supportorr.weebly.com CNAME .
 supportoweb.eu.cc CNAME .
 supportrabby.wixstudio.com CNAME .
@@ -38400,6 +38423,7 @@ verication-casefb584496.vercel.app CNAME .
 verication-casefb726811.vercel.app CNAME .
 verication-casefb858920.vercel.app CNAME .
 verication-casefb973992.vercel.app CNAME .
+veridawn.blog CNAME .
 verif-log.com CNAME .
 verif-now0923.start.page CNAME .
 verif0020controle.firebaseapp.com CNAME .
@@ -38452,6 +38476,7 @@ verifitechowa2023.weebly.com CNAME .
 verifityprocess2steps.iceiy.com CNAME .
 verifizierungs-update00.weebly.com CNAME .
 veriflvaasdpsyteiuomrqf.weebly.com CNAME .
+verifsecu-espace.com CNAME .
 veriftztrgm.weebly.com CNAME .
 verify-account-system2023.start.page CNAME .
 verify-att.app CNAME .
@@ -39865,6 +39890,7 @@ wodon519.com CNAME .
 woezas.com CNAME .
 woffilceweb.weebly.com CNAME .
 wom3v-nnl-i5rs-9x2p79-slkt.pages.dev CNAME .
+womezonkart.com CNAME .
 wonderful-alpaca-9820bc.netlify.app CNAME .
 wonderful-cobbler-5c5f0e.netlify.app CNAME .
 wonderful-customers-149426.framer.app CNAME .
