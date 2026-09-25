@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-24 07:30:56 UTC
+; Generated: 2026-09-25 07:33:51 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385786
+; Original domains (before deduplication): 385793
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092407 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092507 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -109129,6 +109129,7 @@ bertchou.com CNAME .
 bertconfing.web.app CNAME .
 berthoudmicrosoftverification-portal.gq CNAME .
 bertierluzempreendimentos.com.br CNAME .
+bertmackg.com CNAME .
 bertobos.avalanchemyth.cyou CNAME .
 bertolielana983.wixstudio.io CNAME .
 bertolinihomestaging.com.br CNAME .
@@ -150099,6 +150100,7 @@ da76378a.adorn-insight.co.uk CNAME .
 da77b41e.dalinyuan.cn CNAME .
 da7dd4ba.n61gft.shop CNAME .
 da822325-313f-4f85-b334-d9b00a2d64da.htmlcomponentservice.com CNAME .
+da8ktu8hubcc73f52vmg.netlogicpit.co.in CNAME .
 da946f33-79aa-434d-b311-88fec33c17cc.usrfiles.com CNAME .
 da9c976d.gskjdfegwhu.shop CNAME .
 daaaagetttt.storii.my.id CNAME .
@@ -154537,6 +154539,7 @@ depreciative-bunks.000webhostapp.com CNAME .
 depressant-ventilat.000webhostapp.com CNAME .
 depressedcouples.com CNAME .
 depressionmedsotc.com CNAME .
+depressively.com CNAME .
 depstot.gotdns.ch CNAME .
 dept.facebook.com-agzjharlfz.sinoorhotel.com CNAME .
 dept.facebook.com-hdjlvvqhue.medicaldetoxcenterniagarafalls.ca CNAME .
@@ -251815,6 +251818,7 @@ kofdyroth.mobile-75.com CNAME .
 kofe-zerno.ru CNAME .
 kofeicoffee.com.gt CNAME .
 kofemi.com CNAME .
+kofeslos.com CNAME .
 koff.biz.id CNAME .
 kofigenfi.com CNAME .
 kofloginmlcrosoftonlineservices.ribeiroautocapas.com.br CNAME .
@@ -350658,6 +350662,7 @@ qytrga.duckdns.org CNAME .
 qytseadufyowigfj-dot-millinium.ey.r.appspot.com CNAME .
 qyua.areu.ir CNAME .
 qyuuuqvyttklzghq-dot-millinium.ey.r.appspot.com CNAME .
+qyvir.com CNAME .
 qyvupilmypphcqvhegsafnylvskcyaectpqgajbsxqhcfjnkza.followupglobal.com CNAME .
 qyvzhixpllfjdtsx-dot-millinium.ey.r.appspot.com CNAME .
 qywhsd.gnzcb.xyz CNAME .
@@ -370462,6 +370467,7 @@ siddharth-esc.github.io CNAME .
 siddharth9500.github.io CNAME .
 siddharthmittal-coder.github.io CNAME .
 siddqpoisntislqpsoa.ddnsking.com CNAME .
+sidesteamroll.com CNAME .
 sideways-suave-drill.glitch.me CNAME .
 sidharth-crypto.github.io CNAME .
 sidhhuvj.github.io CNAME .
@@ -382323,6 +382329,7 @@ waskeys.com CNAME .
 wasray-corcoga-wayora20.netlify.app CNAME .
 wassef.com.eg CNAME .
 watchallwrestling.com CNAME .
+watchnowclick.com CNAME .
 water-opaque-expert.glitch.me CNAME .
 water.pwffood.com CNAME .
 waterheaterrepairatascocita.com CNAME .

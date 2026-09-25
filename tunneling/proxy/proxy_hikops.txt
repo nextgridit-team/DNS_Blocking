@@ -20,6 +20,7 @@ sslproxy.gateway-nl-drop.cslaves-vss-ad.hikops.com
 sslproxy.gateway-node.cvs-vold.hikops.com
 sslproxy.gateway-panelteam.cvs-v.hikops.com
 sslproxy.gateway-php-login.prod-login.hikops.com
+sslproxy.gateway-php.hikops.com
 sslproxy.gateway-prd.cslaves-org-ad.hikops.com
 sslproxy.gateway-stats.gateway-resetcvs-v.hikops.com
 sslproxy.gateway-v-login.cmsaops-v-login.hikops.com
@@ -45,7 +46,6 @@ sslproxy.gateway.ctlregion.hikops.com
 sslproxy.gateway.ctraffics-traffic-login.hikops.com
 sslproxy.gateway.cvs-skii-v.cvs-v-vip.hikops.com
 sslproxy.gateway.cvs-v-gateway-merchant.hikops.com
-sslproxy.gateway.cvs-v-login.hikops.com
 sslproxy.gateway.cvs-v.client-webbeanstalk.hikops.com
 sslproxy.gateway.cvs-v.customerproductionsbeanstalk.hikops.com
 sslproxy.gateway.cvs-v.cvs-vinternalsbeanstalk.hikops.com
@@ -59,6 +59,7 @@ sslproxy.gateway.manifoldcf.5-develop.cslaves-slave-login.hikops.com
 sslproxy.gateway.node-fw.hikops.com
 sslproxy.gateway.pass-cvs-v-cdn.hikops.com
 sslproxy.gateway.pass-cvs-v.hikops.com
+sslproxy.gateway.prod-login-login.hikops.com
 sslproxy.gateway.profilecvs-vuspkg-vnov3-gateway-service.manage.hikops.com
 sslproxy.gateway.rssc-cslaves-slave-loginasana.hikops.com
 sslproxy.gateway.scmcvs-v.hikops.com

@@ -15,7 +15,6 @@ clientvpn.ap-south-1.amazonaws.com
 clientvpn.ap-southeast-1.amazonaws.com
 clientvpn.ap-southeast-2.amazonaws.com
 clientvpn.ap-southeast-7.amazonaws.com
-clientvpn.ca-central-1.amazonaws.com
 clientvpn.eu-central-1.amazonaws.com
 clientvpn.eu-west-1.amazonaws.com
 clientvpn.eu-west-2.amazonaws.com
@@ -52,7 +51,6 @@ prod.clientvpn.ap-south-1.amazonaws.com
 prod.clientvpn.ap-southeast-1.amazonaws.com
 prod.clientvpn.ap-southeast-2.amazonaws.com
 prod.clientvpn.ap-southeast-7.amazonaws.com
-prod.clientvpn.ca-central-1.amazonaws.com
 prod.clientvpn.eu-central-1.amazonaws.com
 prod.clientvpn.eu-west-1.amazonaws.com
 prod.clientvpn.eu-west-2.amazonaws.com

@@ -1,7 +1,7 @@
 # Adult Blocklist
-# Generated: 2026-09-24 07:30:56 UTC
+# Generated: 2026-09-25 07:33:51 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 124367
+# Original domains (before deduplication): 124362
 
 0.0.0.0 00000.uno
 0.0.0.0 0012238949191929.com
@@ -11508,7 +11508,6 @@
 0.0.0.0 check-activity.com.ru
 0.0.0.0 check-id2193.fun
 0.0.0.0 check-id7277.eu.cc
-0.0.0.0 check-poczta.vercel.app
 0.0.0.0 check-you-id-972727.eu.cc
 0.0.0.0 check.porn
 0.0.0.0 checkdrivers.com
@@ -13710,7 +13709,6 @@
 0.0.0.0 czystyadrs.shop
 0.0.0.0 czystyport.shop
 0.0.0.0 czystystandard.shop
-0.0.0.0 czystystatut24.site
 0.0.0.0 czystywybor.shop
 0.0.0.0 d-064.com
 0.0.0.0 d-aloxi-200-pro.pages.dev
@@ -38051,6 +38049,7 @@
 0.0.0.0 mty6kwr1cor.hair
 0.0.0.0 muaban.net
 0.0.0.0 muadam.net
+0.0.0.0 muaklekcoop.com
 0.0.0.0 muchfuck.com
 0.0.0.0 muchohentai.com
 0.0.0.0 muchohentai.tv
@@ -51571,6 +51570,7 @@
 0.0.0.0 reste-ficken.com
 0.0.0.0 resteficken.com
 0.0.0.0 restmature.com
+0.0.0.0 restricted-account-identity-verify.netlify.app
 0.0.0.0 restrictedsenses.com
 0.0.0.0 restriia.shop
 0.0.0.0 resulabi.fr
@@ -63817,7 +63817,6 @@
 0.0.0.0 updatingwebpage.com
 0.0.0.0 upewnijkonto.shop
 0.0.0.0 upewnijprofil.sbs
-0.0.0.0 upewnijrekord24.fun
 0.0.0.0 upforitnetworks.com
 0.0.0.0 upfy.org
 0.0.0.0 upgirls.net
@@ -71698,7 +71697,6 @@
 0.0.0.0 y-porn.com
 0.0.0.0 y0uzam0wlen1e24756.sbs
 0.0.0.0 y3d8ht.lat
-0.0.0.0 y4cfcc.sbs
 0.0.0.0 y4kdesign.eu
 0.0.0.0 y4n6ks.lat
 0.0.0.0 y5e4qtq-r1kj6sd84u1f.s3.eu-west-1.amazonaws.com

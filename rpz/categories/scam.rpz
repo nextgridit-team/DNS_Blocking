@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-24 07:30:56 UTC
+; Generated: 2026-09-25 07:33:51 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310451
+; Original domains (before deduplication): 310466
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092407 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092507 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -16404,6 +16404,7 @@ anhaengers.online CNAME .
 anhaengershopstore.shop CNAME .
 anhaengerverleih-mania.de CNAME .
 anhanger-behalter.de CNAME .
+anhanger-zentrum.de CNAME .
 anhanger.net CNAME .
 anhangercenter.com CNAME .
 anhangerdienst.com CNAME .
@@ -17495,6 +17496,7 @@ anwaelte-brinkmann.de CNAME .
 anwalt-sirrenberg.com CNAME .
 anwalt-support.com CNAME .
 anwaltskanzlei-brust.de CNAME .
+anwaltskanzlei-ganzer.de CNAME .
 anwan.pl CNAME .
 any-importance.tk CNAME .
 any-trades.com CNAME .
@@ -23838,6 +23840,7 @@ bestmetaltrade.com CNAME .
 bestmine.online CNAME .
 bestminer.eu CNAME .
 bestmobiworld.com CNAME .
+bestmodel-shop.com CNAME .
 bestmoonshop.com CNAME .
 bestmorethan.tk CNAME .
 bestnembutalonline.com CNAME .
@@ -27542,6 +27545,7 @@ brennholzruhl.de CNAME .
 brennholzrupp.de CNAME .
 brennholzs.com CNAME .
 brennholzstein.de CNAME .
+brennholzullrich.com CNAME .
 brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
@@ -47854,6 +47858,7 @@ dicernicer.tvgoods4u.ru CNAME .
 diceroskapok.host CNAME .
 dicha-anhaenger.com CNAME .
 dicha-bike.com CNAME .
+dicha-technik.com CNAME .
 dichotomized.stream CNAME .
 dichvudiennuoc24h.com CNAME .
 dichzeltstore.com CNAME .
@@ -50808,6 +50813,7 @@ drozhealthblog.com CNAME .
 drozhealthfacts.com CNAME .
 drozien.com CNAME .
 drpbx-update.net CNAME .
+drpengermany.com CNAME .
 drpepper.net.ua CNAME .
 drprofitgain.com CNAME .
 drragqvk.bid CNAME .
@@ -57873,7 +57879,6 @@ evimsahaneizmir.com CNAME .
 evince-ephebi.stream CNAME .
 eviobaby.com CNAME .
 eviralstore.com CNAME .
-evisas.travel CNAME .
 eviscdisac.cyou CNAME .
 evitrapsai.live CNAME .
 evitrol.com CNAME .
@@ -62533,6 +62538,7 @@ fetischkamera.com CNAME .
 fetischkamera.net CNAME .
 fetish-nextdoor.com CNAME .
 fetishmatch.stream CNAME .
+fetishmegastore.com CNAME .
 fetormate.stream CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettamated.stream CNAME .
@@ -63275,6 +63281,7 @@ finanzen-einfach-machen.net CNAME .
 finanzen.075756.net CNAME .
 finanzenexpress.com CNAME .
 finanzonline-gvbmfgv.info CNAME .
+finanzonline.bmf-gvat.com CNAME .
 finanzplanungwittenberg.com CNAME .
 finanzwelt.pro CNAME .
 finapactglobal.net CNAME .
@@ -66228,6 +66235,7 @@ freitag-taschen.com CNAME .
 freiwing.de CNAME .
 freizeitgalerie.com CNAME .
 freizeitjackensalesshop.com CNAME .
+freizeitweltde.com CNAME .
 freko-bg.com CNAME .
 frelvanoxo.shop CNAME .
 fremdgehen69.com CNAME .
@@ -70945,6 +70953,7 @@ goldpoem.com CNAME .
 goldpoll.com CNAME .
 goldpromocoes.com CNAME .
 goldreceipt.space CNAME .
+goldreward.io CNAME .
 goldrolexuk.top CNAME .
 goldrushpool.com CNAME .
 goldsainted.com CNAME .
@@ -73254,6 +73263,7 @@ halal-trade-ai.live CNAME .
 halalfinance-tr.com CNAME .
 halalfoodlistings.com CNAME .
 halat-whatsapp.com CNAME .
+halcyonlabel.com CNAME .
 haldorado-outlet.shop CNAME .
 halex.waw.pl CNAME .
 haleybaby.com CNAME .
@@ -74423,6 +74433,7 @@ heimgluck.de CNAME .
 heimharmonie.de CNAME .
 heimhof24.de CNAME .
 heimjobfinder.de CNAME .
+heimkauf.com CNAME .
 heimkauf.myshopify.com CNAME .
 heimkuchenwaren.com CNAME .
 heimliebe24.de CNAME .
@@ -97153,6 +97164,7 @@ lumenade-ltg.com CNAME .
 lumendecor.de CNAME .
 lumenkapitexai.com CNAME .
 lumenrosa.de CNAME .
+lumentes.com CNAME .
 lumeportdex-system.com CNAME .
 lumerabeautyclub.com CNAME .
 lumervio-zantorex-ai.live CNAME .
@@ -103601,6 +103613,7 @@ minez.zone CNAME .
 minezone.io CNAME .
 mingjdvnacgsbh.gq CNAME .
 mini-ecig.com CNAME .
+mini-modellerstellung.com CNAME .
 mini.dkn-group.ru CNAME .
 miniatur-bullterrier-online.de CNAME .
 miniature-schnauzer-for-adoption.business.site CNAME .
@@ -107662,7 +107675,6 @@ mymarijuanastory.com CNAME .
 mymasterpiece.tk CNAME .
 mymaturematch.com CNAME .
 mymediarecommendations.com CNAME .
-mymedicalshop365.top CNAME .
 mymedshoplive.com CNAME .
 mymega-sexcontact.com CNAME .
 mymemor.tk CNAME .
@@ -116801,7 +116813,6 @@ orderis-online.mom CNAME .
 ordermoreboxes.com CNAME .
 orderquilt.com CNAME .
 orderrids482.eu.cc CNAME .
-orderrxstore.com CNAME .
 orders247support.com CNAME .
 ordersonlinesthesblusheslaneszonesyoutubesshoppingschannels.com CNAME .
 ordersonlinesthesbostonspizzaszonesyoutubesshoppingschannels.com CNAME .
@@ -123985,6 +123996,7 @@ pgeqxokfpwbq.support CNAME .
 pgfreepdf.site CNAME .
 pggsklep.com CNAME .
 pgher.com CNAME .
+pgmgcved.shop CNAME .
 pgmus.net CNAME .
 pgmvip.com CNAME .
 pgrkonqq.shop CNAME .
@@ -135385,6 +135397,7 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
+rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -141909,6 +141922,7 @@ shuckbrush.online CNAME .
 shujuwang.de CNAME .
 shumaker.info CNAME .
 shuntedtrooper.host CNAME .
+shupnatuvisan.com CNAME .
 shureinfluence.com CNAME .
 shusher.stream CNAME .
 shushes.stream CNAME .
@@ -145112,6 +145126,7 @@ soyuzbling.stream CNAME .
 soyuzes.stream CNAME .
 soywwasemphasising.info CNAME .
 soyyrdinimoral.info CNAME .
+sozialefinanzen.de CNAME .
 sozialversicherungsausweisportal.de CNAME .
 sp.cpcempower.com CNAME .
 sp.xandexmoney.ga CNAME .
