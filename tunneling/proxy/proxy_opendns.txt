@@ -2,6 +2,7 @@ block.proxy.umbrella.opendns.com
 bpb.proxy.umbrella.opendns.com
 malware.proxy.umbrella.opendns.com
 ns1.sigproxy.qq.opendns.com
+ns1.sseproxy.qq.opendns.com
 phish.proxy.umbrella.opendns.com
 proxy.umbrella.opendns.com
 sigproxy.qq.opendns.com
@@ -12,16 +13,15 @@ swg-url-proxy-https-2386448.sseproxy.qq.opendns.com
 swg-url-proxy-https-2524848.sseproxy.qq.opendns.com
 swg-url-proxy-https-4008788.sigproxy.qq.opendns.com
 swg-url-proxy-https-7985682.sseproxy.qq.opendns.com
-swg-url-proxy-https-8078630.sigproxy.qq.opendns.com
 swg-url-proxy-https-8232004.sseproxy.qq.opendns.com
 swg-url-proxy-https-8232848.sseproxy.qq.opendns.com
+swg-url-proxy-https-8236316.sseproxy.qq.opendns.com
 swg-url-proxy-https-8238416.sseproxy.qq.opendns.com
 swg-url-proxy-https-8244711.sseproxy.qq.opendns.com
 swg-url-proxy-https-8248375.sseproxy.qq.opendns.com
 swg-url-proxy-https-8248548.sseproxy.qq.opendns.com
 swg-url-proxy-https-8255456.sseproxy.qq.opendns.com
 swg-url-proxy-https-8255877.sseproxy.qq.opendns.com
-swg-url-proxy-https-8256842.sseproxy.qq.opendns.com
 swg-url-proxy-https-8260742.sseproxy.qq.opendns.com
 swg-url-proxy-https-8260946.sseproxy.qq.opendns.com
 swg-url-proxy-https-8261697.sseproxy.qq.opendns.com
@@ -36,7 +36,6 @@ swg-url-proxy-https-8275449.sseproxy.qq.opendns.com
 swg-url-proxy-https-8275733.sseproxy.qq.opendns.com
 swg-url-proxy-https-8278914.sseproxy.qq.opendns.com
 swg-url-proxy-https-8279130.sseproxy.qq.opendns.com
-swg-url-proxy-https-8285547.sseproxy.qq.opendns.com
 swg-url-proxy-https-8288106.sseproxy.qq.opendns.com
 swg-url-proxy-https-8290263.sseproxy.qq.opendns.com
 swg-url-proxy-https-8290444.sseproxy.qq.opendns.com
@@ -45,7 +44,6 @@ swg-url-proxy-https-8292756.sseproxy.qq.opendns.com
 swg-url-proxy-https-8293768.sseproxy.qq.opendns.com
 swg-url-proxy-https-8294823.sseproxy.qq.opendns.com
 swg-url-proxy-https-8295106.sseproxy.qq.opendns.com
-swg-url-proxy-https-8295356.sseproxy.qq.opendns.com
 swg-url-proxy-https-8297015.sseproxy.qq.opendns.com
 swg-url-proxy-https-8302289.sseproxy.qq.opendns.com
 swg-url-proxy-https-8302874.sseproxy.qq.opendns.com
@@ -56,7 +54,6 @@ swg-url-proxy-https-8305462.sseproxy.qq.opendns.com
 swg-url-proxy-https-8305535.sseproxy.qq.opendns.com
 swg-url-proxy-https-8306175.sseproxy.qq.opendns.com
 swg-url-proxy-https-8307284.sseproxy.qq.opendns.com
-swg-url-proxy-https-8307286.sseproxy.qq.opendns.com
 swg-url-proxy-https-8309799.sseproxy.qq.opendns.com
 swg-url-proxy-https-8310116.sseproxy.qq.opendns.com
 swg-url-proxy-https-8310654.sseproxy.qq.opendns.com
@@ -68,7 +65,6 @@ swg-url-proxy-https-8317236.sseproxy.qq.opendns.com
 swg-url-proxy-https-8317269.sseproxy.qq.opendns.com
 swg-url-proxy-https-8318702.sseproxy.qq.opendns.com
 swg-url-proxy-https-8319610.sseproxy.qq.opendns.com
-swg-url-proxy-https-8320090.sseproxy.qq.opendns.com
 swg-url-proxy-https-8320536.sseproxy.qq.opendns.com
 swg-url-proxy-https-8321761.sseproxy.qq.opendns.com
 swg-url-proxy-https-8322801.sseproxy.qq.opendns.com
@@ -79,16 +75,13 @@ swg-url-proxy-https-8327098.sseproxy.qq.opendns.com
 swg-url-proxy-https-8327109.sseproxy.qq.opendns.com
 swg-url-proxy-https-8328792.sseproxy.qq.opendns.com
 swg-url-proxy-https-8329273.sseproxy.qq.opendns.com
-swg-url-proxy-https-8330824.sseproxy.qq.opendns.com
 swg-url-proxy-https-8331845.sseproxy.qq.opendns.com
 swg-url-proxy-https-8332696.sseproxy.qq.opendns.com
 swg-url-proxy-https-8333258.sseproxy.qq.opendns.com
 swg-url-proxy-https-8334047.sseproxy.qq.opendns.com
-swg-url-proxy-https-8336573.sseproxy.qq.opendns.com
 swg-url-proxy-https-8337976.sseproxy.qq.opendns.com
 swg-url-proxy-https-8338237.sseproxy.qq.opendns.com
 swg-url-proxy-https-8340965.sseproxy.qq.opendns.com
-swg-url-proxy-https-8341145.sseproxy.qq.opendns.com
 swg-url-proxy-https-8344342.sseproxy.qq.opendns.com
 swg-url-proxy-https-8344386.sseproxy.qq.opendns.com
 swg-url-proxy-https-8344512.sseproxy.qq.opendns.com
@@ -97,11 +90,11 @@ swg-url-proxy-https-8345594.sseproxy.qq.opendns.com
 swg-url-proxy-https-8345963.sseproxy.qq.opendns.com
 swg-url-proxy-https-8346038.sseproxy.qq.opendns.com
 swg-url-proxy-https-8348707.sseproxy.qq.opendns.com
+swg-url-proxy-https-8348886.sseproxy.qq.opendns.com
 swg-url-proxy-https-8350069.sseproxy.qq.opendns.com
 swg-url-proxy-https-8352791.sseproxy.qq.opendns.com
 swg-url-proxy-https-8354615.sseproxy.qq.opendns.com
 swg-url-proxy-https-8357326.sseproxy.qq.opendns.com
-swg-url-proxy-https-8357566.sseproxy.qq.opendns.com
 swg-url-proxy-https-8357759.sseproxy.qq.opendns.com
 swg-url-proxy-https-8358592.sseproxy.qq.opendns.com
 swg-url-proxy-https-8361681.sseproxy.qq.opendns.com
@@ -110,7 +103,6 @@ swg-url-proxy-https-8364778.sseproxy.qq.opendns.com
 swg-url-proxy-https-8364913.sseproxy.qq.opendns.com
 swg-url-proxy-https-8367533.sseproxy.qq.opendns.com
 swg-url-proxy-https-8368105.sseproxy.qq.opendns.com
-swg-url-proxy-https-8369839.sseproxy.qq.opendns.com
 swg-url-proxy-https-8370622.sseproxy.qq.opendns.com
 swg-url-proxy-https-8371358.sseproxy.qq.opendns.com
 swg-url-proxy-https-8378740.sseproxy.qq.opendns.com

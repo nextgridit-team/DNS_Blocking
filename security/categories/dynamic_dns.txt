@@ -1,7 +1,7 @@
 # Dynamic Dns Blocklist
-# Generated: 2026-09-25 07:33:51 UTC
+# Generated: 2026-09-26 07:27:03 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 1069
+# Original domains (before deduplication): 1068
 
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -284,7 +284,6 @@
 0.0.0.0 dyn.ch
 0.0.0.0 dyn.columbia.edu
 0.0.0.0 dyn.com
-0.0.0.0 dyn.dns.he.net
 0.0.0.0 dyn.mk
 0.0.0.0 dynamai.com
 0.0.0.0 dynamic-dns.net

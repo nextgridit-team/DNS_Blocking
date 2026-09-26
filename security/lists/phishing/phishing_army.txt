@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-25 07:33:51 UTC
+# Generated: 2026-09-26 07:27:03 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 385793
+# Original domains (before deduplication): 385791
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -112441,8 +112441,6 @@
 0.0.0.0 biolabinsights.com
 0.0.0.0 biolife.co.in
 0.0.0.0 biolink.co.de
-0.0.0.0 biolink.info
-0.0.0.0 biolink.website
 0.0.0.0 biolinky.co
 0.0.0.0 biolinky.com
 0.0.0.0 biologet-al.com

@@ -1,6 +1,5 @@
 chc.proxy.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.aps.production.k8s.ikarem.io
-envoy-megaproxy.shared-gateways.euc.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.euw.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.use.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.usw.production.k8s.ikarem.io

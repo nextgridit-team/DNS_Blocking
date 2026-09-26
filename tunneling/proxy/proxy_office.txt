@@ -230,11 +230,6 @@ cpx-enterpriseproxy.d03-089.ic3-calling-enterpriseproxy.01-centralus-prod.cosmic
 cpx-enterpriseproxy.d03-094.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 cpx-enterpriseproxy.d03-095.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 cpx-enterpriseproxy.d03-096.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
-cpx.auea-01.ic3-calling-enterpriseproxy.australiaeast-prod.cosmic.office.net
-cpx.auea-02.ic3-calling-enterpriseproxy.australiaeast-prod.cosmic.office.net
-cpx.auea-03.ic3-calling-enterpriseproxy.australiaeast-prod.cosmic.office.net
-cpx.auea-04.ic3-calling-enterpriseproxy.australiaeast-prod.cosmic.office.net
-cpx.auea-05.ic3-calling-enterpriseproxy.australiaeast-prod.cosmic.office.net
 cpx.euno-01.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 cpx.euno-02.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 cpx.euno-03.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
@@ -290,6 +285,8 @@ d03-000.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
 d03-000.ic3-calling-enterpriseproxy.01-westeurope-msit.cosmic.office.net
 d03-001.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 d03-001.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
+d03-001.ic3-calling-enterpriseproxy.01-japaneast-msit.cosmic.office.net
+d03-001.ic3-calling-enterpriseproxy.01-japanwest-msit.cosmic.office.net
 d03-001.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 d03-001.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 d03-001.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
@@ -376,8 +373,6 @@ d03-095.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 d03-096.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
-epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-japaneast-msit.cosmic.office.net
-epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-japanwest-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
@@ -386,8 +381,10 @@ epx-enterpriseproxy-1.d03-000.ic3-calling-enterpriseproxy.01-westeurope-msit.cos
 epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
+epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
+epx-enterpriseproxy-1.d03-001.ic3-calling-enterpriseproxy.01-westeurope-msit.cosmic.office.net
 epx-enterpriseproxy-1.d03-002.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-002.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-002.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
@@ -469,8 +466,6 @@ epx-enterpriseproxy-1.d03-095.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic
 epx-enterpriseproxy-1.d03-096.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
-epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-japaneast-msit.cosmic.office.net
-epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-japanwest-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
@@ -479,8 +474,10 @@ epx-enterpriseproxy-2.d03-000.ic3-calling-enterpriseproxy.01-westeurope-msit.cos
 epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
+epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
+epx-enterpriseproxy-2.d03-001.ic3-calling-enterpriseproxy.01-westeurope-msit.cosmic.office.net
 epx-enterpriseproxy-2.d03-002.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-002.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-002.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
@@ -562,8 +559,6 @@ epx-enterpriseproxy-2.d03-095.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic
 epx-enterpriseproxy-2.d03-096.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
-epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-japaneast-msit.cosmic.office.net
-epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-japanwest-msit.cosmic.office.net
 epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
@@ -572,8 +567,10 @@ epx-enterpriseproxy.d03-000.ic3-calling-enterpriseproxy.01-westeurope-msit.cosmi
 epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-centralus-msit.cosmic.office.net
 epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-eastus2-msit.cosmic.office.net
 epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
+epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-northeurope-msit.cosmic.office.net
 epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
+epx-enterpriseproxy.d03-001.ic3-calling-enterpriseproxy.01-westeurope-msit.cosmic.office.net
 epx-enterpriseproxy.d03-002.ic3-calling-enterpriseproxy.01-malaysiasouth-prod.cosmic.office.net
 epx-enterpriseproxy.d03-002.ic3-calling-enterpriseproxy.01-southafricanorth-prod.cosmic.office.net
 epx-enterpriseproxy.d03-002.ic3-calling-enterpriseproxy.01-uaenorth-prod.cosmic.office.net
@@ -665,6 +662,7 @@ epx.brso-04.ic3-calling-enterpriseproxy.brazilsouth-prod.cosmic.office.net
 epx.brso-05.ic3-calling-enterpriseproxy.brazilsouth-prod.cosmic.office.net
 epx.euno-01.ic3-calling-enterpriseproxy.northeurope-msit.cosmic.office.net
 epx.euno-01.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
+epx.euno-02.ic3-calling-enterpriseproxy.northeurope-msit.cosmic.office.net
 epx.euno-02.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 epx.euno-03.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 epx.euno-04.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
@@ -672,6 +670,7 @@ epx.euno-05.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 epx.euno-06.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 epx.euwe-01.ic3-calling-enterpriseproxy.westeurope-msit.cosmic.office.net
 epx.euwe-01.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
+epx.euwe-02.ic3-calling-enterpriseproxy.westeurope-msit.cosmic.office.net
 epx.euwe-02.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
 epx.euwe-03.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
 epx.euwe-04.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
@@ -714,14 +713,9 @@ epx.swce-03.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 epx.swce-04.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 epx.swce-05.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 epx.swce-06.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
-epx.uaen-01.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-epx.uaen-02.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-epx.uaen-03.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-epx.uaen-04.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-epx.uaen-05.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-epx.uaen-06.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
 epx.usce-01.ic3-calling-enterpriseproxy.centralus-msit.cosmic.office.net
 epx.usce-01.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
+epx.usce-02.ic3-calling-enterpriseproxy.centralus-msit.cosmic.office.net
 epx.usce-02.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
 epx.usce-03.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
 epx.usce-04.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
@@ -733,6 +727,7 @@ epx.usea-04.ic3-calling-enterpriseproxy.eastus-prod.cosmic.office.net
 epx.usea-05.ic3-calling-enterpriseproxy.eastus-prod.cosmic.office.net
 epx.usea2-01.ic3-calling-enterpriseproxy.eastus2-msit.cosmic.office.net
 epx.usea2-01.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
+epx.usea2-02.ic3-calling-enterpriseproxy.eastus2-msit.cosmic.office.net
 epx.usea2-02.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
 epx.usea2-03.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
 epx.usea2-04.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
@@ -744,6 +739,7 @@ epx.uswe-04.ic3-calling-enterpriseproxy.westus-prod.cosmic.office.net
 epx.uswe-05.ic3-calling-enterpriseproxy.westus-prod.cosmic.office.net
 euno-01.ic3-calling-enterpriseproxy.northeurope-msit.cosmic.office.net
 euno-01.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
+euno-02.ic3-calling-enterpriseproxy.northeurope-msit.cosmic.office.net
 euno-02.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 euno-03.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 euno-04.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
@@ -751,6 +747,7 @@ euno-05.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 euno-06.ic3-calling-enterpriseproxy.northeurope-prod.cosmic.office.net
 euwe-01.ic3-calling-enterpriseproxy.westeurope-msit.cosmic.office.net
 euwe-01.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
+euwe-02.ic3-calling-enterpriseproxy.westeurope-msit.cosmic.office.net
 euwe-02.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
 euwe-03.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
 euwe-04.ic3-calling-enterpriseproxy.westeurope-prod.cosmic.office.net
@@ -839,7 +836,6 @@ msitp2.owa-imageproxy.japanwest-msit.cosmic.office.net
 msitp2.owa-imageproxy.westeurope-msit.cosmic.office.net
 owa-imageproxy.centralus-msit.cosmic.office.net
 owa-imageproxy.eastus-msit.cosmic.office.net
-owa-imageproxy.eastus-prod.cosmic.office.net
 owa-imageproxy.eastus2-prod.cosmic.office.net
 owa-imageproxy.japanwest-msit.cosmic.office.net
 owa-imageproxy.southcentralus-prod.cosmic.office.net
@@ -859,14 +855,9 @@ swce-03.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 swce-04.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 swce-05.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
 swce-06.ic3-calling-enterpriseproxy.swedencentral-prod.cosmic.office.net
-uaen-01.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-uaen-02.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-uaen-03.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-uaen-04.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-uaen-05.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
-uaen-06.ic3-calling-enterpriseproxy.uaenorth-prod.cosmic.office.net
 usce-01.ic3-calling-enterpriseproxy.centralus-msit.cosmic.office.net
 usce-01.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
+usce-02.ic3-calling-enterpriseproxy.centralus-msit.cosmic.office.net
 usce-02.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
 usce-03.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
 usce-04.ic3-calling-enterpriseproxy.centralus-prod.cosmic.office.net
@@ -878,6 +869,7 @@ usea-04.ic3-calling-enterpriseproxy.eastus-prod.cosmic.office.net
 usea-05.ic3-calling-enterpriseproxy.eastus-prod.cosmic.office.net
 usea2-01.ic3-calling-enterpriseproxy.eastus2-msit.cosmic.office.net
 usea2-01.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
+usea2-02.ic3-calling-enterpriseproxy.eastus2-msit.cosmic.office.net
 usea2-02.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
 usea2-03.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net
 usea2-04.ic3-calling-enterpriseproxy.eastus2-prod.cosmic.office.net

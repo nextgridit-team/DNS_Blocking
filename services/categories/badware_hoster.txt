@@ -1,7 +1,7 @@
 # Badware Hoster Blocklist
-# Generated: 2026-09-25 07:33:51 UTC
+# Generated: 2026-09-26 07:27:03 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 1231
+# Original domains (before deduplication): 1232
 
 0.0.0.0 000.pe
 0.0.0.0 000a.de
@@ -700,6 +700,7 @@
 0.0.0.0 ja.cat
 0.0.0.0 janhost.com
 0.0.0.0 jcmemoryscan.com
+0.0.0.0 jimdofree.com
 0.0.0.0 jixx.de
 0.0.0.0 jixx.net
 0.0.0.0 job.ec

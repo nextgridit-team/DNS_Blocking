@@ -1,11 +1,11 @@
 ; HaGeZi Dynamic DNS
 ; Category: dynamic_dns
-; Generated: 2026-09-25 07:33:51 UTC
+; Generated: 2026-09-26 07:27:03 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1069
+; Original domains (before deduplication): 1068
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092507 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092607 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
@@ -289,7 +289,6 @@ dyn-vpn.de CNAME .
 dyn.ch CNAME .
 dyn.columbia.edu CNAME .
 dyn.com CNAME .
-dyn.dns.he.net CNAME .
 dyn.mk CNAME .
 dynamai.com CNAME .
 dynamic-dns.net CNAME .

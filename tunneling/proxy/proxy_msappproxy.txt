@@ -2,7 +2,6 @@
 28fbb2af-a743-4fb9-8e66-24d90147e2ec.tenant.runtime.msappproxy.net
 adminfrontend-cus-dm2p-1.msappproxy.net
 autoupdate.msappproxy.net
-baldoauthserviceprod-volvogroup.msappproxy.net
 bootstrap-appproxy-cus-dm2p-1.msappproxy.net
 bootstrap-appproxy-eus-bl2p-1.msappproxy.net
 bootstrap-cwap-nam1-runtime.routing.msappproxy.net
@@ -43,10 +42,8 @@ ndes-petrobrasbr.msappproxy.net
 ndescont-petrobrasbr.msappproxy.net
 ndesscep-ocpsfl.msappproxy.net
 ocsp-aeliadutyfree.msappproxy.net
-orbit-techmahindra.msappproxy.net
 proxy-appproxy-cus-dsm01p-5.msappproxy.net
 proxy-appproxy-eus-bl02p-2.msappproxy.net
-proxy-appproxy-ins-ma1p-1.msappproxy.net
 proxy-appproxy-seaus-ml1p-1.msappproxy.net
 psfs-nmhealth.msappproxy.net
 pshr-nmhealth.msappproxy.net
@@ -66,6 +63,7 @@ updater.msappproxy.net
 vm0-proxy-hisgeneral-eus-bl02p-2.connector.his.msappproxy.net
 vm0-proxy-hisgeneral-eus-bl2p-1.connector.his.msappproxy.net
 vm0-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
+vm0-proxy-hisgeneral-ncus-ch1p-4.connector.his.msappproxy.net
 vm0-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
 vm0-proxy-hisgeneral-ncus-chi01p-6.connector.his.msappproxy.net
 vm0-proxy-hisgeneral-wus2-mw1p-1.connector.his.msappproxy.net
@@ -85,6 +83,7 @@ vm1-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
 vm1-proxy-hisgeneral-ncus-ch1p-4.connector.his.msappproxy.net
 vm1-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
 vm1-proxy-hisgeneral-ncus-chi01p-6.connector.his.msappproxy.net
+vm1-proxy-hisgeneral-wus2-mwh01p-3.connector.his.msappproxy.net
 vm1-proxy-hisgeneral-wus2-mwh02p-2.connector.his.msappproxy.net
 vm1-proxy-pta-eus-bl02p-2.connector.his.msappproxy.net
 vm1-proxy-pta-eus-mnz01p-3.connector.his.msappproxy.net
@@ -166,6 +165,7 @@ vm5-proxy-hisgeneral-eus-bl2p-1.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-ncus-ch1p-4.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
+vm5-proxy-hisgeneral-ncus-chi01p-6.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-wus2-mw1p-1.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-wus2-mwh01p-3.connector.his.msappproxy.net
 vm5-proxy-hisgeneral-wus2-mwh02p-2.connector.his.msappproxy.net
@@ -197,6 +197,7 @@ vm7-proxy-hisgeneral-eus-bl2p-1.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-eus-mnz01p-3.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-ncus-ch1p-4.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-ncus-chi01p-2.connector.his.msappproxy.net
+vm7-proxy-hisgeneral-ncus-chi01p-6.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-wus2-mwh01p-3.connector.his.msappproxy.net
 vm7-proxy-hisgeneral-wus2-mwh02p-2.connector.his.msappproxy.net
 vm7-proxy-pta-eus-bl02p-2.connector.his.msappproxy.net

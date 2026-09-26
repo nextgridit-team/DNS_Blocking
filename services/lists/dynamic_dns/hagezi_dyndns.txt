@@ -1,8 +1,8 @@
 # HaGeZi Dynamic DNS
 # Category: dynamic_dns
-# Generated: 2026-09-25 07:33:51 UTC
+# Generated: 2026-09-26 07:27:03 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 1069
+# Original domains (before deduplication): 1068
 
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -458,7 +458,6 @@
 0.0.0.0 happyforever.com
 0.0.0.0 hatenboer.org
 0.0.0.0 hbmc.net
-0.0.0.0 he.net
 0.0.0.0 her.name
 0.0.0.0 herodias.net
 0.0.0.0 heroinewarrior.com
