@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-26 07:27:03 UTC
+; Generated: 2026-09-27 07:57:39 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310487
+; Original domains (before deduplication): 310497
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092607 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092707 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -2372,7 +2372,6 @@ $TTL 300
 4assets.digital CNAME .
 4bd2vp6l-pop-8i0sinf.win CNAME .
 4bfd95b92a04.ngrok.io CNAME .
-4bike.net CNAME .
 4boots.com CNAME .
 4btc.pw CNAME .
 4buywatches.com CNAME .
@@ -20417,6 +20416,7 @@ austrivontechpro.live CNAME .
 ausupportonline.com CNAME .
 auswebsupport.com CNAME .
 auszeit-seminar.de CNAME .
+aut.oanrp.shop CNAME .
 autartelep.cyou CNAME .
 autechfrontier.com CNAME .
 autechobserver.com CNAME .
@@ -25130,6 +25130,7 @@ bitcoin-server.de CNAME .
 bitcoin-smart.net CNAME .
 bitcoin-support-number.com CNAME .
 bitcoin-ukraine.com.ua CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoin.au-topselection.online CNAME .
 bitcoin.bg CNAME .
@@ -25640,7 +25641,6 @@ bjkookfanmxx.bid CNAME .
 bjktakip.eu CNAME .
 bjlqb.com CNAME .
 bjmin101.com CNAME .
-bjmining.com CNAME .
 bjmrnfwcoqp.bid CNAME .
 bjorksta.me CNAME .
 bjorksta.men CNAME .
@@ -26347,6 +26347,7 @@ bnat-whatsapp.net CNAME .
 bnau7fjt.top CNAME .
 bnbnvrwert.site CNAME .
 bnbotxyfewtroa.bid CNAME .
+bnbsjbir.shop CNAME .
 bnebacksupport.com.au CNAME .
 bnetcentric.co.uk CNAME .
 bnfreepdf.site CNAME .
@@ -31970,7 +31971,6 @@ cellared.stream CNAME .
 cellaret.stream CNAME .
 cellfun.mobi CNAME .
 cellists.stream CNAME .
-cellpeptides.com CNAME .
 cellphonecases.com CNAME .
 cellphonecasesale.com CNAME .
 cellphonelocation.net CNAME .
@@ -34040,6 +34040,7 @@ claraberlin.com CNAME .
 claracasperjuwelen.de CNAME .
 clarachristine-wien.at CNAME .
 clarafondancia.live CNAME .
+claragraz.at CNAME .
 claraluzern.ch CNAME .
 claranodo.com CNAME .
 clarcapigrove.live CNAME .
@@ -44735,7 +44736,6 @@ cvid-530d5b6d3f5d493894ee8513fccab2fa.choise.cloud CNAME .
 cvldsmevfdsb.com CNAME .
 cvlinkedin.com CNAME .
 cvlrna.top CNAME .
-cvmaker.de CNAME .
 cvneed.com CNAME .
 cvnextgen.com CNAME .
 cvostbvlkz.com CNAME .
@@ -79711,6 +79711,7 @@ iamol.com CNAME .
 iamopasta.com CNAME .
 ianausten.com CNAME .
 iancheer.com CNAME .
+iandamode.com CNAME .
 ianlueck.blog.com CNAME .
 iansucrovvzbi.bid CNAME .
 iantechsupport.tech CNAME .
@@ -86615,6 +86616,7 @@ jetterix.com CNAME .
 jettier.stream CNAME .
 jetton.stream CNAME .
 jetzt-absahnen.de CNAME .
+jetzt-beantragen.com CNAME .
 jetzt-youtube-klicks-kaufen.com CNAME .
 jetzt-youtube-klicks-kaufen.net CNAME .
 jeulia.de CNAME .
@@ -88096,6 +88098,7 @@ kamagra-original.sk CNAME .
 kamagra-premium.net CNAME .
 kamagra-pro.com CNAME .
 kamagra-pro.net CNAME .
+kamagra-pro.online CNAME .
 kamagra-prodej-levne.cz CNAME .
 kamagra-prodej.cz CNAME .
 kamagra-prodej.online CNAME .
@@ -97462,7 +97465,6 @@ lweordkwrodlwrjfoa.site CNAME .
 lweosldowwkksoeww.site CNAME .
 lwex.com CNAME .
 lwex02.com CNAME .
-lwf-energy.com CNAME .
 lwf-ouargla.com CNAME .
 lwjzsigenxsl.com CNAME .
 lwljmcved.bid CNAME .
@@ -98017,6 +98019,7 @@ madeartemdf.com.br CNAME .
 madehis-way.tk CNAME .
 madeiran.stream CNAME .
 madeleine-issing.com CNAME .
+madelinemunchen.com CNAME .
 madelor.com CNAME .
 madeofleather.tk CNAME .
 madeone.stream CNAME .
@@ -103389,6 +103392,7 @@ mim-microsoft.com CNAME .
 mimarorme.com CNAME .
 mimeoterro.cyou CNAME .
 mimetical.stream CNAME .
+mimicoffee.com CNAME .
 mimmicrosoft.com CNAME .
 mimozagetonthehorn3.tk CNAME .
 mimty.de CNAME .
@@ -105756,6 +105760,7 @@ moorcaptron-it.com CNAME .
 mooredvazwe.myshopify.com CNAME .
 mooremembered.tk CNAME .
 moorgate.tk CNAME .
+mooris.de CNAME .
 moorlandfarmer.tk CNAME .
 moorlandfarmermy.tk CNAME .
 moorlandgoods.eu CNAME .
@@ -127790,6 +127795,7 @@ primelogisticllc.com CNAME .
 primelotter.com CNAME .
 primeneexus.com CNAME .
 primenewssignal.com CNAME .
+primeoffer.de CNAME .
 primeonlinepharmacy.com CNAME .
 primepharm24.com CNAME .
 primeplatform-ai.com CNAME .
@@ -172693,6 +172699,7 @@ voltpot.org CNAME .
 voltradbike.de CNAME .
 voltryzapex.at CNAME .
 volture.de CNAME .
+volturexa.de CNAME .
 voltus-elektroshop.de CNAME .
 volubleone.pw CNAME .
 volublysix.pw CNAME .
@@ -176854,6 +176861,7 @@ waynsnuu.bid CNAME .
 wayof.gravitedefyer.com CNAME .
 wayofwade.at CNAME .
 wayrap.projectmx5.com CNAME .
+wayrates.com CNAME .
 wayrumble.com CNAME .
 wayservice.xyz CNAME .
 waytocareer.com CNAME .
@@ -177747,6 +177755,7 @@ weinonlinestore.com CNAME .
 weinrabatt.com CNAME .
 weinshop-de.com CNAME .
 weinundgenusswelt.com CNAME .
+weinvielfalt.shop CNAME .
 weinweltgenuss.com CNAME .
 weipool.org CNAME .
 weisjz.com CNAME .
@@ -306668,6 +306677,7 @@ xlavzhffzwgb.com CNAME .
 xlcnavkhn.bid CNAME .
 xlgmortgage.com CNAME .
 xljfxjbjw.bid CNAME .
+xlorventa.shop CNAME .
 xlrqw.lovechats.org CNAME .
 xlssq.com CNAME .
 xlumejuosnu.eu CNAME .

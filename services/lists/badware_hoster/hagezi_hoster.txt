@@ -1,8 +1,8 @@
 # HaGeZi Badware Hoster
 # Category: badware_hoster
-# Generated: 2026-09-26 07:27:03 UTC
+# Generated: 2026-09-27 07:57:39 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 1232
+# Original domains (before deduplication): 1231
 
 0.0.0.0 000.pe
 0.0.0.0 000a.de
@@ -377,7 +377,6 @@
 0.0.0.0 comyr.com
 0.0.0.0 comze.com
 0.0.0.0 conohawing.com
-0.0.0.0 convertri.com
 0.0.0.0 cool.hn
 0.0.0.0 cool.lc
 0.0.0.0 coolfreepages.com

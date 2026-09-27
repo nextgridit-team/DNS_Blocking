@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-26 07:27:03 UTC
+; Generated: 2026-09-27 07:57:39 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 17356
+; Original domains (before deduplication): 17366
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092607 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092707 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -77,7 +77,6 @@ $TTL 300
 3sixteenonline.org CNAME .
 4-pfoten-freizeit.de CNAME .
 47215.world CNAME .
-4bike.net CNAME .
 4dmarkt.de CNAME .
 4rainfast.shop CNAME .
 4rxofficial.com CNAME .
@@ -1113,6 +1112,7 @@ austrian-alps-chalets.com CNAME .
 austrianmint-traderzone.com CNAME .
 austrittausderkirche.de CNAME .
 auszeit-seminar.de CNAME .
+aut.oanrp.shop CNAME .
 authilama.com CNAME .
 authorityo.com CNAME .
 auto-bund.com CNAME .
@@ -1962,6 +1962,7 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -1999,7 +2000,6 @@ bixvolt.com CNAME .
 bizcox.net CNAME .
 bizglobeinvest.com CNAME .
 bjbta.com CNAME .
-bjmining.com CNAME .
 bjwdpgzv.shop CNAME .
 bk-daten.de CNAME .
 bkaffee.de CNAME .
@@ -2089,6 +2089,7 @@ bmpharmacyofficial.com CNAME .
 bms-promaschinen.com CNAME .
 bmw-bikertreff-bonsberg.de CNAME .
 bmwmt2026online.com CNAME .
+bnbsjbir.shop CNAME .
 bnp-coin.com CNAME .
 bnp-otc.com CNAME .
 bnp-otccoin.com CNAME .
@@ -2686,7 +2687,6 @@ celerypets.com CNAME .
 celeste-botanicals.com CNAME .
 celinemichaud.com CNAME .
 celio.com.de CNAME .
-cellpeptides.com CNAME .
 cellphonelocation.net CNAME .
 celmak.de CNAME .
 celorin.com CNAME .
@@ -2858,6 +2858,7 @@ clara-zurich.com CNAME .
 claraberlin.com CNAME .
 claracasperjuwelen.de CNAME .
 clarachristine-wien.at CNAME .
+claragraz.at CNAME .
 claraluzern.ch CNAME .
 clarks-germany.com CNAME .
 clarks-osterreich.com CNAME .
@@ -3278,7 +3279,6 @@ cutterfarm.de CNAME .
 cuttingboarddirect.com CNAME .
 cv-tech-onlineshop.de CNAME .
 cvc-capital-partners.com CNAME .
-cvmaker.de CNAME .
 cvneed.com CNAME .
 cwl-experts.org CNAME .
 cx.gamehander.com CNAME .
@@ -7545,6 +7545,7 @@ ia-patrimoine.com CNAME .
 iam-invest.com CNAME .
 iamkamu.de CNAME .
 iancheer.com CNAME .
+iandamode.com CNAME .
 iauvon.com CNAME .
 iavkqjlv.shop CNAME .
 ibcfx.com CNAME .
@@ -7995,6 +7996,7 @@ jerusalemcharity.com CNAME .
 jetprofund.net CNAME .
 jette-handel.de CNAME .
 jetterix.com CNAME .
+jetzt-beantragen.com CNAME .
 jeulia.de CNAME .
 jewellery-palace.com CNAME .
 jewelleryina.com CNAME .
@@ -8224,6 +8226,7 @@ kamagra-original.sk CNAME .
 kamagra-premium.net CNAME .
 kamagra-pro.com CNAME .
 kamagra-pro.net CNAME .
+kamagra-pro.online CNAME .
 kamagra-prodej-levne.cz CNAME .
 kamagra-prodej.cz CNAME .
 kamagra-prodej.online CNAME .
@@ -9564,7 +9567,6 @@ luxzafashion.com CNAME .
 lvm-capital.com CNAME .
 lwex.com CNAME .
 lwex02.com CNAME .
-lwf-energy.com CNAME .
 lxcvt.shop CNAME .
 lxznpo.shop CNAME .
 lydevmkt.shop CNAME .
@@ -9596,6 +9598,7 @@ macoens.com CNAME .
 macro1wo-rks.digital CNAME .
 macy-outletshop.com CNAME .
 madeleine-issing.com CNAME .
+madelinemunchen.com CNAME .
 madelor.com CNAME .
 madepants.de CNAME .
 madgamings.de CNAME .
@@ -10210,6 +10213,7 @@ milouamsterdam.nl CNAME .
 milouberlin.de CNAME .
 miloujewelrys.com CNAME .
 milyenshop.com CNAME .
+mimicoffee.com CNAME .
 mimty.de CNAME .
 minansecapital.com CNAME .
 minceex.com CNAME .
@@ -10528,6 +10532,7 @@ moonpod.de CNAME .
 moontod.com CNAME .
 moonx.io CNAME .
 mooredvazwe.myshopify.com CNAME .
+mooris.de CNAME .
 moosufergarten.de CNAME .
 mooxishop.de CNAME .
 more2water.onshopbase.com CNAME .
@@ -12417,6 +12422,7 @@ primehealthplus.org CNAME .
 primehouse.store CNAME .
 primekredit.com CNAME .
 primelogisticllc.com CNAME .
+primeoffer.de CNAME .
 primepharm24.com CNAME .
 primeplatform-ai.com CNAME .
 primesupply.shop CNAME .
@@ -16432,6 +16438,7 @@ volthausgeraete.de CNAME .
 voltradbike.de CNAME .
 voltryzapex.at CNAME .
 volture.de CNAME .
+volturexa.de CNAME .
 voltus-elektroshop.de CNAME .
 volvax.de CNAME .
 vonauto.de CNAME .
@@ -16610,6 +16617,7 @@ wavevisionag.com CNAME .
 waworld.de CNAME .
 waxify.de CNAME .
 wayofwade.at CNAME .
+wayrates.com CNAME .
 wbdhyer.shop CNAME .
 wbecrisfro.com CNAME .
 wbymall.store CNAME .
@@ -16695,6 +16703,7 @@ weinonlinestore.com CNAME .
 weinrabatt.com CNAME .
 weinshop-de.com CNAME .
 weinundgenusswelt.com CNAME .
+weinvielfalt.shop CNAME .
 weinweltgenuss.com CNAME .
 weissbt.com CNAME .
 weisseres-lacheln.at CNAME .
@@ -17049,6 +17058,7 @@ xinghly.com CNAME .
 xinyuekj.com CNAME .
 xiruilai.com CNAME .
 xkolzxhs.shop CNAME .
+xlorventa.shop CNAME .
 xlumina.at CNAME .
 xlumina.de CNAME .
 xmadramen.club CNAME .
