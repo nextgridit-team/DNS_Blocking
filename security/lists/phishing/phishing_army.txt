@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-09-27 07:57:39 UTC
+# Generated: 2026-09-28 08:34:01 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 385899
+# Original domains (before deduplication): 385907
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -376238,6 +376238,7 @@
 0.0.0.0 thinkhub.com.br
 0.0.0.0 thinkyoung.life
 0.0.0.0 thipparapudheekshitha.github.io
+0.0.0.0 third-party.com
 0.0.0.0 thirdpointgroup.com
 0.0.0.0 thirsty-solomon.13-67-133-60.plesk.page
 0.0.0.0 thiru-vikram.github.io
@@ -382426,8 +382427,15 @@
 0.0.0.0 wasray-corcoga-wayora20.netlify.app
 0.0.0.0 wassef.com.eg
 0.0.0.0 watchallwrestling.com
+0.0.0.0 watchguard-mobile.org
+0.0.0.0 watchguard-ssl.online
+0.0.0.0 watchguard-vpn.co.uk
 0.0.0.0 watchguard-vpn.de
+0.0.0.0 watchguard-vpn.fr
+0.0.0.0 watchguard-vpn.it
 0.0.0.0 watchguard-vpn.net
+0.0.0.0 watchguard-vpn.org
+0.0.0.0 watchguard-vpn.pt
 0.0.0.0 watchnowclick.com
 0.0.0.0 water-opaque-expert.glitch.me
 0.0.0.0 water.pwffood.com

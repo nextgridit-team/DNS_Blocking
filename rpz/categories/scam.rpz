@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-27 07:57:39 UTC
+; Generated: 2026-09-28 08:34:01 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 310497
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092707 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -230,7 +230,6 @@ $TTL 300
 1-help.online CNAME .
 1-help.tech CNAME .
 1-nqpcotpdem-fesa5.f9tvsl.casa CNAME .
-1-rx-shop.com CNAME .
 1-tech.brussels CNAME .
 1-tech.vlaanderen CNAME .
 1-vinstaller.com CNAME .
@@ -295,6 +294,7 @@ $TTL 300
 101010101010005.icu CNAME .
 101010101010006.icu CNAME .
 101add23617.club CNAME .
+101apotheek.com CNAME .
 101citi3218.club CNAME .
 101games.xyz CNAME .
 101hitvitatac100.club CNAME .
@@ -3986,7 +3986,6 @@ aaa-merchant-account.com CNAME .
 aaa.24x7help.org CNAME .
 aaaaaaa.unaux.com CNAME .
 aaaaallllllll.ru CNAME .
-aaaclothing.ru CNAME .
 aaakonta.pl CNAME .
 aaamobiletechsupport-hub.com CNAME .
 aaapqm.top CNAME .
@@ -23896,7 +23895,6 @@ bestperform3nce.com CNAME .
 bestpharm-eu.com CNAME .
 bestphoneapps.mobi CNAME .
 bestpillpharmacy.com CNAME .
-bestpillsnetwork.com CNAME .
 bestplaywins.com CNAME .
 bestpool.me CNAME .
 bestpoolminer.cc CNAME .
@@ -28643,6 +28641,7 @@ budcabala.icu CNAME .
 budda-bar.biz CNAME .
 budders-capered.stream CNAME .
 buddhakind.com CNAME .
+buddhapowerstore.com CNAME .
 buddhas-crambes.stream CNAME .
 buddhas.stream CNAME .
 buddhatlone.homes CNAME .
@@ -32574,7 +32573,6 @@ chcierekci.cc CNAME .
 chck.balanc-cek.xyz CNAME .
 chdte.com CNAME .
 che-dir.com CNAME .
-che.com CNAME .
 cheap-essays.com CNAME .
 cheap-instagram-followers.com CNAME .
 cheap-jerseys.cheap CNAME .
@@ -75539,7 +75537,6 @@ hibiscushollow.com CNAME .
 hibote.de CNAME .
 hibtgsibarfg.bid CNAME .
 hichina.co.uk CNAME .
-hicity.de CNAME .
 hickmedia.com CNAME .
 hickorysun.com CNAME .
 hico-shop.de CNAME .
@@ -76202,7 +76199,6 @@ holandric.pw CNAME .
 holanmalma.com CNAME .
 holansjfkfnnnnssd.site CNAME .
 holansnnfnfghgvnvnnv.online CNAME .
-holapick.com CNAME .
 holasnfgngngkbbb.site CNAME .
 holcdfsd.cf CNAME .
 hold-account-webreview.com CNAME .
@@ -78363,6 +78359,7 @@ hotels-stays09614.com CNAME .
 hotelscosmetic.com CNAME .
 hotelsellef.com CNAME .
 hotelsinperm.ru CNAME .
+hotelsinvienna.org CNAME .
 hotelsitsupport.com CNAME .
 hotelsofmenorca.com CNAME .
 hotelsveriifed-confistay9855.com CNAME .
@@ -101543,6 +101540,7 @@ mg.cpcempower.com CNAME .
 mg.sabzgostar.net CNAME .
 mg5-yahoo.com CNAME .
 mg6vlp.qpon CNAME .
+mgaffaires.com CNAME .
 mgassessments.com CNAME .
 mgbrown.com.au CNAME .
 mgdatasoft.com CNAME .
@@ -112052,6 +112050,7 @@ notebc.com CNAME .
 notebc.io CNAME .
 notebc.space CNAME .
 notebook-service.support CNAME .
+notebookakku.at CNAME .
 notebooknetzteileshop.de CNAME .
 notedalert9018.com CNAME .
 notedthatthere.tk CNAME .
@@ -113976,7 +113975,6 @@ offrs.guru CNAME .
 offshoot.stream CNAME .
 offshore-allianze.com CNAME .
 offshore20.tronichost.com CNAME .
-offshorecheapmeds.com CNAME .
 offshoreonlinecasino.net CNAME .
 offshores.stream CNAME .
 offshoreserversupport.com CNAME .
@@ -115915,6 +115913,7 @@ onlineitsupport.co.uk CNAME .
 onlineitsupportservice.com CNAME .
 onlinejobsalert.com CNAME .
 onlinejobsupport.com CNAME .
+onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekindlefiresupport.com CNAME .
 onlinekino.pl CNAME .
@@ -117577,6 +117576,7 @@ outletnine.review CNAME .
 outletoa.com CNAME .
 outletonlineusa.com CNAME .
 outletpandora.cn CNAME .
+outletpc.de CNAME .
 outletpickleball.com CNAME .
 outletpl.com CNAME .
 outletpurses.net CNAME .
@@ -124077,7 +124077,6 @@ pharmapillen.de CNAME .
 pharmaplax.com CNAME .
 pharmaracapital.com CNAME .
 pharmaright.vu CNAME .
-pharmaris.net CNAME .
 pharmaserve.com CNAME .
 pharmasys.biz CNAME .
 pharmatheke-europe.com CNAME .
@@ -172284,6 +172283,7 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

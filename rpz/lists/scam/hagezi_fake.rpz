@@ -1,18 +1,18 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-27 07:57:39 UTC
+; Generated: 2026-09-28 08:34:01 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 17366
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092707 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
 0dgwn.bemobtrcks.com CNAME .
 0el-preiswert-kaufen.de CNAME .
 0hyzxx-rc.myshopify.com CNAME .
-1-rx-shop.com CNAME .
+101apotheek.com CNAME .
 101vectorcenter.sbs CNAME .
 10xdealership.com CNAME .
 11trikots.com CNAME .
@@ -114,7 +114,6 @@ a.seven-st.com CNAME .
 a1-anlagen.com CNAME .
 a1businessnet.live CNAME .
 a64ad4-3.myshopify.com CNAME .
-aaaclothing.ru CNAME .
 aachentag.com CNAME .
 aacreek-ranch.de CNAME .
 aakip.com CNAME .
@@ -1741,7 +1740,6 @@ bestoutlet-tool.com CNAME .
 bestpagjkl.com CNAME .
 bestpharm-eu.com CNAME .
 bestpillpharmacy.com CNAME .
-bestpillsnetwork.com CNAME .
 bestpricetreatments.com CNAME .
 bestproductsonlinestore.com CNAME .
 bestprogift.com CNAME .
@@ -2374,6 +2372,7 @@ bucinator.shop CNAME .
 buckbasil.com CNAME .
 buckbirch.com CNAME .
 buckleybelts.de CNAME .
+buddhapowerstore.com CNAME .
 buddingscholarsonline.com CNAME .
 budgetburstdeals.com CNAME .
 budgetmagic.eu CNAME .
@@ -2751,7 +2750,6 @@ chauffabois.com CNAME .
 chauffage-energie.com CNAME .
 chaussuressimple.com CNAME .
 chcierekci.cc CNAME .
-che.com CNAME .
 cheapcharly.de CNAME .
 cheapestcosmetic.com CNAME .
 cheapmondo.com CNAME .
@@ -7147,7 +7145,6 @@ hfbssxcd.shop CNAME .
 hgtyfd.shop CNAME .
 hi-goeedoo.com CNAME .
 hibote.de CNAME .
-hicity.de CNAME .
 hico-shop.de CNAME .
 hiddenbarandgrill.com CNAME .
 hiddenhertz.com CNAME .
@@ -7251,7 +7248,6 @@ hokadeutschland.de CNAME .
 hokarunnershungary.com CNAME .
 hokasale.de CNAME .
 hokastyle.com CNAME .
-holapick.com CNAME .
 holda-konigsallee.de CNAME .
 holdinggb.com CNAME .
 holdirwerkzeug.de CNAME .
@@ -7415,6 +7411,7 @@ hotelladen.com CNAME .
 hotels-colombo.com CNAME .
 hotels-colorado.net CNAME .
 hotelsinperm.ru CNAME .
+hotelsinvienna.org CNAME .
 hotelsofmenorca.com CNAME .
 hotelwareus.com CNAME .
 hotelwhales.com CNAME .
@@ -10139,6 +10136,7 @@ mfmarketgmbh.de CNAME .
 mfomatratzenmarkt.de CNAME .
 mfsebike.com CNAME .
 mg-management.de CNAME .
+mgaffaires.com CNAME .
 mgmglobal.com CNAME .
 mhamzasaleem.com CNAME .
 mhoptions.com CNAME .
@@ -11127,6 +11125,7 @@ norxonline.biz CNAME .
 norya.de CNAME .
 not-bad.shop CNAME .
 notationi.com CNAME .
+notebookakku.at CNAME .
 notebooknetzteileshop.de CNAME .
 notenweltde.com CNAME .
 notfall-installateur.at CNAME .
@@ -11345,7 +11344,6 @@ officialrenewritualsupplement.shop CNAME .
 officialyeti.com CNAME .
 officiellejordan.eu.com CNAME .
 offizieller-iq-test.com CNAME .
-offshorecheapmeds.com CNAME .
 offsidegiugliano.shop CNAME .
 offup-vip.za.com CNAME .
 ofildeleau.fr CNAME .
@@ -11501,6 +11499,7 @@ onlinegearwrench.com CNAME .
 onlinegoodshub.com CNAME .
 onlinehealthworldtrust.com CNAME .
 onlineindiespiele.de CNAME .
+onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekohler.com CNAME .
 onlinelearningquality.org CNAME .
@@ -11752,6 +11751,7 @@ outlethikingtentde.com CNAME .
 outletjoma.com CNAME .
 outletlivingstore.com CNAME .
 outletnewin.com CNAME .
+outletpc.de CNAME .
 outletpickleball.com CNAME .
 outletrevel.com CNAME .
 outletsadv.com CNAME .
@@ -12082,7 +12082,6 @@ pharmapillen.de CNAME .
 pharmaplax.com CNAME .
 pharmaracapital.com CNAME .
 pharmaright.vu CNAME .
-pharmaris.net CNAME .
 pharmaserve.com CNAME .
 pharmatheke-europe.com CNAME .
 pharmrx-1.com CNAME .
@@ -16361,6 +16360,7 @@ vivabikes.de CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

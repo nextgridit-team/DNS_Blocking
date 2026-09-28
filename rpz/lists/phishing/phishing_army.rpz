@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-27 07:57:39 UTC
+; Generated: 2026-09-28 08:34:01 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385899
+; Original domains (before deduplication): 385907
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092707 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -376242,6 +376242,7 @@ think-different.netlify.app CNAME .
 thinkhub.com.br CNAME .
 thinkyoung.life CNAME .
 thipparapudheekshitha.github.io CNAME .
+third-party.com CNAME .
 thirdpointgroup.com CNAME .
 thirsty-solomon.13-67-133-60.plesk.page CNAME .
 thiru-vikram.github.io CNAME .
@@ -382430,8 +382431,15 @@ waskeys.com CNAME .
 wasray-corcoga-wayora20.netlify.app CNAME .
 wassef.com.eg CNAME .
 watchallwrestling.com CNAME .
+watchguard-mobile.org CNAME .
+watchguard-ssl.online CNAME .
+watchguard-vpn.co.uk CNAME .
 watchguard-vpn.de CNAME .
+watchguard-vpn.fr CNAME .
+watchguard-vpn.it CNAME .
 watchguard-vpn.net CNAME .
+watchguard-vpn.org CNAME .
+watchguard-vpn.pt CNAME .
 watchnowclick.com CNAME .
 water-opaque-expert.glitch.me CNAME .
 water.pwffood.com CNAME .
