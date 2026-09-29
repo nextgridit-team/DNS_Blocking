@@ -1,17 +1,18 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-09-28 08:34:01 UTC
+; Generated: 2026-09-29 08:17:13 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 17366
+; Original domains (before deduplication): 17382
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092908 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
 0dgwn.bemobtrcks.com CNAME .
 0el-preiswert-kaufen.de CNAME .
 0hyzxx-rc.myshopify.com CNAME .
+1-rx-shop.com CNAME .
 101apotheek.com CNAME .
 101vectorcenter.sbs CNAME .
 10xdealership.com CNAME .
@@ -946,6 +947,7 @@ asas-store.com CNAME .
 asbeconcerned.com CNAME .
 ascelteria.com CNAME .
 aschenbecher-deutschland.de CNAME .
+ascherslebener-holzhandel.de CNAME .
 asci-ipy.de CNAME .
 ascreationdecor.com CNAME .
 asd-rechtsanwaelte.de CNAME .
@@ -2151,6 +2153,7 @@ booster-lastminute.com CNAME .
 bootsde.com CNAME .
 bootsoutlet.shop CNAME .
 bootsprofi.com CNAME .
+borde-brennholzpaulusgmbh.com CNAME .
 boridashop.de CNAME .
 borneprodukter.com CNAME .
 boroconcept.com CNAME .
@@ -2261,6 +2264,7 @@ brennholz-quelle.de CNAME .
 brennholz-widmanngmbh.com CNAME .
 brennholz-world.at CNAME .
 brennholz-ws.de CNAME .
+brennholzangebot.com CNAME .
 brennholzanhanger.de CNAME .
 brennholzauswahl.de CNAME .
 brennholzboersch.com CNAME .
@@ -2269,6 +2273,7 @@ brennholzdge.com CNAME .
 brennholzdirekt.com CNAME .
 brennholzgarten.de CNAME .
 brennholzhaus.de CNAME .
+brennholzhochwald-de.com CNAME .
 brennholzkamin.de CNAME .
 brennholzkaufen.shop CNAME .
 brennholzmarkt.com CNAME .
@@ -2686,6 +2691,7 @@ celerypets.com CNAME .
 celeste-botanicals.com CNAME .
 celinemichaud.com CNAME .
 celio.com.de CNAME .
+cellpeptides.com CNAME .
 cellphonelocation.net CNAME .
 celmak.de CNAME .
 celorin.com CNAME .
@@ -4830,7 +4836,6 @@ everyday-outdoor.de CNAME .
 everyknives.com CNAME .
 evinjeta-slovenia.listocar.com CNAME .
 eviobaby.com CNAME .
-evisas.travel CNAME .
 evitrol.com CNAME .
 evo-pharmacy.com CNAME .
 evolgrafix.de CNAME .
@@ -7256,6 +7261,7 @@ hollister-co.at CNAME .
 hollister.com.de CNAME .
 hollylollies.com CNAME .
 holsteinerblumenservice.de CNAME .
+holz-abl-zentrale.de CNAME .
 holz-brennholzhandel.de CNAME .
 holz-deal24.de CNAME .
 holz-discounter.com CNAME .
@@ -7276,6 +7282,7 @@ holzd24.com CNAME .
 holzerneblocke.com CNAME .
 holzfursfeuer.de CNAME .
 holzgartenprofi.de CNAME .
+holzgluck.de CNAME .
 holzhack-schnitzel.de CNAME .
 holzhambach.com CNAME .
 holzhandelhensel.com CNAME .
@@ -7289,6 +7296,7 @@ holzkraft.pro CNAME .
 holzlangbau.de CNAME .
 holzleitnergmbh.de CNAME .
 holzliefer.com CNAME .
+holzliefernexpress.de CNAME .
 holzmarkte.de CNAME .
 holzmoebelkaufen.de CNAME .
 holznotenpulte.de CNAME .
@@ -7981,6 +7989,7 @@ jefercopellets.com CNAME .
 jeffora.de CNAME .
 jeffspoolservice.com CNAME .
 jehmrxht.shop CNAME .
+jeinn.com CNAME .
 jellycats.de CNAME .
 jellylight.at CNAME .
 jelvruvozan-ie.com CNAME .
@@ -9517,6 +9526,7 @@ luscherhaus.de CNAME .
 lushdream.de CNAME .
 lusto.de CNAME .
 lutona.de CNAME .
+lutus-containers-gmbh.de CNAME .
 luuckylinen.com CNAME .
 luvelle.de CNAME .
 luvemo.de CNAME .
@@ -9936,6 +9946,7 @@ meds-tabs.com CNAME .
 medsaurora.com CNAME .
 medshopcpl.com CNAME .
 medsinfoshop.com CNAME .
+medunakpelletsgmbh.de CNAME .
 medzrezeptfrei.com CNAME .
 meertickets.de CNAME .
 meetfigure.com CNAME .
@@ -11190,6 +11201,7 @@ novirastore.com CNAME .
 novolo.shop CNAME .
 novores.de CNAME .
 nowadayse.com CNAME .
+nowfahrrad.de CNAME .
 nowgreenhealthes.com CNAME .
 nowistherevolution.com CNAME .
 nowoption.com CNAME .
@@ -11370,6 +11382,7 @@ oiltrex.de CNAME .
 oins.shop CNAME .
 okatode.com CNAME .
 okbon.de CNAME .
+oko-spechtbrennholzgmbh.de CNAME .
 okohausplus.com CNAME .
 okun.shop CNAME .
 okuracookware.ch CNAME .
@@ -12227,6 +12240,7 @@ pmpkp.com CNAME .
 pmtinnova.com CNAME .
 pn-parfum.com CNAME .
 pn99.cc CNAME .
+pncontainerlogistik-gmbh.de CNAME .
 png-group.net CNAME .
 pnl-holding.com CNAME .
 pnladvanced.com CNAME .
@@ -13219,6 +13233,7 @@ rotweibwein.com CNAME .
 rotweinbar.com CNAME .
 rotyka.com CNAME .
 roulettegem.com CNAME .
+roussebois.com CNAME .
 routehygge.co CNAME .
 routermeister24.myshopify.com CNAME .
 routinefashiones.com CNAME .
@@ -15002,6 +15017,7 @@ tauchflaschenschutznetz.com CNAME .
 taurachbahn.at CNAME .
 tavaresautopecas.com CNAME .
 tavoloni.myshopify.com CNAME .
+tavorello.net CNAME .
 tax.crypto.com CNAME .
 taxoflex.de CNAME .
 tbclacrosse.com CNAME .
@@ -16360,7 +16376,6 @@ vivabikes.de CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -16570,6 +16585,7 @@ waresco.com CNAME .
 warevo.de CNAME .
 waris-solar.de CNAME .
 warme-quelle.com CNAME .
+warmeholze.de CNAME .
 warmeholzhaus.com CNAME .
 warmeluxe.com CNAME .
 warmethuis.com CNAME .

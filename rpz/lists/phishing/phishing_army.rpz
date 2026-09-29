@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-28 08:34:01 UTC
+; Generated: 2026-09-29 08:17:13 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385907
+; Original domains (before deduplication): 385911
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092908 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -36823,7 +36823,6 @@ acikmobildenizvk2.tk CNAME .
 acikmobilldenizv2.tk CNAME .
 acikv2denizislerimlerinizonline.giize.com CNAME .
 acilebanon.com CNAME .
-acilfov.ro CNAME .
 acilsxwebp.duckdns.org CNAME .
 acilyapiguclendirme.com CNAME .
 acim-28031796.firebaseapp.com CNAME .
@@ -232464,6 +232463,7 @@ innovativetechshop.xyz CNAME .
 innovativetelevisioners.top CNAME .
 innovatory-islands.000webhostapp.com CNAME .
 innoventa.fi CNAME .
+innoverseprime.com CNAME .
 innovestin.pages.dev CNAME .
 innovixxa.vercel.app CNAME .
 innovvationswiss.com CNAME .
@@ -251788,6 +251788,7 @@ kobev13545.github.io CNAME .
 kobiety.podpisz-petycje.eu CNAME .
 kobika.tripod.com CNAME .
 kobiofclientsupport.pqzredservice.com CNAME .
+koboldcpp.com CNAME .
 kobqxgevtgbugcoe-dot-millinium.ey.r.appspot.com CNAME .
 kobrobafrecre-9556.vercel.app CNAME .
 kobskoba6.wixstudio.com CNAME .
@@ -354972,6 +354973,7 @@ redirectinn.byethost32.com CNAME .
 redirection-actif.ath.cx CNAME .
 redirection-assistance.surge.sh CNAME .
 redirection-auth.netsons.org CNAME .
+redirection-claim.innoverseprime.com CNAME .
 redirection-secureca.duckdns.org CNAME .
 redirection-vers-connexion-securisee.duckdns.org CNAME .
 redirection.aloepuro.com CNAME .
@@ -378073,8 +378075,10 @@ troihbwloi.duckdns.org CNAME .
 trolink.top CNAME .
 trom-meta.pages.dev CNAME .
 tron-five.vercel.app CNAME .
+tron-foundation.com CNAME .
 tron-qr-code-generator.com CNAME .
 tron-qr-code-generator.to CNAME .
+tron.redirection-claim.innoverseprime.com CNAME .
 trongnam13823.github.io CNAME .
 tronlink-my.co.com CNAME .
 tronlink.bet CNAME .

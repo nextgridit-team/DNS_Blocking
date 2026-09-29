@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-09-28 08:34:01 UTC
+; Generated: 2026-09-29 08:17:13 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310497
+; Original domains (before deduplication): 310513
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026092808 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026092908 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -230,6 +230,7 @@ $TTL 300
 1-help.online CNAME .
 1-help.tech CNAME .
 1-nqpcotpdem-fesa5.f9tvsl.casa CNAME .
+1-rx-shop.com CNAME .
 1-tech.brussels CNAME .
 1-tech.vlaanderen CNAME .
 1-vinstaller.com CNAME .
@@ -19299,6 +19300,7 @@ ascertainy.com CNAME .
 ascesafundoria-it.com CNAME .
 asceticism-that.tk CNAME .
 aschenbecher-deutschland.de CNAME .
+ascherslebener-holzhandel.de CNAME .
 asci-ipy.de CNAME .
 asckowpko.club CNAME .
 ascr4cedoinmos.com CNAME .
@@ -26849,6 +26851,7 @@ boralfuci.stream CNAME .
 borasfuck.stream CNAME .
 boratmt2.za.pl CNAME .
 borborygmuoa.pro CNAME .
+borde-brennholzpaulusgmbh.com CNAME .
 bordel-chat.tv CNAME .
 bordell-chat.mobi CNAME .
 bordell-chat.tv CNAME .
@@ -27529,6 +27532,7 @@ brennholz-quelle.de CNAME .
 brennholz-widmanngmbh.com CNAME .
 brennholz-world.at CNAME .
 brennholz-ws.de CNAME .
+brennholzangebot.com CNAME .
 brennholzanhanger.de CNAME .
 brennholzauswahl.de CNAME .
 brennholzboersch.com CNAME .
@@ -27537,6 +27541,7 @@ brennholzdge.com CNAME .
 brennholzdirekt.com CNAME .
 brennholzgarten.de CNAME .
 brennholzhaus.de CNAME .
+brennholzhochwald-de.com CNAME .
 brennholzkamin.de CNAME .
 brennholzkaufen.shop CNAME .
 brennholzmarkt.com CNAME .
@@ -31970,6 +31975,7 @@ cellared.stream CNAME .
 cellaret.stream CNAME .
 cellfun.mobi CNAME .
 cellists.stream CNAME .
+cellpeptides.com CNAME .
 cellphonecases.com CNAME .
 cellphonecasesale.com CNAME .
 cellphonelocation.net CNAME .
@@ -57886,7 +57892,6 @@ evince-ephebi.stream CNAME .
 evinjeta-slovenia.listocar.com CNAME .
 eviobaby.com CNAME .
 eviralstore.com CNAME .
-evisas.travel CNAME .
 eviscdisac.cyou CNAME .
 evitrapsai.live CNAME .
 evitrol.com CNAME .
@@ -76288,6 +76293,7 @@ holylandirect.com CNAME .
 holylandtshirts.com CNAME .
 holymine.org CNAME .
 holytide.us CNAME .
+holz-abl-zentrale.de CNAME .
 holz-brennholzhandel.de CNAME .
 holz-deal24.de CNAME .
 holz-discounter.com CNAME .
@@ -76308,6 +76314,7 @@ holzd24.com CNAME .
 holzerneblocke.com CNAME .
 holzfursfeuer.de CNAME .
 holzgartenprofi.de CNAME .
+holzgluck.de CNAME .
 holzhack-schnitzel.de CNAME .
 holzhambach.com CNAME .
 holzhandelhensel.com CNAME .
@@ -76321,6 +76328,7 @@ holzkraft.pro CNAME .
 holzlangbau.de CNAME .
 holzleitnergmbh.de CNAME .
 holzliefer.com CNAME .
+holzliefernexpress.de CNAME .
 holzmarkte.de CNAME .
 holzmoebelkaufen.de CNAME .
 holznotenpulte.de CNAME .
@@ -86521,6 +86529,7 @@ jefreepdf.site CNAME .
 jehan-serien.com CNAME .
 jehan.sabzgostar.org CNAME .
 jehmrxht.shop CNAME .
+jeinn.com CNAME .
 jeipi.ru CNAME .
 jejunenesses.stream CNAME .
 jekinsteacuppomeranianpuppies.com CNAME .
@@ -97311,6 +97320,7 @@ luthern.stream CNAME .
 lutie.ru CNAME .
 lutona.de CNAME .
 lutor-corp.ru CNAME .
+lutus-containers-gmbh.de CNAME .
 luuckylinen.com CNAME .
 luv-ver.com CNAME .
 luvanti-trade.live CNAME .
@@ -100670,6 +100680,7 @@ medsinfoshop.com CNAME .
 medsupportph.com CNAME .
 medtech-experts.com CNAME .
 medtech-xperts.com CNAME .
+medunakpelletsgmbh.de CNAME .
 medxwaste.com CNAME .
 medycznapolska.pl CNAME .
 medyumatusa.com CNAME .
@@ -112437,6 +112448,7 @@ noweperspektywydlacodziennegozycia.site CNAME .
 nowernine.stream CNAME .
 nowezplpola.xyz CNAME .
 nowezpoznania.top CNAME .
+nowfahrrad.de CNAME .
 nowgreenhealthes.com CNAME .
 nowhaving.tk CNAME .
 nowhereten.stream CNAME .
@@ -114291,6 +114303,7 @@ okmonitor.com CNAME .
 okna-karlo.ru CNAME .
 okningfundex.live CNAME .
 oknmanswftcd.com CNAME .
+oko-spechtbrennholzgmbh.de CNAME .
 okohausplus.com CNAME .
 okolica-pl.info CNAME .
 okoosifsfiolokosiid.site CNAME .
@@ -125660,6 +125673,7 @@ pn99.cc CNAME .
 pnbliss.com CNAME .
 pncbanalerts.com CNAME .
 pncbank-login.com CNAME .
+pncontainerlogistik-gmbh.de CNAME .
 pncsupportservices.com CNAME .
 pndiblukiqdix.bid CNAME .
 pndsgnesupport.com CNAME .
@@ -135719,6 +135733,7 @@ rourketwo.us CNAME .
 rousebotte.cyou CNAME .
 rousedtwo.us CNAME .
 rousfive.us CNAME .
+roussebois.com CNAME .
 rousttwo.us CNAME .
 routb.cyou CNAME .
 routehygge.co CNAME .
@@ -154946,6 +154961,7 @@ tavirello.live CNAME .
 tavirexo.info CNAME .
 tavitt.support CNAME .
 tavoloni.myshopify.com CNAME .
+tavorello.net CNAME .
 tavorix.shop CNAME .
 tavosdexapp-system.com CNAME .
 tavrenik-ai.com CNAME .
@@ -172283,7 +172299,6 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -173641,6 +173656,7 @@ warmcornerstore.eu CNAME .
 warmdailyhome.eu CNAME .
 warmdailyhouse.eu CNAME .
 warme-quelle.com CNAME .
+warmeholze.de CNAME .
 warmeholzhaus.com CNAME .
 warmeluxe.com CNAME .
 warmers.stream CNAME .
