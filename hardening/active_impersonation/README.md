@@ -1,6 +1,6 @@
 # Active Impersonation Review
 
-**Generated:** 2026-09-30T11:31:59.204096+00:00
+**Generated:** 2026-10-01T11:59:55.884218+00:00
 
 This stage scores live DNSTwist lookalike domains against the real brand sites using lightweight fingerprinting, then emits conservative blocking lists from only the highest-confidence non-canonical findings.
 
@@ -22,8 +22,8 @@ Domains that only canonical-redirect to the real brand are filtered out of the v
 
 - Targets audited: `40`
 - Candidate domains audited: `5686`
-- Visible findings kept: `5325`
-- Canonical brand redirects filtered out: `361`
+- Visible findings kept: `5324`
+- Canonical brand redirects filtered out: `362`
 - Blocklist entries emitted: `0`
 - Max workers: `10`
 - Target jobs: `2`
@@ -40,7 +40,7 @@ Domains that only canonical-redirect to the real brand are filtered out of the v
 
 | HIGH | MEDIUM | LOW | INCONCLUSIVE | OFFLINE | ERROR |
 |------|--------|-----|--------------|---------|-------|
-| 0 | 8 | 1972 | 1027 | 2318 | 0 |
+| 0 | 8 | 2058 | 907 | 2351 | 0 |
 
 ## Blocking Lists
 
@@ -55,46 +55,46 @@ Only `HIGH_MATCH` domains that do **not** canonical-redirect to the real brand a
 
 | Target | Seeds | Audited | Visible | Blocklist | Filtered Redirects | High | Medium | Low | Offline | Errors | Note |
 |--------|-------|---------|---------|-----------|--------------------|------|--------|-----|---------|--------|------|
-| Adobe | 2 | 181 | 181 | 0 | 0 | 0 | 0 | 78 | 82 | 0 |  |
-| Amazon | 1 | 262 | 122 | 0 | 140 | 0 | 0 | 34 | 78 | 0 |  |
-| Apple | 2 | 350 | 333 | 0 | 17 | 0 | 0 | 130 | 155 | 0 |  |
-| Atlassian | 1 | 47 | 42 | 0 | 5 | 0 | 0 | 14 | 18 | 0 |  |
-| Auth0 | 1 | 187 | 183 | 0 | 4 | 0 | 0 | 4 | 73 | 0 |  |
-| Box | 1 | 103 | 103 | 0 | 0 | 0 | 0 | 69 | 27 | 0 |  |
-| Cloudflare | 1 | 172 | 170 | 0 | 2 | 0 | 0 | 29 | 127 | 0 |  |
-| Coinbase | 1 | 255 | 255 | 0 | 0 | 0 | 0 | 18 | 50 | 0 |  |
+| Adobe | 2 | 181 | 181 | 0 | 0 | 0 | 0 | 79 | 90 | 0 |  |
+| Amazon | 1 | 262 | 122 | 0 | 140 | 0 | 0 | 37 | 78 | 0 |  |
+| Apple | 2 | 350 | 333 | 0 | 17 | 0 | 0 | 139 | 162 | 0 |  |
+| Atlassian | 1 | 47 | 42 | 0 | 5 | 0 | 0 | 17 | 20 | 0 |  |
+| Auth0 | 1 | 187 | 183 | 0 | 4 | 0 | 0 | 5 | 73 | 0 |  |
+| Box | 1 | 103 | 103 | 0 | 0 | 0 | 0 | 71 | 27 | 0 |  |
+| Cloudflare | 1 | 172 | 170 | 0 | 2 | 0 | 0 | 38 | 124 | 0 |  |
+| Coinbase | 1 | 255 | 255 | 0 | 0 | 0 | 0 | 23 | 51 | 0 |  |
 | DHL | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Skipped target because no reachable baselines were available. |
-| Docker | 1 | 87 | 87 | 0 | 0 | 0 | 0 | 46 | 30 | 0 |  |
-| DocuSign | 1 | 90 | 85 | 0 | 5 | 0 | 0 | 27 | 42 | 0 |  |
-| Dropbox | 2 | 132 | 131 | 0 | 1 | 0 | 0 | 56 | 67 | 0 |  |
-| Duo | 1 | 118 | 118 | 0 | 0 | 0 | 0 | 73 | 29 | 0 |  |
-| FedEx | 1 | 118 | 118 | 0 | 0 | 0 | 0 | 42 | 69 | 0 |  |
-| Figma | 1 | 81 | 81 | 0 | 0 | 0 | 0 | 45 | 22 | 0 |  |
-| GitHub | 1 | 156 | 150 | 0 | 6 | 0 | 0 | 62 | 55 | 0 |  |
-| GitLab | 1 | 80 | 80 | 0 | 0 | 0 | 0 | 42 | 34 | 0 |  |
-| Google | 2 | 561 | 550 | 0 | 11 | 0 | 8 | 156 | 319 | 0 |  |
-| Intuit | 1 | 140 | 140 | 0 | 0 | 0 | 0 | 52 | 63 | 0 |  |
-| Jira | 1 | 100 | 100 | 0 | 0 | 0 | 0 | 66 | 23 | 0 |  |
-| Microsoft | 5 | 929 | 860 | 0 | 69 | 0 | 0 | 334 | 397 | 0 |  |
+| Docker | 1 | 87 | 87 | 0 | 0 | 0 | 0 | 50 | 29 | 0 |  |
+| DocuSign | 1 | 90 | 85 | 0 | 5 | 0 | 0 | 29 | 48 | 0 |  |
+| Dropbox | 2 | 132 | 131 | 0 | 1 | 0 | 0 | 59 | 69 | 0 |  |
+| Duo | 1 | 118 | 118 | 0 | 0 | 0 | 0 | 75 | 28 | 0 |  |
+| FedEx | 1 | 118 | 118 | 0 | 0 | 0 | 0 | 6 | 65 | 0 |  |
+| Figma | 1 | 81 | 81 | 0 | 0 | 0 | 0 | 46 | 23 | 0 |  |
+| GitHub | 1 | 156 | 150 | 0 | 6 | 0 | 0 | 72 | 53 | 0 |  |
+| GitLab | 1 | 80 | 80 | 0 | 0 | 0 | 0 | 41 | 34 | 0 |  |
+| Google | 2 | 561 | 550 | 0 | 11 | 0 | 8 | 170 | 317 | 0 |  |
+| Intuit | 1 | 140 | 140 | 0 | 0 | 0 | 0 | 52 | 64 | 0 |  |
+| Jira | 1 | 100 | 100 | 0 | 0 | 0 | 0 | 69 | 22 | 0 |  |
+| Microsoft | 5 | 929 | 860 | 0 | 69 | 0 | 0 | 366 | 401 | 0 |  |
 | Notion | 1 | 12 | 12 | 0 | 0 | 0 | 0 | 7 | 5 | 0 |  |
-| Okta | 1 | 110 | 109 | 0 | 1 | 0 | 0 | 60 | 31 | 0 |  |
-| OneLogin | 1 | 31 | 31 | 0 | 0 | 0 | 0 | 9 | 19 | 0 |  |
-| PayPal | 1 | 213 | 205 | 0 | 8 | 0 | 0 | 61 | 45 | 0 |  |
+| Okta | 1 | 110 | 109 | 0 | 1 | 0 | 0 | 59 | 31 | 0 |  |
+| OneLogin | 1 | 31 | 31 | 0 | 0 | 0 | 0 | 11 | 18 | 0 |  |
+| PayPal | 1 | 213 | 205 | 0 | 8 | 0 | 0 | 62 | 46 | 0 |  |
 | Ping Identity | 1 | 31 | 31 | 0 | 0 | 0 | 0 | 1 | 29 | 0 |  |
 | QuickBooks | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Skipped target because no reachable baselines were available. |
-| Salesforce | 1 | 119 | 104 | 0 | 15 | 0 | 0 | 29 | 53 | 0 |  |
+| Salesforce | 1 | 119 | 104 | 0 | 15 | 0 | 0 | 34 | 55 | 0 |  |
 | ServiceNow | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Skipped target because no reachable baselines were available. |
-| Shopify | 1 | 183 | 152 | 0 | 31 | 0 | 0 | 82 | 51 | 0 |  |
-| Slack | 1 | 90 | 90 | 0 | 0 | 0 | 0 | 49 | 24 | 0 |  |
-| Stripe | 1 | 99 | 93 | 0 | 6 | 0 | 0 | 46 | 36 | 0 |  |
-| Trello | 1 | 61 | 60 | 0 | 1 | 0 | 0 | 31 | 16 | 0 |  |
-| TurboTax | 1 | 151 | 127 | 0 | 24 | 0 | 0 | 26 | 91 | 0 |  |
+| Shopify | 1 | 183 | 151 | 0 | 32 | 0 | 0 | 81 | 52 | 0 |  |
+| Slack | 1 | 90 | 90 | 0 | 0 | 0 | 0 | 52 | 25 | 0 |  |
+| Stripe | 1 | 99 | 93 | 0 | 6 | 0 | 0 | 45 | 36 | 0 |  |
+| Trello | 1 | 61 | 60 | 0 | 1 | 0 | 0 | 34 | 14 | 0 |  |
+| TurboTax | 1 | 151 | 127 | 0 | 24 | 0 | 0 | 25 | 97 | 0 |  |
 | UPS | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Skipped target because no reachable baselines were available. |
-| USPS | 1 | 98 | 98 | 0 | 0 | 0 | 0 | 63 | 22 | 0 |  |
-| Venmo | 1 | 73 | 72 | 0 | 1 | 0 | 0 | 31 | 20 | 0 |  |
-| Zendesk | 1 | 58 | 56 | 0 | 2 | 0 | 0 | 26 | 22 | 0 |  |
-| Zoom | 1 | 81 | 81 | 0 | 0 | 0 | 0 | 32 | 40 | 0 |  |
-| eBay | 1 | 127 | 115 | 0 | 12 | 0 | 0 | 42 | 54 | 0 |  |
+| USPS | 1 | 98 | 98 | 0 | 0 | 0 | 0 | 62 | 26 | 0 |  |
+| Venmo | 1 | 73 | 72 | 0 | 1 | 0 | 0 | 34 | 21 | 0 |  |
+| Zendesk | 1 | 58 | 56 | 0 | 2 | 0 | 0 | 29 | 25 | 0 |  |
+| Zoom | 1 | 81 | 81 | 0 | 0 | 0 | 0 | 34 | 40 | 0 |  |
+| eBay | 1 | 127 | 115 | 0 | 12 | 0 | 0 | 44 | 53 | 0 |  |
 
 ## Per-Target Blocking Lists
 
