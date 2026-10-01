@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-09-30 08:17:39 UTC
+; Generated: 2026-10-01 08:41:21 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385911
+; Original domains (before deduplication): 385972
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026093008 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100108 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -38655,6 +38655,7 @@ adclicker.io CNAME .
 adclip.ma CNAME .
 adclk.me CNAME .
 adcmnaisera.com CNAME .
+adcnsbauchi.com CNAME .
 adco-web.com CNAME .
 adcokc.com CNAME .
 adcomfrims.000webhostapp.com CNAME .
@@ -39261,6 +39262,7 @@ adityaxantil.github.io CNAME .
 adiu3zp3sk.qwo231sdx.club CNAME .
 adiux06.github.io CNAME .
 adiva457.000webhostapp.com CNAME .
+adivaskitchen.com CNAME .
 adiverma.com CNAME .
 adivk.000webhostapp.com CNAME .
 adixxfg8.kokoo8899.com CNAME .
@@ -40939,6 +40941,7 @@ adsassistdesk.vercel.app CNAME .
 adsassisthelp.vercel.app CNAME .
 adsauto-sales.com CNAME .
 adsavvyresponse.vercel.app CNAME .
+adsaw.cfd CNAME .
 adsazpeigjxspxno-dot-millinium.ey.r.appspot.com CNAME .
 adsbg.net CNAME .
 adsbusiness-my-page.000webhostapp.com CNAME .
@@ -41102,6 +41105,7 @@ adsvertesing-recovery-page-securee.000webhostapp.com CNAME .
 adswip.com CNAME .
 adswisard.com CNAME .
 adswrasdx.club CNAME .
+adswre.cfd CNAME .
 adsxcell.com CNAME .
 adsxwa.com CNAME .
 adsyim.com CNAME .
@@ -41144,6 +41148,7 @@ adulttoysperu.com CNAME .
 adultvideosgroup.000webhostapp.com CNAME .
 adumanradooo.gorrismatthieu.repl.co CNAME .
 adunagarden.com CNAME .
+adundotravels.co.tz CNAME .
 adunumlaw.com CNAME .
 adunzz-jeev-vzxv.s3-eu-west-1.amazonaws.com CNAME .
 aduqueza.com.br CNAME .
@@ -45220,6 +45225,7 @@ aidijia999.com CNAME .
 aidiscord.jiayiapi.cn CNAME .
 aidiscord.whalespet.com CNAME .
 aidjekibawa9jv7.53244ds.xyz CNAME .
+aidlifempowerment.com CNAME .
 aidmoving.com CNAME .
 aidnnrue2.duckdns.org CNAME .
 aidojdaaijioaad89.top CNAME .
@@ -93009,6 +93015,7 @@ awsrtpich.atwebpages.com CNAME .
 awsuaxcjuypofjfxhchordgqek-dot-project2-297402.rj.r.appspot.com CNAME .
 awswispasauth0-serverauthi7474.web.app CNAME .
 awterciduk.com CNAME .
+awthestatueon.org CNAME .
 awtochehly.ru CNAME .
 awtqoancsfpvjtywgcwxyjakpb-dot-gloff849483.uk.r.appspot.com CNAME .
 awtse.xyz CNAME .
@@ -121119,6 +121126,7 @@ brokenseal.pages.dev CNAME .
 brokensidewalk.com CNAME .
 brokenuinfers.org CNAME .
 brokerjane.pages.dev CNAME .
+brokerofrealestate.com CNAME .
 brokerplaform.com CNAME .
 brokersafari.com CNAME .
 brokersfinanzia.es CNAME .
@@ -124467,6 +124475,7 @@ bunsioas.com CNAME .
 bunsoqwxg.com CNAME .
 bunspoasjf.com CNAME .
 bunssinesboameri.webcindario.com CNAME .
+bunstar.harej.si CNAME .
 bunster.com.br CNAME .
 bunted-reason.000webhostapp.com CNAME .
 buntrianio.sejoranshuiteminbailia.link CNAME .
@@ -127243,6 +127252,7 @@ callcentertaipei.com CNAME .
 callcentreknrp.org CNAME .
 called-runoff.000webhostapp.com CNAME .
 called-zips.000webhostapp.com CNAME .
+calledmetheapp.org CNAME .
 callepaqueippei-9392.vercel.app CNAME .
 calliechain.com CNAME .
 callieisaac.com CNAME .
@@ -127919,6 +127929,7 @@ canoncitymedicare.us CNAME .
 canondigital.top CNAME .
 canonscooter.com CNAME .
 canopyworld.in CNAME .
+canovaelectric.com CNAME .
 canreal.pt CNAME .
 canslalskjiushd6743gh.firebaseapp.com CNAME .
 canstudio.sa.com CNAME .
@@ -128260,6 +128271,7 @@ careyharris.com CNAME .
 carfreemom.com CNAME .
 cargadordeenlaces-git-main-tiendazonatelca-gmailcom.vercel.app CNAME .
 cargand0inf0rm.webcindario.com CNAME .
+cargetnow.com CNAME .
 cargo-gas.supernova-desarrollo.com CNAME .
 cargobikes.com.au CNAME .
 cargoeasytracker.com CNAME .
@@ -131598,6 +131610,7 @@ cfriftsfbd.duckdns.org CNAME .
 cfrimastionspagesshelpsidentity.co.vu CNAME .
 cfront.co.za CNAME .
 cfsd-3a0a0.web.app CNAME .
+cfsfvx.com CNAME .
 cfspart-france-idp-impots.comptepublic.com CNAME .
 cfspart-idp-impot-gov-france.sduaicrd.com CNAME .
 cfspart-impot-gov-fr.wuaze.com CNAME .
@@ -136531,6 +136544,7 @@ clean.35-174-171-184.cprapid.com CNAME .
 clean.pvnvt.ru CNAME .
 cleanandsoberlove.com CNAME .
 cleanany.real01-h.dnsabr.com CNAME .
+cleanascanbee.com.au CNAME .
 cleanbee.buzz CNAME .
 cleanchy.com CNAME .
 cleanenergy.adminaccessreview.com CNAME .
@@ -144900,6 +144914,7 @@ core-92-bpltnx-5631-secure-hub-08.helpdeskinld.com CNAME .
 core-9fu.pages.dev CNAME .
 core-bonus-3844.caileymcclendon.workers.dev CNAME .
 core-docs-8e33.alaonsresmiek.workers.dev CNAME .
+core-ksa.com CNAME .
 core-log-private-tracker.pages.dev CNAME .
 core-tech.com CNAME .
 core.53.torpg.com CNAME .
@@ -147691,6 +147706,7 @@ ctelemauthecionregionsfrsf.duckdns.org CNAME .
 ctelemconmobauthenregiosnfr.duckdns.org CNAME .
 ctermosdeusomk.sytes.net CNAME .
 ctexplay.com CNAME .
+ctfbff.com.br CNAME .
 ctfglobal.in CNAME .
 ctformation.com CNAME .
 ctfss.wpengine.com CNAME .
@@ -149845,6 +149861,7 @@ d2delivery.cc CNAME .
 d2df994e416264f6da0f16b26a1623625fdee8f686ae03ed3.pages.dev CNAME .
 d2dredelivery.shop CNAME .
 d2f2af5e.hsduecinfj.com.cn CNAME .
+d2f9q8zryik75d.cloudfront.net CNAME .
 d2feqkqpgr2583.monitorminor.com.tr CNAME .
 d2ftveoo10umxj.cloudfront.net CNAME .
 d2hhs22hsuer.el.r.appspot.com CNAME .
@@ -153211,6 +153228,7 @@ deboracorvellofotografia.com.br CNAME .
 deborah-currency-diego-wallace.trycloudflare.com CNAME .
 deborahclarkphd.com CNAME .
 deborahholland.net CNAME .
+deborahlopez.net CNAME .
 deborahskousen.com CNAME .
 debrarobi.com CNAME .
 debrasanders238.wixsite.com CNAME .
@@ -154857,6 +154875,7 @@ designftp.com CNAME .
 designgraphicsprinting-oauth.lhr.rocks CNAME .
 designh.co.kr CNAME .
 designhead.org CNAME .
+designhubapp.com CNAME .
 designidioms.com CNAME .
 designphaseglobal.com CNAME .
 designresiliente.com.br CNAME .
@@ -167934,6 +167953,7 @@ editions-dofus.com CNAME .
 editions-gervysign.com CNAME .
 editions-panache.fr CNAME .
 editionss.ironbrldgenyc.com CNAME .
+editionstombouctou.com CNAME .
 editmutablev.com CNAME .
 editmyuspstrackcode.com CNAME .
 editor.domainspot.com CNAME .
@@ -167971,6 +167991,7 @@ edments.edments.workers.dev CNAME .
 edmilson5631.github.io CNAME .
 edmmixtapes.net CNAME .
 edmodoaccount.000webhostapp.com CNAME .
+edmond-ntakpe.com CNAME .
 edmonton-notebooks-gary-tcp.trycloudflare.com CNAME .
 edmundlbc.com CNAME .
 edmundosellshomes.com CNAME .
@@ -171247,6 +171268,7 @@ enable.facebook.com-hfhawvwoeg.bvconsulting.org CNAME .
 enabler-rgw.pages.dev CNAME .
 enactive-saddles.000webhostapp.com CNAME .
 enaeoielcv.duckdns.org CNAME .
+enaightdecipie.com CNAME .
 enak-tante.duckdns.org CNAME .
 enakenakbersama222.000webhostapp.com CNAME .
 enakgoyangmamamuda.000webhostapp.com CNAME .
@@ -192389,6 +192411,7 @@ fortune007.116d562.wcomhost.com CNAME .
 fortuneagroind.com CNAME .
 fortunejack.cc CNAME .
 fortunepoint.com.au CNAME .
+fortuneventures.net.in CNAME .
 fortworthjunkhaulers.com CNAME .
 fortworthoffmarket.com CNAME .
 fortworthphysicaltherapist.com CNAME .
@@ -201069,6 +201092,7 @@ gh7.dyndns.dk CNAME .
 gh756urjthfd.is-an-engineer.com CNAME .
 gh9wepszo.appspot.com CNAME .
 ghabdxffxvjjvuzm-dot-millinium.ey.r.appspot.com CNAME .
+ghabovethec.info CNAME .
 ghadaaawimdaismaaiyaghada.blogspot.com CNAME .
 ghadeergroup.com CNAME .
 ghadeerhotel.com CNAME .
@@ -204247,6 +204271,7 @@ goshops.vip CNAME .
 goshoutlight.com CNAME .
 goshy66.s-qn.my.id CNAME .
 gosiang.com CNAME .
+gosiheymegacity.com CNAME .
 goski.club.usrfiles.com CNAME .
 gosmslugi.ru CNAME .
 gosnellspodiatry.com.au CNAME .
@@ -211206,6 +211231,7 @@ gtaxonline.com CNAME .
 gtbblqirdflapqac-dot-millinium.ey.r.appspot.com CNAME .
 gtbgold.000webhostapp.com CNAME .
 gtbintl.com CNAME .
+gtbpower.com CNAME .
 gtbsjzaem.5q5e5o.cn CNAME .
 gtc-onlineweb.serv00.net CNAME .
 gtcert.bnhyt.workers.dev CNAME .
@@ -214123,6 +214149,7 @@ hardysigns.com.au CNAME .
 hareem.pikanobi.com CNAME .
 hareem123javed.github.io CNAME .
 hareheadfarms.co.uk CNAME .
+harej.si CNAME .
 harem.reguestid.biz.id CNAME .
 haresngratifies.com CNAME .
 haresoku.com CNAME .
@@ -215667,6 +215694,7 @@ hellowiks.com CNAME .
 hellowildandfree.com CNAME .
 hellowold.yunwudada.link CNAME .
 hellowold.yunwudada86.workers.dev CNAME .
+helloworkinternational.co.ke CNAME .
 helloworld-opposing123.vistahome.workers.dev CNAME .
 helloworld.wlwuyan.workers.dev CNAME .
 helloworld.yunwudada.us.kg CNAME .
@@ -232430,6 +232458,7 @@ innoaura.com CNAME .
 innocent321.github.io CNAME .
 innocentmundanenotifications.brokenshx777.repl.co CNAME .
 innocherche.com CNAME .
+innohomeo.com CNAME .
 innorhsportsolj.webcindario.com CNAME .
 innosearch.by CNAME .
 innospan53.com CNAME .
@@ -236129,6 +236158,7 @@ ipfs-stg.fleek.co CNAME .
 ipfs.anonymize.com CNAME .
 ipfs.best-practice.se CNAME .
 ipfs.fleek.co CNAME .
+ipfs.ink CNAME .
 ipfs.joaoleitao.org CNAME .
 ipfs.metrowestapartmentsorlando.com CNAME .
 ipfs.moralis.io CNAME .
@@ -261404,6 +261434,7 @@ linkformmxid.xry.biz.id CNAME .
 linkfree.me CNAME .
 linkfulljavvideohd.duckdns.org CNAME .
 linkfullvideo18plsxxx.duckdns.org CNAME .
+linkgoldintegrated.com CNAME .
 linkgroupbkpterbaru.duckdns.org CNAME .
 linkgroupmantap44.se.ke CNAME .
 linkgroupwhatsapp-ac36.duckdns.org CNAME .
@@ -266404,6 +266435,7 @@ lohitha2004.github.io CNAME .
 lohithkrishnan.github.io CNAME .
 lohjuwrniatosvgm-dot-spow3039.df.r.appspot.com CNAME .
 lohs.gq CNAME .
+lohuamm.com CNAME .
 lohyihe.beget.tech CNAME .
 loi-106783.weeblysite.com CNAME .
 loi.est-a-la-maison.com CNAME .
@@ -294448,6 +294480,7 @@ modest-williamson.46-101-34-193.plesk.page CNAME .
 modest-yonath-531225.netlify.app CNAME .
 modest.in.net CNAME .
 modesty.2504757738.workers.dev CNAME .
+modestycredit.co.ke CNAME .
 modesuites.com CNAME .
 modflix.xyz CNAME .
 modhbrahmasamaj.org CNAME .
@@ -303716,6 +303749,7 @@ nbzwvuwxkl.temp.swtest.ru CNAME .
 nc-0485.freshlearn.com CNAME .
 nc-ps.vercel.app CNAME .
 nc-viralhijap.duckdns.org CNAME .
+nc.lohuamm.com CNAME .
 nc0spm9x6t6172.monitorminor.com.tr CNAME .
 nc3on5o.cn CNAME .
 ncaf.legacywebdevelopment.com CNAME .
@@ -309437,6 +309471,7 @@ nixtechnix.com CNAME .
 nixtpmcswiss.blogspot.com CNAME .
 nixuhsuh.cc CNAME .
 niyafl.com CNAME .
+niyari.org CNAME .
 niyastt.github.io CNAME .
 niyatiahuja89-dotcom.github.io CNAME .
 niyausissopra.vercel.app CNAME .
@@ -315877,6 +315912,7 @@ ojs.umrah.ac.id CNAME .
 ojsgzm1pqi.3548.kasgizlivadi.com CNAME .
 ojsnuxnjf.com CNAME .
 ojsrbmdhce.blue CNAME .
+ojsuyw.niyari.org CNAME .
 ojswfwkmrqfvajsbeebshanbaj-dot-gloff849483.uk.r.appspot.com CNAME .
 ojtejectjt6n4mkxqdwluoa.wisuda.ump.ac.id CNAME .
 ojuirccbwulxdydftyiptsaxqk-dot-gl2021off.uk.r.appspot.com CNAME .
@@ -320268,6 +320304,7 @@ orientgrammarschools.edu.pk CNAME .
 orifl21ame01.000webhostapp.com CNAME .
 oriflamegiftforyou1.000webhostapp.com CNAME .
 origa-cloud-b38d.c71rcsyb.workers.dev CNAME .
+origenmanufactura.cl CNAME .
 origin-l43t132y.fair.co.il CNAME .
 origin-tr.com CNAME .
 origin.ott-staging.co.uk CNAME .
@@ -329074,6 +329111,7 @@ perperctcommuniytfysprotectiob.co.vu CNAME .
 perpetual-erratic-hollyhock.glitch.me CNAME .
 perpetual-laser-box.glitch.me CNAME .
 perpetuaproductions.co.nz CNAME .
+perpika.com CNAME .
 perpindahan-go.my.id CNAME .
 perpindahan-link.my.id CNAME .
 perportal1.hostfree.pw CNAME .
@@ -336433,6 +336471,7 @@ pratham714.github.io CNAME .
 prathameshbroadband.net CNAME .
 prathameshndixit.github.io CNAME .
 prathamtamboli2309.github.io CNAME .
+prathmesh.com CNAME .
 prathvish-shetty.github.io CNAME .
 pratica-cliente.com CNAME .
 pratica-controlliweb.com CNAME .
@@ -338855,6 +338894,7 @@ promodestaque.com CNAME .
 promodlscord.com CNAME .
 promoeletrohoje-com.umbler.net CNAME .
 promofacturaxhoy.com.co CNAME .
+promogency.com CNAME .
 promohinotruck.com CNAME .
 promoimpresos.com CNAME .
 promoiphone15.com CNAME .
@@ -348235,6 +348275,7 @@ qajxk-slipstreaminc.qkipikpp.es CNAME .
 qakmegcvbwmygtcr-dot-millinium.ey.r.appspot.com CNAME .
 qakygayhxmqdnxph-dot-millinium.ey.r.appspot.com CNAME .
 qalkawell.com CNAME .
+qallaryexport.com CNAME .
 qalpxv.cn CNAME .
 qalzsvudeaorxpxj-dot-millinium.ey.r.appspot.com CNAME .
 qamarjsx.github.io CNAME .
@@ -351660,6 +351701,7 @@ rakiblima018-lab.github.io CNAME .
 rakibmondal2507.github.io CNAME .
 rakibmotors.com CNAME .
 rakindotcom.github.io CNAME .
+rakinshahriar.com CNAME .
 raklapemeloaruhaz.hu CNAME .
 rakluten.vip CNAME .
 rakluten.xyz CNAME .
@@ -353298,6 +353340,7 @@ rcxlnuevhggcigmw-dot-millinium.ey.r.appspot.com CNAME .
 rcxoamdduvnsrlgd-dot-millinium.ey.r.appspot.com CNAME .
 rd-19.caq.com.au CNAME .
 rd-eqa.pages.dev CNAME .
+rd-team.ru CNAME .
 rd.domainregisters.co.za CNAME .
 rd.dv-tube.com CNAME .
 rd.g001.enterprise.ipost.com CNAME .
@@ -353988,6 +354031,7 @@ realtrek.in CNAME .
 realty.ac7ive.com CNAME .
 realty41izmit.com CNAME .
 realtyinvest.ng CNAME .
+realtymorocco.com CNAME .
 realtyvalu.com CNAME .
 realtywithtam.net CNAME .
 realvoicemessage.weeblysite.com CNAME .
@@ -364879,6 +364923,7 @@ s19pubgmspin.com CNAME .
 s1cutfcacr.projects.webpages.one CNAME .
 s1d0gkcnpr.8601.gencmert.com CNAME .
 s1ivewv-1.ru CNAME .
+s1plumbing.com CNAME .
 s1qak7ijdlbh.munty.co CNAME .
 s1staffing.com CNAME .
 s2-citi.com CNAME .
@@ -368925,6 +368970,7 @@ sdf8sdyuf9ys.blogspot.tw CNAME .
 sdf90sdufsdf.blogspot.com CNAME .
 sdfczttkk.tech CNAME .
 sdfffdr23.weebly.com CNAME .
+sdfghj.rd-team.ru CNAME .
 sdfjd786.com CNAME .
 sdfonmdop.vercel.app CNAME .
 sdfvgbcvb668.weebly.com CNAME .
@@ -371294,6 +371340,7 @@ solokoom.com CNAME .
 solscanner.io CNAME .
 soltryvalidate-dao.pages.dev CNAME .
 solucionemoscons.webcindario.com CNAME .
+solunaenterprises.org CNAME .
 solutechsa.com CNAME .
 solution-local-business-manage-12854367.vercel.app CNAME .
 solution-manage-git-main-id17423856.vercel.app CNAME .
@@ -373145,6 +373192,7 @@ steamapikeys.com CNAME .
 steamaplkey.com CNAME .
 steamcammunity.ru CNAME .
 steamcaommunity.com CNAME .
+steamcarpetrichmond.com CNAME .
 steamcaummunity.com CNAME .
 steamccmmunlty.com CNAME .
 steamccommurnity.com CNAME .
@@ -373377,6 +373425,7 @@ steemcommunty.com CNAME .
 steemcomnmunity.com CNAME .
 steemcomrnuinty.com CNAME .
 steep-panoramic-iguanodon.glitch.me CNAME .
+stefneyv.com CNAME .
 steklosila.com.ua CNAME .
 stellar-buy.com CNAME .
 stellar-grove-guardian-signal-haven.pages.dev CNAME .
@@ -374543,6 +374592,7 @@ swatteam219.wixsite.com CNAME .
 swattechrmaillrr.weebly.com CNAME .
 sweatdecx.pages.dev CNAME .
 swed-eg.com CNAME .
+swedcorry.stefneyv.com CNAME .
 sweekardahal.github.io CNAME .
 sweet-gelato-10dbcb.netlify.app CNAME .
 sweet-marshmallow-3436fa.netlify.app CNAME .
@@ -374989,6 +375039,7 @@ tanujmistry.github.io CNAME .
 tanumishra-sudo.github.io CNAME .
 tanuska-dey.github.io CNAME .
 tanveerqurashi.github.io CNAME .
+tanvirhasan.dev CNAME .
 tanzeela-naz.github.io CNAME .
 tanzilamd.github.io CNAME .
 taobao.niucha.ren CNAME .
@@ -375440,6 +375491,7 @@ tapaz.org CNAME .
 tapcmrjg.aero.tt CNAME .
 tapecoraro683.wixsite.com CNAME .
 taplanding.com CNAME .
+taqwahajjumrah.com CNAME .
 tar-mobileapp.com CNAME .
 tar-tree-visage.glitch.me CNAME .
 tarani12.github.io CNAME .
@@ -375699,6 +375751,7 @@ technograms.com CNAME .
 technokleen.com.au CNAME .
 technologies-u.shop CNAME .
 technology-refun60734892.pages.dev CNAME .
+technopreuneur.co.za CNAME .
 technovart.com CNAME .
 technowide.com.tr CNAME .
 technowizards.io CNAME .
@@ -376753,6 +376806,7 @@ tmym.zfjod.ru CNAME .
 tn9jps.jpedcty.es CNAME .
 tnfd.lfukvog.es CNAME .
 tnidytpjzx.duckdns.org CNAME .
+tnizationservantas.org CNAME .
 tnk.t2025.info CNAME .
 tnk12.com CNAME .
 tnk13.com CNAME .
@@ -377210,6 +377264,7 @@ traderlidex-8-com.worldsoffinance.com CNAME .
 tradesphereco.com CNAME .
 tradesushi.org CNAME .
 tradevine.prd.trade.me CNAME .
+tradexexpertfxcourse.com CNAME .
 tradheyirweglet.webflow.io CNAME .
 trading-kucin-cdnn-enhelp.webflow.io CNAME .
 tradition-local-manage-82346175.vercel.app CNAME .
@@ -377388,6 +377443,7 @@ treverslogin.webflow.io CNAME .
 trewasllet.webflow.io CNAME .
 trewazorrwallet.webflow.io CNAME .
 trewiozllet.webflow.io CNAME .
+trews.cfd CNAME .
 trex-meta-blan-biz.pages.dev CNAME .
 trexerhardwrewallet.webflow.io CNAME .
 trexnilo-ten.vercel.app CNAME .
@@ -378568,6 +378624,7 @@ typioraa.vercel.app CNAME .
 tyqmiebwsp.duckdns.org CNAME .
 tyrereyyt-6r6jpsvq0z.edgeone.app CNAME .
 tyrjrk.cfd CNAME .
+tyrostudio.com CNAME .
 tyszkiewicz01.wixsite.com CNAME .
 tyu.bndkm.com CNAME .
 tyuiuyoiuygb.limited CNAME .
@@ -378858,6 +378915,7 @@ uk.answers.quantarchive.com CNAME .
 uk.cetis011.edu.mx CNAME .
 uk6u-casefb945908.vercel.app CNAME .
 ukabir.github.io CNAME .
+ukankingwithea.com CNAME .
 ukewigu.digital CNAME .
 uklho.bnflenzccjn.es CNAME .
 ukmalls.top CNAME .
@@ -381722,6 +381780,7 @@ vitevue.wlnatsapp-hk.com CNAME .
 vittorosi.com CNAME .
 viturksars.click CNAME .
 vivacious-melon-sled.glitch.me CNAME .
+vivantis-ro.sbs CNAME .
 vivantis.1day-sk.shop CNAME .
 vivantis.cosibellapl-co.com CNAME .
 vivantis.cosmetica-sale.com CNAME .
@@ -383113,6 +383172,7 @@ wer732424.blogspot.tw CNAME .
 werappic-firmco.shop CNAME .
 werappid-firmco.shop CNAME .
 were-solo-stake-condos.trycloudflare.com CNAME .
+werefilledwit.org CNAME .
 werfgxvb.duckdns.org CNAME .
 wergwerf.duckdns.org CNAME .
 werlytdety.cloudaccess.host CNAME .
@@ -385748,6 +385808,7 @@ zingy-fox-1ceca2.netlify.app CNAME .
 zingy-fox-2d10af.netlify.app CNAME .
 zinhice.shop CNAME .
 zinotop-rbuxmaxv1.netlify.app CNAME .
+zioncreationcheongsam.shop CNAME .
 zipfilepane.com CNAME .
 ziply.pk CNAME .
 zippercomputer.com CNAME .
