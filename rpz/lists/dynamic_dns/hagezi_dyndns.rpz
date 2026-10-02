@@ -1,11 +1,11 @@
 ; HaGeZi Dynamic DNS
 ; Category: dynamic_dns
-; Generated: 2026-10-01 08:41:21 UTC
+; Generated: 2026-10-02 08:18:58 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1068
+; Original domains (before deduplication): 1066
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100108 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100208 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
@@ -127,7 +127,6 @@ briansagar.com CNAME .
 brweb.org CNAME .
 burlingtondrywall.com CNAME .
 byte4byte.com CNAME .
-canadascastillo.com CNAME .
 cashit.info CNAME .
 cbopelousas.com CNAME .
 cbu.net CNAME .
@@ -974,7 +973,6 @@ tunnelbroker.net CNAME .
 tvlinux.com CNAME .
 twilightparadox.com CNAME .
 twodns.de CNAME .
-twsuser.com CNAME .
 tzo.com CNAME .
 ucvradio.cl CNAME .
 udp64.de CNAME .

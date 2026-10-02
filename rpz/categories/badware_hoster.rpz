@@ -1,10 +1,10 @@
 ; Badware Hoster Blocklist
-; Generated: 2026-10-01 08:41:21 UTC
+; Generated: 2026-10-02 08:18:58 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1231
+; Original domains (before deduplication): 1228
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100108 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100208 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 000.pe CNAME .
@@ -781,11 +781,9 @@ me-page.com CNAME .
 me.gp CNAME .
 me.ly CNAME .
 me2.kr CNAME .
-mediafirex.icu CNAME .
 medianewsonline.com CNAME .
 mega-debrid.eu CNAME .
 members.domaindlx.com CNAME .
-merchats.com CNAME .
 microsoftaistories.com CNAME .
 microsoftfiles.live CNAME .
 mightyurl.mightyscripts.xyz CNAME .
@@ -1130,7 +1128,6 @@ vav.li CNAME .
 vdxh.com CNAME .
 ve.gp CNAME .
 verifypass.pw CNAME .
-veritafinancebank.com CNAME .
 verkniffen.de CNAME .
 vidcloud.co CNAME .
 virtue.nu CNAME .
