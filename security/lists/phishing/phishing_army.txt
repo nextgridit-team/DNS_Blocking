@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-10-02 08:18:58 UTC
+# Generated: 2026-10-03 07:55:20 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 385972
+# Original domains (before deduplication): 385976
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -106564,7 +106564,6 @@
 0.0.0.0 bdbofp.com
 0.0.0.0 bdbovip.com
 0.0.0.0 bdbqlbkjebwobsxiyjspeakoqb-dot-glex9394293032.oa.r.appspot.com
-0.0.0.0 bdc.cz
 0.0.0.0 bdcadmin.dxmb.vn
 0.0.0.0 bdcbn.blogspot.fi
 0.0.0.0 bdcbn.blogspot.sn
@@ -128148,6 +128147,7 @@
 0.0.0.0 carbonellsrl.com.ar
 0.0.0.0 carboosta.vercel.app
 0.0.0.0 carcaves.com.au
+0.0.0.0 carcorrespond.shop
 0.0.0.0 card-au.info
 0.0.0.0 card-ebay-bussiness.gitlab.io
 0.0.0.0 card-entry-trackid-access-denied.codeanyapp.com
@@ -159885,6 +159885,7 @@
 0.0.0.0 djakmansonnefes.blogcu.com
 0.0.0.0 djalumasede.com
 0.0.0.0 django.thebug.life
+0.0.0.0 djangui.zuric4sh.club
 0.0.0.0 djankouloances.com
 0.0.0.0 djanthor.com
 0.0.0.0 djasanet.id
@@ -161401,6 +161402,7 @@
 0.0.0.0 document-22d33.firebaseapp.com
 0.0.0.0 document-42875.firebaseapp.com
 0.0.0.0 document-705be.firebaseapp.com
+0.0.0.0 document-approvals031902.es
 0.0.0.0 document-authenticate.pages.dev
 0.0.0.0 document-cloud-shared.soofwok.workers.dev
 0.0.0.0 document-dataview-file.web.app
@@ -381752,6 +381754,7 @@
 0.0.0.0 vision-pending21.com
 0.0.0.0 vision-rmschck1.com
 0.0.0.0 vision-rmspending41.com
+0.0.0.0 vision.2c2c.ir
 0.0.0.0 visiontoday.in
 0.0.0.0 visit-dymension.pages.dev
 0.0.0.0 visit-itrustcapital-authh.webflow.io
@@ -385925,6 +385928,7 @@
 0.0.0.0 zuoh.top
 0.0.0.0 zup-meta-plon-biz.pages.dev
 0.0.0.0 zupbyupmlh.duckdns.org
+0.0.0.0 zuric4sh.club
 0.0.0.0 zurn-meta-plop-biz.pages.dev
 0.0.0.0 zurn-meta-plop.pages.dev
 0.0.0.0 zurn-meta.pages.dev

@@ -1,8 +1,8 @@
 # Phishing Army
 # Category: phishing
-# Generated: 2026-10-02 08:18:58 UTC
+# Generated: 2026-10-03 07:55:20 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 385972
+# Original domains (before deduplication): 385976
 
 0.0.0.0 0-105.com
 0.0.0.0 0-9-8-7-6-5-4-3-2-1-0.live
@@ -5964,6 +5964,7 @@
 0.0.0.0 2brhnj6ze.duckdns.org
 0.0.0.0 2bw0.info
 0.0.0.0 2c2a4315-be8b-474c-943f-08efca310fbd.id.repl.co
+0.0.0.0 2c2c.ir
 0.0.0.0 2c2c6a3f-1c3c-4843-b550-e8bae2a491a1-00-gip8yj6ntqet.pike.replit.dev
 0.0.0.0 2c4e23b7-097b-406e-af18-bcc84b29ccfc.id.repl.co
 0.0.0.0 2c612387.ngrok.io
@@ -65406,7 +65407,6 @@
 0.0.0.0 bdbofp.com
 0.0.0.0 bdbovip.com
 0.0.0.0 bdbqlbkjebwobsxiyjspeakoqb-dot-glex9394293032.oa.r.appspot.com
-0.0.0.0 bdc.cz
 0.0.0.0 bdcd-interac.com
 0.0.0.0 bdcmcflk.net
 0.0.0.0 bdcoraf.cluster029.hosting.ovh.net
@@ -81321,6 +81321,7 @@
 0.0.0.0 carboosta.vercel.app
 0.0.0.0 carbynedesign.com
 0.0.0.0 carcaves.com.au
+0.0.0.0 carcorrespond.shop
 0.0.0.0 card-au.info
 0.0.0.0 card-ebay-bussiness.gitlab.io
 0.0.0.0 card-isq.net
@@ -108229,6 +108230,7 @@
 0.0.0.0 document-22d33.firebaseapp.com
 0.0.0.0 document-42875.firebaseapp.com
 0.0.0.0 document-705be.firebaseapp.com
+0.0.0.0 document-approvals031902.es
 0.0.0.0 document-authenticate.pages.dev
 0.0.0.0 document-dataview-file.web.app
 0.0.0.0 document-dot-s-h-a-r-e-f-i-l-e-1-2.uc.r.appspot.com
@@ -284657,6 +284659,7 @@
 0.0.0.0 zup-meta-plon-biz.pages.dev
 0.0.0.0 zupbyupmlh.duckdns.org
 0.0.0.0 zur85.workers.dev
+0.0.0.0 zuric4sh.club
 0.0.0.0 zurn-meta-plop-biz.pages.dev
 0.0.0.0 zurn-meta-plop.pages.dev
 0.0.0.0 zurn-meta.pages.dev

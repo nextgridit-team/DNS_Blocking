@@ -14,6 +14,7 @@ admin.int.windscribe.com
 ae-002.windscribe.com
 ae-003.windscribe.com
 ae.windscribe.com
+akl-251-ike.windscribe.com
 akl-251.windscribe.com
 akl-352-ike.windscribe.com
 akl-352-wg.windscribe.com
@@ -70,8 +71,6 @@ arn-30.windscribe.com
 assetmgmt.int.windscribe.com
 assets-staging.windscribe.com
 assets.windscribe.com
-asu-447-ike.windscribe.com
-asu-447.windscribe.com
 at-005.windscribe.com
 at-006.windscribe.com
 at-007.windscribe.com
@@ -251,7 +250,6 @@ cy.windscribe.com
 cz-002.windscribe.com
 cz-004.windscribe.com
 cz-006.windscribe.com
-cz-007.windscribe.com
 cz-008.windscribe.com
 cz.windscribe.com
 dazn-checkip.windscribe.com
@@ -391,7 +389,6 @@ garry2-fe-staging.windscribe.com
 garry2-fe.windscribe.com
 ge-002.windscribe.com
 ge.windscribe.com
-gitlab-test.int.windscribe.com
 gitlab.int.windscribe.com
 gitlab.prd.ca1.int.windscribe.com
 go.int.windscribe.com
@@ -407,9 +404,6 @@ grafana-stg.int.windscribe.com
 grafana.int.windscribe.com
 gru-165-ike.windscribe.com
 gru-165.windscribe.com
-gru-231-ike.windscribe.com
-gru-231-wg.windscribe.com
-gru-231.windscribe.com
 gt-001.windscribe.com
 gt.windscribe.com
 gua-446-ike.windscribe.com
@@ -742,7 +736,6 @@ pa-001.windscribe.com
 pa.windscribe.com
 pad.opentalk.int.windscribe.com
 pdx-302-ike.windscribe.com
-pdx-302-wg.windscribe.com
 pdx-302.windscribe.com
 pe-004.windscribe.com
 pe.windscribe.com
@@ -783,6 +776,7 @@ pt-004.windscribe.com
 pt-005.windscribe.com
 pt.windscribe.com
 pty-358-ike.windscribe.com
+pty-358.windscribe.com
 py-001.windscribe.com
 py.windscribe.com
 pypi.int.windscribe.com
@@ -935,6 +929,7 @@ svo-346.windscribe.com
 swag.windscribe.com
 swe-staging.windscribe.com
 swe.windscribe.com
+syd-226-ike.windscribe.com
 syd-226.windscribe.com
 syd-243-ike.windscribe.com
 syd-243.windscribe.com
@@ -1018,7 +1013,6 @@ uk-stc-002.windscribe.com
 uk.windscribe.com
 us-central-014.windscribe.com
 us-central-018.windscribe.com
-us-central-029.windscribe.com
 us-central-030.windscribe.com
 us-central-055.windscribe.com
 us-central-068.windscribe.com
@@ -1053,7 +1047,6 @@ us-central-113.windscribe.com
 us-central-114.windscribe.com
 us-central-115.windscribe.com
 us-central-116.windscribe.com
-us-central-117.windscribe.com
 us-central-118.windscribe.com
 us-central-119.windscribe.com
 us-central-120.windscribe.com
@@ -1095,7 +1088,6 @@ us-east-102.windscribe.com
 us-east-103.windscribe.com
 us-east-110.windscribe.com
 us-east-112.windscribe.com
-us-east-113.windscribe.com
 us-east-114.windscribe.com
 us-east-115.windscribe.com
 us-east-120.windscribe.com
@@ -1109,7 +1101,6 @@ us-east-133.windscribe.com
 us-east-134.windscribe.com
 us-east-135.windscribe.com
 us-east-136.windscribe.com
-us-east-137.windscribe.com
 us-east-138.windscribe.com
 us-east-139.windscribe.com
 us-east-140.windscribe.com
@@ -1122,6 +1113,7 @@ us-east-146.windscribe.com
 us-east-147.windscribe.com
 us-east-148.windscribe.com
 us-east-149.windscribe.com
+us-east-stc-004.windscribe.com
 us-east.windscribe.com
 us-west-004.windscribe.com
 us-west-005.windscribe.com
@@ -1132,7 +1124,6 @@ us-west-050.windscribe.com
 us-west-051.windscribe.com
 us-west-053.windscribe.com
 us-west-054.windscribe.com
-us-west-060.windscribe.com
 us-west-064.windscribe.com
 us-west-065.windscribe.com
 us-west-068.windscribe.com
@@ -1164,7 +1155,6 @@ vcm01.supr.ca3.int.windscribe.com
 vcm02.mgmt.ca.int.windscribe.com
 vcm02.mgmt.ca1.int.windscribe.com
 vcm02.mgmt.hq.int.windscribe.com
-vcm02.supr.ca3.int.windscribe.com
 vie-308-ike.windscribe.com
 vie-308.windscribe.com
 vie-87-ike.windscribe.com

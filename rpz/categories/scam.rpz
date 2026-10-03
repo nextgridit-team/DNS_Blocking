@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-10-02 08:18:58 UTC
+; Generated: 2026-10-03 07:55:20 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310313
+; Original domains (before deduplication): 310312
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100208 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100307 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -15408,7 +15408,6 @@ aluread.icu CNAME .
 aluvea.de CNAME .
 alvacapital-ai.com CNAME .
 alvantoza.shop CNAME .
-alvara-zurich.ch CNAME .
 alvarave.icu CNAME .
 alvarez.sfek.kz CNAME .
 alventraglobal.com CNAME .
@@ -15434,7 +15433,6 @@ alvireymonte.info CNAME .
 alvonstore.com CNAME .
 alvorinex.site CNAME .
 alvorixent.com CNAME .
-alwansolarhq.shop CNAME .
 alwayhappy.com CNAME .
 always-been.tk CNAME .
 always-do.tk CNAME .
@@ -15457,7 +15455,6 @@ aly001.hopto.org CNAME .
 alyagsm.com CNAME .
 alyamamavillage.com CNAME .
 alyateknikkesici.com CNAME .
-alyatransports.com CNAME .
 alyssamorkiehome.com CNAME .
 alyssesterling.com CNAME .
 alzaccess.com CNAME .
@@ -16025,6 +16022,7 @@ an-update-has-been-downlaod-and-is-ready-to-install.online CNAME .
 an.cpcempower.com CNAME .
 anabolic-steroid-shop.net CNAME .
 anabolic-steroids-online.com CNAME .
+anabolikaonlinedeutschland.com CNAME .
 anabulsnack.space CNAME .
 anacondamonster.com CNAME .
 anactress.tk CNAME .
@@ -16333,7 +16331,6 @@ angelscall-hebrew-israelites.info CNAME .
 angelstee.com CNAME .
 angeluxebeautyandextensions.com CNAME .
 angelwealth.biz CNAME .
-angelzubehoerladen.com CNAME .
 angenehme.de CNAME .
 angermaierwiesn.de CNAME .
 angers.stream CNAME .
@@ -16485,7 +16482,6 @@ ankasa.pl CNAME .
 ankauf-neodym-magnete.de CNAME .
 ankelinerherz.com CNAME .
 ankelsylphid.online CNAME .
-ankerflowtech.shop CNAME .
 ankerite.stream CNAME .
 ankerkrautde.shop CNAME .
 ankerpandor.live CNAME .
@@ -17831,7 +17827,6 @@ apolkijuhs26.club CNAME .
 apollocurrency.com CNAME .
 apollofinanceltd.com CNAME .
 apollozone.com CNAME .
-apollus24.com CNAME .
 apollus24.com.com CNAME .
 apolluxe.com CNAME .
 apology-appal.stream CNAME .
@@ -17864,7 +17859,6 @@ apotheke-neu.com CNAME .
 apotheke-rezeptfrei.com CNAME .
 apotheke-schweiz.net CNAME .
 apotheke-windischgarsten.com CNAME .
-apotheke-zaversko.shop CNAME .
 apotheke.buzz CNAME .
 apotheke24eu.de CNAME .
 apothekedeutsche.de CNAME .
@@ -18114,7 +18108,6 @@ apple-tech-support.com CNAME .
 apple-tech.com CNAME .
 apple-teh.ru CNAME .
 apple-tuneslover.link CNAME .
-apple-ui.com CNAME .
 apple-urgent-support-require.xyz CNAME .
 apple-us-support-center.site CNAME .
 apple-winner.com CNAME .
@@ -19221,7 +19214,6 @@ arvulonikanz-netherlands.com CNAME .
 arvulonikanz.com CNAME .
 arvulonikanz.net CNAME .
 arvulonikanz.org CNAME .
-arvulonikanz.tech CNAME .
 arwanagamingzpt.site CNAME .
 arwibon.us CNAME .
 arx.wikaba.com CNAME .
@@ -19506,7 +19498,6 @@ assemacino.cyou CNAME .
 assemblytoolprada.com CNAME .
 assemmobile.prattleim.com CNAME .
 assentfund.click CNAME .
-assess-health.com CNAME .
 assesscareer.com CNAME .
 assessmen.xyz CNAME .
 asset-ace.org CNAME .
@@ -19615,7 +19606,6 @@ assoradozi.cyou CNAME .
 assorsubie.cyou CNAME .
 assortedfurniture.com CNAME .
 assospolska.com CNAME .
-assoulinesales.shop CNAME .
 asspat.xyz CNAME .
 asstok.com CNAME .
 assume.stream CNAME .
@@ -27529,6 +27519,7 @@ brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
 brennholzwidmann.de CNAME .
+brennkiste.de CNAME .
 brennstoffemokstat.shop CNAME .
 brenntagcleaning.com CNAME .
 brenocar.com.br CNAME .
@@ -62507,6 +62498,7 @@ feudmath.stream CNAME .
 feuerbergplus.com CNAME .
 feuerflirt.net CNAME .
 feuerholzexpress.de CNAME .
+feuerholzliebe.de CNAME .
 feuerundgrill.myshopify.com CNAME .
 feuerwehr-vehlen.de CNAME .
 feunjvru.com CNAME .
@@ -67308,6 +67300,7 @@ galaxy.merakicm.info CNAME .
 galaxybitcoin.com CNAME .
 galaxycvv.ru CNAME .
 galaxycvv.su CNAME .
+galaxyfox.io CNAME .
 galaxylicht.shop CNAME .
 galaxypool.org CNAME .
 galaxys9support.com CNAME .
@@ -72340,6 +72333,7 @@ gryxxshoes.store CNAME .
 grzmotnij.pl CNAME .
 gsa-adsii.com CNAME .
 gsalemvp.club CNAME .
+gsb-grosshandel.com CNAME .
 gsewatdv.shop CNAME .
 gsfreepdf.site CNAME .
 gshandels.com CNAME .
@@ -75473,6 +75467,7 @@ hibiscushollow.com CNAME .
 hibote.de CNAME .
 hibtgsibarfg.bid CNAME .
 hichina.co.uk CNAME .
+hicity.de CNAME .
 hickmedia.com CNAME .
 hickorysun.com CNAME .
 hico-shop.de CNAME .
@@ -76261,6 +76256,7 @@ holznotenpulte.de CNAME .
 holzpelletshop.com CNAME .
 holzpuzzlez.com CNAME .
 holzqualitat.de CNAME .
+holzregional.de CNAME .
 holzti.com CNAME .
 holzundheizungkontor.de CNAME .
 holzundkunststueble.de CNAME .
@@ -78283,7 +78279,6 @@ hotelmanagementcolleges.co.in CNAME .
 hotelnordenpalace.it CNAME .
 hotelpalmea.com CNAME .
 hotels-colombo.com CNAME .
-hotels-colorado.net CNAME .
 hotels-inform4281.com CNAME .
 hotels-stay11240111.com CNAME .
 hotels-stay23240111.com CNAME .
@@ -78971,6 +78966,7 @@ hsc-brunner.at CNAME .
 hscxw.com CNAME .
 hsdienst.at CNAME .
 hsdjvuayagt.bid CNAME .
+hselbe-fahrrad.de CNAME .
 hsess.xdustconverter.com CNAME .
 hsewear.com CNAME .
 hsglobals.com CNAME .
@@ -113835,6 +113831,7 @@ officialouisvuitton.us.com CNAME .
 officialouisvuittonsshop.com CNAME .
 officialoutlet.com CNAME .
 officialpacersonline.com CNAME .
+officialpaint.com CNAME .
 officialpofsupportteam.com CNAME .
 officialppmeme.com CNAME .
 officialquickbookssupport.com CNAME .
@@ -116227,6 +116224,7 @@ oonee.ru CNAME .
 oonenbygymsl.com CNAME .
 oongo.ru CNAME .
 oonide.shop CNAME .
+ooniuk.shop CNAME .
 oonlysapport603011.tk CNAME .
 oonlysapport6030112.tk CNAME .
 oonlysapport603011234.tk CNAME .
@@ -135291,7 +135289,6 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
-rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -136196,6 +136193,7 @@ rx-pharmacies.com CNAME .
 rx-profit.com CNAME .
 rx-qualityshop.com CNAME .
 rx-support-planet.com CNAME .
+rx-true.com CNAME .
 rx.cpcempower.com CNAME .
 rxa9wm.club CNAME .
 rxaffiliateforum.com CNAME .
@@ -147123,6 +147121,7 @@ stifledfour.us CNAME .
 stiflerfive.us CNAME .
 stifletwo.us CNAME .
 stiflingnine.us CNAME .
+stig-international.com CNAME .
 stiglkilld.cyou CNAME .
 stigmaten.us CNAME .
 stijn-outlet.com CNAME .
@@ -152857,6 +152856,7 @@ swisscapitalhub.com CNAME .
 swisscartier.cn CNAME .
 swissclaim-ag.ch CNAME .
 swisscoinco.com CNAME .
+swisscorummanagement.com CNAME .
 swisscred.info.185-101-158-246.139.hosttech.eu CNAME .
 swissepargne.com CNAME .
 swissfake.com CNAME .
@@ -172104,7 +172104,6 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

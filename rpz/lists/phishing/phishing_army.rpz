@@ -1,11 +1,11 @@
 ; Phishing Army
 ; Category: phishing
-; Generated: 2026-10-02 08:18:58 UTC
+; Generated: 2026-10-03 07:55:20 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 385972
+; Original domains (before deduplication): 385976
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100208 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100307 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-105.com CNAME .
@@ -106568,7 +106568,6 @@ bdbncodebogotavirtual24.weebly.com CNAME .
 bdbofp.com CNAME .
 bdbovip.com CNAME .
 bdbqlbkjebwobsxiyjspeakoqb-dot-glex9394293032.oa.r.appspot.com CNAME .
-bdc.cz CNAME .
 bdcadmin.dxmb.vn CNAME .
 bdcbn.blogspot.fi CNAME .
 bdcbn.blogspot.sn CNAME .
@@ -128152,6 +128151,7 @@ carbonayer.com CNAME .
 carbonellsrl.com.ar CNAME .
 carboosta.vercel.app CNAME .
 carcaves.com.au CNAME .
+carcorrespond.shop CNAME .
 card-au.info CNAME .
 card-ebay-bussiness.gitlab.io CNAME .
 card-entry-trackid-access-denied.codeanyapp.com CNAME .
@@ -159889,6 +159889,7 @@ djak75.github.io CNAME .
 djakmansonnefes.blogcu.com CNAME .
 djalumasede.com CNAME .
 django.thebug.life CNAME .
+djangui.zuric4sh.club CNAME .
 djankouloances.com CNAME .
 djanthor.com CNAME .
 djasanet.id CNAME .
@@ -161405,6 +161406,7 @@ docuhubmedias.b-cdn.net CNAME .
 document-22d33.firebaseapp.com CNAME .
 document-42875.firebaseapp.com CNAME .
 document-705be.firebaseapp.com CNAME .
+document-approvals031902.es CNAME .
 document-authenticate.pages.dev CNAME .
 document-cloud-shared.soofwok.workers.dev CNAME .
 document-dataview-file.web.app CNAME .
@@ -381756,6 +381758,7 @@ vision-confirm.com CNAME .
 vision-pending21.com CNAME .
 vision-rmschck1.com CNAME .
 vision-rmspending41.com CNAME .
+vision.2c2c.ir CNAME .
 visiontoday.in CNAME .
 visit-dymension.pages.dev CNAME .
 visit-itrustcapital-authh.webflow.io CNAME .
@@ -385929,6 +385932,7 @@ zunyi.pilot45.com CNAME .
 zuoh.top CNAME .
 zup-meta-plon-biz.pages.dev CNAME .
 zupbyupmlh.duckdns.org CNAME .
+zuric4sh.club CNAME .
 zurn-meta-plop-biz.pages.dev CNAME .
 zurn-meta-plop.pages.dev CNAME .
 zurn-meta.pages.dev CNAME .

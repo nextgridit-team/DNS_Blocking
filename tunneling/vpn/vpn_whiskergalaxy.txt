@@ -21,6 +21,7 @@ ams-120-ike.whiskergalaxy.com
 ams-120-wg.whiskergalaxy.com
 ams-120.whiskergalaxy.com
 ams-193-ike.whiskergalaxy.com
+ams-193-wg.whiskergalaxy.com
 ams-193.whiskergalaxy.com
 aq-001.whiskergalaxy.com
 aq-002.whiskergalaxy.com
@@ -37,7 +38,6 @@ arn-234.whiskergalaxy.com
 arn-30-ike.whiskergalaxy.com
 arn-30-wg.whiskergalaxy.com
 arn-30.whiskergalaxy.com
-asu-447-wg.whiskergalaxy.com
 at-005.whiskergalaxy.com
 at-006.whiskergalaxy.com
 at-007.whiskergalaxy.com
@@ -189,6 +189,7 @@ cz-002.whiskergalaxy.com
 cz-004.whiskergalaxy.com
 cz-006.whiskergalaxy.com
 cz-007.whiskergalaxy.com
+cz-008.whiskergalaxy.com
 cz.whiskergalaxy.com
 de-008.whiskergalaxy.com
 de-011.whiskergalaxy.com
@@ -257,6 +258,7 @@ ewr-181-ike.whiskergalaxy.com
 ewr-181-wg.whiskergalaxy.com
 ewr-181.whiskergalaxy.com
 ext-start.whiskergalaxy.com
+eze-278-ike.whiskergalaxy.com
 eze-278-wg.whiskergalaxy.com
 eze-278.whiskergalaxy.com
 eze-451-wg.whiskergalaxy.com
@@ -296,9 +298,6 @@ gr.whiskergalaxy.com
 gru-165-ike.whiskergalaxy.com
 gru-165-wg.whiskergalaxy.com
 gru-165.whiskergalaxy.com
-gru-231-ike.whiskergalaxy.com
-gru-231-wg.whiskergalaxy.com
-gru-231.whiskergalaxy.com
 gt-001.whiskergalaxy.com
 gua-446-wg.whiskergalaxy.com
 han-458-wg.whiskergalaxy.com
@@ -512,7 +511,6 @@ nl-024.whiskergalaxy.com
 nl-025.whiskergalaxy.com
 nl-038.whiskergalaxy.com
 nl-042.whiskergalaxy.com
-nl-043.whiskergalaxy.com
 nl-044.whiskergalaxy.com
 nl-045.whiskergalaxy.com
 nl-046.whiskergalaxy.com
@@ -524,11 +522,11 @@ no-003.whiskergalaxy.com
 no-006.whiskergalaxy.com
 no-007.whiskergalaxy.com
 no-010.whiskergalaxy.com
+no-011.whiskergalaxy.com
 no-012.whiskergalaxy.com
 no-013.whiskergalaxy.com
 no-018.whiskergalaxy.com
 no-019.whiskergalaxy.com
-no-020.whiskergalaxy.com
 no.whiskergalaxy.com
 nz-003.whiskergalaxy.com
 nz-004.whiskergalaxy.com
@@ -666,6 +664,7 @@ sjc-333-wg.whiskergalaxy.com
 sjc-333.whiskergalaxy.com
 sjc-337-ike.whiskergalaxy.com
 sjc-337-wg.whiskergalaxy.com
+sjc-337.whiskergalaxy.com
 sjj-286-wg.whiskergalaxy.com
 sjj-410-wg.whiskergalaxy.com
 sk-005.whiskergalaxy.com
@@ -678,6 +677,7 @@ sof-100-ike.whiskergalaxy.com
 sof-100-wg.whiskergalaxy.com
 sof-100.whiskergalaxy.com
 sof-437-wg.whiskergalaxy.com
+stg-us-420.whiskergalaxy.com
 stg-us-east-001.whiskergalaxy.com
 stg-us-east-051.whiskergalaxy.com
 stg-wf-us-002.whiskergalaxy.com
@@ -815,12 +815,14 @@ us-east-098.whiskergalaxy.com
 us-east-100.whiskergalaxy.com
 us-east-102.whiskergalaxy.com
 us-east-103.whiskergalaxy.com
+us-east-110.whiskergalaxy.com
 us-east-112.whiskergalaxy.com
 us-east-113.whiskergalaxy.com
 us-east-114.whiskergalaxy.com
 us-east-115.whiskergalaxy.com
 us-east-120.whiskergalaxy.com
 us-east-123.whiskergalaxy.com
+us-east-124.whiskergalaxy.com
 us-east-128.whiskergalaxy.com
 us-east-129.whiskergalaxy.com
 us-east-131.whiskergalaxy.com
@@ -873,7 +875,6 @@ us-west.whiskergalaxy.com
 vie-308-ike.whiskergalaxy.com
 vie-308-wg.whiskergalaxy.com
 vie-308.whiskergalaxy.com
-vie-87-ike.whiskergalaxy.com
 vie-87-wg.whiskergalaxy.com
 vie-87.whiskergalaxy.com
 vn-002.whiskergalaxy.com
@@ -917,6 +918,7 @@ wf-us-012.whiskergalaxy.com
 wf-us-013.whiskergalaxy.com
 wf-us-014.whiskergalaxy.com
 wf-us-015.whiskergalaxy.com
+wf-us-018.whiskergalaxy.com
 wf-us-022.whiskergalaxy.com
 wf-us-023.whiskergalaxy.com
 wf-us-024.whiskergalaxy.com
