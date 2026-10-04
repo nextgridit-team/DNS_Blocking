@@ -1,11 +1,11 @@
 ; HaGeZi Dynamic DNS
 ; Category: dynamic_dns
-; Generated: 2026-10-03 07:55:20 UTC
+; Generated: 2026-10-04 08:17:11 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1066
+; Original domains (before deduplication): 1065
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100307 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100408 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
@@ -119,7 +119,6 @@ bloom.us CNAME .
 bmvl.ru CNAME .
 boblove.org CNAME .
 bot.nu CNAME .
-bouncers4rent.com CNAME .
 boxathome.net CNAME .
 brajkovic.com CNAME .
 brawlcustommusic.com CNAME .

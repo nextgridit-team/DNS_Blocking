@@ -1,7 +1,7 @@
 # Dynamic Dns Blocklist
-# Generated: 2026-10-03 07:55:20 UTC
+# Generated: 2026-10-04 08:17:11 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 1066
+# Original domains (before deduplication): 1065
 
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0rg.us
@@ -114,7 +114,6 @@
 0.0.0.0 bmvl.ru
 0.0.0.0 boblove.org
 0.0.0.0 bot.nu
-0.0.0.0 bouncers4rent.com
 0.0.0.0 boxathome.net
 0.0.0.0 brajkovic.com
 0.0.0.0 brawlcustommusic.com

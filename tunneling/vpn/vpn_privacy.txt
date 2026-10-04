@@ -1,12 +1,10 @@
 ad.privacy.network
 ae.privacy.network
 al.privacy.network
-ar.privacy.network
 au-adelaide-pf.privacy.network
 au-australia-so.privacy.network
 au-brisbane-pf.privacy.network
 au-sydney.privacy.network
-aus-melbourne.privacy.network
 aus-perth.privacy.network
 austria.privacy.network
 ba.privacy.network
@@ -21,6 +19,7 @@ brussels.privacy.network
 ca-montreal.privacy.network
 ca-ontario-so.privacy.network
 ca-ontario.privacy.network
+ca-toronto-so.privacy.network
 ca-toronto.privacy.network
 ca-vancouver.privacy.network
 ca.privacy.network
@@ -28,7 +27,6 @@ cambodia.privacy.network
 china.privacy.network
 cyprus.privacy.network
 czech.privacy.network
-de-berlin.privacy.network
 de-frankfurt.privacy.network
 de-germany-so.privacy.network
 denmark-2.privacy.network
@@ -49,7 +47,6 @@ hk.privacy.network
 hungary.privacy.network
 in.privacy.network
 iran.privacy.network
-ireland.privacy.network
 is.privacy.network
 israel.privacy.network
 italy-2.privacy.network
@@ -60,7 +57,6 @@ japan.privacy.network
 kazakhstan.privacy.network
 kr-south-korea-pf.privacy.network
 kualalumpur.privacy.network
-liechtenstein.privacy.network
 lt.privacy.network
 lu.privacy.network
 lv.privacy.network
@@ -77,7 +73,6 @@ morocco.privacy.network
 nigeria.privacy.network
 nl-amsterdam.privacy.network
 nl-netherlands-so.privacy.network
-nl.privacy.network
 no.privacy.network
 np-nepal-pf.privacy.network
 nz.privacy.network
@@ -85,13 +80,9 @@ panama.privacy.network
 pe-peru-pf.privacy.network
 philippines.privacy.network
 poland.privacy.network
-pt.privacy.network
-qatar.privacy.network
 ro.privacy.network
 rs.privacy.network
 sanjose.privacy.network
-santiago.privacy.network
-saudiarabia.privacy.network
 sg.privacy.network
 sk.privacy.network
 slovenia.privacy.network
@@ -101,7 +92,6 @@ srilanka.privacy.network
 sweden-2.privacy.network
 sweden.privacy.network
 swiss.privacy.network
-taiwan.privacy.network
 tr.privacy.network
 ua.privacy.network
 uk-2.privacy.network
@@ -124,7 +114,6 @@ us-honolulu.privacy.network
 us-houston.privacy.network
 us-idaho-pf.privacy.network
 us-indiana-pf.privacy.network
-us-indiana.privacy.network
 us-iowa-pf.privacy.network
 us-kansas-pf.privacy.network
 us-kentucky-pf.privacy.network
@@ -132,7 +121,6 @@ us-lasvegas.privacy.network
 us-louisiana-pf.privacy.network
 us-maine-pf.privacy.network
 us-massachusetts-pf.privacy.network
-us-michigan-pf.privacy.network
 us-minnesota-pf.privacy.network
 us-mississippi-pf.privacy.network
 us-missouri-pf.privacy.network
@@ -140,9 +128,7 @@ us-montana-pf.privacy.network
 us-nebraska-pf.privacy.network
 us-new-hampshire-pf.privacy.network
 us-new-mexico-pf.privacy.network
-us-newjersey.privacy.network
 us-newyorkcity.privacy.network
-us-north-carolina-pf.privacy.network
 us-north-dakota-pf.privacy.network
 us-ohio-pf.privacy.network
 us-oklahoma-pf.privacy.network
@@ -158,7 +144,9 @@ us-streaming-2.privacy.network
 us-streaming.privacy.network
 us-tennessee-pf.privacy.network
 us-texas.privacy.network
+us-vermont-pf.privacy.network
 us-virginia-pf.privacy.network
+us-washingtondc.privacy.network
 us-west-virginia-pf.privacy.network
 us-wilmington.privacy.network
 us-wisconsin-pf.privacy.network
