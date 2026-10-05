@@ -2,8 +2,8 @@
   "files": [
     {
       "baseline_count": 1228,
-      "delta_pct": 0.0,
-      "domain_count": 1228,
+      "delta_pct": 0.33,
+      "domain_count": 1232,
       "group": "badware_hoster",
       "kind": "service",
       "path": "rpz/lists/badware_hoster/hagezi_hoster.rpz",
@@ -11,8 +11,8 @@
       "service": "hagezi_hoster"
     },
     {
-      "baseline_count": 1066,
-      "delta_pct": 0.09,
+      "baseline_count": 1065,
+      "delta_pct": 0.0,
       "domain_count": 1065,
       "group": "dynamic_dns",
       "kind": "service",
@@ -31,9 +31,9 @@
       "service": "blp_ransomware"
     },
     {
-      "baseline_count": 1990,
-      "delta_pct": 32.56,
-      "domain_count": 1342,
+      "baseline_count": 1342,
+      "delta_pct": 57.68,
+      "domain_count": 568,
       "group": "malware",
       "kind": "service",
       "path": "rpz/lists/malware/threatfox.rpz",
@@ -41,9 +41,9 @@
       "service": "threatfox"
     },
     {
-      "baseline_count": 494,
-      "delta_pct": 0.2,
-      "domain_count": 493,
+      "baseline_count": 493,
+      "delta_pct": 0.61,
+      "domain_count": 496,
       "group": "malware",
       "kind": "service",
       "path": "rpz/lists/malware/urlhaus.rpz",
@@ -51,9 +51,9 @@
       "service": "urlhaus"
     },
     {
-      "baseline_count": 256,
-      "delta_pct": 1.95,
-      "domain_count": 261,
+      "baseline_count": 261,
+      "delta_pct": 0.38,
+      "domain_count": 262,
       "group": "phishing",
       "kind": "service",
       "path": "rpz/lists/phishing/openphish.rpz",
@@ -71,9 +71,9 @@
       "service": "phishing_army"
     },
     {
-      "baseline_count": 40305,
-      "delta_pct": 2.25,
-      "domain_count": 39399,
+      "baseline_count": 39399,
+      "delta_pct": 2.53,
+      "domain_count": 38403,
       "group": "phishing",
       "kind": "service",
       "path": "rpz/lists/phishing/phishtank.rpz",
@@ -101,9 +101,9 @@
       "service": "blp_scam"
     },
     {
-      "baseline_count": 17181,
-      "delta_pct": 0.1,
-      "domain_count": 17163,
+      "baseline_count": 17163,
+      "delta_pct": 0.27,
+      "domain_count": 17117,
       "group": "scam",
       "kind": "service",
       "path": "rpz/lists/scam/hagezi_fake.rpz",
@@ -112,8 +112,8 @@
     },
     {
       "baseline_count": 1228,
-      "delta_pct": 0.0,
-      "domain_count": 1228,
+      "delta_pct": 0.33,
+      "domain_count": 1232,
       "group": "badware_hoster",
       "kind": "category",
       "path": "rpz/categories/badware_hoster.rpz",
@@ -121,8 +121,8 @@
       "service": null
     },
     {
-      "baseline_count": 1066,
-      "delta_pct": 0.09,
+      "baseline_count": 1065,
+      "delta_pct": 0.0,
       "domain_count": 1065,
       "group": "dynamic_dns",
       "kind": "category",
@@ -131,9 +131,9 @@
       "service": null
     },
     {
-      "baseline_count": 4386,
-      "delta_pct": 14.91,
-      "domain_count": 3732,
+      "baseline_count": 3732,
+      "delta_pct": 20.61,
+      "domain_count": 2963,
       "group": "malware",
       "kind": "category",
       "path": "rpz/categories/malware.rpz",
@@ -141,9 +141,9 @@
       "service": null
     },
     {
-      "baseline_count": 424653,
-      "delta_pct": 0.21,
-      "domain_count": 423771,
+      "baseline_count": 423771,
+      "delta_pct": 0.22,
+      "domain_count": 422819,
       "group": "phishing",
       "kind": "category",
       "path": "rpz/categories/phishing.rpz",
@@ -151,9 +151,9 @@
       "service": null
     },
     {
-      "baseline_count": 310312,
+      "baseline_count": 310295,
       "delta_pct": 0.01,
-      "domain_count": 310295,
+      "domain_count": 310249,
       "group": "scam",
       "kind": "category",
       "path": "rpz/categories/scam.rpz",
@@ -161,13 +161,13 @@
       "service": null
     }
   ],
-  "generated_at": "2026-10-04T08:18:20.345795+00:00",
+  "generated_at": "2026-10-05T08:50:27.571665+00:00",
   "issues": [],
   "profile": "rpz",
   "status": "passed",
   "summary": {
     "files_checked": 16,
     "issues": 0,
-    "total_domains": 1482471
+    "total_domains": 1478900
   }
 }

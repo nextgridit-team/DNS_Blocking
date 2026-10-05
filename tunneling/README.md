@@ -14,12 +14,12 @@ This directory contains curated lists of VPN and proxy provider domains.
 <!-- START:tunneling -->
 *(auto-generated section — do not edit manually)*
 
-Generated: 2026-10-04 08:18 UTC
+Generated: 2026-10-05 08:50 UTC
 
 | List | Entries | File | Raw URL |
 |------|----------|------|---------|
-| proxies | 10205 | [proxies.txt](tunneling/proxies.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxies.txt) |
-| vpns | 24911 | [vpns.txt](tunneling/vpns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpns.txt) |
+| proxies | 10424 | [proxies.txt](tunneling/proxies.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxies.txt) |
+| vpns | 25124 | [vpns.txt](tunneling/vpns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpns.txt) |
 | proxy_0068023 | 1 | [proxy_0068023.txt](tunneling/proxy/proxy_0068023.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_0068023.txt) |
 | proxy_072155 | 1 | [proxy_072155.txt](tunneling/proxy/proxy_072155.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_072155.txt) |
 | proxy_100 | 1 | [proxy_100.txt](tunneling/proxy/proxy_100.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_100.txt) |
@@ -131,6 +131,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_alacop | 1 | [proxy_alacop.txt](tunneling/proxy/proxy_alacop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alacop.txt) |
 | proxy_alaskaair | 1 | [proxy_alaskaair.txt](tunneling/proxy/proxy_alaskaair.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alaskaair.txt) |
 | proxy_albany | 1 | [proxy_albany.txt](tunneling/proxy/proxy_albany.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_albany.txt) |
+| proxy_alccrm | 1 | [proxy_alccrm.txt](tunneling/proxy/proxy_alccrm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alccrm.txt) |
 | proxy_alesocks | 1 | [proxy_alesocks.txt](tunneling/proxy/proxy_alesocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alesocks.txt) |
 | proxy_alexanderstreet | 1 | [proxy_alexanderstreet.txt](tunneling/proxy/proxy_alexanderstreet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alexanderstreet.txt) |
 | proxy_alfasafety | 1 | [proxy_alfasafety.txt](tunneling/proxy/proxy_alfasafety.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_alfasafety.txt) |
@@ -161,8 +162,8 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_altib | 1 | [proxy_altib.txt](tunneling/proxy/proxy_altib.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_altib.txt) |
 | proxy_amalto | 1 | [proxy_amalto.txt](tunneling/proxy/proxy_amalto.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amalto.txt) |
 | proxy_amat | 1 | [proxy_amat.txt](tunneling/proxy/proxy_amat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amat.txt) |
-| proxy_amazon | 40 | [proxy_amazon.txt](tunneling/proxy/proxy_amazon.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amazon.txt) |
-| proxy_amazonaws | 213 | [proxy_amazonaws.txt](tunneling/proxy/proxy_amazonaws.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amazonaws.txt) |
+| proxy_amazon | 41 | [proxy_amazon.txt](tunneling/proxy/proxy_amazon.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amazon.txt) |
+| proxy_amazonaws | 205 | [proxy_amazonaws.txt](tunneling/proxy/proxy_amazonaws.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amazonaws.txt) |
 | proxy_amazonawsusgov | 6 | [proxy_amazonawsusgov.txt](tunneling/proxy/proxy_amazonawsusgov.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_amazonawsusgov.txt) |
 | proxy_americanexpress | 1 | [proxy_americanexpress.txt](tunneling/proxy/proxy_americanexpress.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_americanexpress.txt) |
 | proxy_americasbestpics | 1 | [proxy_americasbestpics.txt](tunneling/proxy/proxy_americasbestpics.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_americasbestpics.txt) |
@@ -279,12 +280,12 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_axon | 1 | [proxy_axon.txt](tunneling/proxy/proxy_axon.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_axon.txt) |
 | proxy_aylanetworks | 3 | [proxy_aylanetworks.txt](tunneling/proxy/proxy_aylanetworks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_aylanetworks.txt) |
 | proxy_azerbaijanisocks | 1 | [proxy_azerbaijanisocks.txt](tunneling/proxy/proxy_azerbaijanisocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azerbaijanisocks.txt) |
-| proxy_azure | 50 | [proxy_azure.txt](tunneling/proxy/proxy_azure.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azure.txt) |
+| proxy_azure | 61 | [proxy_azure.txt](tunneling/proxy/proxy_azure.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azure.txt) |
 | proxy_azureapi | 2 | [proxy_azureapi.txt](tunneling/proxy/proxy_azureapi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azureapi.txt) |
 | proxy_azurecontainerapps | 1 | [proxy_azurecontainerapps.txt](tunneling/proxy/proxy_azurecontainerapps.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azurecontainerapps.txt) |
 | proxy_azureedge | 1 | [proxy_azureedge.txt](tunneling/proxy/proxy_azureedge.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azureedge.txt) |
 | proxy_azurefd | 7 | [proxy_azurefd.txt](tunneling/proxy/proxy_azurefd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azurefd.txt) |
-| proxy_azurewebsites | 9 | [proxy_azurewebsites.txt](tunneling/proxy/proxy_azurewebsites.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azurewebsites.txt) |
+| proxy_azurewebsites | 8 | [proxy_azurewebsites.txt](tunneling/proxy/proxy_azurewebsites.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_azurewebsites.txt) |
 | proxy_b12 | 1 | [proxy_b12.txt](tunneling/proxy/proxy_b12.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_b12.txt) |
 | proxy_b2clogin | 1 | [proxy_b2clogin.txt](tunneling/proxy/proxy_b2clogin.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_b2clogin.txt) |
 | proxy_babyhk | 1 | [proxy_babyhk.txt](tunneling/proxy/proxy_babyhk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_babyhk.txt) |
@@ -333,7 +334,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_bergfex | 1 | [proxy_bergfex.txt](tunneling/proxy/proxy_bergfex.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bergfex.txt) |
 | proxy_berkeley | 1 | [proxy_berkeley.txt](tunneling/proxy/proxy_berkeley.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_berkeley.txt) |
 | proxy_berlinonline | 1 | [proxy_berlinonline.txt](tunneling/proxy/proxy_berlinonline.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_berlinonline.txt) |
-| proxy_bestdo | 10 | [proxy_bestdo.txt](tunneling/proxy/proxy_bestdo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bestdo.txt) |
+| proxy_bestdo | 12 | [proxy_bestdo.txt](tunneling/proxy/proxy_bestdo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bestdo.txt) |
 | proxy_bestproxy | 1 | [proxy_bestproxy.txt](tunneling/proxy/proxy_bestproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bestproxy.txt) |
 | proxy_bestproxyreviews | 1 | [proxy_bestproxyreviews.txt](tunneling/proxy/proxy_bestproxyreviews.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bestproxyreviews.txt) |
 | proxy_bestreviews | 1 | [proxy_bestreviews.txt](tunneling/proxy/proxy_bestreviews.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_bestreviews.txt) |
@@ -440,7 +441,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_caconv | 1 | [proxy_caconv.txt](tunneling/proxy/proxy_caconv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_caconv.txt) |
 | proxy_cafemedia | 1 | [proxy_cafemedia.txt](tunneling/proxy/proxy_cafemedia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cafemedia.txt) |
 | proxy_cafeyn | 1 | [proxy_cafeyn.txt](tunneling/proxy/proxy_cafeyn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cafeyn.txt) |
-| proxy_cafisbrain | 1 | [proxy_cafisbrain.txt](tunneling/proxy/proxy_cafisbrain.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cafisbrain.txt) |
+| proxy_cafisbrain | 2 | [proxy_cafisbrain.txt](tunneling/proxy/proxy_cafisbrain.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cafisbrain.txt) |
 | proxy_calbaptist | 1 | [proxy_calbaptist.txt](tunneling/proxy/proxy_calbaptist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_calbaptist.txt) |
 | proxy_callcorp | 1 | [proxy_callcorp.txt](tunneling/proxy/proxy_callcorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_callcorp.txt) |
 | proxy_callsign | 1 | [proxy_callsign.txt](tunneling/proxy/proxy_callsign.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_callsign.txt) |
@@ -449,7 +450,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_camect | 1 | [proxy_camect.txt](tunneling/proxy/proxy_camect.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_camect.txt) |
 | proxy_canalplustech | 1 | [proxy_canalplustech.txt](tunneling/proxy/proxy_canalplustech.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canalplustech.txt) |
 | proxy_canofsocks | 2 | [proxy_canofsocks.txt](tunneling/proxy/proxy_canofsocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canofsocks.txt) |
-| proxy_canvaapps | 1026 | [proxy_canvaapps.txt](tunneling/proxy/proxy_canvaapps.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canvaapps.txt) |
+| proxy_canvaapps | 1117 | [proxy_canvaapps.txt](tunneling/proxy/proxy_canvaapps.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canvaapps.txt) |
 | proxy_canvasandsocks | 1 | [proxy_canvasandsocks.txt](tunneling/proxy/proxy_canvasandsocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canvasandsocks.txt) |
 | proxy_canvasproxy | 2 | [proxy_canvasproxy.txt](tunneling/proxy/proxy_canvasproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_canvasproxy.txt) |
 | proxy_capgemini | 1 | [proxy_capgemini.txt](tunneling/proxy/proxy_capgemini.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_capgemini.txt) |
@@ -511,8 +512,8 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ciitek | 1 | [proxy_ciitek.txt](tunneling/proxy/proxy_ciitek.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ciitek.txt) |
 | proxy_cimm2 | 1 | [proxy_cimm2.txt](tunneling/proxy/proxy_cimm2.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cimm2.txt) |
 | proxy_cineplexx | 1 | [proxy_cineplexx.txt](tunneling/proxy/proxy_cineplexx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cineplexx.txt) |
-| proxy_cirrusidentity | 2 | [proxy_cirrusidentity.txt](tunneling/proxy/proxy_cirrusidentity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cirrusidentity.txt) |
-| proxy_cisco | 12 | [proxy_cisco.txt](tunneling/proxy/proxy_cisco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cisco.txt) |
+| proxy_cirrusidentity | 3 | [proxy_cirrusidentity.txt](tunneling/proxy/proxy_cirrusidentity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cirrusidentity.txt) |
+| proxy_cisco | 11 | [proxy_cisco.txt](tunneling/proxy/proxy_cisco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cisco.txt) |
 | proxy_ciscoccservice | 1 | [proxy_ciscoccservice.txt](tunneling/proxy/proxy_ciscoccservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ciscoccservice.txt) |
 | proxy_ciscoplus | 1 | [proxy_ciscoplus.txt](tunneling/proxy/proxy_ciscoplus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ciscoplus.txt) |
 | proxy_ciscospark | 2 | [proxy_ciscospark.txt](tunneling/proxy/proxy_ciscospark.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ciscospark.txt) |
@@ -534,7 +535,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_cloud9streaming | 1 | [proxy_cloud9streaming.txt](tunneling/proxy/proxy_cloud9streaming.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloud9streaming.txt) |
 | proxy_cloudcannon | 1 | [proxy_cloudcannon.txt](tunneling/proxy/proxy_cloudcannon.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudcannon.txt) |
 | proxy_clouddatahub | 1 | [proxy_clouddatahub.txt](tunneling/proxy/proxy_clouddatahub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_clouddatahub.txt) |
-| proxy_cloudflare | 19 | [proxy_cloudflare.txt](tunneling/proxy/proxy_cloudflare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudflare.txt) |
+| proxy_cloudflare | 18 | [proxy_cloudflare.txt](tunneling/proxy/proxy_cloudflare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudflare.txt) |
 | proxy_cloudflareclient | 1 | [proxy_cloudflareclient.txt](tunneling/proxy/proxy_cloudflareclient.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudflareclient.txt) |
 | proxy_cloudflareresearch | 1 | [proxy_cloudflareresearch.txt](tunneling/proxy/proxy_cloudflareresearch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudflareresearch.txt) |
 | proxy_cloudflarestorage | 1 | [proxy_cloudflarestorage.txt](tunneling/proxy/proxy_cloudflarestorage.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cloudflarestorage.txt) |
@@ -551,7 +552,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_clubrunner | 2 | [proxy_clubrunner.txt](tunneling/proxy/proxy_clubrunner.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_clubrunner.txt) |
 | proxy_cndpcloudproxy | 1 | [proxy_cndpcloudproxy.txt](tunneling/proxy/proxy_cndpcloudproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cndpcloudproxy.txt) |
 | proxy_cnsu | 1 | [proxy_cnsu.txt](tunneling/proxy/proxy_cnsu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_cnsu.txt) |
-| proxy_co | 14 | [proxy_co.txt](tunneling/proxy/proxy_co.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_co.txt) |
+| proxy_co | 12 | [proxy_co.txt](tunneling/proxy/proxy_co.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_co.txt) |
 | proxy_codeproxy | 2 | [proxy_codeproxy.txt](tunneling/proxy/proxy_codeproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_codeproxy.txt) |
 | proxy_codetools | 3 | [proxy_codetools.txt](tunneling/proxy/proxy_codetools.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_codetools.txt) |
 | proxy_codexproxy | 1 | [proxy_codexproxy.txt](tunneling/proxy/proxy_codexproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_codexproxy.txt) |
@@ -685,6 +686,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_didiglobal | 1 | [proxy_didiglobal.txt](tunneling/proxy/proxy_didiglobal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_didiglobal.txt) |
 | proxy_diffchecker | 1 | [proxy_diffchecker.txt](tunneling/proxy/proxy_diffchecker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_diffchecker.txt) |
 | proxy_digitalaviationservices | 1 | [proxy_digitalaviationservices.txt](tunneling/proxy/proxy_digitalaviationservices.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_digitalaviationservices.txt) |
+| proxy_dillysocks | 1 | [proxy_dillysocks.txt](tunneling/proxy/proxy_dillysocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_dillysocks.txt) |
 | proxy_directoryproxy | 2 | [proxy_directoryproxy.txt](tunneling/proxy/proxy_directoryproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_directoryproxy.txt) |
 | proxy_dirproxy | 1 | [proxy_dirproxy.txt](tunneling/proxy/proxy_dirproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_dirproxy.txt) |
 | proxy_dirtrab | 1 | [proxy_dirtrab.txt](tunneling/proxy/proxy_dirtrab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_dirtrab.txt) |
@@ -745,7 +747,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_dystopic | 1 | [proxy_dystopic.txt](tunneling/proxy/proxy_dystopic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_dystopic.txt) |
 | proxy_e2ro | 1 | [proxy_e2ro.txt](tunneling/proxy/proxy_e2ro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_e2ro.txt) |
 | proxy_ea | 4 | [proxy_ea.txt](tunneling/proxy/proxy_ea.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ea.txt) |
-| proxy_easebar | 37 | [proxy_easebar.txt](tunneling/proxy/proxy_easebar.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_easebar.txt) |
+| proxy_easebar | 36 | [proxy_easebar.txt](tunneling/proxy/proxy_easebar.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_easebar.txt) |
 | proxy_easy4ipcloud | 5 | [proxy_easy4ipcloud.txt](tunneling/proxy/proxy_easy4ipcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_easy4ipcloud.txt) |
 | proxy_easyparksystem | 1 | [proxy_easyparksystem.txt](tunneling/proxy/proxy_easyparksystem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_easyparksystem.txt) |
 | proxy_easyproxy | 2 | [proxy_easyproxy.txt](tunneling/proxy/proxy_easyproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_easyproxy.txt) |
@@ -760,11 +762,11 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_edadeal | 1 | [proxy_edadeal.txt](tunneling/proxy/proxy_edadeal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edadeal.txt) |
 | proxy_edgekey | 3 | [proxy_edgekey.txt](tunneling/proxy/proxy_edgekey.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edgekey.txt) |
 | proxy_edgenuity | 1 | [proxy_edgenuity.txt](tunneling/proxy/proxy_edgenuity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edgenuity.txt) |
-| proxy_edgesuite | 7 | [proxy_edgesuite.txt](tunneling/proxy/proxy_edgesuite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edgesuite.txt) |
+| proxy_edgesuite | 6 | [proxy_edgesuite.txt](tunneling/proxy/proxy_edgesuite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edgesuite.txt) |
 | proxy_edilproxima | 1 | [proxy_edilproxima.txt](tunneling/proxy/proxy_edilproxima.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edilproxima.txt) |
-| proxy_edu | 46 | [proxy_edu.txt](tunneling/proxy/proxy_edu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edu.txt) |
+| proxy_edu | 48 | [proxy_edu.txt](tunneling/proxy/proxy_edu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edu.txt) |
 | proxy_edvibe | 1 | [proxy_edvibe.txt](tunneling/proxy/proxy_edvibe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_edvibe.txt) |
-| proxy_elasticbeanstalk | 4 | [proxy_elasticbeanstalk.txt](tunneling/proxy/proxy_elasticbeanstalk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_elasticbeanstalk.txt) |
+| proxy_elasticbeanstalk | 2 | [proxy_elasticbeanstalk.txt](tunneling/proxy/proxy_elasticbeanstalk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_elasticbeanstalk.txt) |
 | proxy_elasticcloud | 7 | [proxy_elasticcloud.txt](tunneling/proxy/proxy_elasticcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_elasticcloud.txt) |
 | proxy_elasticcx | 1 | [proxy_elasticcx.txt](tunneling/proxy/proxy_elasticcx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_elasticcx.txt) |
 | proxy_elastoproxy | 2 | [proxy_elastoproxy.txt](tunneling/proxy/proxy_elastoproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_elastoproxy.txt) |
@@ -796,7 +798,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_eoli | 1 | [proxy_eoli.txt](tunneling/proxy/proxy_eoli.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_eoli.txt) |
 | proxy_eosbigiotteria | 1 | [proxy_eosbigiotteria.txt](tunneling/proxy/proxy_eosbigiotteria.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_eosbigiotteria.txt) |
 | proxy_epa | 1 | [proxy_epa.txt](tunneling/proxy/proxy_epa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epa.txt) |
-| proxy_epicgames | 27 | [proxy_epicgames.txt](tunneling/proxy/proxy_epicgames.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epicgames.txt) |
+| proxy_epicgames | 2 | [proxy_epicgames.txt](tunneling/proxy/proxy_epicgames.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epicgames.txt) |
 | proxy_epichosted | 4 | [proxy_epichosted.txt](tunneling/proxy/proxy_epichosted.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epichosted.txt) |
 | proxy_epik | 3 | [proxy_epik.txt](tunneling/proxy/proxy_epik.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epik.txt) |
 | proxy_epoch | 1 | [proxy_epoch.txt](tunneling/proxy/proxy_epoch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_epoch.txt) |
@@ -836,14 +838,14 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_excelstation | 1 | [proxy_excelstation.txt](tunneling/proxy/proxy_excelstation.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_excelstation.txt) |
 | proxy_exiliumworld | 1 | [proxy_exiliumworld.txt](tunneling/proxy/proxy_exiliumworld.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exiliumworld.txt) |
 | proxy_exlibrisgroup | 4 | [proxy_exlibrisgroup.txt](tunneling/proxy/proxy_exlibrisgroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exlibrisgroup.txt) |
-| proxy_exodus | 2 | [proxy_exodus.txt](tunneling/proxy/proxy_exodus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exodus.txt) |
+| proxy_exodus | 1 | [proxy_exodus.txt](tunneling/proxy/proxy_exodus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exodus.txt) |
 | proxy_exos | 1 | [proxy_exos.txt](tunneling/proxy/proxy_exos.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exos.txt) |
 | proxy_expandonline | 1 | [proxy_expandonline.txt](tunneling/proxy/proxy_expandonline.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_expandonline.txt) |
 | proxy_express | 1 | [proxy_express.txt](tunneling/proxy/proxy_express.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_express.txt) |
 | proxy_exxen | 1 | [proxy_exxen.txt](tunneling/proxy/proxy_exxen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_exxen.txt) |
 | proxy_ezcater | 1 | [proxy_ezcater.txt](tunneling/proxy/proxy_ezcater.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ezcater.txt) |
 | proxy_ezoic | 1 | [proxy_ezoic.txt](tunneling/proxy/proxy_ezoic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ezoic.txt) |
-| proxy_ezviz7 | 1393 | [proxy_ezviz7.txt](tunneling/proxy/proxy_ezviz7.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ezviz7.txt) |
+| proxy_ezviz7 | 1410 | [proxy_ezviz7.txt](tunneling/proxy/proxy_ezviz7.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ezviz7.txt) |
 | proxy_ezvizru | 1 | [proxy_ezvizru.txt](tunneling/proxy/proxy_ezvizru.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ezvizru.txt) |
 | proxy_fafa200 | 1 | [proxy_fafa200.txt](tunneling/proxy/proxy_fafa200.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fafa200.txt) |
 | proxy_fafa203 | 1 | [proxy_fafa203.txt](tunneling/proxy/proxy_fafa203.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fafa203.txt) |
@@ -880,7 +882,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_fastly | 1 | [proxy_fastly.txt](tunneling/proxy/proxy_fastly.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fastly.txt) |
 | proxy_fastlymasque | 1 | [proxy_fastlymasque.txt](tunneling/proxy/proxy_fastlymasque.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fastlymasque.txt) |
 | proxy_fastproxy | 1 | [proxy_fastproxy.txt](tunneling/proxy/proxy_fastproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fastproxy.txt) |
-| proxy_fastviewer | 2 | [proxy_fastviewer.txt](tunneling/proxy/proxy_fastviewer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fastviewer.txt) |
+| proxy_fastviewer | 12 | [proxy_fastviewer.txt](tunneling/proxy/proxy_fastviewer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fastviewer.txt) |
 | proxy_fbcdn | 1 | [proxy_fbcdn.txt](tunneling/proxy/proxy_fbcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fbcdn.txt) |
 | proxy_fcm | 1 | [proxy_fcm.txt](tunneling/proxy/proxy_fcm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fcm.txt) |
 | proxy_fcn | 1 | [proxy_fcn.txt](tunneling/proxy/proxy_fcn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fcn.txt) |
@@ -910,7 +912,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_flashproxy | 1 | [proxy_flashproxy.txt](tunneling/proxy/proxy_flashproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flashproxy.txt) |
 | proxy_flathub | 1 | [proxy_flathub.txt](tunneling/proxy/proxy_flathub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flathub.txt) |
 | proxy_flavacloud | 1 | [proxy_flavacloud.txt](tunneling/proxy/proxy_flavacloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flavacloud.txt) |
-| proxy_flibusta | 1 | [proxy_flibusta.txt](tunneling/proxy/proxy_flibusta.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flibusta.txt) |
+| proxy_flibusta | 2 | [proxy_flibusta.txt](tunneling/proxy/proxy_flibusta.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flibusta.txt) |
 | proxy_flightaware | 1 | [proxy_flightaware.txt](tunneling/proxy/proxy_flightaware.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flightaware.txt) |
 | proxy_flightvector | 2 | [proxy_flightvector.txt](tunneling/proxy/proxy_flightvector.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flightvector.txt) |
 | proxy_flikhub | 2 | [proxy_flikhub.txt](tunneling/proxy/proxy_flikhub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_flikhub.txt) |
@@ -938,7 +940,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_forumaboutproxy | 1 | [proxy_forumaboutproxy.txt](tunneling/proxy/proxy_forumaboutproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_forumaboutproxy.txt) |
 | proxy_forumproxyleecher | 1 | [proxy_forumproxyleecher.txt](tunneling/proxy/proxy_forumproxyleecher.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_forumproxyleecher.txt) |
 | proxy_fototree | 2 | [proxy_fototree.txt](tunneling/proxy/proxy_fototree.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fototree.txt) |
-| proxy_found | 3 | [proxy_found.txt](tunneling/proxy/proxy_found.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_found.txt) |
+| proxy_found | 4 | [proxy_found.txt](tunneling/proxy/proxy_found.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_found.txt) |
 | proxy_foundcluster | 7 | [proxy_foundcluster.txt](tunneling/proxy/proxy_foundcluster.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_foundcluster.txt) |
 | proxy_fourkites | 1 | [proxy_fourkites.txt](tunneling/proxy/proxy_fourkites.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fourkites.txt) |
 | proxy_fourthwall | 2 | [proxy_fourthwall.txt](tunneling/proxy/proxy_fourthwall.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fourthwall.txt) |
@@ -966,7 +968,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_fsproxy | 1 | [proxy_fsproxy.txt](tunneling/proxy/proxy_fsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fsproxy.txt) |
 | proxy_ft | 1 | [proxy_ft.txt](tunneling/proxy/proxy_ft.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ft.txt) |
 | proxy_ftchinese | 1 | [proxy_ftchinese.txt](tunneling/proxy/proxy_ftchinese.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ftchinese.txt) |
-| proxy_fti | 3 | [proxy_fti.txt](tunneling/proxy/proxy_fti.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fti.txt) |
+| proxy_fti | 4 | [proxy_fti.txt](tunneling/proxy/proxy_fti.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fti.txt) |
 | proxy_ftvlist | 1 | [proxy_ftvlist.txt](tunneling/proxy/proxy_ftvlist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ftvlist.txt) |
 | proxy_ftvproxy | 1 | [proxy_ftvproxy.txt](tunneling/proxy/proxy_ftvproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ftvproxy.txt) |
 | proxy_fubo | 1 | [proxy_fubo.txt](tunneling/proxy/proxy_fubo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_fubo.txt) |
@@ -986,7 +988,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_g20prod | 1 | [proxy_g20prod.txt](tunneling/proxy/proxy_g20prod.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_g20prod.txt) |
 | proxy_g5marketingcloud | 1 | [proxy_g5marketingcloud.txt](tunneling/proxy/proxy_g5marketingcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_g5marketingcloud.txt) |
 | proxy_gaggleamp | 1 | [proxy_gaggleamp.txt](tunneling/proxy/proxy_gaggleamp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaggleamp.txt) |
-| proxy_gaijin | 12 | [proxy_gaijin.txt](tunneling/proxy/proxy_gaijin.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaijin.txt) |
+| proxy_gaijin | 11 | [proxy_gaijin.txt](tunneling/proxy/proxy_gaijin.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaijin.txt) |
 | proxy_galaxyappstore | 16 | [proxy_galaxyappstore.txt](tunneling/proxy/proxy_galaxyappstore.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_galaxyappstore.txt) |
 | proxy_galaxyclub | 1 | [proxy_galaxyclub.txt](tunneling/proxy/proxy_galaxyclub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_galaxyclub.txt) |
 | proxy_gameproviderproxy | 1 | [proxy_gameproviderproxy.txt](tunneling/proxy/proxy_gameproviderproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gameproviderproxy.txt) |
@@ -994,7 +996,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_gamma | 1 | [proxy_gamma.txt](tunneling/proxy/proxy_gamma.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gamma.txt) |
 | proxy_gammaapis | 1 | [proxy_gammaapis.txt](tunneling/proxy/proxy_gammaapis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gammaapis.txt) |
 | proxy_gaohuaam | 9 | [proxy_gaohuaam.txt](tunneling/proxy/proxy_gaohuaam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaohuaam.txt) |
-| proxy_gaohuaassetmanagement | 19 | [proxy_gaohuaassetmanagement.txt](tunneling/proxy/proxy_gaohuaassetmanagement.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaohuaassetmanagement.txt) |
+| proxy_gaohuaassetmanagement | 20 | [proxy_gaohuaassetmanagement.txt](tunneling/proxy/proxy_gaohuaassetmanagement.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaohuaassetmanagement.txt) |
 | proxy_gaohuasecurities | 7 | [proxy_gaohuasecurities.txt](tunneling/proxy/proxy_gaohuasecurities.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gaohuasecurities.txt) |
 | proxy_garena | 1 | [proxy_garena.txt](tunneling/proxy/proxy_garena.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_garena.txt) |
 | proxy_garenanow | 5 | [proxy_garenanow.txt](tunneling/proxy/proxy_garenanow.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_garenanow.txt) |
@@ -1027,7 +1029,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ghe | 1 | [proxy_ghe.txt](tunneling/proxy/proxy_ghe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ghe.txt) |
 | proxy_ghproxy | 2 | [proxy_ghproxy.txt](tunneling/proxy/proxy_ghproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ghproxy.txt) |
 | proxy_gigablast | 1 | [proxy_gigablast.txt](tunneling/proxy/proxy_gigablast.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gigablast.txt) |
-| proxy_gigya | 1 | [proxy_gigya.txt](tunneling/proxy/proxy_gigya.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gigya.txt) |
+| proxy_gigya | 2 | [proxy_gigya.txt](tunneling/proxy/proxy_gigya.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gigya.txt) |
 | proxy_gilead | 1 | [proxy_gilead.txt](tunneling/proxy/proxy_gilead.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gilead.txt) |
 | proxy_github | 6 | [proxy_github.txt](tunneling/proxy/proxy_github.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_github.txt) |
 | proxy_githubcopilot | 3 | [proxy_githubcopilot.txt](tunneling/proxy/proxy_githubcopilot.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_githubcopilot.txt) |
@@ -1045,6 +1047,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_go | 1 | [proxy_go.txt](tunneling/proxy/proxy_go.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_go.txt) |
 | proxy_go2cloud | 1 | [proxy_go2cloud.txt](tunneling/proxy/proxy_go2cloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_go2cloud.txt) |
 | proxy_go2proxy | 1 | [proxy_go2proxy.txt](tunneling/proxy/proxy_go2proxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_go2proxy.txt) |
+| proxy_gob | 1 | [proxy_gob.txt](tunneling/proxy/proxy_gob.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gob.txt) |
 | proxy_gocodigo | 3 | [proxy_gocodigo.txt](tunneling/proxy/proxy_gocodigo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gocodigo.txt) |
 | proxy_godaddy | 1 | [proxy_godaddy.txt](tunneling/proxy/proxy_godaddy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_godaddy.txt) |
 | proxy_gog | 2 | [proxy_gog.txt](tunneling/proxy/proxy_gog.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gog.txt) |
@@ -1067,7 +1070,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_goproxies | 2 | [proxy_goproxies.txt](tunneling/proxy/proxy_goproxies.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_goproxies.txt) |
 | proxy_gopuff | 1 | [proxy_gopuff.txt](tunneling/proxy/proxy_gopuff.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gopuff.txt) |
 | proxy_gorillaproxy | 1 | [proxy_gorillaproxy.txt](tunneling/proxy/proxy_gorillaproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gorillaproxy.txt) |
-| proxy_goskope | 7 | [proxy_goskope.txt](tunneling/proxy/proxy_goskope.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_goskope.txt) |
+| proxy_goskope | 8 | [proxy_goskope.txt](tunneling/proxy/proxy_goskope.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_goskope.txt) |
 | proxy_gossorg | 1 | [proxy_gossorg.txt](tunneling/proxy/proxy_gossorg.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gossorg.txt) |
 | proxy_gotoresolve | 1 | [proxy_gotoresolve.txt](tunneling/proxy/proxy_gotoresolve.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gotoresolve.txt) |
 | proxy_gov | 7 | [proxy_gov.txt](tunneling/proxy/proxy_gov.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_gov.txt) |
@@ -1141,7 +1144,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_heytapmobile | 3 | [proxy_heytapmobile.txt](tunneling/proxy/proxy_heytapmobile.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_heytapmobile.txt) |
 | proxy_hhchealth | 4 | [proxy_hhchealth.txt](tunneling/proxy/proxy_hhchealth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hhchealth.txt) |
 | proxy_hic | 1 | [proxy_hic.txt](tunneling/proxy/proxy_hic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hic.txt) |
-| proxy_hicloudcam | 1494 | [proxy_hicloudcam.txt](tunneling/proxy/proxy_hicloudcam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hicloudcam.txt) |
+| proxy_hicloudcam | 1527 | [proxy_hicloudcam.txt](tunneling/proxy/proxy_hicloudcam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hicloudcam.txt) |
 | proxy_hide | 1 | [proxy_hide.txt](tunneling/proxy/proxy_hide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hide.txt) |
 | proxy_hidedoor | 1 | [proxy_hidedoor.txt](tunneling/proxy/proxy_hidedoor.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hidedoor.txt) |
 | proxy_hidemy | 1 | [proxy_hidemy.txt](tunneling/proxy/proxy_hidemy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hidemy.txt) |
@@ -1153,7 +1156,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_highwaytunnel | 1 | [proxy_highwaytunnel.txt](tunneling/proxy/proxy_highwaytunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_highwaytunnel.txt) |
 | proxy_highwebmedia | 3 | [proxy_highwebmedia.txt](tunneling/proxy/proxy_highwebmedia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_highwebmedia.txt) |
 | proxy_hihonorcloud | 2 | [proxy_hihonorcloud.txt](tunneling/proxy/proxy_hihonorcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hihonorcloud.txt) |
-| proxy_hikops | 97 | [proxy_hikops.txt](tunneling/proxy/proxy_hikops.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hikops.txt) |
+| proxy_hikops | 98 | [proxy_hikops.txt](tunneling/proxy/proxy_hikops.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hikops.txt) |
 | proxy_hinet | 1 | [proxy_hinet.txt](tunneling/proxy/proxy_hinet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hinet.txt) |
 | proxy_hitenproxy | 2 | [proxy_hitenproxy.txt](tunneling/proxy/proxy_hitenproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hitenproxy.txt) |
 | proxy_hitrewardsproxy | 2 | [proxy_hitrewardsproxy.txt](tunneling/proxy/proxy_hitrewardsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hitrewardsproxy.txt) |
@@ -1165,10 +1168,10 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_hnzrf | 1 | [proxy_hnzrf.txt](tunneling/proxy/proxy_hnzrf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hnzrf.txt) |
 | proxy_hoag | 1 | [proxy_hoag.txt](tunneling/proxy/proxy_hoag.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hoag.txt) |
 | proxy_hoki108prox | 1 | [proxy_hoki108prox.txt](tunneling/proxy/proxy_hoki108prox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hoki108prox.txt) |
-| proxy_hola | 1 | [proxy_hola.txt](tunneling/proxy/proxy_hola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hola.txt) |
+| proxy_hola | 2 | [proxy_hola.txt](tunneling/proxy/proxy_hola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hola.txt) |
 | proxy_holax | 1 | [proxy_holax.txt](tunneling/proxy/proxy_holax.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_holax.txt) |
 | proxy_holdernote | 1 | [proxy_holdernote.txt](tunneling/proxy/proxy_holdernote.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_holdernote.txt) |
-| proxy_hollowsocks | 2 | [proxy_hollowsocks.txt](tunneling/proxy/proxy_hollowsocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hollowsocks.txt) |
+| proxy_hollowsocks | 3 | [proxy_hollowsocks.txt](tunneling/proxy/proxy_hollowsocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hollowsocks.txt) |
 | proxy_home64 | 2 | [proxy_home64.txt](tunneling/proxy/proxy_home64.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_home64.txt) |
 | proxy_honorshard | 1 | [proxy_honorshard.txt](tunneling/proxy/proxy_honorshard.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_honorshard.txt) |
 | proxy_hooc | 2 | [proxy_hooc.txt](tunneling/proxy/proxy_hooc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_hooc.txt) |
@@ -1239,11 +1242,11 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ilovesocks | 1 | [proxy_ilovesocks.txt](tunneling/proxy/proxy_ilovesocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ilovesocks.txt) |
 | proxy_ilsole24ore | 1 | [proxy_ilsole24ore.txt](tunneling/proxy/proxy_ilsole24ore.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ilsole24ore.txt) |
 | proxy_imagearchive | 1 | [proxy_imagearchive.txt](tunneling/proxy/proxy_imagearchive.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imagearchive.txt) |
-| proxy_imaginelearning | 3 | [proxy_imaginelearning.txt](tunneling/proxy/proxy_imaginelearning.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imaginelearning.txt) |
+| proxy_imaginelearning | 2 | [proxy_imaginelearning.txt](tunneling/proxy/proxy_imaginelearning.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imaginelearning.txt) |
 | proxy_imgix | 1 | [proxy_imgix.txt](tunneling/proxy/proxy_imgix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imgix.txt) |
 | proxy_imgproxy | 1 | [proxy_imgproxy.txt](tunneling/proxy/proxy_imgproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imgproxy.txt) |
 | proxy_imgsmail | 1 | [proxy_imgsmail.txt](tunneling/proxy/proxy_imgsmail.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imgsmail.txt) |
-| proxy_immersivelabs | 9 | [proxy_immersivelabs.txt](tunneling/proxy/proxy_immersivelabs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_immersivelabs.txt) |
+| proxy_immersivelabs | 8 | [proxy_immersivelabs.txt](tunneling/proxy/proxy_immersivelabs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_immersivelabs.txt) |
 | proxy_immortalproxy | 2 | [proxy_immortalproxy.txt](tunneling/proxy/proxy_immortalproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_immortalproxy.txt) |
 | proxy_imo | 5 | [proxy_imo.txt](tunneling/proxy/proxy_imo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imo.txt) |
 | proxy_imoim | 1 | [proxy_imoim.txt](tunneling/proxy/proxy_imoim.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imoim.txt) |
@@ -1252,9 +1255,9 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_improxy | 1 | [proxy_improxy.txt](tunneling/proxy/proxy_improxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_improxy.txt) |
 | proxy_imrworldwide | 1 | [proxy_imrworldwide.txt](tunneling/proxy/proxy_imrworldwide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_imrworldwide.txt) |
 | proxy_in | 4 | [proxy_in.txt](tunneling/proxy/proxy_in.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_in.txt) |
-| proxy_inaturalist | 2 | [proxy_inaturalist.txt](tunneling/proxy/proxy_inaturalist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_inaturalist.txt) |
+| proxy_inaturalist | 1 | [proxy_inaturalist.txt](tunneling/proxy/proxy_inaturalist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_inaturalist.txt) |
 | proxy_incony | 1 | [proxy_incony.txt](tunneling/proxy/proxy_incony.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_incony.txt) |
-| proxy_indazn | 3 | [proxy_indazn.txt](tunneling/proxy/proxy_indazn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_indazn.txt) |
+| proxy_indazn | 6 | [proxy_indazn.txt](tunneling/proxy/proxy_indazn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_indazn.txt) |
 | proxy_indeed | 1 | [proxy_indeed.txt](tunneling/proxy/proxy_indeed.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_indeed.txt) |
 | proxy_indemn | 1 | [proxy_indemn.txt](tunneling/proxy/proxy_indemn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_indemn.txt) |
 | proxy_indexww | 8 | [proxy_indexww.txt](tunneling/proxy/proxy_indexww.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_indexww.txt) |
@@ -1321,7 +1324,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_janelia | 1 | [proxy_janelia.txt](tunneling/proxy/proxy_janelia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_janelia.txt) |
 | proxy_jcplatform | 1 | [proxy_jcplatform.txt](tunneling/proxy/proxy_jcplatform.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jcplatform.txt) |
 | proxy_jcrew | 2 | [proxy_jcrew.txt](tunneling/proxy/proxy_jcrew.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jcrew.txt) |
-| proxy_jd | 5 | [proxy_jd.txt](tunneling/proxy/proxy_jd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jd.txt) |
+| proxy_jd | 4 | [proxy_jd.txt](tunneling/proxy/proxy_jd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jd.txt) |
 | proxy_jdcloud | 1 | [proxy_jdcloud.txt](tunneling/proxy/proxy_jdcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jdcloud.txt) |
 | proxy_jdcloudwaf | 1 | [proxy_jdcloudwaf.txt](tunneling/proxy/proxy_jdcloudwaf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jdcloudwaf.txt) |
 | proxy_jdl | 1 | [proxy_jdl.txt](tunneling/proxy/proxy_jdl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_jdl.txt) |
@@ -1512,7 +1515,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_makeupyourminds | 1 | [proxy_makeupyourminds.txt](tunneling/proxy/proxy_makeupyourminds.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_makeupyourminds.txt) |
 | proxy_malwarebytes | 1 | [proxy_malwarebytes.txt](tunneling/proxy/proxy_malwarebytes.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_malwarebytes.txt) |
 | proxy_mam | 2 | [proxy_mam.txt](tunneling/proxy/proxy_mam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mam.txt) |
-| proxy_manulifesinochem | 1465 | [proxy_manulifesinochem.txt](tunneling/proxy/proxy_manulifesinochem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_manulifesinochem.txt) |
+| proxy_manulifesinochem | 1524 | [proxy_manulifesinochem.txt](tunneling/proxy/proxy_manulifesinochem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_manulifesinochem.txt) |
 | proxy_manutd | 1 | [proxy_manutd.txt](tunneling/proxy/proxy_manutd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_manutd.txt) |
 | proxy_maphub | 1 | [proxy_maphub.txt](tunneling/proxy/proxy_maphub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_maphub.txt) |
 | proxy_mapia | 1 | [proxy_mapia.txt](tunneling/proxy/proxy_mapia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mapia.txt) |
@@ -1588,7 +1591,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_miproximopaso | 1 | [proxy_miproximopaso.txt](tunneling/proxy/proxy_miproximopaso.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_miproximopaso.txt) |
 | proxy_mit | 1 | [proxy_mit.txt](tunneling/proxy/proxy_mit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mit.txt) |
 | proxy_mitvos | 1 | [proxy_mitvos.txt](tunneling/proxy/proxy_mitvos.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mitvos.txt) |
-| proxy_miui | 1 | [proxy_miui.txt](tunneling/proxy/proxy_miui.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_miui.txt) |
+| proxy_miui | 3 | [proxy_miui.txt](tunneling/proxy/proxy_miui.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_miui.txt) |
 | proxy_mixpanel | 1 | [proxy_mixpanel.txt](tunneling/proxy/proxy_mixpanel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mixpanel.txt) |
 | proxy_mkopa | 1 | [proxy_mkopa.txt](tunneling/proxy/proxy_mkopa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mkopa.txt) |
 | proxy_mmstat | 1 | [proxy_mmstat.txt](tunneling/proxy/proxy_mmstat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mmstat.txt) |
@@ -1628,9 +1631,9 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_mrf | 1 | [proxy_mrf.txt](tunneling/proxy/proxy_mrf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mrf.txt) |
 | proxy_ms | 1 | [proxy_ms.txt](tunneling/proxy/proxy_ms.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ms.txt) |
 | proxy_msap | 1 | [proxy_msap.txt](tunneling/proxy/proxy_msap.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msap.txt) |
-| proxy_msappproxy | 238 | [proxy_msappproxy.txt](tunneling/proxy/proxy_msappproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msappproxy.txt) |
+| proxy_msappproxy | 235 | [proxy_msappproxy.txt](tunneling/proxy/proxy_msappproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msappproxy.txt) |
 | proxy_mshome | 1 | [proxy_mshome.txt](tunneling/proxy/proxy_mshome.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mshome.txt) |
-| proxy_msidentity | 16 | [proxy_msidentity.txt](tunneling/proxy/proxy_msidentity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msidentity.txt) |
+| proxy_msidentity | 14 | [proxy_msidentity.txt](tunneling/proxy/proxy_msidentity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msidentity.txt) |
 | proxy_mskcc | 1 | [proxy_mskcc.txt](tunneling/proxy/proxy_mskcc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mskcc.txt) |
 | proxy_msoproxy | 1 | [proxy_msoproxy.txt](tunneling/proxy/proxy_msoproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_msoproxy.txt) |
 | proxy_mstrana | 1 | [proxy_mstrana.txt](tunneling/proxy/proxy_mstrana.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mstrana.txt) |
@@ -1661,16 +1664,16 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_myclientip | 1 | [proxy_myclientip.txt](tunneling/proxy/proxy_myclientip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myclientip.txt) |
 | proxy_mycrmsupport | 1 | [proxy_mycrmsupport.txt](tunneling/proxy/proxy_mycrmsupport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mycrmsupport.txt) |
 | proxy_myharmoney | 1 | [proxy_myharmoney.txt](tunneling/proxy/proxy_myharmoney.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myharmoney.txt) |
-| proxy_myhuaweicloud | 150 | [proxy_myhuaweicloud.txt](tunneling/proxy/proxy_myhuaweicloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myhuaweicloud.txt) |
+| proxy_myhuaweicloud | 160 | [proxy_myhuaweicloud.txt](tunneling/proxy/proxy_myhuaweicloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myhuaweicloud.txt) |
 | proxy_myidtravel | 1 | [proxy_myidtravel.txt](tunneling/proxy/proxy_myidtravel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myidtravel.txt) |
 | proxy_myisolved | 1 | [proxy_myisolved.txt](tunneling/proxy/proxy_myisolved.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myisolved.txt) |
 | proxy_mymanageraccount | 1 | [proxy_mymanageraccount.txt](tunneling/proxy/proxy_mymanageraccount.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mymanageraccount.txt) |
-| proxy_myoas | 5 | [proxy_myoas.txt](tunneling/proxy/proxy_myoas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myoas.txt) |
+| proxy_myoas | 1 | [proxy_myoas.txt](tunneling/proxy/proxy_myoas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myoas.txt) |
 | proxy_myphones | 4 | [proxy_myphones.txt](tunneling/proxy/proxy_myphones.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myphones.txt) |
 | proxy_myproxy | 1 | [proxy_myproxy.txt](tunneling/proxy/proxy_myproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myproxy.txt) |
 | proxy_mypurecloud | 1 | [proxy_mypurecloud.txt](tunneling/proxy/proxy_mypurecloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mypurecloud.txt) |
 | proxy_myqcloud | 1 | [proxy_myqcloud.txt](tunneling/proxy/proxy_myqcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myqcloud.txt) |
-| proxy_myshn | 9 | [proxy_myshn.txt](tunneling/proxy/proxy_myshn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myshn.txt) |
+| proxy_myshn | 8 | [proxy_myshn.txt](tunneling/proxy/proxy_myshn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myshn.txt) |
 | proxy_myshopify | 1 | [proxy_myshopify.txt](tunneling/proxy/proxy_myshopify.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_myshopify.txt) |
 | proxy_mysmartjobboard | 1 | [proxy_mysmartjobboard.txt](tunneling/proxy/proxy_mysmartjobboard.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mysmartjobboard.txt) |
 | proxy_mystnodes | 1 | [proxy_mystnodes.txt](tunneling/proxy/proxy_mystnodes.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_mystnodes.txt) |
@@ -1702,7 +1705,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ncsu | 2 | [proxy_ncsu.txt](tunneling/proxy/proxy_ncsu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ncsu.txt) |
 | proxy_nd | 1 | [proxy_nd.txt](tunneling/proxy/proxy_nd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nd.txt) |
 | proxy_ndmdhs | 3 | [proxy_ndmdhs.txt](tunneling/proxy/proxy_ndmdhs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ndmdhs.txt) |
-| proxy_ne | 5 | [proxy_ne.txt](tunneling/proxy/proxy_ne.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ne.txt) |
+| proxy_ne | 6 | [proxy_ne.txt](tunneling/proxy/proxy_ne.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ne.txt) |
 | proxy_nebulaproxy | 1 | [proxy_nebulaproxy.txt](tunneling/proxy/proxy_nebulaproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nebulaproxy.txt) |
 | proxy_necampush | 1 | [proxy_necampush.txt](tunneling/proxy/proxy_necampush.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_necampush.txt) |
 | proxy_neephostproxy | 1 | [proxy_neephostproxy.txt](tunneling/proxy/proxy_neephostproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_neephostproxy.txt) |
@@ -1712,7 +1715,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_net | 3 | [proxy_net.txt](tunneling/proxy/proxy_net.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_net.txt) |
 | proxy_netcdn | 1 | [proxy_netcdn.txt](tunneling/proxy/proxy_netcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netcdn.txt) |
 | proxy_netdeploy | 1 | [proxy_netdeploy.txt](tunneling/proxy/proxy_netdeploy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netdeploy.txt) |
-| proxy_netease | 43 | [proxy_netease.txt](tunneling/proxy/proxy_netease.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netease.txt) |
+| proxy_netease | 42 | [proxy_netease.txt](tunneling/proxy/proxy_netease.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netease.txt) |
 | proxy_netflix | 1 | [proxy_netflix.txt](tunneling/proxy/proxy_netflix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netflix.txt) |
 | proxy_netis | 1 | [proxy_netis.txt](tunneling/proxy/proxy_netis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netis.txt) |
 | proxy_netlify | 2 | [proxy_netlify.txt](tunneling/proxy/proxy_netlify.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_netlify.txt) |
@@ -1737,7 +1740,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_nicproxy | 1 | [proxy_nicproxy.txt](tunneling/proxy/proxy_nicproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nicproxy.txt) |
 | proxy_nih | 1 | [proxy_nih.txt](tunneling/proxy/proxy_nih.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nih.txt) |
 | proxy_nikecloud | 1 | [proxy_nikecloud.txt](tunneling/proxy/proxy_nikecloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nikecloud.txt) |
-| proxy_nineproxy | 2 | [proxy_nineproxy.txt](tunneling/proxy/proxy_nineproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nineproxy.txt) |
+| proxy_nineproxy | 1 | [proxy_nineproxy.txt](tunneling/proxy/proxy_nineproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nineproxy.txt) |
 | proxy_ninjaproxy1 | 1 | [proxy_ninjaproxy1.txt](tunneling/proxy/proxy_ninjaproxy1.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ninjaproxy1.txt) |
 | proxy_ninjatrader | 1 | [proxy_ninjatrader.txt](tunneling/proxy/proxy_ninjatrader.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ninjatrader.txt) |
 | proxy_ninjavpn | 1 | [proxy_ninjavpn.txt](tunneling/proxy/proxy_ninjavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ninjavpn.txt) |
@@ -1767,7 +1770,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_nova | 1 | [proxy_nova.txt](tunneling/proxy/proxy_nova.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nova.txt) |
 | proxy_novartis | 2 | [proxy_novartis.txt](tunneling/proxy/proxy_novartis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_novartis.txt) |
 | proxy_nowhereincoming | 1 | [proxy_nowhereincoming.txt](tunneling/proxy/proxy_nowhereincoming.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nowhereincoming.txt) |
-| proxy_nproxy | 8 | [proxy_nproxy.txt](tunneling/proxy/proxy_nproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nproxy.txt) |
+| proxy_nproxy | 6 | [proxy_nproxy.txt](tunneling/proxy/proxy_nproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nproxy.txt) |
 | proxy_nsocks | 1 | [proxy_nsocks.txt](tunneling/proxy/proxy_nsocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nsocks.txt) |
 | proxy_nsoft | 1 | [proxy_nsoft.txt](tunneling/proxy/proxy_nsoft.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nsoft.txt) |
 | proxy_nttdata | 1 | [proxy_nttdata.txt](tunneling/proxy/proxy_nttdata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_nttdata.txt) |
@@ -1784,7 +1787,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_o | 1 | [proxy_o.txt](tunneling/proxy/proxy_o.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_o.txt) |
 | proxy_o2tv | 1 | [proxy_o2tv.txt](tunneling/proxy/proxy_o2tv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_o2tv.txt) |
 | proxy_obrio | 1 | [proxy_obrio.txt](tunneling/proxy/proxy_obrio.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_obrio.txt) |
-| proxy_obspm | 6 | [proxy_obspm.txt](tunneling/proxy/proxy_obspm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_obspm.txt) |
+| proxy_obspm | 7 | [proxy_obspm.txt](tunneling/proxy/proxy_obspm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_obspm.txt) |
 | proxy_ocha | 2 | [proxy_ocha.txt](tunneling/proxy/proxy_ocha.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ocha.txt) |
 | proxy_oclc | 2 | [proxy_oclc.txt](tunneling/proxy/proxy_oclc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_oclc.txt) |
 | proxy_ocls | 1 | [proxy_ocls.txt](tunneling/proxy/proxy_ocls.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ocls.txt) |
@@ -1798,7 +1801,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_odoo | 1 | [proxy_odoo.txt](tunneling/proxy/proxy_odoo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_odoo.txt) |
 | proxy_odu | 1 | [proxy_odu.txt](tunneling/proxy/proxy_odu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_odu.txt) |
 | proxy_oeconnection | 1 | [proxy_oeconnection.txt](tunneling/proxy/proxy_oeconnection.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_oeconnection.txt) |
-| proxy_office | 829 | [proxy_office.txt](tunneling/proxy/proxy_office.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_office.txt) |
+| proxy_office | 828 | [proxy_office.txt](tunneling/proxy/proxy_office.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_office.txt) |
 | proxy_office365 | 16 | [proxy_office365.txt](tunneling/proxy/proxy_office365.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_office365.txt) |
 | proxy_offis | 1 | [proxy_offis.txt](tunneling/proxy/proxy_offis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_offis.txt) |
 | proxy_og | 3 | [proxy_og.txt](tunneling/proxy/proxy_og.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_og.txt) |
@@ -1839,9 +1842,9 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ookapp | 1 | [proxy_ookapp.txt](tunneling/proxy/proxy_ookapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ookapp.txt) |
 | proxy_oomacslproxy | 2 | [proxy_oomacslproxy.txt](tunneling/proxy/proxy_oomacslproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_oomacslproxy.txt) |
 | proxy_openaire | 2 | [proxy_openaire.txt](tunneling/proxy/proxy_openaire.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_openaire.txt) |
-| proxy_openathens | 2 | [proxy_openathens.txt](tunneling/proxy/proxy_openathens.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_openathens.txt) |
+| proxy_openathens | 3 | [proxy_openathens.txt](tunneling/proxy/proxy_openathens.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_openathens.txt) |
 | proxy_opendle | 1 | [proxy_opendle.txt](tunneling/proxy/proxy_opendle.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_opendle.txt) |
-| proxy_opendns | 111 | [proxy_opendns.txt](tunneling/proxy/proxy_opendns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_opendns.txt) |
+| proxy_opendns | 114 | [proxy_opendns.txt](tunneling/proxy/proxy_opendns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_opendns.txt) |
 | proxy_opendnstest | 9 | [proxy_opendnstest.txt](tunneling/proxy/proxy_opendnstest.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_opendnstest.txt) |
 | proxy_openevidence | 1 | [proxy_openevidence.txt](tunneling/proxy/proxy_openevidence.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_openevidence.txt) |
 | proxy_openfoodfacts | 1 | [proxy_openfoodfacts.txt](tunneling/proxy/proxy_openfoodfacts.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_openfoodfacts.txt) |
@@ -1978,7 +1981,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_pncint | 2 | [proxy_pncint.txt](tunneling/proxy/proxy_pncint.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pncint.txt) |
 | proxy_pnetvi | 1 | [proxy_pnetvi.txt](tunneling/proxy/proxy_pnetvi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pnetvi.txt) |
 | proxy_points | 1 | [proxy_points.txt](tunneling/proxy/proxy_points.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_points.txt) |
-| proxy_poka | 5 | [proxy_poka.txt](tunneling/proxy/proxy_poka.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_poka.txt) |
+| proxy_poka | 4 | [proxy_poka.txt](tunneling/proxy/proxy_poka.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_poka.txt) |
 | proxy_pokebeacon | 1 | [proxy_pokebeacon.txt](tunneling/proxy/proxy_pokebeacon.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pokebeacon.txt) |
 | proxy_poketube | 1 | [proxy_poketube.txt](tunneling/proxy/proxy_poketube.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_poketube.txt) |
 | proxy_polsl | 1 | [proxy_polsl.txt](tunneling/proxy/proxy_polsl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_polsl.txt) |
@@ -1988,7 +1991,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_popbela | 1 | [proxy_popbela.txt](tunneling/proxy/proxy_popbela.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_popbela.txt) |
 | proxy_popmama | 1 | [proxy_popmama.txt](tunneling/proxy/proxy_popmama.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_popmama.txt) |
 | proxy_poponote | 1 | [proxy_poponote.txt](tunneling/proxy/proxy_poponote.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_poponote.txt) |
-| proxy_pornproxy | 9 | [proxy_pornproxy.txt](tunneling/proxy/proxy_pornproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pornproxy.txt) |
+| proxy_pornproxy | 12 | [proxy_pornproxy.txt](tunneling/proxy/proxy_pornproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pornproxy.txt) |
 | proxy_pornproxysite | 1 | [proxy_pornproxysite.txt](tunneling/proxy/proxy_pornproxysite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pornproxysite.txt) |
 | proxy_portalsurfsecurity | 1 | [proxy_portalsurfsecurity.txt](tunneling/proxy/proxy_portalsurfsecurity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_portalsurfsecurity.txt) |
 | proxy_portofmiamitunnel | 1 | [proxy_portofmiamitunnel.txt](tunneling/proxy/proxy_portofmiamitunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_portofmiamitunnel.txt) |
@@ -2011,7 +2014,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_prismaaccess | 7 | [proxy_prismaaccess.txt](tunneling/proxy/proxy_prismaaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prismaaccess.txt) |
 | proxy_prismadata | 1 | [proxy_prismadata.txt](tunneling/proxy/proxy_prismadata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prismadata.txt) |
 | proxy_privado | 1 | [proxy_privado.txt](tunneling/proxy/proxy_privado.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privado.txt) |
-| proxy_privateinternetaccess | 18 | [proxy_privateinternetaccess.txt](tunneling/proxy/proxy_privateinternetaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privateinternetaccess.txt) |
+| proxy_privateinternetaccess | 1 | [proxy_privateinternetaccess.txt](tunneling/proxy/proxy_privateinternetaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privateinternetaccess.txt) |
 | proxy_privateinternetbrowsing | 1 | [proxy_privateinternetbrowsing.txt](tunneling/proxy/proxy_privateinternetbrowsing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privateinternetbrowsing.txt) |
 | proxy_privateproxyguide | 2 | [proxy_privateproxyguide.txt](tunneling/proxy/proxy_privateproxyguide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privateproxyguide.txt) |
 | proxy_privateproxyreviews | 1 | [proxy_privateproxyreviews.txt](tunneling/proxy/proxy_privateproxyreviews.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_privateproxyreviews.txt) |
@@ -2030,7 +2033,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_protective | 1 | [proxy_protective.txt](tunneling/proxy/proxy_protective.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_protective.txt) |
 | proxy_prox | 1 | [proxy_prox.txt](tunneling/proxy/proxy_prox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prox.txt) |
 | proxy_prox55 | 1 | [proxy_prox55.txt](tunneling/proxy/proxy_prox55.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prox55.txt) |
-| proxy_proxad | 10 | [proxy_proxad.txt](tunneling/proxy/proxy_proxad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxad.txt) |
+| proxy_proxad | 9 | [proxy_proxad.txt](tunneling/proxy/proxy_proxad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxad.txt) |
 | proxy_proxcskiing | 1 | [proxy_proxcskiing.txt](tunneling/proxy/proxy_proxcskiing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxcskiing.txt) |
 | proxy_proxdev | 1 | [proxy_proxdev.txt](tunneling/proxy/proxy_proxdev.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxdev.txt) |
 | proxy_proxdirect | 2 | [proxy_proxdirect.txt](tunneling/proxy/proxy_proxdirect.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxdirect.txt) |
@@ -2043,7 +2046,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxglobal | 2 | [proxy_proxglobal.txt](tunneling/proxy/proxy_proxglobal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxglobal.txt) |
 | proxy_proxgroup | 1 | [proxy_proxgroup.txt](tunneling/proxy/proxy_proxgroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxgroup.txt) |
 | proxy_proxh | 1 | [proxy_proxh.txt](tunneling/proxy/proxy_proxh.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxh.txt) |
-| proxy_proxi | 2 | [proxy_proxi.txt](tunneling/proxy/proxy_proxi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxi.txt) |
+| proxy_proxi | 3 | [proxy_proxi.txt](tunneling/proxy/proxy_proxi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxi.txt) |
 | proxy_proxiad | 1 | [proxy_proxiad.txt](tunneling/proxy/proxy_proxiad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxiad.txt) |
 | proxy_proxibid | 3 | [proxy_proxibid.txt](tunneling/proxy/proxy_proxibid.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxibid.txt) |
 | proxy_proxibienetre | 2 | [proxy_proxibienetre.txt](tunneling/proxy/proxy_proxibienetre.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxibienetre.txt) |
@@ -2100,7 +2103,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxivacloud | 1 | [proxy_proxivacloud.txt](tunneling/proxy/proxy_proxivacloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxivacloud.txt) |
 | proxy_proxiware | 2 | [proxy_proxiware.txt](tunneling/proxy/proxy_proxiware.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxiware.txt) |
 | proxy_proxkeyupdate | 1 | [proxy_proxkeyupdate.txt](tunneling/proxy/proxy_proxkeyupdate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxkeyupdate.txt) |
-| proxy_proxmox | 25 | [proxy_proxmox.txt](tunneling/proxy/proxy_proxmox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxmox.txt) |
+| proxy_proxmox | 23 | [proxy_proxmox.txt](tunneling/proxy/proxy_proxmox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxmox.txt) |
 | proxy_proxnetworkphpadmin | 1 | [proxy_proxnetworkphpadmin.txt](tunneling/proxy/proxy_proxnetworkphpadmin.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxnetworkphpadmin.txt) |
 | proxy_proxnutrition | 1 | [proxy_proxnutrition.txt](tunneling/proxy/proxy_proxnutrition.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxnutrition.txt) |
 | proxy_proxoexploits | 1 | [proxy_proxoexploits.txt](tunneling/proxy/proxy_proxoexploits.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxoexploits.txt) |
@@ -2122,9 +2125,9 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxy4mmo | 1 | [proxy_proxy4mmo.txt](tunneling/proxy/proxy_proxy4mmo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxy4mmo.txt) |
 | proxy_proxy6 | 1 | [proxy_proxy6.txt](tunneling/proxy/proxy_proxy6.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxy6.txt) |
 | proxy_proxy777 | 1 | [proxy_proxy777.txt](tunneling/proxy/proxy_proxy777.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxy777.txt) |
-| proxy_proxyadult | 8 | [proxy_proxyadult.txt](tunneling/proxy/proxy_proxyadult.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyadult.txt) |
+| proxy_proxyadult | 11 | [proxy_proxyadult.txt](tunneling/proxy/proxy_proxyadult.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyadult.txt) |
 | proxy_proxyadvisorwatch | 1 | [proxy_proxyadvisorwatch.txt](tunneling/proxy/proxy_proxyadvisorwatch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyadvisorwatch.txt) |
-| proxy_proxyair | 1 | [proxy_proxyair.txt](tunneling/proxy/proxy_proxyair.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyair.txt) |
+| proxy_proxyair | 2 | [proxy_proxyair.txt](tunneling/proxy/proxy_proxyair.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyair.txt) |
 | proxy_proxyatlas | 1 | [proxy_proxyatlas.txt](tunneling/proxy/proxy_proxyatlas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyatlas.txt) |
 | proxy_proxyaz | 1 | [proxy_proxyaz.txt](tunneling/proxy/proxy_proxyaz.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyaz.txt) |
 | proxy_proxybase | 1 | [proxy_proxybase.txt](tunneling/proxy/proxy_proxybase.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxybase.txt) |
@@ -2133,7 +2136,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxyblind | 1 | [proxy_proxyblind.txt](tunneling/proxy/proxy_proxyblind.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyblind.txt) |
 | proxy_proxycheap | 2 | [proxy_proxycheap.txt](tunneling/proxy/proxy_proxycheap.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxycheap.txt) |
 | proxy_proxycheck | 1 | [proxy_proxycheck.txt](tunneling/proxy/proxy_proxycheck.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxycheck.txt) |
-| proxy_proxyclick | 5 | [proxy_proxyclick.txt](tunneling/proxy/proxy_proxyclick.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyclick.txt) |
+| proxy_proxyclick | 3 | [proxy_proxyclick.txt](tunneling/proxy/proxy_proxyclick.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyclick.txt) |
 | proxy_proxyclickextender | 2 | [proxy_proxyclickextender.txt](tunneling/proxy/proxy_proxyclickextender.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyclickextender.txt) |
 | proxy_proxyclickinternal | 1 | [proxy_proxyclickinternal.txt](tunneling/proxy/proxy_proxyclickinternal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyclickinternal.txt) |
 | proxy_proxyclient | 2 | [proxy_proxyclient.txt](tunneling/proxy/proxy_proxyclient.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyclient.txt) |
@@ -2174,6 +2177,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxymatter | 1 | [proxy_proxymatter.txt](tunneling/proxy/proxy_proxymatter.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymatter.txt) |
 | proxy_proxymax | 1 | [proxy_proxymax.txt](tunneling/proxy/proxy_proxymax.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymax.txt) |
 | proxy_proxymidad | 1 | [proxy_proxymidad.txt](tunneling/proxy/proxy_proxymidad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymidad.txt) |
+| proxy_proxymirror | 1 | [proxy_proxymirror.txt](tunneling/proxy/proxy_proxymirror.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymirror.txt) |
 | proxy_proxymity | 1 | [proxy_proxymity.txt](tunneling/proxy/proxy_proxymity.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymity.txt) |
 | proxy_proxymtproto | 1 | [proxy_proxymtproto.txt](tunneling/proxy/proxy_proxymtproto.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymtproto.txt) |
 | proxy_proxymule | 2 | [proxy_proxymule.txt](tunneling/proxy/proxy_proxymule.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxymule.txt) |
@@ -2195,7 +2199,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxyprintery | 1 | [proxy_proxyprintery.txt](tunneling/proxy/proxy_proxyprintery.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyprintery.txt) |
 | proxy_proxyprosto | 1 | [proxy_proxyprosto.txt](tunneling/proxy/proxy_proxyprosto.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyprosto.txt) |
 | proxy_proxypush | 2 | [proxy_proxypush.txt](tunneling/proxy/proxy_proxypush.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxypush.txt) |
-| proxy_proxyrack | 2 | [proxy_proxyrack.txt](tunneling/proxy/proxy_proxyrack.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyrack.txt) |
+| proxy_proxyrack | 3 | [proxy_proxyrack.txt](tunneling/proxy/proxy_proxyrack.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyrack.txt) |
 | proxy_proxyreview | 2 | [proxy_proxyreview.txt](tunneling/proxy/proxy_proxyreview.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyreview.txt) |
 | proxy_proxyrise | 1 | [proxy_proxyrise.txt](tunneling/proxy/proxy_proxyrise.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyrise.txt) |
 | proxy_proxyrisk | 2 | [proxy_proxyrisk.txt](tunneling/proxy/proxy_proxyrisk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyrisk.txt) |
@@ -2204,13 +2208,13 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxys | 1 | [proxy_proxys.txt](tunneling/proxy/proxy_proxys.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxys.txt) |
 | proxy_proxysb | 1 | [proxy_proxysb.txt](tunneling/proxy/proxy_proxysb.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysb.txt) |
 | proxy_proxyscan | 1 | [proxy_proxyscan.txt](tunneling/proxy/proxy_proxyscan.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyscan.txt) |
-| proxy_proxyscrape | 1 | [proxy_proxyscrape.txt](tunneling/proxy/proxy_proxyscrape.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyscrape.txt) |
+| proxy_proxyscrape | 2 | [proxy_proxyscrape.txt](tunneling/proxy/proxy_proxyscrape.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyscrape.txt) |
 | proxy_proxysday | 2 | [proxy_proxysday.txt](tunneling/proxy/proxy_proxysday.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysday.txt) |
 | proxy_proxysdk | 5 | [proxy_proxysdk.txt](tunneling/proxy/proxy_proxysdk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysdk.txt) |
 | proxy_proxyseller | 1 | [proxy_proxyseller.txt](tunneling/proxy/proxy_proxyseller.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyseller.txt) |
 | proxy_proxyserverlist24 | 1 | [proxy_proxyserverlist24.txt](tunneling/proxy/proxy_proxyserverlist24.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyserverlist24.txt) |
 | proxy_proxysheep | 1 | [proxy_proxysheep.txt](tunneling/proxy/proxy_proxysheep.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysheep.txt) |
-| proxy_proxysite | 26 | [proxy_proxysite.txt](tunneling/proxy/proxy_proxysite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysite.txt) |
+| proxy_proxysite | 37 | [proxy_proxysite.txt](tunneling/proxy/proxy_proxysite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysite.txt) |
 | proxy_proxysites | 1 | [proxy_proxysites.txt](tunneling/proxy/proxy_proxysites.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysites.txt) |
 | proxy_proxysocks5 | 1 | [proxy_proxysocks5.txt](tunneling/proxy/proxy_proxysocks5.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxysocks5.txt) |
 | proxy_proxyspace | 2 | [proxy_proxyspace.txt](tunneling/proxy/proxy_proxyspace.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyspace.txt) |
@@ -2229,12 +2233,12 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_proxyu | 1 | [proxy_proxyu.txt](tunneling/proxy/proxy_proxyu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyu.txt) |
 | proxy_proxyunblocker | 2 | [proxy_proxyunblocker.txt](tunneling/proxy/proxy_proxyunblocker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyunblocker.txt) |
 | proxy_proxyvan | 1 | [proxy_proxyvan.txt](tunneling/proxy/proxy_proxyvan.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyvan.txt) |
-| proxy_proxyvote | 3 | [proxy_proxyvote.txt](tunneling/proxy/proxy_proxyvote.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyvote.txt) |
+| proxy_proxyvote | 1 | [proxy_proxyvote.txt](tunneling/proxy/proxy_proxyvote.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyvote.txt) |
 | proxy_proxyvotinginfo | 1 | [proxy_proxyvotinginfo.txt](tunneling/proxy/proxy_proxyvotinginfo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyvotinginfo.txt) |
 | proxy_proxyway | 1 | [proxy_proxyway.txt](tunneling/proxy/proxy_proxyway.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyway.txt) |
 | proxy_proxywoodbox | 6 | [proxy_proxywoodbox.txt](tunneling/proxy/proxy_proxywoodbox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxywoodbox.txt) |
 | proxy_proxyyoutube | 1 | [proxy_proxyyoutube.txt](tunneling/proxy/proxy_proxyyoutube.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_proxyyoutube.txt) |
-| proxy_prudential | 3 | [proxy_prudential.txt](tunneling/proxy/proxy_prudential.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prudential.txt) |
+| proxy_prudential | 6 | [proxy_prudential.txt](tunneling/proxy/proxy_prudential.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_prudential.txt) |
 | proxy_pscp | 2 | [proxy_pscp.txt](tunneling/proxy/proxy_pscp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pscp.txt) |
 | proxy_publive | 1 | [proxy_publive.txt](tunneling/proxy/proxy_publive.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_publive.txt) |
 | proxy_pubproxy | 1 | [proxy_pubproxy.txt](tunneling/proxy/proxy_pubproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_pubproxy.txt) |
@@ -2255,7 +2259,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_qizhihaotian | 1 | [proxy_qizhihaotian.txt](tunneling/proxy/proxy_qizhihaotian.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qizhihaotian.txt) |
 | proxy_qlivecdn | 1 | [proxy_qlivecdn.txt](tunneling/proxy/proxy_qlivecdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qlivecdn.txt) |
 | proxy_qorushub | 1 | [proxy_qorushub.txt](tunneling/proxy/proxy_qorushub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qorushub.txt) |
-| proxy_qq | 5 | [proxy_qq.txt](tunneling/proxy/proxy_qq.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qq.txt) |
+| proxy_qq | 6 | [proxy_qq.txt](tunneling/proxy/proxy_qq.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qq.txt) |
 | proxy_qqa678 | 1 | [proxy_qqa678.txt](tunneling/proxy/proxy_qqa678.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qqa678.txt) |
 | proxy_qrvpn | 1 | [proxy_qrvpn.txt](tunneling/proxy/proxy_qrvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qrvpn.txt) |
 | proxy_qs | 1 | [proxy_qs.txt](tunneling/proxy/proxy_qs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_qs.txt) |
@@ -2357,7 +2361,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_rubrik | 2 | [proxy_rubrik.txt](tunneling/proxy/proxy_rubrik.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_rubrik.txt) |
 | proxy_ruckus | 1 | [proxy_ruckus.txt](tunneling/proxy/proxy_ruckus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ruckus.txt) |
 | proxy_rug | 1 | [proxy_rug.txt](tunneling/proxy/proxy_rug.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_rug.txt) |
-| proxy_run | 5 | [proxy_run.txt](tunneling/proxy/proxy_run.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_run.txt) |
+| proxy_run | 6 | [proxy_run.txt](tunneling/proxy/proxy_run.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_run.txt) |
 | proxy_runpod | 1 | [proxy_runpod.txt](tunneling/proxy/proxy_runpod.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_runpod.txt) |
 | proxy_runxinlvye | 1 | [proxy_runxinlvye.txt](tunneling/proxy/proxy_runxinlvye.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_runxinlvye.txt) |
 | proxy_rush | 1 | [proxy_rush.txt](tunneling/proxy/proxy_rush.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_rush.txt) |
@@ -2465,7 +2469,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_shortn | 1 | [proxy_shortn.txt](tunneling/proxy/proxy_shortn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_shortn.txt) |
 | proxy_showmyproxy | 1 | [proxy_showmyproxy.txt](tunneling/proxy/proxy_showmyproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_showmyproxy.txt) |
 | proxy_showpad | 1 | [proxy_showpad.txt](tunneling/proxy/proxy_showpad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_showpad.txt) |
-| proxy_shutterstock | 2 | [proxy_shutterstock.txt](tunneling/proxy/proxy_shutterstock.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_shutterstock.txt) |
+| proxy_shutterstock | 1 | [proxy_shutterstock.txt](tunneling/proxy/proxy_shutterstock.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_shutterstock.txt) |
 | proxy_sidearmsports | 1 | [proxy_sidearmsports.txt](tunneling/proxy/proxy_sidearmsports.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sidearmsports.txt) |
 | proxy_siemens | 2 | [proxy_siemens.txt](tunneling/proxy/proxy_siemens.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_siemens.txt) |
 | proxy_sighnaghi | 1 | [proxy_sighnaghi.txt](tunneling/proxy/proxy_sighnaghi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sighnaghi.txt) |
@@ -2491,7 +2495,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_skipthedishes | 1 | [proxy_skipthedishes.txt](tunneling/proxy/proxy_skipthedishes.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_skipthedishes.txt) |
 | proxy_sky | 1 | [proxy_sky.txt](tunneling/proxy/proxy_sky.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sky.txt) |
 | proxy_skyairline | 1 | [proxy_skyairline.txt](tunneling/proxy/proxy_skyairline.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_skyairline.txt) |
-| proxy_skype | 23 | [proxy_skype.txt](tunneling/proxy/proxy_skype.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_skype.txt) |
+| proxy_skype | 47 | [proxy_skype.txt](tunneling/proxy/proxy_skype.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_skype.txt) |
 | proxy_skypicker | 1 | [proxy_skypicker.txt](tunneling/proxy/proxy_skypicker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_skypicker.txt) |
 | proxy_slackcallbacksproxy | 1 | [proxy_slackcallbacksproxy.txt](tunneling/proxy/proxy_slackcallbacksproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_slackcallbacksproxy.txt) |
 | proxy_slackcallbacksproxydev | 1 | [proxy_slackcallbacksproxydev.txt](tunneling/proxy/proxy_slackcallbacksproxydev.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_slackcallbacksproxydev.txt) |
@@ -2530,6 +2534,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_so | 2 | [proxy_so.txt](tunneling/proxy/proxy_so.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_so.txt) |
 | proxy_soax | 1 | [proxy_soax.txt](tunneling/proxy/proxy_soax.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_soax.txt) |
 | proxy_socialassurance | 1 | [proxy_socialassurance.txt](tunneling/proxy/proxy_socialassurance.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_socialassurance.txt) |
+| proxy_socks4u | 1 | [proxy_socks4u.txt](tunneling/proxy/proxy_socks4u.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_socks4u.txt) |
 | proxy_socks5 | 1 | [proxy_socks5.txt](tunneling/proxy/proxy_socks5.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_socks5.txt) |
 | proxy_socksappealshop | 1 | [proxy_socksappealshop.txt](tunneling/proxy/proxy_socksappealshop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_socksappealshop.txt) |
 | proxy_sockscap64 | 2 | [proxy_sockscap64.txt](tunneling/proxy/proxy_sockscap64.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sockscap64.txt) |
@@ -2550,7 +2555,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_solaredge | 1 | [proxy_solaredge.txt](tunneling/proxy/proxy_solaredge.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_solaredge.txt) |
 | proxy_solmatesocks | 1 | [proxy_solmatesocks.txt](tunneling/proxy/proxy_solmatesocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_solmatesocks.txt) |
 | proxy_solutionhealth | 2 | [proxy_solutionhealth.txt](tunneling/proxy/proxy_solutionhealth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_solutionhealth.txt) |
-| proxy_sophos | 2 | [proxy_sophos.txt](tunneling/proxy/proxy_sophos.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sophos.txt) |
+| proxy_sophos | 4 | [proxy_sophos.txt](tunneling/proxy/proxy_sophos.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sophos.txt) |
 | proxy_sosafe | 1 | [proxy_sosafe.txt](tunneling/proxy/proxy_sosafe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sosafe.txt) |
 | proxy_sosproxy | 1 | [proxy_sosproxy.txt](tunneling/proxy/proxy_sosproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sosproxy.txt) |
 | proxy_southcoast | 1 | [proxy_southcoast.txt](tunneling/proxy/proxy_southcoast.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_southcoast.txt) |
@@ -2621,7 +2626,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_strpst | 1 | [proxy_strpst.txt](tunneling/proxy/proxy_strpst.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_strpst.txt) |
 | proxy_stunnel | 1 | [proxy_stunnel.txt](tunneling/proxy/proxy_stunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_stunnel.txt) |
 | proxy_su89cdn | 1 | [proxy_su89cdn.txt](tunneling/proxy/proxy_su89cdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_su89cdn.txt) |
-| proxy_subsplash | 1 | [proxy_subsplash.txt](tunneling/proxy/proxy_subsplash.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_subsplash.txt) |
+| proxy_subsplash | 2 | [proxy_subsplash.txt](tunneling/proxy/proxy_subsplash.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_subsplash.txt) |
 | proxy_sucai999 | 1 | [proxy_sucai999.txt](tunneling/proxy/proxy_sucai999.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sucai999.txt) |
 | proxy_sunbit | 1 | [proxy_sunbit.txt](tunneling/proxy/proxy_sunbit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_sunbit.txt) |
 | proxy_suning | 1 | [proxy_suning.txt](tunneling/proxy/proxy_suning.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_suning.txt) |
@@ -2703,7 +2708,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_telekarelia | 2 | [proxy_telekarelia.txt](tunneling/proxy/proxy_telekarelia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_telekarelia.txt) |
 | proxy_telephony | 1 | [proxy_telephony.txt](tunneling/proxy/proxy_telephony.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_telephony.txt) |
 | proxy_teltonikanetworks | 1 | [proxy_teltonikanetworks.txt](tunneling/proxy/proxy_teltonikanetworks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_teltonikanetworks.txt) |
-| proxy_telus | 3 | [proxy_telus.txt](tunneling/proxy/proxy_telus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_telus.txt) |
+| proxy_telus | 2 | [proxy_telus.txt](tunneling/proxy/proxy_telus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_telus.txt) |
 | proxy_telwbion | 1 | [proxy_telwbion.txt](tunneling/proxy/proxy_telwbion.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_telwbion.txt) |
 | proxy_tempeschools | 1 | [proxy_tempeschools.txt](tunneling/proxy/proxy_tempeschools.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tempeschools.txt) |
 | proxy_tempo | 1 | [proxy_tempo.txt](tunneling/proxy/proxy_tempo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tempo.txt) |
@@ -2762,7 +2767,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_timehop | 1 | [proxy_timehop.txt](tunneling/proxy/proxy_timehop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_timehop.txt) |
 | proxy_tinhte | 1 | [proxy_tinhte.txt](tunneling/proxy/proxy_tinhte.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tinhte.txt) |
 | proxy_tiresocks | 1 | [proxy_tiresocks.txt](tunneling/proxy/proxy_tiresocks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tiresocks.txt) |
-| proxy_tivoservice | 1 | [proxy_tivoservice.txt](tunneling/proxy/proxy_tivoservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tivoservice.txt) |
+| proxy_tivoservice | 3 | [proxy_tivoservice.txt](tunneling/proxy/proxy_tivoservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tivoservice.txt) |
 | proxy_tiyalive | 1 | [proxy_tiyalive.txt](tunneling/proxy/proxy_tiyalive.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tiyalive.txt) |
 | proxy_tjournal | 1 | [proxy_tjournal.txt](tunneling/proxy/proxy_tjournal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tjournal.txt) |
 | proxy_tlstunnel | 2 | [proxy_tlstunnel.txt](tunneling/proxy/proxy_tlstunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tlstunnel.txt) |
@@ -2795,7 +2800,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_tradera | 1 | [proxy_tradera.txt](tunneling/proxy/proxy_tradera.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tradera.txt) |
 | proxy_traderepublic | 1 | [proxy_traderepublic.txt](tunneling/proxy/proxy_traderepublic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_traderepublic.txt) |
 | proxy_tradingscreen | 1 | [proxy_tradingscreen.txt](tunneling/proxy/proxy_tradingscreen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tradingscreen.txt) |
-| proxy_trafficmanager | 62 | [proxy_trafficmanager.txt](tunneling/proxy/proxy_trafficmanager.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trafficmanager.txt) |
+| proxy_trafficmanager | 59 | [proxy_trafficmanager.txt](tunneling/proxy/proxy_trafficmanager.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trafficmanager.txt) |
 | proxy_trakio | 1 | [proxy_trakio.txt](tunneling/proxy/proxy_trakio.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trakio.txt) |
 | proxy_trane | 1 | [proxy_trane.txt](tunneling/proxy/proxy_trane.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trane.txt) |
 | proxy_transdev | 1 | [proxy_transdev.txt](tunneling/proxy/proxy_transdev.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_transdev.txt) |
@@ -2805,7 +2810,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_trendmicro | 2 | [proxy_trendmicro.txt](tunneling/proxy/proxy_trendmicro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trendmicro.txt) |
 | proxy_trgsolutions | 1 | [proxy_trgsolutions.txt](tunneling/proxy/proxy_trgsolutions.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trgsolutions.txt) |
 | proxy_trioproxy | 2 | [proxy_trioproxy.txt](tunneling/proxy/proxy_trioproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trioproxy.txt) |
-| proxy_triplinkintl | 52 | [proxy_triplinkintl.txt](tunneling/proxy/proxy_triplinkintl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_triplinkintl.txt) |
+| proxy_triplinkintl | 64 | [proxy_triplinkintl.txt](tunneling/proxy/proxy_triplinkintl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_triplinkintl.txt) |
 | proxy_trmtunnel | 1 | [proxy_trmtunnel.txt](tunneling/proxy/proxy_trmtunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trmtunnel.txt) |
 | proxy_trtest | 1 | [proxy_trtest.txt](tunneling/proxy/proxy_trtest.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trtest.txt) |
 | proxy_trubridge | 1 | [proxy_trubridge.txt](tunneling/proxy/proxy_trubridge.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_trubridge.txt) |
@@ -2849,7 +2854,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_turbotunnel | 2 | [proxy_turbotunnel.txt](tunneling/proxy/proxy_turbotunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_turbotunnel.txt) |
 | proxy_turn | 1 | [proxy_turn.txt](tunneling/proxy/proxy_turn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_turn.txt) |
 | proxy_tutu | 1 | [proxy_tutu.txt](tunneling/proxy/proxy_tutu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tutu.txt) |
-| proxy_tv2api | 1 | [proxy_tv2api.txt](tunneling/proxy/proxy_tv2api.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tv2api.txt) |
+| proxy_tv2api | 2 | [proxy_tv2api.txt](tunneling/proxy/proxy_tv2api.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tv2api.txt) |
 | proxy_tv2dev | 1 | [proxy_tv2dev.txt](tunneling/proxy/proxy_tv2dev.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tv2dev.txt) |
 | proxy_tvtropes | 1 | [proxy_tvtropes.txt](tunneling/proxy/proxy_tvtropes.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tvtropes.txt) |
 | proxy_tweettunnel | 3 | [proxy_tweettunnel.txt](tunneling/proxy/proxy_tweettunnel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_tweettunnel.txt) |
@@ -2883,7 +2888,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_ultimateworkoutapp | 1 | [proxy_ultimateworkoutapp.txt](tunneling/proxy/proxy_ultimateworkoutapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ultimateworkoutapp.txt) |
 | proxy_ultraport | 1 | [proxy_ultraport.txt](tunneling/proxy/proxy_ultraport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_ultraport.txt) |
 | proxy_uma | 1 | [proxy_uma.txt](tunneling/proxy/proxy_uma.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_uma.txt) |
-| proxy_umbrella | 16 | [proxy_umbrella.txt](tunneling/proxy/proxy_umbrella.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_umbrella.txt) |
+| proxy_umbrella | 18 | [proxy_umbrella.txt](tunneling/proxy/proxy_umbrella.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_umbrella.txt) |
 | proxy_umc | 1 | [proxy_umc.txt](tunneling/proxy/proxy_umc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_umc.txt) |
 | proxy_umd | 1 | [proxy_umd.txt](tunneling/proxy/proxy_umd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_umd.txt) |
 | proxy_umgc | 1 | [proxy_umgc.txt](tunneling/proxy/proxy_umgc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_umgc.txt) |
@@ -2981,7 +2986,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_visa | 23 | [proxy_visa.txt](tunneling/proxy/proxy_visa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_visa.txt) |
 | proxy_visitmycityfor365days | 1 | [proxy_visitmycityfor365days.txt](tunneling/proxy/proxy_visitmycityfor365days.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_visitmycityfor365days.txt) |
 | proxy_vismaonline | 1 | [proxy_vismaonline.txt](tunneling/proxy/proxy_vismaonline.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vismaonline.txt) |
-| proxy_visualstudio | 4 | [proxy_visualstudio.txt](tunneling/proxy/proxy_visualstudio.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_visualstudio.txt) |
+| proxy_visualstudio | 5 | [proxy_visualstudio.txt](tunneling/proxy/proxy_visualstudio.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_visualstudio.txt) |
 | proxy_visualvault | 1 | [proxy_visualvault.txt](tunneling/proxy/proxy_visualvault.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_visualvault.txt) |
 | proxy_vitalit | 1 | [proxy_vitalit.txt](tunneling/proxy/proxy_vitalit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vitalit.txt) |
 | proxy_vivaprox | 1 | [proxy_vivaprox.txt](tunneling/proxy/proxy_vivaprox.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vivaprox.txt) |
@@ -2996,7 +3001,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_vkvideo | 1 | [proxy_vkvideo.txt](tunneling/proxy/proxy_vkvideo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vkvideo.txt) |
 | proxy_vlaanderen | 1 | [proxy_vlaanderen.txt](tunneling/proxy/proxy_vlaanderen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vlaanderen.txt) |
 | proxy_vlp | 1 | [proxy_vlp.txt](tunneling/proxy/proxy_vlp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vlp.txt) |
-| proxy_vmsproxy | 28 | [proxy_vmsproxy.txt](tunneling/proxy/proxy_vmsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vmsproxy.txt) |
+| proxy_vmsproxy | 30 | [proxy_vmsproxy.txt](tunneling/proxy/proxy_vmsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vmsproxy.txt) |
 | proxy_vmwservices | 1 | [proxy_vmwservices.txt](tunneling/proxy/proxy_vmwservices.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vmwservices.txt) |
 | proxy_vnggames | 1 | [proxy_vnggames.txt](tunneling/proxy/proxy_vnggames.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vnggames.txt) |
 | proxy_vocareum | 1 | [proxy_vocareum.txt](tunneling/proxy/proxy_vocareum.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vocareum.txt) |
@@ -3024,7 +3029,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_vzmessages | 1 | [proxy_vzmessages.txt](tunneling/proxy/proxy_vzmessages.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vzmessages.txt) |
 | proxy_vzwcorp | 2 | [proxy_vzwcorp.txt](tunneling/proxy/proxy_vzwcorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_vzwcorp.txt) |
 | proxy_waipu | 1 | [proxy_waipu.txt](tunneling/proxy/proxy_waipu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_waipu.txt) |
-| proxy_walla | 2 | [proxy_walla.txt](tunneling/proxy/proxy_walla.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_walla.txt) |
+| proxy_walla | 3 | [proxy_walla.txt](tunneling/proxy/proxy_walla.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_walla.txt) |
 | proxy_wallentix | 1 | [proxy_wallentix.txt](tunneling/proxy/proxy_wallentix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wallentix.txt) |
 | proxy_walmart | 1 | [proxy_walmart.txt](tunneling/proxy/proxy_walmart.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_walmart.txt) |
 | proxy_walmartonewm1 | 1 | [proxy_walmartonewm1.txt](tunneling/proxy/proxy_walmartonewm1.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_walmartonewm1.txt) |
@@ -3069,6 +3074,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_wendys | 1 | [proxy_wendys.txt](tunneling/proxy/proxy_wendys.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wendys.txt) |
 | proxy_weplayapp | 2 | [proxy_weplayapp.txt](tunneling/proxy/proxy_weplayapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_weplayapp.txt) |
 | proxy_wesd | 1 | [proxy_wesd.txt](tunneling/proxy/proxy_wesd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wesd.txt) |
+| proxy_westieinfo | 1 | [proxy_westieinfo.txt](tunneling/proxy/proxy_westieinfo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_westieinfo.txt) |
 | proxy_wetransfer | 2 | [proxy_wetransfer.txt](tunneling/proxy/proxy_wetransfer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wetransfer.txt) |
 | proxy_wetransferbeta | 1 | [proxy_wetransferbeta.txt](tunneling/proxy/proxy_wetransferbeta.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wetransferbeta.txt) |
 | proxy_wgcserver | 1 | [proxy_wgcserver.txt](tunneling/proxy/proxy_wgcserver.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wgcserver.txt) |
@@ -3100,7 +3106,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_woopic | 1 | [proxy_woopic.txt](tunneling/proxy/proxy_woopic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_woopic.txt) |
 | proxy_woowa | 1 | [proxy_woowa.txt](tunneling/proxy/proxy_woowa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_woowa.txt) |
 | proxy_workable | 1 | [proxy_workable.txt](tunneling/proxy/proxy_workable.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workable.txt) |
-| proxy_workers | 11 | [proxy_workers.txt](tunneling/proxy/proxy_workers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workers.txt) |
+| proxy_workers | 8 | [proxy_workers.txt](tunneling/proxy/proxy_workers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workers.txt) |
 | proxy_workersturbo | 1 | [proxy_workersturbo.txt](tunneling/proxy/proxy_workersturbo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workersturbo.txt) |
 | proxy_workproxy | 1 | [proxy_workproxy.txt](tunneling/proxy/proxy_workproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workproxy.txt) |
 | proxy_workshops | 1 | [proxy_workshops.txt](tunneling/proxy/proxy_workshops.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_workshops.txt) |
@@ -3109,7 +3115,7 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_worldmonitor | 1 | [proxy_worldmonitor.txt](tunneling/proxy/proxy_worldmonitor.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_worldmonitor.txt) |
 | proxy_wowma | 1 | [proxy_wowma.txt](tunneling/proxy/proxy_wowma.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wowma.txt) |
 | proxy_woyaowifi | 1 | [proxy_woyaowifi.txt](tunneling/proxy/proxy_woyaowifi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_woyaowifi.txt) |
-| proxy_wpeproxy | 10 | [proxy_wpeproxy.txt](tunneling/proxy/proxy_wpeproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wpeproxy.txt) |
+| proxy_wpeproxy | 11 | [proxy_wpeproxy.txt](tunneling/proxy/proxy_wpeproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wpeproxy.txt) |
 | proxy_wproxy | 1 | [proxy_wproxy.txt](tunneling/proxy/proxy_wproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wproxy.txt) |
 | proxy_wrdaws | 1 | [proxy_wrdaws.txt](tunneling/proxy/proxy_wrdaws.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wrdaws.txt) |
 | proxy_wright | 3 | [proxy_wright.txt](tunneling/proxy/proxy_wright.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_wright.txt) |
@@ -3211,11 +3217,11 @@ Generated: 2026-10-04 08:18 UTC
 | proxy_zoominfo | 2 | [proxy_zoominfo.txt](tunneling/proxy/proxy_zoominfo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zoominfo.txt) |
 | proxy_zoomus | 1 | [proxy_zoomus.txt](tunneling/proxy/proxy_zoomus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zoomus.txt) |
 | proxy_zooplus | 1 | [proxy_zooplus.txt](tunneling/proxy/proxy_zooplus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zooplus.txt) |
-| proxy_zproxy | 10 | [proxy_zproxy.txt](tunneling/proxy/proxy_zproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zproxy.txt) |
+| proxy_zproxy | 14 | [proxy_zproxy.txt](tunneling/proxy/proxy_zproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zproxy.txt) |
 | proxy_zprx | 2 | [proxy_zprx.txt](tunneling/proxy/proxy_zprx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zprx.txt) |
 | proxy_zscaler | 1 | [proxy_zscaler.txt](tunneling/proxy/proxy_zscaler.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zscaler.txt) |
 | proxy_zspeedcdn | 1 | [proxy_zspeedcdn.txt](tunneling/proxy/proxy_zspeedcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zspeedcdn.txt) |
-| proxy_zsproxy | 2 | [proxy_zsproxy.txt](tunneling/proxy/proxy_zsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zsproxy.txt) |
+| proxy_zsproxy | 1 | [proxy_zsproxy.txt](tunneling/proxy/proxy_zsproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zsproxy.txt) |
 | proxy_zuuvi | 1 | [proxy_zuuvi.txt](tunneling/proxy/proxy_zuuvi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zuuvi.txt) |
 | proxy_zx668 | 1 | [proxy_zx668.txt](tunneling/proxy/proxy_zx668.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zx668.txt) |
 | proxy_zynga | 2 | [proxy_zynga.txt](tunneling/proxy/proxy_zynga.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/proxy/proxy_zynga.txt) |
@@ -3226,7 +3232,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_1337xvpn | 1 | [vpn_1337xvpn.txt](tunneling/vpn/vpn_1337xvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1337xvpn.txt) |
 | vpn_180connect | 1 | [vpn_180connect.txt](tunneling/vpn/vpn_180connect.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_180connect.txt) |
 | vpn_1881997 | 1 | [vpn_1881997.txt](tunneling/vpn/vpn_1881997.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1881997.txt) |
-| vpn_1clickvpn | 21 | [vpn_1clickvpn.txt](tunneling/vpn/vpn_1clickvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1clickvpn.txt) |
+| vpn_1clickvpn | 19 | [vpn_1clickvpn.txt](tunneling/vpn/vpn_1clickvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1clickvpn.txt) |
 | vpn_1edisource | 1 | [vpn_1edisource.txt](tunneling/vpn/vpn_1edisource.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1edisource.txt) |
 | vpn_1nce | 2 | [vpn_1nce.txt](tunneling/vpn/vpn_1nce.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1nce.txt) |
 | vpn_1vpn | 1 | [vpn_1vpn.txt](tunneling/vpn/vpn_1vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_1vpn.txt) |
@@ -3237,7 +3243,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_360tls | 1 | [vpn_360tls.txt](tunneling/vpn/vpn_360tls.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_360tls.txt) |
 | vpn_3vjia | 2 | [vpn_3vjia.txt](tunneling/vpn/vpn_3vjia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_3vjia.txt) |
 | vpn_4ma | 1 | [vpn_4ma.txt](tunneling/vpn/vpn_4ma.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_4ma.txt) |
-| vpn_52vpn | 2 | [vpn_52vpn.txt](tunneling/vpn/vpn_52vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_52vpn.txt) |
+| vpn_52vpn | 1 | [vpn_52vpn.txt](tunneling/vpn/vpn_52vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_52vpn.txt) |
 | vpn_551120 | 1 | [vpn_551120.txt](tunneling/vpn/vpn_551120.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_551120.txt) |
 | vpn_591vpn | 1 | [vpn_591vpn.txt](tunneling/vpn/vpn_591vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_591vpn.txt) |
 | vpn_5topvpn | 2 | [vpn_5topvpn.txt](tunneling/vpn/vpn_5topvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_5topvpn.txt) |
@@ -3247,7 +3253,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_6gvpn | 1 | [vpn_6gvpn.txt](tunneling/vpn/vpn_6gvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_6gvpn.txt) |
 | vpn_7eleven | 2 | [vpn_7eleven.txt](tunneling/vpn/vpn_7eleven.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_7eleven.txt) |
 | vpn_7thidea | 1 | [vpn_7thidea.txt](tunneling/vpn/vpn_7thidea.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_7thidea.txt) |
-| vpn_867732738 | 1799 | [vpn_867732738.txt](tunneling/vpn/vpn_867732738.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_867732738.txt) |
+| vpn_867732738 | 1824 | [vpn_867732738.txt](tunneling/vpn/vpn_867732738.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_867732738.txt) |
 | vpn_883559 | 1 | [vpn_883559.txt](tunneling/vpn/vpn_883559.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_883559.txt) |
 | vpn_8axggq6dvpnj6lni | 2 | [vpn_8axggq6dvpnj6lni.txt](tunneling/vpn/vpn_8axggq6dvpnj6lni.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_8axggq6dvpnj6lni.txt) |
 | vpn_8v9m | 1 | [vpn_8v9m.txt](tunneling/vpn/vpn_8v9m.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_8v9m.txt) |
@@ -3257,7 +3263,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_aa | 1 | [vpn_aa.txt](tunneling/vpn/vpn_aa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_aa.txt) |
 | vpn_aa4047 | 4 | [vpn_aa4047.txt](tunneling/vpn/vpn_aa4047.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_aa4047.txt) |
 | vpn_aaplimg | 1 | [vpn_aaplimg.txt](tunneling/vpn/vpn_aaplimg.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_aaplimg.txt) |
-| vpn_abb | 3 | [vpn_abb.txt](tunneling/vpn/vpn_abb.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_abb.txt) |
+| vpn_abb | 1 | [vpn_abb.txt](tunneling/vpn/vpn_abb.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_abb.txt) |
 | vpn_abbott | 15 | [vpn_abbott.txt](tunneling/vpn/vpn_abbott.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_abbott.txt) |
 | vpn_abbvie | 2 | [vpn_abbvie.txt](tunneling/vpn/vpn_abbvie.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_abbvie.txt) |
 | vpn_abeggstiftung | 1 | [vpn_abeggstiftung.txt](tunneling/vpn/vpn_abeggstiftung.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_abeggstiftung.txt) |
@@ -3401,7 +3407,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_apple | 15 | [vpn_apple.txt](tunneling/vpn/vpn_apple.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_apple.txt) |
 | vpn_appletsvpn | 1 | [vpn_appletsvpn.txt](tunneling/vpn/vpn_appletsvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appletsvpn.txt) |
 | vpn_applovin | 1 | [vpn_applovin.txt](tunneling/vpn/vpn_applovin.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_applovin.txt) |
-| vpn_appsflyersdk | 9 | [vpn_appsflyersdk.txt](tunneling/vpn/vpn_appsflyersdk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appsflyersdk.txt) |
+| vpn_appsflyersdk | 13 | [vpn_appsflyersdk.txt](tunneling/vpn/vpn_appsflyersdk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appsflyersdk.txt) |
 | vpn_appspot | 2 | [vpn_appspot.txt](tunneling/vpn/vpn_appspot.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appspot.txt) |
 | vpn_appstate | 1 | [vpn_appstate.txt](tunneling/vpn/vpn_appstate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appstate.txt) |
 | vpn_appsu | 1 | [vpn_appsu.txt](tunneling/vpn/vpn_appsu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_appsu.txt) |
@@ -3496,7 +3502,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_az | 1 | [vpn_az.txt](tunneling/vpn/vpn_az.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_az.txt) |
 | vpn_azhideawaycollection | 1 | [vpn_azhideawaycollection.txt](tunneling/vpn/vpn_azhideawaycollection.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_azhideawaycollection.txt) |
 | vpn_azirevpn | 1 | [vpn_azirevpn.txt](tunneling/vpn/vpn_azirevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_azirevpn.txt) |
-| vpn_azure | 2 | [vpn_azure.txt](tunneling/vpn/vpn_azure.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_azure.txt) |
+| vpn_azure | 6 | [vpn_azure.txt](tunneling/vpn/vpn_azure.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_azure.txt) |
 | vpn_backvpn | 1 | [vpn_backvpn.txt](tunneling/vpn/vpn_backvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_backvpn.txt) |
 | vpn_baiduads | 1 | [vpn_baiduads.txt](tunneling/vpn/vpn_baiduads.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_baiduads.txt) |
 | vpn_baiduitm | 1 | [vpn_baiduitm.txt](tunneling/vpn/vpn_baiduitm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_baiduitm.txt) |
@@ -3562,7 +3568,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_bimba | 1 | [vpn_bimba.txt](tunneling/vpn/vpn_bimba.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bimba.txt) |
 | vpn_bingbongvpn | 1 | [vpn_bingbongvpn.txt](tunneling/vpn/vpn_bingbongvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bingbongvpn.txt) |
 | vpn_biola | 1 | [vpn_biola.txt](tunneling/vpn/vpn_biola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_biola.txt) |
-| vpn_biolicious | 1 | [vpn_biolicious.txt](tunneling/vpn/vpn_biolicious.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_biolicious.txt) |
+| vpn_biolicious | 2 | [vpn_biolicious.txt](tunneling/vpn/vpn_biolicious.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_biolicious.txt) |
 | vpn_biospringer | 1 | [vpn_biospringer.txt](tunneling/vpn/vpn_biospringer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_biospringer.txt) |
 | vpn_birdseyeiglo | 1 | [vpn_birdseyeiglo.txt](tunneling/vpn/vpn_birdseyeiglo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_birdseyeiglo.txt) |
 | vpn_bishopscollegeschool | 1 | [vpn_bishopscollegeschool.txt](tunneling/vpn/vpn_bishopscollegeschool.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bishopscollegeschool.txt) |
@@ -3581,7 +3587,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_blncvpn4u | 1 | [vpn_blncvpn4u.txt](tunneling/vpn/vpn_blncvpn4u.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blncvpn4u.txt) |
 | vpn_blockchain | 1 | [vpn_blockchain.txt](tunneling/vpn/vpn_blockchain.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blockchain.txt) |
 | vpn_blockhide | 1 | [vpn_blockhide.txt](tunneling/vpn/vpn_blockhide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blockhide.txt) |
-| vpn_blockonlyifyouhaveasmallpeepee | 598 | [vpn_blockonlyifyouhaveasmallpeepee.txt](tunneling/vpn/vpn_blockonlyifyouhaveasmallpeepee.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blockonlyifyouhaveasmallpeepee.txt) |
+| vpn_blockonlyifyouhaveasmallpeepee | 613 | [vpn_blockonlyifyouhaveasmallpeepee.txt](tunneling/vpn/vpn_blockonlyifyouhaveasmallpeepee.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blockonlyifyouhaveasmallpeepee.txt) |
 | vpn_bloomu | 1 | [vpn_bloomu.txt](tunneling/vpn/vpn_bloomu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bloomu.txt) |
 | vpn_bloxd | 1 | [vpn_bloxd.txt](tunneling/vpn/vpn_bloxd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bloxd.txt) |
 | vpn_blpprofessional | 1 | [vpn_blpprofessional.txt](tunneling/vpn/vpn_blpprofessional.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_blpprofessional.txt) |
@@ -3601,7 +3607,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_bodhidesignsbd | 1 | [vpn_bodhidesignsbd.txt](tunneling/vpn/vpn_bodhidesignsbd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bodhidesignsbd.txt) |
 | vpn_boeing | 2 | [vpn_boeing.txt](tunneling/vpn/vpn_boeing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boeing.txt) |
 | vpn_boeinglabnet | 1 | [vpn_boeinglabnet.txt](tunneling/vpn/vpn_boeinglabnet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boeinglabnet.txt) |
-| vpn_boi9osyg1uwtyafn | 5 | [vpn_boi9osyg1uwtyafn.txt](tunneling/vpn/vpn_boi9osyg1uwtyafn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boi9osyg1uwtyafn.txt) |
+| vpn_boi9osyg1uwtyafn | 7 | [vpn_boi9osyg1uwtyafn.txt](tunneling/vpn/vpn_boi9osyg1uwtyafn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boi9osyg1uwtyafn.txt) |
 | vpn_boldcommerce | 1 | [vpn_boldcommerce.txt](tunneling/vpn/vpn_boldcommerce.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boldcommerce.txt) |
 | vpn_bolehvpn | 1 | [vpn_bolehvpn.txt](tunneling/vpn/vpn_bolehvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bolehvpn.txt) |
 | vpn_boliden | 1 | [vpn_boliden.txt](tunneling/vpn/vpn_boliden.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_boliden.txt) |
@@ -3624,9 +3630,9 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_brillinger | 1 | [vpn_brillinger.txt](tunneling/vpn/vpn_brillinger.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brillinger.txt) |
 | vpn_brinker | 1 | [vpn_brinker.txt](tunneling/vpn/vpn_brinker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brinker.txt) |
 | vpn_brinksinc | 1 | [vpn_brinksinc.txt](tunneling/vpn/vpn_brinksinc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brinksinc.txt) |
-| vpn_brmtr | 8 | [vpn_brmtr.txt](tunneling/vpn/vpn_brmtr.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brmtr.txt) |
+| vpn_brmtr | 7 | [vpn_brmtr.txt](tunneling/vpn/vpn_brmtr.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brmtr.txt) |
 | vpn_broadcom | 2 | [vpn_broadcom.txt](tunneling/vpn/vpn_broadcom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_broadcom.txt) |
-| vpn_bropay | 13 | [vpn_bropay.txt](tunneling/vpn/vpn_bropay.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bropay.txt) |
+| vpn_bropay | 16 | [vpn_bropay.txt](tunneling/vpn/vpn_bropay.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_bropay.txt) |
 | vpn_broru | 1 | [vpn_broru.txt](tunneling/vpn/vpn_broru.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_broru.txt) |
 | vpn_brotranssion | 1 | [vpn_brotranssion.txt](tunneling/vpn/vpn_brotranssion.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_brotranssion.txt) |
 | vpn_browsec | 3 | [vpn_browsec.txt](tunneling/vpn/vpn_browsec.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_browsec.txt) |
@@ -3653,14 +3659,14 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_byuh | 1 | [vpn_byuh.txt](tunneling/vpn/vpn_byuh.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_byuh.txt) |
 | vpn_c2mi | 1 | [vpn_c2mi.txt](tunneling/vpn/vpn_c2mi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_c2mi.txt) |
 | vpn_c6bank | 1 | [vpn_c6bank.txt](tunneling/vpn/vpn_c6bank.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_c6bank.txt) |
-| vpn_c6gjstatic | 146 | [vpn_c6gjstatic.txt](tunneling/vpn/vpn_c6gjstatic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_c6gjstatic.txt) |
+| vpn_c6gjstatic | 149 | [vpn_c6gjstatic.txt](tunneling/vpn/vpn_c6gjstatic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_c6gjstatic.txt) |
 | vpn_ca | 2 | [vpn_ca.txt](tunneling/vpn/vpn_ca.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ca.txt) |
 | vpn_caasco | 4 | [vpn_caasco.txt](tunneling/vpn/vpn_caasco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_caasco.txt) |
 | vpn_cablelabs | 1 | [vpn_cablelabs.txt](tunneling/vpn/vpn_cablelabs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cablelabs.txt) |
 | vpn_cablevision | 1 | [vpn_cablevision.txt](tunneling/vpn/vpn_cablevision.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cablevision.txt) |
 | vpn_cabotcheese | 1 | [vpn_cabotcheese.txt](tunneling/vpn/vpn_cabotcheese.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cabotcheese.txt) |
 | vpn_cacheflow | 3 | [vpn_cacheflow.txt](tunneling/vpn/vpn_cacheflow.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cacheflow.txt) |
-| vpn_cachequick | 7 | [vpn_cachequick.txt](tunneling/vpn/vpn_cachequick.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cachequick.txt) |
+| vpn_cachequick | 9 | [vpn_cachequick.txt](tunneling/vpn/vpn_cachequick.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cachequick.txt) |
 | vpn_cactusvpn | 2 | [vpn_cactusvpn.txt](tunneling/vpn/vpn_cactusvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cactusvpn.txt) |
 | vpn_cakebread | 1 | [vpn_cakebread.txt](tunneling/vpn/vpn_cakebread.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cakebread.txt) |
 | vpn_calculuscrafter | 1 | [vpn_calculuscrafter.txt](tunneling/vpn/vpn_calculuscrafter.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_calculuscrafter.txt) |
@@ -3671,7 +3677,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_canoneurope | 1 | [vpn_canoneurope.txt](tunneling/vpn/vpn_canoneurope.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_canoneurope.txt) |
 | vpn_cantelmedical | 1 | [vpn_cantelmedical.txt](tunneling/vpn/vpn_cantelmedical.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cantelmedical.txt) |
 | vpn_canvaapps | 234 | [vpn_canvaapps.txt](tunneling/vpn/vpn_canvaapps.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_canvaapps.txt) |
-| vpn_capgemini | 1 | [vpn_capgemini.txt](tunneling/vpn/vpn_capgemini.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_capgemini.txt) |
+| vpn_capgemini | 7 | [vpn_capgemini.txt](tunneling/vpn/vpn_capgemini.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_capgemini.txt) |
 | vpn_capital | 2 | [vpn_capital.txt](tunneling/vpn/vpn_capital.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_capital.txt) |
 | vpn_capsuletech | 1 | [vpn_capsuletech.txt](tunneling/vpn/vpn_capsuletech.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_capsuletech.txt) |
 | vpn_cardinalhealth | 3 | [vpn_cardinalhealth.txt](tunneling/vpn/vpn_cardinalhealth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cardinalhealth.txt) |
@@ -3685,7 +3691,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_carvajal | 1 | [vpn_carvajal.txt](tunneling/vpn/vpn_carvajal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_carvajal.txt) |
 | vpn_casella | 1 | [vpn_casella.txt](tunneling/vpn/vpn_casella.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_casella.txt) |
 | vpn_caseresidencial | 1 | [vpn_caseresidencial.txt](tunneling/vpn/vpn_caseresidencial.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_caseresidencial.txt) |
-| vpn_cashiers | 11 | [vpn_cashiers.txt](tunneling/vpn/vpn_cashiers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cashiers.txt) |
+| vpn_cashiers | 10 | [vpn_cashiers.txt](tunneling/vpn/vpn_cashiers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cashiers.txt) |
 | vpn_cat | 1 | [vpn_cat.txt](tunneling/vpn/vpn_cat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cat.txt) |
 | vpn_catonetwork | 1 | [vpn_catonetwork.txt](tunneling/vpn/vpn_catonetwork.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_catonetwork.txt) |
 | vpn_catonetworks | 2 | [vpn_catonetworks.txt](tunneling/vpn/vpn_catonetworks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_catonetworks.txt) |
@@ -3701,12 +3707,12 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_cdk | 1 | [vpn_cdk.txt](tunneling/vpn/vpn_cdk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdk.txt) |
 | vpn_cdn20 | 1 | [vpn_cdn20.txt](tunneling/vpn/vpn_cdn20.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdn20.txt) |
 | vpn_cdnaccelerate | 8 | [vpn_cdnaccelerate.txt](tunneling/vpn/vpn_cdnaccelerate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnaccelerate.txt) |
-| vpn_cdnboost | 9 | [vpn_cdnboost.txt](tunneling/vpn/vpn_cdnboost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnboost.txt) |
+| vpn_cdnboost | 8 | [vpn_cdnboost.txt](tunneling/vpn/vpn_cdnboost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnboost.txt) |
 | vpn_cdnbridge | 5 | [vpn_cdnbridge.txt](tunneling/vpn/vpn_cdnbridge.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnbridge.txt) |
 | vpn_cdncloudhost | 7 | [vpn_cdncloudhost.txt](tunneling/vpn/vpn_cdncloudhost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdncloudhost.txt) |
 | vpn_cdnexpress | 5 | [vpn_cdnexpress.txt](tunneling/vpn/vpn_cdnexpress.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnexpress.txt) |
 | vpn_cdnflare | 8 | [vpn_cdnflare.txt](tunneling/vpn/vpn_cdnflare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnflare.txt) |
-| vpn_cdnflow | 7 | [vpn_cdnflow.txt](tunneling/vpn/vpn_cdnflow.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnflow.txt) |
+| vpn_cdnflow | 6 | [vpn_cdnflow.txt](tunneling/vpn/vpn_cdnflow.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnflow.txt) |
 | vpn_cdnnetwork | 4 | [vpn_cdnnetwork.txt](tunneling/vpn/vpn_cdnnetwork.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnnetwork.txt) |
 | vpn_cdnrocket | 4 | [vpn_cdnrocket.txt](tunneling/vpn/vpn_cdnrocket.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnrocket.txt) |
 | vpn_cdnstreamer | 5 | [vpn_cdnstreamer.txt](tunneling/vpn/vpn_cdnstreamer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cdnstreamer.txt) |
@@ -3754,7 +3760,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_chinacloudapi | 1 | [vpn_chinacloudapi.txt](tunneling/vpn/vpn_chinacloudapi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chinacloudapi.txt) |
 | vpn_chinatizivpn | 1 | [vpn_chinatizivpn.txt](tunneling/vpn/vpn_chinatizivpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chinatizivpn.txt) |
 | vpn_chinesefreevpn | 2 | [vpn_chinesefreevpn.txt](tunneling/vpn/vpn_chinesefreevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chinesefreevpn.txt) |
-| vpn_chips | 7 | [vpn_chips.txt](tunneling/vpn/vpn_chips.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chips.txt) |
+| vpn_chips | 8 | [vpn_chips.txt](tunneling/vpn/vpn_chips.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chips.txt) |
 | vpn_chisagocountymn | 1 | [vpn_chisagocountymn.txt](tunneling/vpn/vpn_chisagocountymn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chisagocountymn.txt) |
 | vpn_chobani | 1 | [vpn_chobani.txt](tunneling/vpn/vpn_chobani.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chobani.txt) |
 | vpn_chocolateworksnyc | 1 | [vpn_chocolateworksnyc.txt](tunneling/vpn/vpn_chocolateworksnyc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_chocolateworksnyc.txt) |
@@ -3798,7 +3804,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_cloudburstcdn | 4 | [vpn_cloudburstcdn.txt](tunneling/vpn/vpn_cloudburstcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudburstcdn.txt) |
 | vpn_cloudflaracdn | 4 | [vpn_cloudflaracdn.txt](tunneling/vpn/vpn_cloudflaracdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudflaracdn.txt) |
 | vpn_cloudflare | 5 | [vpn_cloudflare.txt](tunneling/vpn/vpn_cloudflare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudflare.txt) |
-| vpn_cloudfront | 10 | [vpn_cloudfront.txt](tunneling/vpn/vpn_cloudfront.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudfront.txt) |
+| vpn_cloudfront | 12 | [vpn_cloudfront.txt](tunneling/vpn/vpn_cloudfront.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudfront.txt) |
 | vpn_cloudmgmt | 1 | [vpn_cloudmgmt.txt](tunneling/vpn/vpn_cloudmgmt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudmgmt.txt) |
 | vpn_cloudmylab | 1 | [vpn_cloudmylab.txt](tunneling/vpn/vpn_cloudmylab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudmylab.txt) |
 | vpn_cloudnetcdn | 1 | [vpn_cloudnetcdn.txt](tunneling/vpn/vpn_cloudnetcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cloudnetcdn.txt) |
@@ -3815,13 +3821,13 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_cnhind | 1 | [vpn_cnhind.txt](tunneling/vpn/vpn_cnhind.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cnhind.txt) |
 | vpn_cnsha05vpn | 1 | [vpn_cnsha05vpn.txt](tunneling/vpn/vpn_cnsha05vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cnsha05vpn.txt) |
 | vpn_cnshe06vpn | 1 | [vpn_cnshe06vpn.txt](tunneling/vpn/vpn_cnshe06vpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cnshe06vpn.txt) |
-| vpn_co | 41 | [vpn_co.txt](tunneling/vpn/vpn_co.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_co.txt) |
+| vpn_co | 6 | [vpn_co.txt](tunneling/vpn/vpn_co.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_co.txt) |
 | vpn_coachusa | 1 | [vpn_coachusa.txt](tunneling/vpn/vpn_coachusa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_coachusa.txt) |
 | vpn_coam | 1 | [vpn_coam.txt](tunneling/vpn/vpn_coam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_coam.txt) |
 | vpn_coburns | 1 | [vpn_coburns.txt](tunneling/vpn/vpn_coburns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_coburns.txt) |
 | vpn_cocacola | 1 | [vpn_cocacola.txt](tunneling/vpn/vpn_cocacola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cocacola.txt) |
 | vpn_codelco | 1 | [vpn_codelco.txt](tunneling/vpn/vpn_codelco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_codelco.txt) |
-| vpn_codespeeing | 7 | [vpn_codespeeing.txt](tunneling/vpn/vpn_codespeeing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_codespeeing.txt) |
+| vpn_codespeeing | 9 | [vpn_codespeeing.txt](tunneling/vpn/vpn_codespeeing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_codespeeing.txt) |
 | vpn_cofcointernational | 1 | [vpn_cofcointernational.txt](tunneling/vpn/vpn_cofcointernational.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cofcointernational.txt) |
 | vpn_coinbasecorp | 1 | [vpn_coinbasecorp.txt](tunneling/vpn/vpn_coinbasecorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_coinbasecorp.txt) |
 | vpn_cokeme | 1 | [vpn_cokeme.txt](tunneling/vpn/vpn_cokeme.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cokeme.txt) |
@@ -3837,7 +3843,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_columbushosp | 1 | [vpn_columbushosp.txt](tunneling/vpn/vpn_columbushosp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_columbushosp.txt) |
 | vpn_com | 26 | [vpn_com.txt](tunneling/vpn/vpn_com.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_com.txt) |
 | vpn_com4 | 1 | [vpn_com4.txt](tunneling/vpn/vpn_com4.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_com4.txt) |
-| vpn_comcast | 7 | [vpn_comcast.txt](tunneling/vpn/vpn_comcast.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_comcast.txt) |
+| vpn_comcast | 8 | [vpn_comcast.txt](tunneling/vpn/vpn_comcast.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_comcast.txt) |
 | vpn_comdata | 2 | [vpn_comdata.txt](tunneling/vpn/vpn_comdata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_comdata.txt) |
 | vpn_comerica | 1 | [vpn_comerica.txt](tunneling/vpn/vpn_comerica.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_comerica.txt) |
 | vpn_comfbs | 1 | [vpn_comfbs.txt](tunneling/vpn/vpn_comfbs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_comfbs.txt) |
@@ -3853,7 +3859,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_connectyourcare | 1 | [vpn_connectyourcare.txt](tunneling/vpn/vpn_connectyourcare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_connectyourcare.txt) |
 | vpn_connollykeyjoint | 1 | [vpn_connollykeyjoint.txt](tunneling/vpn/vpn_connollykeyjoint.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_connollykeyjoint.txt) |
 | vpn_contata | 1 | [vpn_contata.txt](tunneling/vpn/vpn_contata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_contata.txt) |
-| vpn_contentboost | 4 | [vpn_contentboost.txt](tunneling/vpn/vpn_contentboost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_contentboost.txt) |
+| vpn_contentboost | 2 | [vpn_contentboost.txt](tunneling/vpn/vpn_contentboost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_contentboost.txt) |
 | vpn_contentnode | 5 | [vpn_contentnode.txt](tunneling/vpn/vpn_contentnode.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_contentnode.txt) |
 | vpn_conturasteel | 1 | [vpn_conturasteel.txt](tunneling/vpn/vpn_conturasteel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_conturasteel.txt) |
 | vpn_coop | 1 | [vpn_coop.txt](tunneling/vpn/vpn_coop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_coop.txt) |
@@ -3928,7 +3934,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_cyborgvpn | 1 | [vpn_cyborgvpn.txt](tunneling/vpn/vpn_cyborgvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cyborgvpn.txt) |
 | vpn_cyc | 1 | [vpn_cyc.txt](tunneling/vpn/vpn_cyc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cyc.txt) |
 | vpn_cyjz | 1 | [vpn_cyjz.txt](tunneling/vpn/vpn_cyjz.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cyjz.txt) |
-| vpn_cyphyl | 2 | [vpn_cyphyl.txt](tunneling/vpn/vpn_cyphyl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cyphyl.txt) |
+| vpn_cyphyl | 1 | [vpn_cyphyl.txt](tunneling/vpn/vpn_cyphyl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_cyphyl.txt) |
 | vpn_dadbod2p0 | 1 | [vpn_dadbod2p0.txt](tunneling/vpn/vpn_dadbod2p0.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dadbod2p0.txt) |
 | vpn_daftrucks | 1 | [vpn_daftrucks.txt](tunneling/vpn/vpn_daftrucks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_daftrucks.txt) |
 | vpn_dahhxxttxs | 1 | [vpn_dahhxxttxs.txt](tunneling/vpn/vpn_dahhxxttxs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dahhxxttxs.txt) |
@@ -3943,11 +3949,11 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_danucem | 1 | [vpn_danucem.txt](tunneling/vpn/vpn_danucem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_danucem.txt) |
 | vpn_dartmouth | 1 | [vpn_dartmouth.txt](tunneling/vpn/vpn_dartmouth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dartmouth.txt) |
 | vpn_datadispatch | 1 | [vpn_datadispatch.txt](tunneling/vpn/vpn_datadispatch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datadispatch.txt) |
-| vpn_datadistribute | 5 | [vpn_datadistribute.txt](tunneling/vpn/vpn_datadistribute.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datadistribute.txt) |
-| vpn_datafrenzy | 5 | [vpn_datafrenzy.txt](tunneling/vpn/vpn_datafrenzy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datafrenzy.txt) |
+| vpn_datadistribute | 4 | [vpn_datadistribute.txt](tunneling/vpn/vpn_datadistribute.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datadistribute.txt) |
+| vpn_datafrenzy | 6 | [vpn_datafrenzy.txt](tunneling/vpn/vpn_datafrenzy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datafrenzy.txt) |
 | vpn_dataport | 1 | [vpn_dataport.txt](tunneling/vpn/vpn_dataport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dataport.txt) |
-| vpn_datasecuritymobile | 1 | [vpn_datasecuritymobile.txt](tunneling/vpn/vpn_datasecuritymobile.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datasecuritymobile.txt) |
-| vpn_dated | 10 | [vpn_dated.txt](tunneling/vpn/vpn_dated.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dated.txt) |
+| vpn_datasecuritymobile | 2 | [vpn_datasecuritymobile.txt](tunneling/vpn/vpn_datasecuritymobile.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datasecuritymobile.txt) |
+| vpn_dated | 11 | [vpn_dated.txt](tunneling/vpn/vpn_dated.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dated.txt) |
 | vpn_datto | 1 | [vpn_datto.txt](tunneling/vpn/vpn_datto.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_datto.txt) |
 | vpn_dbschenker | 1 | [vpn_dbschenker.txt](tunneling/vpn/vpn_dbschenker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dbschenker.txt) |
 | vpn_dc | 1 | [vpn_dc.txt](tunneling/vpn/vpn_dc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_dc.txt) |
@@ -3961,11 +3967,11 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_deathvpn | 1 | [vpn_deathvpn.txt](tunneling/vpn/vpn_deathvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_deathvpn.txt) |
 | vpn_debatefail | 1 | [vpn_debatefail.txt](tunneling/vpn/vpn_debatefail.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_debatefail.txt) |
 | vpn_debswana | 1 | [vpn_debswana.txt](tunneling/vpn/vpn_debswana.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_debswana.txt) |
-| vpn_decades | 9 | [vpn_decades.txt](tunneling/vpn/vpn_decades.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_decades.txt) |
+| vpn_decades | 10 | [vpn_decades.txt](tunneling/vpn/vpn_decades.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_decades.txt) |
 | vpn_decisions | 1 | [vpn_decisions.txt](tunneling/vpn/vpn_decisions.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_decisions.txt) |
 | vpn_decisionvue | 1 | [vpn_decisionvue.txt](tunneling/vpn/vpn_decisionvue.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_decisionvue.txt) |
 | vpn_deepfield | 1 | [vpn_deepfield.txt](tunneling/vpn/vpn_deepfield.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_deepfield.txt) |
-| vpn_deepstateplatypus | 662 | [vpn_deepstateplatypus.txt](tunneling/vpn/vpn_deepstateplatypus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_deepstateplatypus.txt) |
+| vpn_deepstateplatypus | 659 | [vpn_deepstateplatypus.txt](tunneling/vpn/vpn_deepstateplatypus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_deepstateplatypus.txt) |
 | vpn_deere | 1 | [vpn_deere.txt](tunneling/vpn/vpn_deere.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_deere.txt) |
 | vpn_default2024 | 1 | [vpn_default2024.txt](tunneling/vpn/vpn_default2024.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_default2024.txt) |
 | vpn_defshidef | 2 | [vpn_defshidef.txt](tunneling/vpn/vpn_defshidef.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_defshidef.txt) |
@@ -4070,8 +4076,8 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_edelkey | 1 | [vpn_edelkey.txt](tunneling/vpn/vpn_edelkey.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edelkey.txt) |
 | vpn_edfen | 1 | [vpn_edfen.txt](tunneling/vpn/vpn_edfen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edfen.txt) |
 | vpn_edfre | 1 | [vpn_edfre.txt](tunneling/vpn/vpn_edfre.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edfre.txt) |
-| vpn_edgeaccelerator | 11 | [vpn_edgeaccelerator.txt](tunneling/vpn/vpn_edgeaccelerator.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgeaccelerator.txt) |
-| vpn_edgecache | 8 | [vpn_edgecache.txt](tunneling/vpn/vpn_edgecache.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgecache.txt) |
+| vpn_edgeaccelerator | 13 | [vpn_edgeaccelerator.txt](tunneling/vpn/vpn_edgeaccelerator.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgeaccelerator.txt) |
+| vpn_edgecache | 9 | [vpn_edgecache.txt](tunneling/vpn/vpn_edgecache.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgecache.txt) |
 | vpn_edgecdn | 2 | [vpn_edgecdn.txt](tunneling/vpn/vpn_edgecdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgecdn.txt) |
 | vpn_edgelab | 1 | [vpn_edgelab.txt](tunneling/vpn/vpn_edgelab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgelab.txt) |
 | vpn_edgesuite | 1 | [vpn_edgesuite.txt](tunneling/vpn/vpn_edgesuite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_edgesuite.txt) |
@@ -4159,14 +4165,14 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_evrazna | 1 | [vpn_evrazna.txt](tunneling/vpn/vpn_evrazna.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_evrazna.txt) |
 | vpn_exalteepooledpose | 1 | [vpn_exalteepooledpose.txt](tunneling/vpn/vpn_exalteepooledpose.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_exalteepooledpose.txt) |
 | vpn_exblog | 1 | [vpn_exblog.txt](tunneling/vpn/vpn_exblog.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_exblog.txt) |
-| vpn_except | 6 | [vpn_except.txt](tunneling/vpn/vpn_except.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_except.txt) |
+| vpn_except | 9 | [vpn_except.txt](tunneling/vpn/vpn_except.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_except.txt) |
 | vpn_exclude | 1 | [vpn_exclude.txt](tunneling/vpn/vpn_exclude.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_exclude.txt) |
 | vpn_exp6redir6 | 2 | [vpn_exp6redir6.txt](tunneling/vpn/vpn_exp6redir6.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_exp6redir6.txt) |
 | vpn_expedient | 2 | [vpn_expedient.txt](tunneling/vpn/vpn_expedient.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expedient.txt) |
 | vpn_expo2020dubai | 4 | [vpn_expo2020dubai.txt](tunneling/vpn/vpn_expo2020dubai.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expo2020dubai.txt) |
 | vpn_expressapisv2 | 7 | [vpn_expressapisv2.txt](tunneling/vpn/vpn_expressapisv2.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressapisv2.txt) |
-| vpn_expressvpn | 32 | [vpn_expressvpn.txt](tunneling/vpn/vpn_expressvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressvpn.txt) |
-| vpn_expressvpnrouter | 1 | [vpn_expressvpnrouter.txt](tunneling/vpn/vpn_expressvpnrouter.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressvpnrouter.txt) |
+| vpn_expressvpn | 34 | [vpn_expressvpn.txt](tunneling/vpn/vpn_expressvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressvpn.txt) |
+| vpn_expressvpnrouter | 2 | [vpn_expressvpnrouter.txt](tunneling/vpn/vpn_expressvpnrouter.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressvpnrouter.txt) |
 | vpn_expressvpnsignup | 2 | [vpn_expressvpnsignup.txt](tunneling/vpn/vpn_expressvpnsignup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_expressvpnsignup.txt) |
 | vpn_exprogroup | 1 | [vpn_exprogroup.txt](tunneling/vpn/vpn_exprogroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_exprogroup.txt) |
 | vpn_extendicare | 1 | [vpn_extendicare.txt](tunneling/vpn/vpn_extendicare.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_extendicare.txt) |
@@ -4188,12 +4194,12 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_fanhuavpn | 2 | [vpn_fanhuavpn.txt](tunneling/vpn/vpn_fanhuavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fanhuavpn.txt) |
 | vpn_fanhuivpn | 2 | [vpn_fanhuivpn.txt](tunneling/vpn/vpn_fanhuivpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fanhuivpn.txt) |
 | vpn_farrisusa | 1 | [vpn_farrisusa.txt](tunneling/vpn/vpn_farrisusa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_farrisusa.txt) |
-| vpn_fastblazingpix | 2 | [vpn_fastblazingpix.txt](tunneling/vpn/vpn_fastblazingpix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastblazingpix.txt) |
+| vpn_fastblazingpix | 1 | [vpn_fastblazingpix.txt](tunneling/vpn/vpn_fastblazingpix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastblazingpix.txt) |
 | vpn_fastcache | 1 | [vpn_fastcache.txt](tunneling/vpn/vpn_fastcache.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastcache.txt) |
 | vpn_fastcdn | 2 | [vpn_fastcdn.txt](tunneling/vpn/vpn_fastcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastcdn.txt) |
 | vpn_fastcloudcdn | 3 | [vpn_fastcloudcdn.txt](tunneling/vpn/vpn_fastcloudcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastcloudcdn.txt) |
 | vpn_fastco | 1 | [vpn_fastco.txt](tunneling/vpn/vpn_fastco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastco.txt) |
-| vpn_fastcontent | 2 | [vpn_fastcontent.txt](tunneling/vpn/vpn_fastcontent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastcontent.txt) |
+| vpn_fastcontent | 4 | [vpn_fastcontent.txt](tunneling/vpn/vpn_fastcontent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastcontent.txt) |
 | vpn_fastervpn | 1 | [vpn_fastervpn.txt](tunneling/vpn/vpn_fastervpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastervpn.txt) |
 | vpn_fastestvpn | 3 | [vpn_fastestvpn.txt](tunneling/vpn/vpn_fastestvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastestvpn.txt) |
 | vpn_fastfetch | 4 | [vpn_fastfetch.txt](tunneling/vpn/vpn_fastfetch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fastfetch.txt) |
@@ -4214,7 +4220,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_fega | 1 | [vpn_fega.txt](tunneling/vpn/vpn_fega.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fega.txt) |
 | vpn_fei | 4 | [vpn_fei.txt](tunneling/vpn/vpn_fei.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fei.txt) |
 | vpn_fencingsupplygroup | 1 | [vpn_fencingsupplygroup.txt](tunneling/vpn/vpn_fencingsupplygroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fencingsupplygroup.txt) |
-| vpn_ferguson | 3 | [vpn_ferguson.txt](tunneling/vpn/vpn_ferguson.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ferguson.txt) |
+| vpn_ferguson | 1 | [vpn_ferguson.txt](tunneling/vpn/vpn_ferguson.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ferguson.txt) |
 | vpn_ferroglobe | 1 | [vpn_ferroglobe.txt](tunneling/vpn/vpn_ferroglobe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ferroglobe.txt) |
 | vpn_ferromex | 1 | [vpn_ferromex.txt](tunneling/vpn/vpn_ferromex.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ferromex.txt) |
 | vpn_fetchcorecloud | 1 | [vpn_fetchcorecloud.txt](tunneling/vpn/vpn_fetchcorecloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fetchcorecloud.txt) |
@@ -4247,6 +4253,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_flagshipinc | 1 | [vpn_flagshipinc.txt](tunneling/vpn/vpn_flagshipinc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flagshipinc.txt) |
 | vpn_flarevpn | 1 | [vpn_flarevpn.txt](tunneling/vpn/vpn_flarevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flarevpn.txt) |
 | vpn_flashider | 1 | [vpn_flashider.txt](tunneling/vpn/vpn_flashider.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flashider.txt) |
+| vpn_fleetvpn | 3 | [vpn_fleetvpn.txt](tunneling/vpn/vpn_fleetvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fleetvpn.txt) |
 | vpn_flex | 1 | [vpn_flex.txt](tunneling/vpn/vpn_flex.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flex.txt) |
 | vpn_flickvpn | 4 | [vpn_flickvpn.txt](tunneling/vpn/vpn_flickvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flickvpn.txt) |
 | vpn_fligh7 | 1 | [vpn_fligh7.txt](tunneling/vpn/vpn_fligh7.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fligh7.txt) |
@@ -4260,7 +4267,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_flyvpn | 2 | [vpn_flyvpn.txt](tunneling/vpn/vpn_flyvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_flyvpn.txt) |
 | vpn_fncdn | 1 | [vpn_fncdn.txt](tunneling/vpn/vpn_fncdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fncdn.txt) |
 | vpn_fnetvpn | 1 | [vpn_fnetvpn.txt](tunneling/vpn/vpn_fnetvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fnetvpn.txt) |
-| vpn_focuses | 11 | [vpn_focuses.txt](tunneling/vpn/vpn_focuses.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_focuses.txt) |
+| vpn_focuses | 10 | [vpn_focuses.txt](tunneling/vpn/vpn_focuses.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_focuses.txt) |
 | vpn_fomento | 1 | [vpn_fomento.txt](tunneling/vpn/vpn_fomento.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fomento.txt) |
 | vpn_foreground | 1 | [vpn_foreground.txt](tunneling/vpn/vpn_foreground.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_foreground.txt) |
 | vpn_forterrabp | 1 | [vpn_forterrabp.txt](tunneling/vpn/vpn_forterrabp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_forterrabp.txt) |
@@ -4281,7 +4288,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_freeproxylist | 1 | [vpn_freeproxylist.txt](tunneling/vpn/vpn_freeproxylist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freeproxylist.txt) |
 | vpn_freeproxylists | 1 | [vpn_freeproxylists.txt](tunneling/vpn/vpn_freeproxylists.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freeproxylists.txt) |
 | vpn_freevpn | 1 | [vpn_freevpn.txt](tunneling/vpn/vpn_freevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freevpn.txt) |
-| vpn_freevpn4you | 2 | [vpn_freevpn4you.txt](tunneling/vpn/vpn_freevpn4you.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freevpn4you.txt) |
+| vpn_freevpn4you | 1 | [vpn_freevpn4you.txt](tunneling/vpn/vpn_freevpn4you.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freevpn4you.txt) |
 | vpn_freevpnapp | 1 | [vpn_freevpnapp.txt](tunneling/vpn/vpn_freevpnapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freevpnapp.txt) |
 | vpn_freevpnplanet | 8 | [vpn_freevpnplanet.txt](tunneling/vpn/vpn_freevpnplanet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freevpnplanet.txt) |
 | vpn_freewheel | 1 | [vpn_freewheel.txt](tunneling/vpn/vpn_freewheel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freewheel.txt) |
@@ -4289,7 +4296,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_freshideen | 1 | [vpn_freshideen.txt](tunneling/vpn/vpn_freshideen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_freshideen.txt) |
 | vpn_friendlyvpn | 1 | [vpn_friendlyvpn.txt](tunneling/vpn/vpn_friendlyvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_friendlyvpn.txt) |
 | vpn_friscovsfvpncheck | 1 | [vpn_friscovsfvpncheck.txt](tunneling/vpn/vpn_friscovsfvpncheck.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_friscovsfvpncheck.txt) |
-| vpn_frmdom | 366 | [vpn_frmdom.txt](tunneling/vpn/vpn_frmdom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_frmdom.txt) |
+| vpn_frmdom | 360 | [vpn_frmdom.txt](tunneling/vpn/vpn_frmdom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_frmdom.txt) |
 | vpn_frogger | 1 | [vpn_frogger.txt](tunneling/vpn/vpn_frogger.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_frogger.txt) |
 | vpn_frontporch | 1 | [vpn_frontporch.txt](tunneling/vpn/vpn_frontporch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_frontporch.txt) |
 | vpn_fruit | 2 | [vpn_fruit.txt](tunneling/vpn/vpn_fruit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_fruit.txt) |
@@ -4310,7 +4317,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_geislinger | 1 | [vpn_geislinger.txt](tunneling/vpn/vpn_geislinger.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_geislinger.txt) |
 | vpn_gemmapower | 1 | [vpn_gemmapower.txt](tunneling/vpn/vpn_gemmapower.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gemmapower.txt) |
 | vpn_gemvpnzugdtsi | 5 | [vpn_gemvpnzugdtsi.txt](tunneling/vpn/vpn_gemvpnzugdtsi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gemvpnzugdtsi.txt) |
-| vpn_gen4 | 2221 | [vpn_gen4.txt](tunneling/vpn/vpn_gen4.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gen4.txt) |
+| vpn_gen4 | 2234 | [vpn_gen4.txt](tunneling/vpn/vpn_gen4.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gen4.txt) |
 | vpn_gencat | 1 | [vpn_gencat.txt](tunneling/vpn/vpn_gencat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gencat.txt) |
 | vpn_generali | 1 | [vpn_generali.txt](tunneling/vpn/vpn_generali.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_generali.txt) |
 | vpn_generaligruppe | 1 | [vpn_generaligruppe.txt](tunneling/vpn/vpn_generaligruppe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_generaligruppe.txt) |
@@ -4382,12 +4389,12 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_goosevpn | 1 | [vpn_goosevpn.txt](tunneling/vpn/vpn_goosevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_goosevpn.txt) |
 | vpn_gopenske | 2 | [vpn_gopenske.txt](tunneling/vpn/vpn_gopenske.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gopenske.txt) |
 | vpn_gopro | 1 | [vpn_gopro.txt](tunneling/vpn/vpn_gopro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gopro.txt) |
-| vpn_gov | 3 | [vpn_gov.txt](tunneling/vpn/vpn_gov.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gov.txt) |
+| vpn_gov | 1 | [vpn_gov.txt](tunneling/vpn/vpn_gov.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gov.txt) |
 | vpn_goveducenter | 1 | [vpn_goveducenter.txt](tunneling/vpn/vpn_goveducenter.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_goveducenter.txt) |
 | vpn_govlearnportal | 1 | [vpn_govlearnportal.txt](tunneling/vpn/vpn_govlearnportal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_govlearnportal.txt) |
 | vpn_govpolicyhub | 1 | [vpn_govpolicyhub.txt](tunneling/vpn/vpn_govpolicyhub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_govpolicyhub.txt) |
 | vpn_govt | 1 | [vpn_govt.txt](tunneling/vpn/vpn_govt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_govt.txt) |
-| vpn_gpcloudservice | 2 | [vpn_gpcloudservice.txt](tunneling/vpn/vpn_gpcloudservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gpcloudservice.txt) |
+| vpn_gpcloudservice | 1 | [vpn_gpcloudservice.txt](tunneling/vpn/vpn_gpcloudservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_gpcloudservice.txt) |
 | vpn_grab | 47 | [vpn_grab.txt](tunneling/vpn/vpn_grab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_grab.txt) |
 | vpn_grainger | 1 | [vpn_grainger.txt](tunneling/vpn/vpn_grainger.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_grainger.txt) |
 | vpn_grameenphone | 1 | [vpn_grameenphone.txt](tunneling/vpn/vpn_grameenphone.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_grameenphone.txt) |
@@ -4437,7 +4444,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_hamilton | 1 | [vpn_hamilton.txt](tunneling/vpn/vpn_hamilton.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hamilton.txt) |
 | vpn_hammervpn | 2 | [vpn_hammervpn.txt](tunneling/vpn/vpn_hammervpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hammervpn.txt) |
 | vpn_handicappershideaway | 1 | [vpn_handicappershideaway.txt](tunneling/vpn/vpn_handicappershideaway.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_handicappershideaway.txt) |
-| vpn_hanging | 8 | [vpn_hanging.txt](tunneling/vpn/vpn_hanging.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hanging.txt) |
+| vpn_hanging | 7 | [vpn_hanging.txt](tunneling/vpn/vpn_hanging.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hanging.txt) |
 | vpn_hanonsystems | 1 | [vpn_hanonsystems.txt](tunneling/vpn/vpn_hanonsystems.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hanonsystems.txt) |
 | vpn_hanoverresearch | 1 | [vpn_hanoverresearch.txt](tunneling/vpn/vpn_hanoverresearch.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hanoverresearch.txt) |
 | vpn_hapusa | 1 | [vpn_hapusa.txt](tunneling/vpn/vpn_hapusa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hapusa.txt) |
@@ -4482,7 +4489,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_hibbett | 1 | [vpn_hibbett.txt](tunneling/vpn/vpn_hibbett.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hibbett.txt) |
 | vpn_hibchr | 2 | [vpn_hibchr.txt](tunneling/vpn/vpn_hibchr.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hibchr.txt) |
 | vpn_hicloudcam | 2 | [vpn_hicloudcam.txt](tunneling/vpn/vpn_hicloudcam.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hicloudcam.txt) |
-| vpn_hide | 2 | [vpn_hide.txt](tunneling/vpn/vpn_hide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hide.txt) |
+| vpn_hide | 3 | [vpn_hide.txt](tunneling/vpn/vpn_hide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hide.txt) |
 | vpn_hide5politics | 2 | [vpn_hide5politics.txt](tunneling/vpn/vpn_hide5politics.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hide5politics.txt) |
 | vpn_hideaent | 1 | [vpn_hideaent.txt](tunneling/vpn/vpn_hideaent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hideaent.txt) |
 | vpn_hideagate | 1 | [vpn_hideagate.txt](tunneling/vpn/vpn_hideagate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hideagate.txt) |
@@ -4496,7 +4503,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_hidebeer | 1 | [vpn_hidebeer.txt](tunneling/vpn/vpn_hidebeer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidebeer.txt) |
 | vpn_hidebehavioronline | 1 | [vpn_hidebehavioronline.txt](tunneling/vpn/vpn_hidebehavioronline.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidebehavioronline.txt) |
 | vpn_hidecdn | 1 | [vpn_hidecdn.txt](tunneling/vpn/vpn_hidecdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidecdn.txt) |
-| vpn_hided | 3 | [vpn_hided.txt](tunneling/vpn/vpn_hided.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hided.txt) |
+| vpn_hided | 2 | [vpn_hided.txt](tunneling/vpn/vpn_hided.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hided.txt) |
 | vpn_hidedoor | 1 | [vpn_hidedoor.txt](tunneling/vpn/vpn_hidedoor.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidedoor.txt) |
 | vpn_hidefninja | 2 | [vpn_hidefninja.txt](tunneling/vpn/vpn_hidefninja.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidefninja.txt) |
 | vpn_hidefplasticsurgery | 1 | [vpn_hidefplasticsurgery.txt](tunneling/vpn/vpn_hidefplasticsurgery.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidefplasticsurgery.txt) |
@@ -4516,7 +4523,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_hidemyip | 3 | [vpn_hidemyip.txt](tunneling/vpn/vpn_hidemyip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidemyip.txt) |
 | vpn_hidemyphone | 1 | [vpn_hidemyphone.txt](tunneling/vpn/vpn_hidemyphone.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidemyphone.txt) |
 | vpn_hidemytrack | 1 | [vpn_hidemytrack.txt](tunneling/vpn/vpn_hidemytrack.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidemytrack.txt) |
-| vpn_hiden | 2 | [vpn_hiden.txt](tunneling/vpn/vpn_hiden.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hiden.txt) |
+| vpn_hiden | 3 | [vpn_hiden.txt](tunneling/vpn/vpn_hiden.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hiden.txt) |
 | vpn_hidenanalytical | 2 | [vpn_hidenanalytical.txt](tunneling/vpn/vpn_hidenanalytical.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidenanalytical.txt) |
 | vpn_hidencloud | 1 | [vpn_hidencloud.txt](tunneling/vpn/vpn_hidencloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidencloud.txt) |
 | vpn_hidental | 2 | [vpn_hidental.txt](tunneling/vpn/vpn_hidental.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hidental.txt) |
@@ -4552,23 +4559,23 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_hkcsl | 1 | [vpn_hkcsl.txt](tunneling/vpn/vpn_hkcsl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hkcsl.txt) |
 | vpn_hkvpn | 2 | [vpn_hkvpn.txt](tunneling/vpn/vpn_hkvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hkvpn.txt) |
 | vpn_hmel | 1 | [vpn_hmel.txt](tunneling/vpn/vpn_hmel.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hmel.txt) |
-| vpn_hockeybet | 1 | [vpn_hockeybet.txt](tunneling/vpn/vpn_hockeybet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hockeybet.txt) |
+| vpn_hockeybet | 2 | [vpn_hockeybet.txt](tunneling/vpn/vpn_hockeybet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hockeybet.txt) |
 | vpn_hokivpn | 1 | [vpn_hokivpn.txt](tunneling/vpn/vpn_hokivpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hokivpn.txt) |
 | vpn_hokivpn1 | 1 | [vpn_hokivpn1.txt](tunneling/vpn/vpn_hokivpn1.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hokivpn1.txt) |
 | vpn_hokivpn2 | 1 | [vpn_hokivpn2.txt](tunneling/vpn/vpn_hokivpn2.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hokivpn2.txt) |
 | vpn_hokivpn3 | 1 | [vpn_hokivpn3.txt](tunneling/vpn/vpn_hokivpn3.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hokivpn3.txt) |
 | vpn_hokivpn5 | 1 | [vpn_hokivpn5.txt](tunneling/vpn/vpn_hokivpn5.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hokivpn5.txt) |
-| vpn_hola | 1476 | [vpn_hola.txt](tunneling/vpn/vpn_hola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hola.txt) |
+| vpn_hola | 1483 | [vpn_hola.txt](tunneling/vpn/vpn_hola.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hola.txt) |
 | vpn_holabrowser | 2 | [vpn_holabrowser.txt](tunneling/vpn/vpn_holabrowser.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holabrowser.txt) |
 | vpn_holacompat | 1 | [vpn_holacompat.txt](tunneling/vpn/vpn_holacompat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holacompat.txt) |
 | vpn_holafreevpn | 2 | [vpn_holafreevpn.txt](tunneling/vpn/vpn_holafreevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holafreevpn.txt) |
-| vpn_holavpn | 538 | [vpn_holavpn.txt](tunneling/vpn/vpn_holavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpn.txt) |
+| vpn_holavpn | 539 | [vpn_holavpn.txt](tunneling/vpn/vpn_holavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpn.txt) |
 | vpn_holavpnandroid | 2 | [vpn_holavpnandroid.txt](tunneling/vpn/vpn_holavpnandroid.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpnandroid.txt) |
 | vpn_holavpnextension | 2 | [vpn_holavpnextension.txt](tunneling/vpn/vpn_holavpnextension.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpnextension.txt) |
-| vpn_holavpninstaller | 2 | [vpn_holavpninstaller.txt](tunneling/vpn/vpn_holavpninstaller.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpninstaller.txt) |
+| vpn_holavpninstaller | 1 | [vpn_holavpninstaller.txt](tunneling/vpn/vpn_holavpninstaller.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpninstaller.txt) |
 | vpn_holavpnrussia | 1 | [vpn_holavpnrussia.txt](tunneling/vpn/vpn_holavpnrussia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpnrussia.txt) |
-| vpn_holavpnworld | 2 | [vpn_holavpnworld.txt](tunneling/vpn/vpn_holavpnworld.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpnworld.txt) |
-| vpn_holax | 592 | [vpn_holax.txt](tunneling/vpn/vpn_holax.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holax.txt) |
+| vpn_holavpnworld | 1 | [vpn_holavpnworld.txt](tunneling/vpn/vpn_holavpnworld.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holavpnworld.txt) |
+| vpn_holax | 593 | [vpn_holax.txt](tunneling/vpn/vpn_holax.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_holax.txt) |
 | vpn_hollisterstier | 1 | [vpn_hollisterstier.txt](tunneling/vpn/vpn_hollisterstier.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hollisterstier.txt) |
 | vpn_homeadvisor | 1 | [vpn_homeadvisor.txt](tunneling/vpn/vpn_homeadvisor.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_homeadvisor.txt) |
 | vpn_homevpn | 2 | [vpn_homevpn.txt](tunneling/vpn/vpn_homevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_homevpn.txt) |
@@ -4584,7 +4591,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_houston | 1 | [vpn_houston.txt](tunneling/vpn/vpn_houston.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_houston.txt) |
 | vpn_houstontx | 1 | [vpn_houstontx.txt](tunneling/vpn/vpn_houstontx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_houstontx.txt) |
 | vpn_howmet | 1 | [vpn_howmet.txt](tunneling/vpn/vpn_howmet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_howmet.txt) |
-| vpn_hoxx | 8 | [vpn_hoxx.txt](tunneling/vpn/vpn_hoxx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hoxx.txt) |
+| vpn_hoxx | 5 | [vpn_hoxx.txt](tunneling/vpn/vpn_hoxx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hoxx.txt) |
 | vpn_hpe | 1 | [vpn_hpe.txt](tunneling/vpn/vpn_hpe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hpe.txt) |
 | vpn_hpicorp | 2 | [vpn_hpicorp.txt](tunneling/vpn/vpn_hpicorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hpicorp.txt) |
 | vpn_hrsd | 1 | [vpn_hrsd.txt](tunneling/vpn/vpn_hrsd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_hrsd.txt) |
@@ -4622,7 +4629,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_icpsuawn1zy5amys | 8 | [vpn_icpsuawn1zy5amys.txt](tunneling/vpn/vpn_icpsuawn1zy5amys.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_icpsuawn1zy5amys.txt) |
 | vpn_icsvpn | 1 | [vpn_icsvpn.txt](tunneling/vpn/vpn_icsvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_icsvpn.txt) |
 | vpn_ida | 1 | [vpn_ida.txt](tunneling/vpn/vpn_ida.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ida.txt) |
-| vpn_idemitsu | 2 | [vpn_idemitsu.txt](tunneling/vpn/vpn_idemitsu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_idemitsu.txt) |
+| vpn_idemitsu | 4 | [vpn_idemitsu.txt](tunneling/vpn/vpn_idemitsu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_idemitsu.txt) |
 | vpn_idexx | 2 | [vpn_idexx.txt](tunneling/vpn/vpn_idexx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_idexx.txt) |
 | vpn_idt | 1 | [vpn_idt.txt](tunneling/vpn/vpn_idt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_idt.txt) |
 | vpn_ieahamburg | 1 | [vpn_ieahamburg.txt](tunneling/vpn/vpn_ieahamburg.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ieahamburg.txt) |
@@ -4750,7 +4757,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_jobwelldown | 1 | [vpn_jobwelldown.txt](tunneling/vpn/vpn_jobwelldown.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_jobwelldown.txt) |
 | vpn_jocombs | 1 | [vpn_jocombs.txt](tunneling/vpn/vpn_jocombs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_jocombs.txt) |
 | vpn_johndeereandco | 1 | [vpn_johndeereandco.txt](tunneling/vpn/vpn_johndeereandco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_johndeereandco.txt) |
-| vpn_johndeerecloud | 6 | [vpn_johndeerecloud.txt](tunneling/vpn/vpn_johndeerecloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_johndeerecloud.txt) |
+| vpn_johndeerecloud | 5 | [vpn_johndeerecloud.txt](tunneling/vpn/vpn_johndeerecloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_johndeerecloud.txt) |
 | vpn_johnsoncontrols | 5 | [vpn_johnsoncontrols.txt](tunneling/vpn/vpn_johnsoncontrols.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_johnsoncontrols.txt) |
 | vpn_jolcorp | 1 | [vpn_jolcorp.txt](tunneling/vpn/vpn_jolcorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_jolcorp.txt) |
 | vpn_joyglobal | 1 | [vpn_joyglobal.txt](tunneling/vpn/vpn_joyglobal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_joyglobal.txt) |
@@ -4773,10 +4780,10 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_kasikornasset | 1 | [vpn_kasikornasset.txt](tunneling/vpn/vpn_kasikornasset.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kasikornasset.txt) |
 | vpn_kaspersky | 2 | [vpn_kaspersky.txt](tunneling/vpn/vpn_kaspersky.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kaspersky.txt) |
 | vpn_kasperskylabs | 1 | [vpn_kasperskylabs.txt](tunneling/vpn/vpn_kasperskylabs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kasperskylabs.txt) |
-| vpn_kbz0pwvxmv | 150 | [vpn_kbz0pwvxmv.txt](tunneling/vpn/vpn_kbz0pwvxmv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kbz0pwvxmv.txt) |
+| vpn_kbz0pwvxmv | 140 | [vpn_kbz0pwvxmv.txt](tunneling/vpn/vpn_kbz0pwvxmv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kbz0pwvxmv.txt) |
 | vpn_kcmrm | 1 | [vpn_kcmrm.txt](tunneling/vpn/vpn_kcmrm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kcmrm.txt) |
 | vpn_kdrp | 1 | [vpn_kdrp.txt](tunneling/vpn/vpn_kdrp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kdrp.txt) |
-| vpn_keepsolid | 11 | [vpn_keepsolid.txt](tunneling/vpn/vpn_keepsolid.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_keepsolid.txt) |
+| vpn_keepsolid | 13 | [vpn_keepsolid.txt](tunneling/vpn/vpn_keepsolid.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_keepsolid.txt) |
 | vpn_keepsolidcdn | 1 | [vpn_keepsolidcdn.txt](tunneling/vpn/vpn_keepsolidcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_keepsolidcdn.txt) |
 | vpn_keler | 1 | [vpn_keler.txt](tunneling/vpn/vpn_keler.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_keler.txt) |
 | vpn_kern | 1 | [vpn_kern.txt](tunneling/vpn/vpn_kern.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kern.txt) |
@@ -4814,7 +4821,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_kpfilms | 1 | [vpn_kpfilms.txt](tunneling/vpn/vpn_kpfilms.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kpfilms.txt) |
 | vpn_kpmg | 1 | [vpn_kpmg.txt](tunneling/vpn/vpn_kpmg.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kpmg.txt) |
 | vpn_kpnnet | 1 | [vpn_kpnnet.txt](tunneling/vpn/vpn_kpnnet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kpnnet.txt) |
-| vpn_kproxy | 9 | [vpn_kproxy.txt](tunneling/vpn/vpn_kproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kproxy.txt) |
+| vpn_kproxy | 11 | [vpn_kproxy.txt](tunneling/vpn/vpn_kproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kproxy.txt) |
 | vpn_kraftringen | 1 | [vpn_kraftringen.txt](tunneling/vpn/vpn_kraftringen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kraftringen.txt) |
 | vpn_kredytinkaso | 1 | [vpn_kredytinkaso.txt](tunneling/vpn/vpn_kredytinkaso.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kredytinkaso.txt) |
 | vpn_krinner | 1 | [vpn_krinner.txt](tunneling/vpn/vpn_krinner.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_krinner.txt) |
@@ -4829,7 +4836,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_kvblimited | 1 | [vpn_kvblimited.txt](tunneling/vpn/vpn_kvblimited.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kvblimited.txt) |
 | vpn_kwl63irf | 1 | [vpn_kwl63irf.txt](tunneling/vpn/vpn_kwl63irf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kwl63irf.txt) |
 | vpn_kwmaster | 1 | [vpn_kwmaster.txt](tunneling/vpn/vpn_kwmaster.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kwmaster.txt) |
-| vpn_kxcdn | 3 | [vpn_kxcdn.txt](tunneling/vpn/vpn_kxcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kxcdn.txt) |
+| vpn_kxcdn | 2 | [vpn_kxcdn.txt](tunneling/vpn/vpn_kxcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kxcdn.txt) |
 | vpn_ky | 2 | [vpn_ky.txt](tunneling/vpn/vpn_ky.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ky.txt) |
 | vpn_kyotohideya | 1 | [vpn_kyotohideya.txt](tunneling/vpn/vpn_kyotohideya.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_kyotohideya.txt) |
 | vpn_l4bor | 1 | [vpn_l4bor.txt](tunneling/vpn/vpn_l4bor.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_l4bor.txt) |
@@ -4917,6 +4924,8 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_lucidcars | 1 | [vpn_lucidcars.txt](tunneling/vpn/vpn_lucidcars.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lucidcars.txt) |
 | vpn_lucidmotors | 1 | [vpn_lucidmotors.txt](tunneling/vpn/vpn_lucidmotors.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lucidmotors.txt) |
 | vpn_lumixvpn | 2 | [vpn_lumixvpn.txt](tunneling/vpn/vpn_lumixvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lumixvpn.txt) |
+| vpn_lummavpn | 2 | [vpn_lummavpn.txt](tunneling/vpn/vpn_lummavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lummavpn.txt) |
+| vpn_lumuxvpn | 2 | [vpn_lumuxvpn.txt](tunneling/vpn/vpn_lumuxvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lumuxvpn.txt) |
 | vpn_luxerone | 1 | [vpn_luxerone.txt](tunneling/vpn/vpn_luxerone.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_luxerone.txt) |
 | vpn_luxurycowhides | 1 | [vpn_luxurycowhides.txt](tunneling/vpn/vpn_luxurycowhides.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_luxurycowhides.txt) |
 | vpn_lvmh | 1 | [vpn_lvmh.txt](tunneling/vpn/vpn_lvmh.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_lvmh.txt) |
@@ -4927,7 +4936,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_machina | 1 | [vpn_machina.txt](tunneling/vpn/vpn_machina.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_machina.txt) |
 | vpn_mackenergycorp | 1 | [vpn_mackenergycorp.txt](tunneling/vpn/vpn_mackenergycorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mackenergycorp.txt) |
 | vpn_macletsvpn | 1 | [vpn_macletsvpn.txt](tunneling/vpn/vpn_macletsvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_macletsvpn.txt) |
-| vpn_macys | 1 | [vpn_macys.txt](tunneling/vpn/vpn_macys.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_macys.txt) |
+| vpn_macys | 2 | [vpn_macys.txt](tunneling/vpn/vpn_macys.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_macys.txt) |
 | vpn_mada | 1 | [vpn_mada.txt](tunneling/vpn/vpn_mada.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mada.txt) |
 | vpn_madonna | 6 | [vpn_madonna.txt](tunneling/vpn/vpn_madonna.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_madonna.txt) |
 | vpn_maf | 1 | [vpn_maf.txt](tunneling/vpn/vpn_maf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_maf.txt) |
@@ -4945,7 +4954,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_malmo | 1 | [vpn_malmo.txt](tunneling/vpn/vpn_malmo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_malmo.txt) |
 | vpn_mango | 1 | [vpn_mango.txt](tunneling/vpn/vpn_mango.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mango.txt) |
 | vpn_manpowergroup | 1 | [vpn_manpowergroup.txt](tunneling/vpn/vpn_manpowergroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_manpowergroup.txt) |
-| vpn_manulifesinochem | 178 | [vpn_manulifesinochem.txt](tunneling/vpn/vpn_manulifesinochem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_manulifesinochem.txt) |
+| vpn_manulifesinochem | 183 | [vpn_manulifesinochem.txt](tunneling/vpn/vpn_manulifesinochem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_manulifesinochem.txt) |
 | vpn_mapal | 1 | [vpn_mapal.txt](tunneling/vpn/vpn_mapal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mapal.txt) |
 | vpn_marshfieldclinic | 1 | [vpn_marshfieldclinic.txt](tunneling/vpn/vpn_marshfieldclinic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_marshfieldclinic.txt) |
 | vpn_masterbrand | 2 | [vpn_masterbrand.txt](tunneling/vpn/vpn_masterbrand.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_masterbrand.txt) |
@@ -4954,7 +4963,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_mathcraftinghub | 1 | [vpn_mathcraftinghub.txt](tunneling/vpn/vpn_mathcraftinghub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mathcraftinghub.txt) |
 | vpn_maximo | 2 | [vpn_maximo.txt](tunneling/vpn/vpn_maximo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_maximo.txt) |
 | vpn_maxiscloud | 1 | [vpn_maxiscloud.txt](tunneling/vpn/vpn_maxiscloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_maxiscloud.txt) |
-| vpn_maxxxcdn | 44 | [vpn_maxxxcdn.txt](tunneling/vpn/vpn_maxxxcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_maxxxcdn.txt) |
+| vpn_maxxxcdn | 46 | [vpn_maxxxcdn.txt](tunneling/vpn/vpn_maxxxcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_maxxxcdn.txt) |
 | vpn_mayo | 2 | [vpn_mayo.txt](tunneling/vpn/vpn_mayo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mayo.txt) |
 | vpn_mb | 1 | [vpn_mb.txt](tunneling/vpn/vpn_mb.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mb.txt) |
 | vpn_mbconnect24 | 2 | [vpn_mbconnect24.txt](tunneling/vpn/vpn_mbconnect24.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mbconnect24.txt) |
@@ -5011,7 +5020,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_mistrasgroup | 1 | [vpn_mistrasgroup.txt](tunneling/vpn/vpn_mistrasgroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mistrasgroup.txt) |
 | vpn_mixing | 1 | [vpn_mixing.txt](tunneling/vpn/vpn_mixing.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mixing.txt) |
 | vpn_mizuhosc | 1 | [vpn_mizuhosc.txt](tunneling/vpn/vpn_mizuhosc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mizuhosc.txt) |
-| vpn_mjhideout | 2 | [vpn_mjhideout.txt](tunneling/vpn/vpn_mjhideout.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mjhideout.txt) |
+| vpn_mjhideout | 1 | [vpn_mjhideout.txt](tunneling/vpn/vpn_mjhideout.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mjhideout.txt) |
 | vpn_mkcontroller | 1 | [vpn_mkcontroller.txt](tunneling/vpn/vpn_mkcontroller.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mkcontroller.txt) |
 | vpn_mlock | 1 | [vpn_mlock.txt](tunneling/vpn/vpn_mlock.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mlock.txt) |
 | vpn_mmc | 2 | [vpn_mmc.txt](tunneling/vpn/vpn_mmc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mmc.txt) |
@@ -5071,17 +5080,17 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_myfirstfarmers | 1 | [vpn_myfirstfarmers.txt](tunneling/vpn/vpn_myfirstfarmers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myfirstfarmers.txt) |
 | vpn_myflorida | 1 | [vpn_myflorida.txt](tunneling/vpn/vpn_myflorida.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myflorida.txt) |
 | vpn_myguruvpn | 1 | [vpn_myguruvpn.txt](tunneling/vpn/vpn_myguruvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myguruvpn.txt) |
-| vpn_myhuaweicloud | 64 | [vpn_myhuaweicloud.txt](tunneling/vpn/vpn_myhuaweicloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myhuaweicloud.txt) |
+| vpn_myhuaweicloud | 77 | [vpn_myhuaweicloud.txt](tunneling/vpn/vpn_myhuaweicloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myhuaweicloud.txt) |
 | vpn_myiphider | 1 | [vpn_myiphider.txt](tunneling/vpn/vpn_myiphider.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myiphider.txt) |
 | vpn_mylactalis | 2 | [vpn_mylactalis.txt](tunneling/vpn/vpn_mylactalis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mylactalis.txt) |
 | vpn_mynetname | 1 | [vpn_mynetname.txt](tunneling/vpn/vpn_mynetname.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mynetname.txt) |
 | vpn_mynslc | 1 | [vpn_mynslc.txt](tunneling/vpn/vpn_mynslc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mynslc.txt) |
-| vpn_myoas | 5 | [vpn_myoas.txt](tunneling/vpn/vpn_myoas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myoas.txt) |
+| vpn_myoas | 1 | [vpn_myoas.txt](tunneling/vpn/vpn_myoas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myoas.txt) |
 | vpn_myproxy | 1 | [vpn_myproxy.txt](tunneling/vpn/vpn_myproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myproxy.txt) |
 | vpn_myqcloud | 1 | [vpn_myqcloud.txt](tunneling/vpn/vpn_myqcloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myqcloud.txt) |
 | vpn_myrex24 | 1 | [vpn_myrex24.txt](tunneling/vpn/vpn_myrex24.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myrex24.txt) |
 | vpn_myrtlebeachhoteldeals | 1 | [vpn_myrtlebeachhoteldeals.txt](tunneling/vpn/vpn_myrtlebeachhoteldeals.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myrtlebeachhoteldeals.txt) |
-| vpn_mysafenet | 23 | [vpn_mysafenet.txt](tunneling/vpn/vpn_mysafenet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mysafenet.txt) |
+| vpn_mysafenet | 25 | [vpn_mysafenet.txt](tunneling/vpn/vpn_mysafenet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mysafenet.txt) |
 | vpn_mysteriumvpn | 1 | [vpn_mysteriumvpn.txt](tunneling/vpn/vpn_mysteriumvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mysteriumvpn.txt) |
 | vpn_mysystemservice | 2 | [vpn_mysystemservice.txt](tunneling/vpn/vpn_mysystemservice.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_mysystemservice.txt) |
 | vpn_myteksi | 1 | [vpn_myteksi.txt](tunneling/vpn/vpn_myteksi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_myteksi.txt) |
@@ -5158,13 +5167,13 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_noaa | 2 | [vpn_noaa.txt](tunneling/vpn/vpn_noaa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_noaa.txt) |
 | vpn_nolags | 1 | [vpn_nolags.txt](tunneling/vpn/vpn_nolags.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nolags.txt) |
 | vpn_nolagvpn | 2 | [vpn_nolagvpn.txt](tunneling/vpn/vpn_nolagvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nolagvpn.txt) |
-| vpn_nomadish | 1 | [vpn_nomadish.txt](tunneling/vpn/vpn_nomadish.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nomadish.txt) |
+| vpn_nomadish | 2 | [vpn_nomadish.txt](tunneling/vpn/vpn_nomadish.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nomadish.txt) |
 | vpn_nordaccount | 8 | [vpn_nordaccount.txt](tunneling/vpn/vpn_nordaccount.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordaccount.txt) |
 | vpn_nordcdn | 1 | [vpn_nordcdn.txt](tunneling/vpn/vpn_nordcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordcdn.txt) |
 | vpn_nordicsemi | 1 | [vpn_nordicsemi.txt](tunneling/vpn/vpn_nordicsemi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordicsemi.txt) |
 | vpn_nordlayer | 11 | [vpn_nordlayer.txt](tunneling/vpn/vpn_nordlayer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordlayer.txt) |
 | vpn_nordmeccanica | 1 | [vpn_nordmeccanica.txt](tunneling/vpn/vpn_nordmeccanica.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordmeccanica.txt) |
-| vpn_nordvpn | 4187 | [vpn_nordvpn.txt](tunneling/vpn/vpn_nordvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordvpn.txt) |
+| vpn_nordvpn | 4226 | [vpn_nordvpn.txt](tunneling/vpn/vpn_nordvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordvpn.txt) |
 | vpn_nordvpnteams | 2 | [vpn_nordvpnteams.txt](tunneling/vpn/vpn_nordvpnteams.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nordvpnteams.txt) |
 | vpn_northghost | 1 | [vpn_northghost.txt](tunneling/vpn/vpn_northghost.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_northghost.txt) |
 | vpn_northmarq | 1 | [vpn_northmarq.txt](tunneling/vpn/vpn_northmarq.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_northmarq.txt) |
@@ -5183,7 +5192,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_novelis | 5 | [vpn_novelis.txt](tunneling/vpn/vpn_novelis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_novelis.txt) |
 | vpn_novonordisk | 1 | [vpn_novonordisk.txt](tunneling/vpn/vpn_novonordisk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_novonordisk.txt) |
 | vpn_npilab | 1 | [vpn_npilab.txt](tunneling/vpn/vpn_npilab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_npilab.txt) |
-| vpn_npvu | 64 | [vpn_npvu.txt](tunneling/vpn/vpn_npvu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_npvu.txt) |
+| vpn_npvu | 63 | [vpn_npvu.txt](tunneling/vpn/vpn_npvu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_npvu.txt) |
 | vpn_nrc | 1 | [vpn_nrc.txt](tunneling/vpn/vpn_nrc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nrc.txt) |
 | vpn_nss | 2 | [vpn_nss.txt](tunneling/vpn/vpn_nss.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_nss.txt) |
 | vpn_ntt | 9 | [vpn_ntt.txt](tunneling/vpn/vpn_ntt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ntt.txt) |
@@ -5264,10 +5273,10 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_opendns | 1 | [vpn_opendns.txt](tunneling/vpn/vpn_opendns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_opendns.txt) |
 | vpn_opengw | 1 | [vpn_opengw.txt](tunneling/vpn/vpn_opengw.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_opengw.txt) |
 | vpn_openings | 1 | [vpn_openings.txt](tunneling/vpn/vpn_openings.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openings.txt) |
-| vpn_openips | 1084 | [vpn_openips.txt](tunneling/vpn/vpn_openips.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openips.txt) |
+| vpn_openips | 1091 | [vpn_openips.txt](tunneling/vpn/vpn_openips.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openips.txt) |
 | vpn_openproxylist | 1 | [vpn_openproxylist.txt](tunneling/vpn/vpn_openproxylist.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openproxylist.txt) |
 | vpn_opentext | 1 | [vpn_opentext.txt](tunneling/vpn/vpn_opentext.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_opentext.txt) |
-| vpn_openvpn | 13 | [vpn_openvpn.txt](tunneling/vpn/vpn_openvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openvpn.txt) |
+| vpn_openvpn | 16 | [vpn_openvpn.txt](tunneling/vpn/vpn_openvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_openvpn.txt) |
 | vpn_operatorwss | 1 | [vpn_operatorwss.txt](tunneling/vpn/vpn_operatorwss.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_operatorwss.txt) |
 | vpn_opg | 1 | [vpn_opg.txt](tunneling/vpn/vpn_opg.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_opg.txt) |
 | vpn_oppo | 2 | [vpn_oppo.txt](tunneling/vpn/vpn_oppo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_oppo.txt) |
@@ -5327,7 +5336,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_pall | 1 | [vpn_pall.txt](tunneling/vpn/vpn_pall.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pall.txt) |
 | vpn_panasonic | 2 | [vpn_panasonic.txt](tunneling/vpn/vpn_panasonic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_panasonic.txt) |
 | vpn_panattoni | 1 | [vpn_panattoni.txt](tunneling/vpn/vpn_panattoni.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_panattoni.txt) |
-| vpn_pandavpnpro | 2 | [vpn_pandavpnpro.txt](tunneling/vpn/vpn_pandavpnpro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pandavpnpro.txt) |
+| vpn_pandavpnpro | 1 | [vpn_pandavpnpro.txt](tunneling/vpn/vpn_pandavpnpro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pandavpnpro.txt) |
 | vpn_pangdavpn | 2 | [vpn_pangdavpn.txt](tunneling/vpn/vpn_pangdavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pangdavpn.txt) |
 | vpn_pannet | 2 | [vpn_pannet.txt](tunneling/vpn/vpn_pannet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pannet.txt) |
 | vpn_papervpn | 1 | [vpn_papervpn.txt](tunneling/vpn/vpn_papervpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_papervpn.txt) |
@@ -5399,7 +5408,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_planethoster | 2 | [vpn_planethoster.txt](tunneling/vpn/vpn_planethoster.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_planethoster.txt) |
 | vpn_planetvpnarab | 2 | [vpn_planetvpnarab.txt](tunneling/vpn/vpn_planetvpnarab.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_planetvpnarab.txt) |
 | vpn_planetvpnfree | 2 | [vpn_planetvpnfree.txt](tunneling/vpn/vpn_planetvpnfree.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_planetvpnfree.txt) |
-| vpn_platovpn | 2 | [vpn_platovpn.txt](tunneling/vpn/vpn_platovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_platovpn.txt) |
+| vpn_platovpn | 1 | [vpn_platovpn.txt](tunneling/vpn/vpn_platovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_platovpn.txt) |
 | vpn_playhide | 1 | [vpn_playhide.txt](tunneling/vpn/vpn_playhide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_playhide.txt) |
 | vpn_plksa | 1 | [vpn_plksa.txt](tunneling/vpn/vpn_plksa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_plksa.txt) |
 | vpn_plnpskov | 3 | [vpn_plnpskov.txt](tunneling/vpn/vpn_plnpskov.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_plnpskov.txt) |
@@ -5411,7 +5420,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_pofm | 1 | [vpn_pofm.txt](tunneling/vpn/vpn_pofm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pofm.txt) |
 | vpn_point32health | 1 | [vpn_point32health.txt](tunneling/vpn/vpn_point32health.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_point32health.txt) |
 | vpn_pointed | 6 | [vpn_pointed.txt](tunneling/vpn/vpn_pointed.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pointed.txt) |
-| vpn_pointtoserver | 248 | [vpn_pointtoserver.txt](tunneling/vpn/vpn_pointtoserver.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pointtoserver.txt) |
+| vpn_pointtoserver | 247 | [vpn_pointtoserver.txt](tunneling/vpn/vpn_pointtoserver.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pointtoserver.txt) |
 | vpn_polarisind | 1 | [vpn_polarisind.txt](tunneling/vpn/vpn_polarisind.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_polarisind.txt) |
 | vpn_polembros | 1 | [vpn_polembros.txt](tunneling/vpn/vpn_polembros.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_polembros.txt) |
 | vpn_polishairports | 1 | [vpn_polishairports.txt](tunneling/vpn/vpn_polishairports.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_polishairports.txt) |
@@ -5436,16 +5445,16 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_primacom | 1 | [vpn_primacom.txt](tunneling/vpn/vpn_primacom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_primacom.txt) |
 | vpn_primarykit | 1 | [vpn_primarykit.txt](tunneling/vpn/vpn_primarykit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_primarykit.txt) |
 | vpn_primesourcebp | 1 | [vpn_primesourcebp.txt](tunneling/vpn/vpn_primesourcebp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_primesourcebp.txt) |
-| vpn_privacy | 160 | [vpn_privacy.txt](tunneling/vpn/vpn_privacy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privacy.txt) |
+| vpn_privacy | 161 | [vpn_privacy.txt](tunneling/vpn/vpn_privacy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privacy.txt) |
 | vpn_privado | 1 | [vpn_privado.txt](tunneling/vpn/vpn_privado.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privado.txt) |
 | vpn_privadovpn | 3 | [vpn_privadovpn.txt](tunneling/vpn/vpn_privadovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privadovpn.txt) |
 | vpn_privatehide | 1 | [vpn_privatehide.txt](tunneling/vpn/vpn_privatehide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privatehide.txt) |
-| vpn_privateinternetaccess | 112 | [vpn_privateinternetaccess.txt](tunneling/vpn/vpn_privateinternetaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privateinternetaccess.txt) |
+| vpn_privateinternetaccess | 106 | [vpn_privateinternetaccess.txt](tunneling/vpn/vpn_privateinternetaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privateinternetaccess.txt) |
 | vpn_privateproxyreviews | 1 | [vpn_privateproxyreviews.txt](tunneling/vpn/vpn_privateproxyreviews.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privateproxyreviews.txt) |
 | vpn_privatevpn | 1 | [vpn_privatevpn.txt](tunneling/vpn/vpn_privatevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privatevpn.txt) |
 | vpn_privoravpn | 1 | [vpn_privoravpn.txt](tunneling/vpn/vpn_privoravpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_privoravpn.txt) |
 | vpn_prmdom | 1 | [vpn_prmdom.txt](tunneling/vpn/vpn_prmdom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prmdom.txt) |
-| vpn_prmsrvs | 938 | [vpn_prmsrvs.txt](tunneling/vpn/vpn_prmsrvs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prmsrvs.txt) |
+| vpn_prmsrvs | 950 | [vpn_prmsrvs.txt](tunneling/vpn/vpn_prmsrvs.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prmsrvs.txt) |
 | vpn_procentricvpn | 1 | [vpn_procentricvpn.txt](tunneling/vpn/vpn_procentricvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_procentricvpn.txt) |
 | vpn_products | 1 | [vpn_products.txt](tunneling/vpn/vpn_products.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_products.txt) |
 | vpn_progressrail | 1 | [vpn_progressrail.txt](tunneling/vpn/vpn_progressrail.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_progressrail.txt) |
@@ -5453,10 +5462,10 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_projectorbit | 1 | [vpn_projectorbit.txt](tunneling/vpn/vpn_projectorbit.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_projectorbit.txt) |
 | vpn_prosiebensat1puls4 | 1 | [vpn_prosiebensat1puls4.txt](tunneling/vpn/vpn_prosiebensat1puls4.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prosiebensat1puls4.txt) |
 | vpn_prostovpn | 2 | [vpn_prostovpn.txt](tunneling/vpn/vpn_prostovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prostovpn.txt) |
-| vpn_protectmyip | 36 | [vpn_protectmyip.txt](tunneling/vpn/vpn_protectmyip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protectmyip.txt) |
-| vpn_proton | 52 | [vpn_proton.txt](tunneling/vpn/vpn_proton.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proton.txt) |
+| vpn_protectmyip | 34 | [vpn_protectmyip.txt](tunneling/vpn/vpn_protectmyip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protectmyip.txt) |
+| vpn_proton | 56 | [vpn_proton.txt](tunneling/vpn/vpn_proton.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proton.txt) |
 | vpn_protondownload | 1 | [vpn_protondownload.txt](tunneling/vpn/vpn_protondownload.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protondownload.txt) |
-| vpn_protonvpn | 1719 | [vpn_protonvpn.txt](tunneling/vpn/vpn_protonvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protonvpn.txt) |
+| vpn_protonvpn | 1730 | [vpn_protonvpn.txt](tunneling/vpn/vpn_protonvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protonvpn.txt) |
 | vpn_protonweb | 1 | [vpn_protonweb.txt](tunneling/vpn/vpn_protonweb.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_protonweb.txt) |
 | vpn_provpn | 1 | [vpn_provpn.txt](tunneling/vpn/vpn_provpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_provpn.txt) |
 | vpn_proxfree | 1 | [vpn_proxfree.txt](tunneling/vpn/vpn_proxfree.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxfree.txt) |
@@ -5468,7 +5477,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_proxynova | 1 | [vpn_proxynova.txt](tunneling/vpn/vpn_proxynova.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxynova.txt) |
 | vpn_proxyscan | 1 | [vpn_proxyscan.txt](tunneling/vpn/vpn_proxyscan.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxyscan.txt) |
 | vpn_proxyscrape | 1 | [vpn_proxyscrape.txt](tunneling/vpn/vpn_proxyscrape.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxyscrape.txt) |
-| vpn_proxysite | 3 | [vpn_proxysite.txt](tunneling/vpn/vpn_proxysite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxysite.txt) |
+| vpn_proxysite | 4 | [vpn_proxysite.txt](tunneling/vpn/vpn_proxysite.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxysite.txt) |
 | vpn_proxyway | 1 | [vpn_proxyway.txt](tunneling/vpn/vpn_proxyway.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxyway.txt) |
 | vpn_proxyyoutube | 1 | [vpn_proxyyoutube.txt](tunneling/vpn/vpn_proxyyoutube.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_proxyyoutube.txt) |
 | vpn_prvxvpn | 1 | [vpn_prvxvpn.txt](tunneling/vpn/vpn_prvxvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_prvxvpn.txt) |
@@ -5484,7 +5493,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_pulsen | 1 | [vpn_pulsen.txt](tunneling/vpn/vpn_pulsen.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pulsen.txt) |
 | vpn_purdue | 1 | [vpn_purdue.txt](tunneling/vpn/vpn_purdue.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_purdue.txt) |
 | vpn_puredome | 3 | [vpn_puredome.txt](tunneling/vpn/vpn_puredome.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_puredome.txt) |
-| vpn_purevpn | 13 | [vpn_purevpn.txt](tunneling/vpn/vpn_purevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_purevpn.txt) |
+| vpn_purevpn | 11 | [vpn_purevpn.txt](tunneling/vpn/vpn_purevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_purevpn.txt) |
 | vpn_purevpntools | 2 | [vpn_purevpntools.txt](tunneling/vpn/vpn_purevpntools.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_purevpntools.txt) |
 | vpn_pursuant | 9 | [vpn_pursuant.txt](tunneling/vpn/vpn_pursuant.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pursuant.txt) |
 | vpn_pushvpn | 1 | [vpn_pushvpn.txt](tunneling/vpn/vpn_pushvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_pushvpn.txt) |
@@ -5542,6 +5551,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_regalns1 | 1 | [vpn_regalns1.txt](tunneling/vpn/vpn_regalns1.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_regalns1.txt) |
 | vpn_regionh | 1 | [vpn_regionh.txt](tunneling/vpn/vpn_regionh.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_regionh.txt) |
 | vpn_reisttele | 1 | [vpn_reisttele.txt](tunneling/vpn/vpn_reisttele.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_reisttele.txt) |
+| vpn_rekavpn | 2 | [vpn_rekavpn.txt](tunneling/vpn/vpn_rekavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_rekavpn.txt) |
 | vpn_religroupinc | 1 | [vpn_religroupinc.txt](tunneling/vpn/vpn_religroupinc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_religroupinc.txt) |
 | vpn_republiccement | 1 | [vpn_republiccement.txt](tunneling/vpn/vpn_republiccement.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_republiccement.txt) |
 | vpn_resideo | 1 | [vpn_resideo.txt](tunneling/vpn/vpn_resideo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_resideo.txt) |
@@ -5597,6 +5607,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_sacmi | 1 | [vpn_sacmi.txt](tunneling/vpn/vpn_sacmi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sacmi.txt) |
 | vpn_sacpinfo | 1 | [vpn_sacpinfo.txt](tunneling/vpn/vpn_sacpinfo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sacpinfo.txt) |
 | vpn_safaricom | 1 | [vpn_safaricom.txt](tunneling/vpn/vpn_safaricom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_safaricom.txt) |
+| vpn_safebestvpn | 1 | [vpn_safebestvpn.txt](tunneling/vpn/vpn_safebestvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_safebestvpn.txt) |
 | vpn_saferip | 2 | [vpn_saferip.txt](tunneling/vpn/vpn_saferip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_saferip.txt) |
 | vpn_safersoftware | 1 | [vpn_safersoftware.txt](tunneling/vpn/vpn_safersoftware.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_safersoftware.txt) |
 | vpn_safervpn | 1 | [vpn_safervpn.txt](tunneling/vpn/vpn_safervpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_safervpn.txt) |
@@ -5641,7 +5652,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_schoolcomminicate | 1 | [vpn_schoolcomminicate.txt](tunneling/vpn/vpn_schoolcomminicate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_schoolcomminicate.txt) |
 | vpn_schott | 1 | [vpn_schott.txt](tunneling/vpn/vpn_schott.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_schott.txt) |
 | vpn_schwerterorchideenzucht | 2 | [vpn_schwerterorchideenzucht.txt](tunneling/vpn/vpn_schwerterorchideenzucht.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_schwerterorchideenzucht.txt) |
-| vpn_sciences | 8 | [vpn_sciences.txt](tunneling/vpn/vpn_sciences.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sciences.txt) |
+| vpn_sciences | 7 | [vpn_sciences.txt](tunneling/vpn/vpn_sciences.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sciences.txt) |
 | vpn_scoreltd | 1 | [vpn_scoreltd.txt](tunneling/vpn/vpn_scoreltd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_scoreltd.txt) |
 | vpn_scottsports | 1 | [vpn_scottsports.txt](tunneling/vpn/vpn_scottsports.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_scottsports.txt) |
 | vpn_scroogevpn | 2 | [vpn_scroogevpn.txt](tunneling/vpn/vpn_scroogevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_scroogevpn.txt) |
@@ -5653,7 +5664,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_seat | 1 | [vpn_seat.txt](tunneling/vpn/vpn_seat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_seat.txt) |
 | vpn_sec | 1 | [vpn_sec.txt](tunneling/vpn/vpn_sec.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sec.txt) |
 | vpn_secure24 | 5 | [vpn_secure24.txt](tunneling/vpn/vpn_secure24.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_secure24.txt) |
-| vpn_secureaccessfed | 3 | [vpn_secureaccessfed.txt](tunneling/vpn/vpn_secureaccessfed.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_secureaccessfed.txt) |
+| vpn_secureaccessfed | 1 | [vpn_secureaccessfed.txt](tunneling/vpn/vpn_secureaccessfed.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_secureaccessfed.txt) |
 | vpn_securegatewayaccess | 3 | [vpn_securegatewayaccess.txt](tunneling/vpn/vpn_securegatewayaccess.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_securegatewayaccess.txt) |
 | vpn_securelockvpn | 2 | [vpn_securelockvpn.txt](tunneling/vpn/vpn_securelockvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_securelockvpn.txt) |
 | vpn_securestartup | 2 | [vpn_securestartup.txt](tunneling/vpn/vpn_securestartup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_securestartup.txt) |
@@ -5673,7 +5684,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_sephora | 2 | [vpn_sephora.txt](tunneling/vpn/vpn_sephora.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sephora.txt) |
 | vpn_septiles | 1 | [vpn_septiles.txt](tunneling/vpn/vpn_septiles.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_septiles.txt) |
 | vpn_serravalle | 1 | [vpn_serravalle.txt](tunneling/vpn/vpn_serravalle.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_serravalle.txt) |
-| vpn_servezshops | 8 | [vpn_servezshops.txt](tunneling/vpn/vpn_servezshops.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_servezshops.txt) |
+| vpn_servezshops | 9 | [vpn_servezshops.txt](tunneling/vpn/vpn_servezshops.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_servezshops.txt) |
 | vpn_servicedaccommodationworkshop | 1 | [vpn_servicedaccommodationworkshop.txt](tunneling/vpn/vpn_servicedaccommodationworkshop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_servicedaccommodationworkshop.txt) |
 | vpn_serviceict | 1 | [vpn_serviceict.txt](tunneling/vpn/vpn_serviceict.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_serviceict.txt) |
 | vpn_servicenow | 3 | [vpn_servicenow.txt](tunneling/vpn/vpn_servicenow.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_servicenow.txt) |
@@ -5749,7 +5760,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_slsp | 1 | [vpn_slsp.txt](tunneling/vpn/vpn_slsp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_slsp.txt) |
 | vpn_sluchmed | 1 | [vpn_sluchmed.txt](tunneling/vpn/vpn_sluchmed.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sluchmed.txt) |
 | vpn_smartfren | 1 | [vpn_smartfren.txt](tunneling/vpn/vpn_smartfren.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smartfren.txt) |
-| vpn_smartproxy | 3 | [vpn_smartproxy.txt](tunneling/vpn/vpn_smartproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smartproxy.txt) |
+| vpn_smartproxy | 2 | [vpn_smartproxy.txt](tunneling/vpn/vpn_smartproxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smartproxy.txt) |
 | vpn_smartvpn | 1 | [vpn_smartvpn.txt](tunneling/vpn/vpn_smartvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smartvpn.txt) |
 | vpn_smaxtec | 1 | [vpn_smaxtec.txt](tunneling/vpn/vpn_smaxtec.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smaxtec.txt) |
 | vpn_smwllc | 1 | [vpn_smwllc.txt](tunneling/vpn/vpn_smwllc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_smwllc.txt) |
@@ -5766,7 +5777,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_sodiaal | 1 | [vpn_sodiaal.txt](tunneling/vpn/vpn_sodiaal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sodiaal.txt) |
 | vpn_sofavpn | 2 | [vpn_sofavpn.txt](tunneling/vpn/vpn_sofavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sofavpn.txt) |
 | vpn_softether | 1 | [vpn_softether.txt](tunneling/vpn/vpn_softether.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softether.txt) |
-| vpn_softicus | 1 | [vpn_softicus.txt](tunneling/vpn/vpn_softicus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softicus.txt) |
+| vpn_softicus | 2 | [vpn_softicus.txt](tunneling/vpn/vpn_softicus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softicus.txt) |
 | vpn_softlayer | 1 | [vpn_softlayer.txt](tunneling/vpn/vpn_softlayer.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softlayer.txt) |
 | vpn_softnour | 1 | [vpn_softnour.txt](tunneling/vpn/vpn_softnour.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softnour.txt) |
 | vpn_softonic | 2 | [vpn_softonic.txt](tunneling/vpn/vpn_softonic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_softonic.txt) |
@@ -5797,9 +5808,9 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_spectrum | 2 | [vpn_spectrum.txt](tunneling/vpn/vpn_spectrum.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_spectrum.txt) |
 | vpn_spectrumbrands | 1 | [vpn_spectrumbrands.txt](tunneling/vpn/vpn_spectrumbrands.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_spectrumbrands.txt) |
 | vpn_spectrumvpn | 1 | [vpn_spectrumvpn.txt](tunneling/vpn/vpn_spectrumvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_spectrumvpn.txt) |
-| vpn_speedcdn | 2 | [vpn_speedcdn.txt](tunneling/vpn/vpn_speedcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedcdn.txt) |
+| vpn_speedcdn | 4 | [vpn_speedcdn.txt](tunneling/vpn/vpn_speedcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedcdn.txt) |
 | vpn_speedserve | 1 | [vpn_speedserve.txt](tunneling/vpn/vpn_speedserve.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedserve.txt) |
-| vpn_speedstream | 7 | [vpn_speedstream.txt](tunneling/vpn/vpn_speedstream.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedstream.txt) |
+| vpn_speedstream | 9 | [vpn_speedstream.txt](tunneling/vpn/vpn_speedstream.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedstream.txt) |
 | vpn_speedycdn | 8 | [vpn_speedycdn.txt](tunneling/vpn/vpn_speedycdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_speedycdn.txt) |
 | vpn_splittool | 1 | [vpn_splittool.txt](tunneling/vpn/vpn_splittool.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_splittool.txt) |
 | vpn_splunk | 2 | [vpn_splunk.txt](tunneling/vpn/vpn_splunk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_splunk.txt) |
@@ -5823,7 +5834,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_starfirenetwork | 1 | [vpn_starfirenetwork.txt](tunneling/vpn/vpn_starfirenetwork.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_starfirenetwork.txt) |
 | vpn_starlingbank | 1 | [vpn_starlingbank.txt](tunneling/vpn/vpn_starlingbank.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_starlingbank.txt) |
 | vpn_staticfn | 1 | [vpn_staticfn.txt](tunneling/vpn/vpn_staticfn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_staticfn.txt) |
-| vpn_staticnetcontent | 925 | [vpn_staticnetcontent.txt](tunneling/vpn/vpn_staticnetcontent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_staticnetcontent.txt) |
+| vpn_staticnetcontent | 932 | [vpn_staticnetcontent.txt](tunneling/vpn/vpn_staticnetcontent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_staticnetcontent.txt) |
 | vpn_staticrush | 5 | [vpn_staticrush.txt](tunneling/vpn/vpn_staticrush.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_staticrush.txt) |
 | vpn_staticstream | 26 | [vpn_staticstream.txt](tunneling/vpn/vpn_staticstream.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_staticstream.txt) |
 | vpn_statsnet | 2 | [vpn_statsnet.txt](tunneling/vpn/vpn_statsnet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_statsnet.txt) |
@@ -5832,7 +5843,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_steptoejohnson | 1 | [vpn_steptoejohnson.txt](tunneling/vpn/vpn_steptoejohnson.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_steptoejohnson.txt) |
 | vpn_sterlingcapitalmgt | 1 | [vpn_sterlingcapitalmgt.txt](tunneling/vpn/vpn_sterlingcapitalmgt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sterlingcapitalmgt.txt) |
 | vpn_stevanatogroup | 1 | [vpn_stevanatogroup.txt](tunneling/vpn/vpn_stevanatogroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stevanatogroup.txt) |
-| vpn_sticks | 9 | [vpn_sticks.txt](tunneling/vpn/vpn_sticks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sticks.txt) |
+| vpn_sticks | 10 | [vpn_sticks.txt](tunneling/vpn/vpn_sticks.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_sticks.txt) |
 | vpn_stlmsd | 1 | [vpn_stlmsd.txt](tunneling/vpn/vpn_stlmsd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stlmsd.txt) |
 | vpn_stlvpn | 2 | [vpn_stlvpn.txt](tunneling/vpn/vpn_stlvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stlvpn.txt) |
 | vpn_stockholm | 1 | [vpn_stockholm.txt](tunneling/vpn/vpn_stockholm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stockholm.txt) |
@@ -5842,14 +5853,14 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_stovpn | 2 | [vpn_stovpn.txt](tunneling/vpn/vpn_stovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stovpn.txt) |
 | vpn_straumann | 1 | [vpn_straumann.txt](tunneling/vpn/vpn_straumann.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_straumann.txt) |
 | vpn_streamlined | 1 | [vpn_streamlined.txt](tunneling/vpn/vpn_streamlined.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_streamlined.txt) |
-| vpn_streamlineddata | 8 | [vpn_streamlineddata.txt](tunneling/vpn/vpn_streamlineddata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_streamlineddata.txt) |
+| vpn_streamlineddata | 10 | [vpn_streamlineddata.txt](tunneling/vpn/vpn_streamlineddata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_streamlineddata.txt) |
 | vpn_stretchoid | 1 | [vpn_stretchoid.txt](tunneling/vpn/vpn_stretchoid.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stretchoid.txt) |
 | vpn_stricklandinsgroup | 1 | [vpn_stricklandinsgroup.txt](tunneling/vpn/vpn_stricklandinsgroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stricklandinsgroup.txt) |
 | vpn_strongvpn | 1 | [vpn_strongvpn.txt](tunneling/vpn/vpn_strongvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_strongvpn.txt) |
 | vpn_stryker | 1 | [vpn_stryker.txt](tunneling/vpn/vpn_stryker.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stryker.txt) |
 | vpn_studystudyup | 1 | [vpn_studystudyup.txt](tunneling/vpn/vpn_studystudyup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_studystudyup.txt) |
 | vpn_stw | 1 | [vpn_stw.txt](tunneling/vpn/vpn_stw.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_stw.txt) |
-| vpn_su89cdn | 173 | [vpn_su89cdn.txt](tunneling/vpn/vpn_su89cdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_su89cdn.txt) |
+| vpn_su89cdn | 176 | [vpn_su89cdn.txt](tunneling/vpn/vpn_su89cdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_su89cdn.txt) |
 | vpn_subscan | 1 | [vpn_subscan.txt](tunneling/vpn/vpn_subscan.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_subscan.txt) |
 | vpn_subssosavpn | 1 | [vpn_subssosavpn.txt](tunneling/vpn/vpn_subssosavpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_subssosavpn.txt) |
 | vpn_substack | 1 | [vpn_substack.txt](tunneling/vpn/vpn_substack.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_substack.txt) |
@@ -5869,7 +5880,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_suppliervpnfiatria | 1 | [vpn_suppliervpnfiatria.txt](tunneling/vpn/vpn_suppliervpnfiatria.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_suppliervpnfiatria.txt) |
 | vpn_suppliesonthefly | 2 | [vpn_suppliesonthefly.txt](tunneling/vpn/vpn_suppliesonthefly.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_suppliesonthefly.txt) |
 | vpn_supporttdsynnex | 1 | [vpn_supporttdsynnex.txt](tunneling/vpn/vpn_supporttdsynnex.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_supporttdsynnex.txt) |
-| vpn_surfshark | 312 | [vpn_surfshark.txt](tunneling/vpn/vpn_surfshark.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_surfshark.txt) |
+| vpn_surfshark | 309 | [vpn_surfshark.txt](tunneling/vpn/vpn_surfshark.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_surfshark.txt) |
 | vpn_surfsharkdns | 3 | [vpn_surfsharkdns.txt](tunneling/vpn/vpn_surfsharkdns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_surfsharkdns.txt) |
 | vpn_surfsharkstatus | 3 | [vpn_surfsharkstatus.txt](tunneling/vpn/vpn_surfsharkstatus.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_surfsharkstatus.txt) |
 | vpn_surfvpn | 2 | [vpn_surfvpn.txt](tunneling/vpn/vpn_surfvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_surfvpn.txt) |
@@ -5881,7 +5892,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_swansongroup | 1 | [vpn_swansongroup.txt](tunneling/vpn/vpn_swansongroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swansongroup.txt) |
 | vpn_swarthmore | 1 | [vpn_swarthmore.txt](tunneling/vpn/vpn_swarthmore.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swarthmore.txt) |
 | vpn_swde | 1 | [vpn_swde.txt](tunneling/vpn/vpn_swde.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swde.txt) |
-| vpn_swiftcdn | 7 | [vpn_swiftcdn.txt](tunneling/vpn/vpn_swiftcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swiftcdn.txt) |
+| vpn_swiftcdn | 8 | [vpn_swiftcdn.txt](tunneling/vpn/vpn_swiftcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swiftcdn.txt) |
 | vpn_swirecc | 1 | [vpn_swirecc.txt](tunneling/vpn/vpn_swirecc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swirecc.txt) |
 | vpn_swirees | 1 | [vpn_swirees.txt](tunneling/vpn/vpn_swirees.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swirees.txt) |
 | vpn_swisscom | 1 | [vpn_swisscom.txt](tunneling/vpn/vpn_swisscom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_swisscom.txt) |
@@ -5933,7 +5944,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_teachingstrategies | 1 | [vpn_teachingstrategies.txt](tunneling/vpn/vpn_teachingstrategies.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_teachingstrategies.txt) |
 | vpn_teamsystem | 1 | [vpn_teamsystem.txt](tunneling/vpn/vpn_teamsystem.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_teamsystem.txt) |
 | vpn_techdata | 16 | [vpn_techdata.txt](tunneling/vpn/vpn_techdata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_techdata.txt) |
-| vpn_techdatacdn | 3 | [vpn_techdatacdn.txt](tunneling/vpn/vpn_techdatacdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_techdatacdn.txt) |
+| vpn_techdatacdn | 2 | [vpn_techdatacdn.txt](tunneling/vpn/vpn_techdatacdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_techdatacdn.txt) |
 | vpn_technogym | 2 | [vpn_technogym.txt](tunneling/vpn/vpn_technogym.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_technogym.txt) |
 | vpn_techsmith | 1 | [vpn_techsmith.txt](tunneling/vpn/vpn_techsmith.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_techsmith.txt) |
 | vpn_techstreamsupport | 1 | [vpn_techstreamsupport.txt](tunneling/vpn/vpn_techstreamsupport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_techstreamsupport.txt) |
@@ -5949,7 +5960,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_telekomvpn | 1 | [vpn_telekomvpn.txt](tunneling/vpn/vpn_telekomvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telekomvpn.txt) |
 | vpn_telemedti | 1 | [vpn_telemedti.txt](tunneling/vpn/vpn_telemedti.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telemedti.txt) |
 | vpn_telia | 1 | [vpn_telia.txt](tunneling/vpn/vpn_telia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telia.txt) |
-| vpn_telleport | 24 | [vpn_telleport.txt](tunneling/vpn/vpn_telleport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telleport.txt) |
+| vpn_telleport | 25 | [vpn_telleport.txt](tunneling/vpn/vpn_telleport.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telleport.txt) |
 | vpn_telmate | 1 | [vpn_telmate.txt](tunneling/vpn/vpn_telmate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telmate.txt) |
 | vpn_telmex | 1 | [vpn_telmex.txt](tunneling/vpn/vpn_telmex.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telmex.txt) |
 | vpn_telogis | 8 | [vpn_telogis.txt](tunneling/vpn/vpn_telogis.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_telogis.txt) |
@@ -5980,7 +5991,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_themembersgroup | 1 | [vpn_themembersgroup.txt](tunneling/vpn/vpn_themembersgroup.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_themembersgroup.txt) |
 | vpn_thenavigatorcompany | 1 | [vpn_thenavigatorcompany.txt](tunneling/vpn/vpn_thenavigatorcompany.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_thenavigatorcompany.txt) |
 | vpn_thenmozhidesigns | 1 | [vpn_thenmozhidesigns.txt](tunneling/vpn/vpn_thenmozhidesigns.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_thenmozhidesigns.txt) |
-| vpn_therewego | 2 | [vpn_therewego.txt](tunneling/vpn/vpn_therewego.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_therewego.txt) |
+| vpn_therewego | 1 | [vpn_therewego.txt](tunneling/vpn/vpn_therewego.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_therewego.txt) |
 | vpn_thermofisher | 1 | [vpn_thermofisher.txt](tunneling/vpn/vpn_thermofisher.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_thermofisher.txt) |
 | vpn_thetopfivevpn | 1 | [vpn_thetopfivevpn.txt](tunneling/vpn/vpn_thetopfivevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_thetopfivevpn.txt) |
 | vpn_thevpncompany | 1 | [vpn_thevpncompany.txt](tunneling/vpn/vpn_thevpncompany.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_thevpncompany.txt) |
@@ -6008,7 +6019,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_titlefc | 1 | [vpn_titlefc.txt](tunneling/vpn/vpn_titlefc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_titlefc.txt) |
 | vpn_tkelevator | 1 | [vpn_tkelevator.txt](tunneling/vpn/vpn_tkelevator.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tkelevator.txt) |
 | vpn_tktm | 5 | [vpn_tktm.txt](tunneling/vpn/vpn_tktm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tktm.txt) |
-| vpn_tlsext | 77 | [vpn_tlsext.txt](tunneling/vpn/vpn_tlsext.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tlsext.txt) |
+| vpn_tlsext | 73 | [vpn_tlsext.txt](tunneling/vpn/vpn_tlsext.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tlsext.txt) |
 | vpn_tlsvpn | 2 | [vpn_tlsvpn.txt](tunneling/vpn/vpn_tlsvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tlsvpn.txt) |
 | vpn_tm3abp107hides | 2 | [vpn_tm3abp107hides.txt](tunneling/vpn/vpn_tm3abp107hides.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tm3abp107hides.txt) |
 | vpn_tmobile | 5 | [vpn_tmobile.txt](tunneling/vpn/vpn_tmobile.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tmobile.txt) |
@@ -6023,7 +6034,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_tomra | 2 | [vpn_tomra.txt](tunneling/vpn/vpn_tomra.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tomra.txt) |
 | vpn_tomtomglobal | 1 | [vpn_tomtomglobal.txt](tunneling/vpn/vpn_tomtomglobal.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tomtomglobal.txt) |
 | vpn_toolip | 2 | [vpn_toolip.txt](tunneling/vpn/vpn_toolip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_toolip.txt) |
-| vpn_toolmatrix | 1 | [vpn_toolmatrix.txt](tunneling/vpn/vpn_toolmatrix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_toolmatrix.txt) |
+| vpn_toolmatrix | 2 | [vpn_toolmatrix.txt](tunneling/vpn/vpn_toolmatrix.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_toolmatrix.txt) |
 | vpn_tooolz | 1 | [vpn_tooolz.txt](tunneling/vpn/vpn_tooolz.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tooolz.txt) |
 | vpn_tootntotum | 1 | [vpn_tootntotum.txt](tunneling/vpn/vpn_tootntotum.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tootntotum.txt) |
 | vpn_top10bestvpn | 1 | [vpn_top10bestvpn.txt](tunneling/vpn/vpn_top10bestvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_top10bestvpn.txt) |
@@ -6036,8 +6047,8 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_topvpn | 1 | [vpn_topvpn.txt](tunneling/vpn/vpn_topvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_topvpn.txt) |
 | vpn_topvpn100 | 1 | [vpn_topvpn100.txt](tunneling/vpn/vpn_topvpn100.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_topvpn100.txt) |
 | vpn_torrentvpn | 1 | [vpn_torrentvpn.txt](tunneling/vpn/vpn_torrentvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_torrentvpn.txt) |
-| vpn_totallyacdn | 828 | [vpn_totallyacdn.txt](tunneling/vpn/vpn_totallyacdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_totallyacdn.txt) |
-| vpn_totalvpn | 2 | [vpn_totalvpn.txt](tunneling/vpn/vpn_totalvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_totalvpn.txt) |
+| vpn_totallyacdn | 849 | [vpn_totallyacdn.txt](tunneling/vpn/vpn_totallyacdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_totallyacdn.txt) |
+| vpn_totalvpn | 1 | [vpn_totalvpn.txt](tunneling/vpn/vpn_totalvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_totalvpn.txt) |
 | vpn_totalvpnfree | 1 | [vpn_totalvpnfree.txt](tunneling/vpn/vpn_totalvpnfree.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_totalvpnfree.txt) |
 | vpn_touchstonecommunities | 1 | [vpn_touchstonecommunities.txt](tunneling/vpn/vpn_touchstonecommunities.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_touchstonecommunities.txt) |
 | vpn_touchvpn | 2 | [vpn_touchvpn.txt](tunneling/vpn/vpn_touchvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_touchvpn.txt) |
@@ -6045,7 +6056,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_toyotaindustries | 1 | [vpn_toyotaindustries.txt](tunneling/vpn/vpn_toyotaindustries.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_toyotaindustries.txt) |
 | vpn_trachteusa | 1 | [vpn_trachteusa.txt](tunneling/vpn/vpn_trachteusa.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trachteusa.txt) |
 | vpn_tradingcards | 2 | [vpn_tradingcards.txt](tunneling/vpn/vpn_tradingcards.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tradingcards.txt) |
-| vpn_trafcfy | 121 | [vpn_trafcfy.txt](tunneling/vpn/vpn_trafcfy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trafcfy.txt) |
+| vpn_trafcfy | 122 | [vpn_trafcfy.txt](tunneling/vpn/vpn_trafcfy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trafcfy.txt) |
 | vpn_trafficmanager | 1 | [vpn_trafficmanager.txt](tunneling/vpn/vpn_trafficmanager.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trafficmanager.txt) |
 | vpn_trafflink | 9 | [vpn_trafflink.txt](tunneling/vpn/vpn_trafflink.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trafflink.txt) |
 | vpn_trafnet | 1 | [vpn_trafnet.txt](tunneling/vpn/vpn_trafnet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trafnet.txt) |
@@ -6055,13 +6066,13 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_transmissionapp | 1 | [vpn_transmissionapp.txt](tunneling/vpn/vpn_transmissionapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_transmissionapp.txt) |
 | vpn_treehousefoods | 2 | [vpn_treehousefoods.txt](tunneling/vpn/vpn_treehousefoods.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_treehousefoods.txt) |
 | vpn_trello | 1 | [vpn_trello.txt](tunneling/vpn/vpn_trello.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trello.txt) |
-| vpn_trendmicro | 4 | [vpn_trendmicro.txt](tunneling/vpn/vpn_trendmicro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trendmicro.txt) |
+| vpn_trendmicro | 5 | [vpn_trendmicro.txt](tunneling/vpn/vpn_trendmicro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trendmicro.txt) |
 | vpn_trendyol | 1 | [vpn_trendyol.txt](tunneling/vpn/vpn_trendyol.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trendyol.txt) |
 | vpn_trilliuminvest | 1 | [vpn_trilliuminvest.txt](tunneling/vpn/vpn_trilliuminvest.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trilliuminvest.txt) |
 | vpn_trimedx | 1 | [vpn_trimedx.txt](tunneling/vpn/vpn_trimedx.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trimedx.txt) |
 | vpn_tripleplay | 1 | [vpn_tripleplay.txt](tunneling/vpn/vpn_tripleplay.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tripleplay.txt) |
 | vpn_tripleplayservices | 1 | [vpn_tripleplayservices.txt](tunneling/vpn/vpn_tripleplayservices.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tripleplayservices.txt) |
-| vpn_triplinkintl | 41 | [vpn_triplinkintl.txt](tunneling/vpn/vpn_triplinkintl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_triplinkintl.txt) |
+| vpn_triplinkintl | 48 | [vpn_triplinkintl.txt](tunneling/vpn/vpn_triplinkintl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_triplinkintl.txt) |
 | vpn_trllvpnrvv | 2 | [vpn_trllvpnrvv.txt](tunneling/vpn/vpn_trllvpnrvv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trllvpnrvv.txt) |
 | vpn_troutman | 1 | [vpn_troutman.txt](tunneling/vpn/vpn_troutman.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_troutman.txt) |
 | vpn_trovpn | 5 | [vpn_trovpn.txt](tunneling/vpn/vpn_trovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_trovpn.txt) |
@@ -6080,7 +6091,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_tue | 1 | [vpn_tue.txt](tunneling/vpn/vpn_tue.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tue.txt) |
 | vpn_tumsbv | 1 | [vpn_tumsbv.txt](tunneling/vpn/vpn_tumsbv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tumsbv.txt) |
 | vpn_turbohide | 2 | [vpn_turbohide.txt](tunneling/vpn/vpn_turbohide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_turbohide.txt) |
-| vpn_turbovpn | 2 | [vpn_turbovpn.txt](tunneling/vpn/vpn_turbovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_turbovpn.txt) |
+| vpn_turbovpn | 1 | [vpn_turbovpn.txt](tunneling/vpn/vpn_turbovpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_turbovpn.txt) |
 | vpn_turktelekomint | 1 | [vpn_turktelekomint.txt](tunneling/vpn/vpn_turktelekomint.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_turktelekomint.txt) |
 | vpn_turku | 1 | [vpn_turku.txt](tunneling/vpn/vpn_turku.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_turku.txt) |
 | vpn_tuxfamily | 2 | [vpn_tuxfamily.txt](tunneling/vpn/vpn_tuxfamily.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_tuxfamily.txt) |
@@ -6101,7 +6112,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_uc | 1 | [vpn_uc.txt](tunneling/vpn/vpn_uc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uc.txt) |
 | vpn_ucar | 1 | [vpn_ucar.txt](tunneling/vpn/vpn_ucar.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ucar.txt) |
 | vpn_ucas | 1 | [vpn_ucas.txt](tunneling/vpn/vpn_ucas.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ucas.txt) |
-| vpn_uchicago | 1 | [vpn_uchicago.txt](tunneling/vpn/vpn_uchicago.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uchicago.txt) |
+| vpn_uchicago | 2 | [vpn_uchicago.txt](tunneling/vpn/vpn_uchicago.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uchicago.txt) |
 | vpn_uci | 1 | [vpn_uci.txt](tunneling/vpn/vpn_uci.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uci.txt) |
 | vpn_ucla | 2 | [vpn_ucla.txt](tunneling/vpn/vpn_ucla.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ucla.txt) |
 | vpn_ucm | 1 | [vpn_ucm.txt](tunneling/vpn/vpn_ucm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ucm.txt) |
@@ -6129,7 +6140,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_unamur | 1 | [vpn_unamur.txt](tunneling/vpn/vpn_unamur.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unamur.txt) |
 | vpn_unblockandhide | 1 | [vpn_unblockandhide.txt](tunneling/vpn/vpn_unblockandhide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unblockandhide.txt) |
 | vpn_unblockrvpn | 1 | [vpn_unblockrvpn.txt](tunneling/vpn/vpn_unblockrvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unblockrvpn.txt) |
-| vpn_unblockvpn | 1 | [vpn_unblockvpn.txt](tunneling/vpn/vpn_unblockvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unblockvpn.txt) |
+| vpn_unblockvpn | 3 | [vpn_unblockvpn.txt](tunneling/vpn/vpn_unblockvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unblockvpn.txt) |
 | vpn_unc | 2 | [vpn_unc.txt](tunneling/vpn/vpn_unc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unc.txt) |
 | vpn_unca | 1 | [vpn_unca.txt](tunneling/vpn/vpn_unca.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unca.txt) |
 | vpn_unibayreuth | 1 | [vpn_unibayreuth.txt](tunneling/vpn/vpn_unibayreuth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_unibayreuth.txt) |
@@ -6333,6 +6344,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_updated20261002t062128z | 1 | [vpn_updated20261002t062128z.txt](tunneling/vpn/vpn_updated20261002t062128z.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_updated20261002t062128z.txt) |
 | vpn_updated20261003t062132z | 1 | [vpn_updated20261003t062132z.txt](tunneling/vpn/vpn_updated20261003t062132z.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_updated20261003t062132z.txt) |
 | vpn_updated20261004t062741z | 1 | [vpn_updated20261004t062741z.txt](tunneling/vpn/vpn_updated20261004t062741z.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_updated20261004t062741z.txt) |
+| vpn_updated20261005t061350z | 1 | [vpn_updated20261005t061350z.txt](tunneling/vpn/vpn_updated20261005t061350z.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_updated20261005t061350z.txt) |
 | vpn_updatevpn | 1 | [vpn_updatevpn.txt](tunneling/vpn/vpn_updatevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_updatevpn.txt) |
 | vpn_upenn | 5 | [vpn_upenn.txt](tunneling/vpn/vpn_upenn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_upenn.txt) |
 | vpn_uplinkdata | 1 | [vpn_uplinkdata.txt](tunneling/vpn/vpn_uplinkdata.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uplinkdata.txt) |
@@ -6344,7 +6356,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_upv | 1 | [vpn_upv.txt](tunneling/vpn/vpn_upv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_upv.txt) |
 | vpn_uqac | 1 | [vpn_uqac.txt](tunneling/vpn/vpn_uqac.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uqac.txt) |
 | vpn_ur | 1 | [vpn_ur.txt](tunneling/vpn/vpn_ur.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_ur.txt) |
-| vpn_urbanvpn | 284 | [vpn_urbanvpn.txt](tunneling/vpn/vpn_urbanvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_urbanvpn.txt) |
+| vpn_urbanvpn | 290 | [vpn_urbanvpn.txt](tunneling/vpn/vpn_urbanvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_urbanvpn.txt) |
 | vpn_uregina | 1 | [vpn_uregina.txt](tunneling/vpn/vpn_uregina.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uregina.txt) |
 | vpn_us4u | 2 | [vpn_us4u.txt](tunneling/vpn/vpn_us4u.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_us4u.txt) |
 | vpn_uscattlehaulers | 1 | [vpn_uscattlehaulers.txt](tunneling/vpn/vpn_uscattlehaulers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uscattlehaulers.txt) |
@@ -6373,7 +6385,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_uva | 1 | [vpn_uva.txt](tunneling/vpn/vpn_uva.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uva.txt) |
 | vpn_uvm | 1 | [vpn_uvm.txt](tunneling/vpn/vpn_uvm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uvm.txt) |
 | vpn_uvmnet | 1 | [vpn_uvmnet.txt](tunneling/vpn/vpn_uvmnet.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uvmnet.txt) |
-| vpn_uvpn | 67 | [vpn_uvpn.txt](tunneling/vpn/vpn_uvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uvpn.txt) |
+| vpn_uvpn | 63 | [vpn_uvpn.txt](tunneling/vpn/vpn_uvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uvpn.txt) |
 | vpn_uw | 1 | [vpn_uw.txt](tunneling/vpn/vpn_uw.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uw.txt) |
 | vpn_uwec | 1 | [vpn_uwec.txt](tunneling/vpn/vpn_uwec.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uwec.txt) |
 | vpn_uzgent | 1 | [vpn_uzgent.txt](tunneling/vpn/vpn_uzgent.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_uzgent.txt) |
@@ -6389,7 +6401,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_vassar | 1 | [vpn_vassar.txt](tunneling/vpn/vpn_vassar.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vassar.txt) |
 | vpn_vd | 1 | [vpn_vd.txt](tunneling/vpn/vpn_vd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vd.txt) |
 | vpn_vdohide | 2 | [vpn_vdohide.txt](tunneling/vpn/vpn_vdohide.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vdohide.txt) |
-| vpn_veepn | 15 | [vpn_veepn.txt](tunneling/vpn/vpn_veepn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_veepn.txt) |
+| vpn_veepn | 16 | [vpn_veepn.txt](tunneling/vpn/vpn_veepn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_veepn.txt) |
 | vpn_velux | 1 | [vpn_velux.txt](tunneling/vpn/vpn_velux.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_velux.txt) |
 | vpn_velvetvpn | 2 | [vpn_velvetvpn.txt](tunneling/vpn/vpn_velvetvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_velvetvpn.txt) |
 | vpn_venatorcorp | 1 | [vpn_venatorcorp.txt](tunneling/vpn/vpn_venatorcorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_venatorcorp.txt) |
@@ -6450,7 +6462,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_vpnavy | 2 | [vpn_vpnavy.txt](tunneling/vpn/vpn_vpnavy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnavy.txt) |
 | vpn_vpnazure | 1 | [vpn_vpnazure.txt](tunneling/vpn/vpn_vpnazure.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnazure.txt) |
 | vpn_vpnbayrl | 1 | [vpn_vpnbayrl.txt](tunneling/vpn/vpn_vpnbayrl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnbayrl.txt) |
-| vpn_vpnblade | 1 | [vpn_vpnblade.txt](tunneling/vpn/vpn_vpnblade.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnblade.txt) |
+| vpn_vpnblade | 2 | [vpn_vpnblade.txt](tunneling/vpn/vpn_vpnblade.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnblade.txt) |
 | vpn_vpnbook | 1 | [vpn_vpnbook.txt](tunneling/vpn/vpn_vpnbook.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnbook.txt) |
 | vpn_vpnbrand | 1 | [vpn_vpnbrand.txt](tunneling/vpn/vpn_vpnbrand.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnbrand.txt) |
 | vpn_vpnbrowser | 1 | [vpn_vpnbrowser.txt](tunneling/vpn/vpn_vpnbrowser.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnbrowser.txt) |
@@ -6474,14 +6486,14 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_vpngn | 1 | [vpn_vpngn.txt](tunneling/vpn/vpn_vpngn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpngn.txt) |
 | vpn_vpngo | 1 | [vpn_vpngo.txt](tunneling/vpn/vpn_vpngo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpngo.txt) |
 | vpn_vpngreenpro | 2 | [vpn_vpngreenpro.txt](tunneling/vpn/vpn_vpngreenpro.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpngreenpro.txt) |
-| vpn_vpngtm | 4 | [vpn_vpngtm.txt](tunneling/vpn/vpn_vpngtm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpngtm.txt) |
+| vpn_vpngtm | 3 | [vpn_vpngtm.txt](tunneling/vpn/vpn_vpngtm.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpngtm.txt) |
 | vpn_vpnhavenad | 1 | [vpn_vpnhavenad.txt](tunneling/vpn/vpn_vpnhavenad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhavenad.txt) |
 | vpn_vpnhoki | 2 | [vpn_vpnhoki.txt](tunneling/vpn/vpn_vpnhoki.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhoki.txt) |
 | vpn_vpnhouse | 1 | [vpn_vpnhouse.txt](tunneling/vpn/vpn_vpnhouse.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhouse.txt) |
 | vpn_vpnhuat | 1 | [vpn_vpnhuat.txt](tunneling/vpn/vpn_vpnhuat.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhuat.txt) |
 | vpn_vpnhub | 2 | [vpn_vpnhub.txt](tunneling/vpn/vpn_vpnhub.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhub.txt) |
 | vpn_vpnhuiguo | 1 | [vpn_vpnhuiguo.txt](tunneling/vpn/vpn_vpnhuiguo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnhuiguo.txt) |
-| vpn_vpnifty | 1 | [vpn_vpnifty.txt](tunneling/vpn/vpn_vpnifty.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnifty.txt) |
+| vpn_vpnifty | 2 | [vpn_vpnifty.txt](tunneling/vpn/vpn_vpnifty.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnifty.txt) |
 | vpn_vpnifyapp | 1 | [vpn_vpnifyapp.txt](tunneling/vpn/vpn_vpnifyapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnifyapp.txt) |
 | vpn_vpninsights | 2 | [vpn_vpninsights.txt](tunneling/vpn/vpn_vpninsights.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpninsights.txt) |
 | vpn_vpnjago | 1 | [vpn_vpnjago.txt](tunneling/vpn/vpn_vpnjago.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnjago.txt) |
@@ -6535,7 +6547,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_vpntun | 1 | [vpn_vpntun.txt](tunneling/vpn/vpn_vpntun.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpntun.txt) |
 | vpn_vpntxvpn | 2 | [vpn_vpntxvpn.txt](tunneling/vpn/vpn_vpntxvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpntxvpn.txt) |
 | vpn_vpnunlimited | 3 | [vpn_vpnunlimited.txt](tunneling/vpn/vpn_vpnunlimited.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnunlimited.txt) |
-| vpn_vpnunlimitedapp | 61 | [vpn_vpnunlimitedapp.txt](tunneling/vpn/vpn_vpnunlimitedapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnunlimitedapp.txt) |
+| vpn_vpnunlimitedapp | 64 | [vpn_vpnunlimitedapp.txt](tunneling/vpn/vpn_vpnunlimitedapp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnunlimitedapp.txt) |
 | vpn_vpnusers | 2 | [vpn_vpnusers.txt](tunneling/vpn/vpn_vpnusers.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnusers.txt) |
 | vpn_vpnv | 2 | [vpn_vpnv.txt](tunneling/vpn/vpn_vpnv.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnv.txt) |
 | vpn_vpnvezdehod | 2 | [vpn_vpnvezdehod.txt](tunneling/vpn/vpn_vpnvezdehod.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnvezdehod.txt) |
@@ -6546,6 +6558,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_vpnwp | 1 | [vpn_vpnwp.txt](tunneling/vpn/vpn_vpnwp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnwp.txt) |
 | vpn_vpnxd | 1 | [vpn_vpnxd.txt](tunneling/vpn/vpn_vpnxd.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnxd.txt) |
 | vpn_vpnxtc4ccc9a4348 | 1 | [vpn_vpnxtc4ccc9a4348.txt](tunneling/vpn/vpn_vpnxtc4ccc9a4348.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnxtc4ccc9a4348.txt) |
+| vpn_vpnych | 2 | [vpn_vpnych.txt](tunneling/vpn/vpn_vpnych.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnych.txt) |
 | vpn_vpnza300 | 2 | [vpn_vpnza300.txt](tunneling/vpn/vpn_vpnza300.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnza300.txt) |
 | vpn_vpnzero | 2 | [vpn_vpnzero.txt](tunneling/vpn/vpn_vpnzero.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnzero.txt) |
 | vpn_vpnzo | 2 | [vpn_vpnzo.txt](tunneling/vpn/vpn_vpnzo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_vpnzo.txt) |
@@ -6598,7 +6611,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_wgeld | 1 | [vpn_wgeld.txt](tunneling/vpn/vpn_wgeld.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wgeld.txt) |
 | vpn_wgu | 1 | [vpn_wgu.txt](tunneling/vpn/vpn_wgu.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wgu.txt) |
 | vpn_wheelpros | 1 | [vpn_wheelpros.txt](tunneling/vpn/vpn_wheelpros.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wheelpros.txt) |
-| vpn_whiskergalaxy | 919 | [vpn_whiskergalaxy.txt](tunneling/vpn/vpn_whiskergalaxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_whiskergalaxy.txt) |
+| vpn_whiskergalaxy | 927 | [vpn_whiskergalaxy.txt](tunneling/vpn/vpn_whiskergalaxy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_whiskergalaxy.txt) |
 | vpn_whitecasecom | 1 | [vpn_whitecasecom.txt](tunneling/vpn/vpn_whitecasecom.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_whitecasecom.txt) |
 | vpn_whitehatsec | 1 | [vpn_whitehatsec.txt](tunneling/vpn/vpn_whitehatsec.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_whitehatsec.txt) |
 | vpn_whlaustralasia | 1 | [vpn_whlaustralasia.txt](tunneling/vpn/vpn_whlaustralasia.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_whlaustralasia.txt) |
@@ -6610,7 +6623,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_wildfirevpn | 1 | [vpn_wildfirevpn.txt](tunneling/vpn/vpn_wildfirevpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wildfirevpn.txt) |
 | vpn_williamhillplc | 1 | [vpn_williamhillplc.txt](tunneling/vpn/vpn_williamhillplc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_williamhillplc.txt) |
 | vpn_wind | 1 | [vpn_wind.txt](tunneling/vpn/vpn_wind.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wind.txt) |
-| vpn_windscribe | 1184 | [vpn_windscribe.txt](tunneling/vpn/vpn_windscribe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_windscribe.txt) |
+| vpn_windscribe | 1195 | [vpn_windscribe.txt](tunneling/vpn/vpn_windscribe.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_windscribe.txt) |
 | vpn_windtre | 1 | [vpn_windtre.txt](tunneling/vpn/vpn_windtre.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_windtre.txt) |
 | vpn_wio | 1 | [vpn_wio.txt](tunneling/vpn/vpn_wio.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wio.txt) |
 | vpn_wireco | 1 | [vpn_wireco.txt](tunneling/vpn/vpn_wireco.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wireco.txt) |
@@ -6649,6 +6662,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_wurth | 1 | [vpn_wurth.txt](tunneling/vpn/vpn_wurth.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wurth.txt) |
 | vpn_wustl | 1 | [vpn_wustl.txt](tunneling/vpn/vpn_wustl.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wustl.txt) |
 | vpn_wvi | 1 | [vpn_wvi.txt](tunneling/vpn/vpn_wvi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wvi.txt) |
+| vpn_wvpn | 2 | [vpn_wvpn.txt](tunneling/vpn/vpn_wvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wvpn.txt) |
 | vpn_wwt | 1 | [vpn_wwt.txt](tunneling/vpn/vpn_wwt.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wwt.txt) |
 | vpn_wwtatc | 1 | [vpn_wwtatc.txt](tunneling/vpn/vpn_wwtatc.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wwtatc.txt) |
 | vpn_wwwvpn | 1 | [vpn_wwwvpn.txt](tunneling/vpn/vpn_wwwvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_wwwvpn.txt) |
@@ -6659,7 +6673,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_x9fnzrtl4x8pynsf | 8 | [vpn_x9fnzrtl4x8pynsf.txt](tunneling/vpn/vpn_x9fnzrtl4x8pynsf.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_x9fnzrtl4x8pynsf.txt) |
 | vpn_xacbank | 1 | [vpn_xacbank.txt](tunneling/vpn/vpn_xacbank.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xacbank.txt) |
 | vpn_xad | 1 | [vpn_xad.txt](tunneling/vpn/vpn_xad.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xad.txt) |
-| vpn_xcdnstatic | 126 | [vpn_xcdnstatic.txt](tunneling/vpn/vpn_xcdnstatic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xcdnstatic.txt) |
+| vpn_xcdnstatic | 131 | [vpn_xcdnstatic.txt](tunneling/vpn/vpn_xcdnstatic.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xcdnstatic.txt) |
 | vpn_xcvpn | 2 | [vpn_xcvpn.txt](tunneling/vpn/vpn_xcvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xcvpn.txt) |
 | vpn_xenvpn | 1 | [vpn_xenvpn.txt](tunneling/vpn/vpn_xenvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xenvpn.txt) |
 | vpn_xiaomi | 7 | [vpn_xiaomi.txt](tunneling/vpn/vpn_xiaomi.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_xiaomi.txt) |
@@ -6684,7 +6698,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_yellowpages | 1 | [vpn_yellowpages.txt](tunneling/vpn/vpn_yellowpages.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yellowpages.txt) |
 | vpn_yelpcorp | 21 | [vpn_yelpcorp.txt](tunneling/vpn/vpn_yelpcorp.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yelpcorp.txt) |
 | vpn_yeti | 1 | [vpn_yeti.txt](tunneling/vpn/vpn_yeti.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yeti.txt) |
-| vpn_yg5sjx5kzy | 122 | [vpn_yg5sjx5kzy.txt](tunneling/vpn/vpn_yg5sjx5kzy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yg5sjx5kzy.txt) |
+| vpn_yg5sjx5kzy | 132 | [vpn_yg5sjx5kzy.txt](tunneling/vpn/vpn_yg5sjx5kzy.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yg5sjx5kzy.txt) |
 | vpn_yonglian | 1 | [vpn_yonglian.txt](tunneling/vpn/vpn_yonglian.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_yonglian.txt) |
 | vpn_youngliving | 2 | [vpn_youngliving.txt](tunneling/vpn/vpn_youngliving.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_youngliving.txt) |
 | vpn_youngwilliams | 1 | [vpn_youngwilliams.txt](tunneling/vpn/vpn_youngwilliams.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_youngwilliams.txt) |
@@ -6701,7 +6715,7 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_zeku | 1 | [vpn_zeku.txt](tunneling/vpn/vpn_zeku.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zeku.txt) |
 | vpn_zendesk | 5 | [vpn_zendesk.txt](tunneling/vpn/vpn_zendesk.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zendesk.txt) |
 | vpn_zenguard | 2 | [vpn_zenguard.txt](tunneling/vpn/vpn_zenguard.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zenguard.txt) |
-| vpn_zenmate | 2 | [vpn_zenmate.txt](tunneling/vpn/vpn_zenmate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zenmate.txt) |
+| vpn_zenmate | 3 | [vpn_zenmate.txt](tunneling/vpn/vpn_zenmate.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zenmate.txt) |
 | vpn_zenvpn | 1 | [vpn_zenvpn.txt](tunneling/vpn/vpn_zenvpn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zenvpn.txt) |
 | vpn_zgjuvpnlfhyfip | 2 | [vpn_zgjuvpnlfhyfip.txt](tunneling/vpn/vpn_zgjuvpnlfhyfip.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zgjuvpnlfhyfip.txt) |
 | vpn_zhejianglong | 1 | [vpn_zhejianglong.txt](tunneling/vpn/vpn_zhejianglong.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zhejianglong.txt) |
@@ -6737,8 +6751,8 @@ Generated: 2026-10-04 08:18 UTC
 | vpn_zscalerthree | 1 | [vpn_zscalerthree.txt](tunneling/vpn/vpn_zscalerthree.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zscalerthree.txt) |
 | vpn_zscalertwo | 14 | [vpn_zscalertwo.txt](tunneling/vpn/vpn_zscalertwo.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zscalertwo.txt) |
 | vpn_zscloud | 1 | [vpn_zscloud.txt](tunneling/vpn/vpn_zscloud.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zscloud.txt) |
-| vpn_zspeedcdn | 11 | [vpn_zspeedcdn.txt](tunneling/vpn/vpn_zspeedcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zspeedcdn.txt) |
+| vpn_zspeedcdn | 12 | [vpn_zspeedcdn.txt](tunneling/vpn/vpn_zspeedcdn.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zspeedcdn.txt) |
 | vpn_zvpnrmxtqwaz | 1 | [vpn_zvpnrmxtqwaz.txt](tunneling/vpn/vpn_zvpnrmxtqwaz.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zvpnrmxtqwaz.txt) |
 | vpn_zvpnrmxtqwop | 1 | [vpn_zvpnrmxtqwop.txt](tunneling/vpn/vpn_zvpnrmxtqwop.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zvpnrmxtqwop.txt) |
-| vpn_zwyr157wwiu6eior | 7 | [vpn_zwyr157wwiu6eior.txt](tunneling/vpn/vpn_zwyr157wwiu6eior.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zwyr157wwiu6eior.txt) |
+| vpn_zwyr157wwiu6eior | 8 | [vpn_zwyr157wwiu6eior.txt](tunneling/vpn/vpn_zwyr157wwiu6eior.txt) | [Raw](https://raw.githubusercontent.com/nextgridit-team/DNS_Blocking/main/tunneling/vpn/vpn_zwyr157wwiu6eior.txt) |
 <!-- END:tunneling -->

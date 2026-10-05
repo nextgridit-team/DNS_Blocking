@@ -11,6 +11,7 @@ gridx-de-ds-production-vpnctl.s3.eu-central-1.amazonaws.com
 gvdfgys.cvpn-endpoint-035a85807ded926c0.prod.clientvpn.us-east-1.amazonaws.com
 k8s-sdkvpnde-sdkvpnde-c633b417a4-2e9163e3b57e1aac.elb.us-east-1.amazonaws.com
 kmserver-prod-alb-vpn2-843203853.us-west-2.elb.amazonaws.com
+msstore-submissions.s3.amazonaws.com
 nfct-prod-nordvpn-vernemq-989a9b6cec6b91b6.elb.us-east-1.amazonaws.com
 prod.clientvpn.ap-south-1.amazonaws.com
 prod.clientvpn.ap-southeast-1.amazonaws.com
@@ -23,7 +24,6 @@ prod.clientvpn.us-west-2.amazonaws.com
 sfjg245.cvpn-endpoint-035a85807ded926c0.prod.clientvpn.us-east-1.amazonaws.com
 slvpn-flatfiles.s3.amazonaws.com
 tally-prod-365rm-us-vpn2-271926693.us-west-2.elb.amazonaws.com
-tierbase4.s3.amazonaws.com
 vdkd6nz8qr.s3.amazonaws.com
 vse-vpns-a-ipvc-ext-alb-blue-1970807213.us-east-1.elb.amazonaws.com
 xv-client-json-configuration.s3.us-east-1.amazonaws.com

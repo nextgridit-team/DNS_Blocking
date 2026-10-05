@@ -1,10 +1,10 @@
 ; Badware Hoster Blocklist
-; Generated: 2026-10-04 08:17:11 UTC
+; Generated: 2026-10-05 08:48:41 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1228
+; Original domains (before deduplication): 1232
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100408 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100508 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 000.pe CNAME .
@@ -386,6 +386,7 @@ coolpage.biz CNAME .
 corolain.ru CNAME .
 craftum.io CNAME .
 created.app CNAME .
+creatorlink.net CNAME .
 crypto-market-world.com CNAME .
 cryptonight.net CNAME .
 cs-clan.org CNAME .
@@ -816,6 +817,7 @@ myblogvoice.com CNAME .
 mybluehost.me CNAME .
 mybluehostin.me CNAME .
 myclickfunnels.com CNAME .
+mycpanel.rs CNAME .
 mydiscussion.net CNAME .
 myeweb.net CNAME .
 myfoolmoon.com CNAME .
@@ -914,6 +916,7 @@ pktriot.net CNAME .
 pl.de CNAME .
 pl.gp CNAME .
 planet.tl CNAME .
+plasmic.run CNAME .
 plu.sh CNAME .
 portal.lc CNAME .
 preview-domain.com CNAME .
@@ -980,6 +983,7 @@ seite.info CNAME .
 seite.ru CNAME .
 seite24.eu CNAME .
 seite77.de CNAME .
+sendspace.com CNAME .
 serv00.net CNAME .
 server.gg CNAME .
 server.tl CNAME .

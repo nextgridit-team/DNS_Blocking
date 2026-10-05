@@ -3,7 +3,6 @@ api-flightproxy-uaen-teams.trafficmanager.net
 api.flightproxy.teams.trafficmanager.net
 appproxy.trafficmanager.net
 aus.proxy-1.appproxy.trafficmanager.net
-aus.proxy-2.appproxy.trafficmanager.net
 bootstrap-1.appproxy.trafficmanager.net
 ctxathp-dsauthweb-fdproxy.trafficmanager.net
 ctxathp-identity4-fdproxy.trafficmanager.net
@@ -38,7 +37,6 @@ proxy-msua06.trafficmanager.net
 r3-api-flightproxy-teams.trafficmanager.net
 reverseproxy.onenote.trafficmanager.net
 tm.aus.proxy-1.appproxy.trafficmanager.net
-tm.aus.proxy-2.appproxy.trafficmanager.net
 tm.eur.proxy-1.appproxy.trafficmanager.net
 tm.eur.proxy-2.appproxy.trafficmanager.net
 tm.eur.proxy-3.appproxy.trafficmanager.net
@@ -51,7 +49,6 @@ uet-proxy-edge.trafficmanager.net
 update-1.appproxy.trafficmanager.net
 vastproxy-brand-inmobi-comtm.trafficmanager.net
 www.tm.aus.proxy-1.appproxy.trafficmanager.net
-www.tm.aus.proxy-2.appproxy.trafficmanager.net
 www.tm.eur.proxy-1.appproxy.trafficmanager.net
 www.tm.eur.proxy-2.appproxy.trafficmanager.net
 www.tm.eur.proxy-3.appproxy.trafficmanager.net
