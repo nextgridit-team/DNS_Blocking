@@ -1,7 +1,7 @@
 # Social Network Blocklist
-# Generated: 2026-10-05 08:48:41 UTC
+# Generated: 2026-10-06 08:50:53 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
-# Original domains (before deduplication): 839
+# Original domains (before deduplication): 843
 
 0.0.0.0 4cdn.org
 0.0.0.0 4chan.org
@@ -110,6 +110,7 @@
 0.0.0.0 douyinstatic.com
 0.0.0.0 douyinvod.com
 0.0.0.0 draftjs.org
+0.0.0.0 dv.tech
 0.0.0.0 epsiloncdn.net
 0.0.0.0 expresswifi.com
 0.0.0.0 f8.com
@@ -763,10 +764,12 @@
 0.0.0.0 thefind.com
 0.0.0.0 theinstagramhack.com
 0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn-eu.com
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokrow-cdn.com
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktokv.eu
 0.0.0.0 tkz.one
 0.0.0.0 todon.eu
 0.0.0.0 toot.community
@@ -774,6 +777,7 @@
 0.0.0.0 toot.wales
 0.0.0.0 toplayerserver.com
 0.0.0.0 troet.cafe
+0.0.0.0 ttdns3.com
 0.0.0.0 ttlivecdn.com
 0.0.0.0 tumblr.com
 0.0.0.0 tweetdeck.com
