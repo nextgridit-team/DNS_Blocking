@@ -1,10 +1,10 @@
 ; Badware Hoster Blocklist
-; Generated: 2026-10-06 08:50:53 UTC
+; Generated: 2026-10-08 08:46:20 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1232
+; Original domains (before deduplication): 1221
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100608 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100808 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 000.pe CNAME .
@@ -103,7 +103,6 @@ $TTL 300
 3ya.de CNAME .
 4.je CNAME .
 42t.com CNAME .
-42web.io CNAME .
 433.at CNAME .
 4everland.app CNAME .
 4kp.de CNAME .
@@ -306,6 +305,7 @@ bo.gp CNAME .
 boxmail.biz CNAME .
 boxmode.io CNAME .
 br.gp CNAME .
+bugs3.com CNAME .
 builderall.net CNAME .
 builtfree.org CNAME .
 bulkurlshortener.com CNAME .
@@ -354,7 +354,6 @@ clandomain.de CNAME .
 clandomain.org CNAME .
 cli.re CNAME .
 clipser.com CNAME .
-cloudwaysapps.com CNAME .
 club-area.de CNAME .
 club.lc CNAME .
 clumsy.de CNAME .
@@ -535,7 +534,6 @@ freakshare.net CNAME .
 free.bizhat.com CNAME .
 free.cr CNAME .
 free.lc CNAME .
-free.nf CNAME .
 freeasphost.net CNAME .
 freeblog.biz CNAME .
 freecities.com CNAME .
@@ -655,7 +653,6 @@ il.gp CNAME .
 ilink-to.net CNAME .
 im-internet.eu CNAME .
 imagengratis.org CNAME .
-imageurlhost.com CNAME .
 in.gp CNAME .
 in.run CNAME .
 in24.de CNAME .
@@ -673,6 +670,7 @@ info4.de CNAME .
 infos.cx CNAME .
 infos.lc CNAME .
 infos.st CNAME .
+infy.uk CNAME .
 instantfreesite.com CNAME .
 int.ps CNAME .
 internetsite.eu CNAME .
@@ -702,7 +700,6 @@ j55.eu CNAME .
 ja.cat CNAME .
 janhost.com CNAME .
 jcmemoryscan.com CNAME .
-jimdofree.com CNAME .
 jixx.de CNAME .
 jixx.net CNAME .
 job.ec CNAME .
@@ -767,7 +764,6 @@ loxblog.com CNAME .
 lu.kg CNAME .
 luzzati.com CNAME .
 lyli.fi CNAME .
-m-pages.com CNAME .
 m.vu CNAME .
 ma.gp CNAME .
 macao.net CNAME .
@@ -816,7 +812,6 @@ mybb.pw CNAME .
 myblogvoice.com CNAME .
 mybluehost.me CNAME .
 mybluehostin.me CNAME .
-myclickfunnels.com CNAME .
 mycpanel.rs CNAME .
 mydiscussion.net CNAME .
 myeweb.net CNAME .
@@ -825,7 +820,6 @@ myfreesites.net CNAME .
 myftpupload.com CNAME .
 myfunnelish.com CNAME .
 mylinkinb.io CNAME .
-myportfolio.com CNAME .
 mypressonline.com CNAME .
 mystrikingly.com CNAME .
 mytempdir.com CNAME .
@@ -1009,7 +1003,6 @@ site50.net CNAME .
 site88.net CNAME .
 site90.com CNAME .
 site90.net CNAME .
-sitebeat.crazydomains.com CNAME .
 sitepalace.com CNAME .
 sitey.me CNAME .
 skul.de CNAME .
@@ -1056,7 +1049,7 @@ temporary-demo.site CNAME .
 temporary.site CNAME .
 tentbuildingservices.eu CNAME .
 test.lc CNAME .
-tggame.xyz CNAME .
+testingnow.me CNAME .
 th.gp CNAME .
 thamboli.co.za CNAME .
 the-finance-world.com CNAME .
@@ -1145,7 +1138,6 @@ voten.in CNAME .
 vpn.net.br CNAME .
 vuzelia.com CNAME .
 vz.lc CNAME .
-w3spaces.com CNAME .
 wapka.club CNAME .
 wapka.site CNAME .
 wapka.store CNAME .
@@ -1165,7 +1157,6 @@ webblog24.de CNAME .
 webboss.site CNAME .
 webcindario.com CNAME .
 webege.com CNAME .
-webgarden.com CNAME .
 webn.cc CNAME .
 webnode.com CNAME .
 webnode.com.pt CNAME .
@@ -1194,7 +1185,6 @@ worldsoffinance.com CNAME .
 writes.de CNAME .
 wstd.io CNAME .
 wtcsites.com CNAME .
-wuaze.com CNAME .
 www4.me CNAME .
 wy5532.com CNAME .
 x.gp CNAME .
@@ -1205,7 +1195,6 @@ xaper.com CNAME .
 xblog.in CNAME .
 xl.lc CNAME .
 xml.in CNAME .
-xo.je CNAME .
 xsl.tel CNAME .
 xsph.ru CNAME .
 xtgem.com CNAME .

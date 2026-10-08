@@ -1,11 +1,11 @@
 ; HaGeZi Dynamic DNS
 ; Category: dynamic_dns
-; Generated: 2026-10-06 08:50:53 UTC
+; Generated: 2026-10-08 08:46:20 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 1065
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026100608 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026100808 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
