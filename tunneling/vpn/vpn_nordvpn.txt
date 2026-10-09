@@ -24,7 +24,6 @@ affiliate-manager.nordvpn.com
 aio-hapr.nordvpn.com
 al36.nordvpn.com
 al37.nordvpn.com
-al41.nordvpn.com
 al45.nordvpn.com
 al46.nordvpn.com
 anycast-as-sgp3.nordvpn.com
@@ -59,6 +58,7 @@ at161.nordvpn.com
 at161.proxy.nordvpn.com
 at162.nordvpn.com
 at80.nordvpn.com
+at86.nordvpn.com
 at88.nordvpn.com
 at89.nordvpn.com
 at89.proxy.nordvpn.com
@@ -68,6 +68,7 @@ at94.proxy.nordvpn.com
 at95.nordvpn.com
 at96.nordvpn.com
 at97.nordvpn.com
+at98.nordvpn.com
 at99.nordvpn.com
 au653.nordvpn.com
 au654.nordvpn.com
@@ -139,7 +140,6 @@ au802.proxy.nordvpn.com
 au803.nordvpn.com
 au804.nordvpn.com
 au805.nordvpn.com
-au805.proxy.nordvpn.com
 au806.nordvpn.com
 au807.nordvpn.com
 au807.proxy.nordvpn.com
@@ -260,6 +260,7 @@ ca-us68.nordvpn.com
 ca-us70.nordvpn.com
 ca-us72.nordvpn.com
 ca-us74.nordvpn.com
+ca-us75.nordvpn.com
 ca-us90.nordvpn.com
 ca-us91.nordvpn.com
 ca-us93.nordvpn.com
@@ -284,7 +285,6 @@ ca1221.nordvpn.com
 ca1222.nordvpn.com
 ca1223.nordvpn.com
 ca1224.nordvpn.com
-ca1225.nordvpn.com
 ca1225.proxy.nordvpn.com
 ca1530.nordvpn.com
 ca1531.nordvpn.com
@@ -348,7 +348,6 @@ ca1712.proxy.nordvpn.com
 ca1713.nordvpn.com
 ca1714.nordvpn.com
 ca1714.proxy.nordvpn.com
-ca1715.nordvpn.com
 ca1716.nordvpn.com
 ca1716.proxy.nordvpn.com
 ca1717.nordvpn.com
@@ -463,6 +462,7 @@ ch368.nordvpn.com
 ch368.proxy.nordvpn.com
 ch369.nordvpn.com
 ch369.proxy.nordvpn.com
+ch370.nordvpn.com
 ch370.proxy.nordvpn.com
 ch371.nordvpn.com
 ch372.nordvpn.com
@@ -592,7 +592,6 @@ de1053.nordvpn.com
 de1054.nordvpn.com
 de1055.nordvpn.com
 de1056.nordvpn.com
-de1057.nordvpn.com
 de1058.nordvpn.com
 de1059.nordvpn.com
 de1060.nordvpn.com
@@ -649,6 +648,7 @@ de1158.nordvpn.com
 de1158.proxy.nordvpn.com
 de1159.nordvpn.com
 de1160.nordvpn.com
+de1161.nordvpn.com
 de1162.nordvpn.com
 de1163.nordvpn.com
 de1164.nordvpn.com
@@ -984,7 +984,6 @@ fr702.nordvpn.com
 fr703.nordvpn.com
 fr710.nordvpn.com
 fr726.nordvpn.com
-fr754.nordvpn.com
 fr825.nordvpn.com
 fr825.proxy.nordvpn.com
 fr850.nordvpn.com
@@ -1060,7 +1059,6 @@ fr969.nordvpn.com
 fr970.nordvpn.com
 fr971.nordvpn.com
 fr972.nordvpn.com
-fr999.nordvpn.com
 go.nordvpn.net
 gr79.nordvpn.com
 gr80.nordvpn.com
@@ -1143,6 +1141,7 @@ ie137.nordvpn.com
 ie137.proxy.nordvpn.com
 ie138.nordvpn.com
 ie139.nordvpn.com
+ie139.proxy.nordvpn.com
 ie140.nordvpn.com
 ie141.nordvpn.com
 ie142.nordvpn.com
@@ -1217,7 +1216,6 @@ jp700.nordvpn.com
 jp700.proxy.nordvpn.com
 jp701.nordvpn.com
 jp702.nordvpn.com
-jp702.proxy.nordvpn.com
 jp703.nordvpn.com
 jp704.nordvpn.com
 jp704.proxy.nordvpn.com
@@ -1319,6 +1317,7 @@ nl1020.nordvpn.com
 nl1023.nordvpn.com
 nl1023.proxy.nordvpn.com
 nl1024.nordvpn.com
+nl1025.nordvpn.com
 nl1032.nordvpn.com
 nl1033.nordvpn.com
 nl1036.nordvpn.com
@@ -1422,6 +1421,7 @@ no149.nordvpn.com
 no151.nordvpn.com
 no162.nordvpn.com
 no163.nordvpn.com
+no164.nordvpn.com
 no167.nordvpn.com
 no168.nordvpn.com
 no169.nordvpn.com
@@ -1442,6 +1442,7 @@ no181.nordvpn.com
 no182.nordvpn.com
 no183.nordvpn.com
 no184.nordvpn.com
+no185.nordvpn.com
 no186.nordvpn.com
 no187.nordvpn.com
 no188.nordvpn.com
@@ -1836,6 +1837,7 @@ uk1643.nordvpn.com
 uk1644.nordvpn.com
 uk1645.nordvpn.com
 uk1646.nordvpn.com
+uk1647.nordvpn.com
 uk1647.proxy.nordvpn.com
 uk1648.nordvpn.com
 uk1649.nordvpn.com
@@ -2134,7 +2136,6 @@ uk2262.nordvpn.com
 uk2263.nordvpn.com
 uk2264.nordvpn.com
 uk2265.nordvpn.com
-uk2266.nordvpn.com
 uk2267.nordvpn.com
 uk2268.nordvpn.com
 uk2269.nordvpn.com
@@ -2275,6 +2276,7 @@ uk2421.nordvpn.com
 uk2422.nordvpn.com
 uk2423.nordvpn.com
 uk2424.nordvpn.com
+uk2425.nordvpn.com
 uk2426.nordvpn.com
 uk2427.nordvpn.com
 uk2428.nordvpn.com
@@ -2305,7 +2307,6 @@ uk2451.nordvpn.com
 uk2452.nordvpn.com
 uk2453.nordvpn.com
 uk2454.nordvpn.com
-uk2455.nordvpn.com
 uk2456.nordvpn.com
 uk2457.nordvpn.com
 uk2458.nordvpn.com
@@ -2565,6 +2566,7 @@ us-ca103.nordvpn.com
 us-ca104.nordvpn.com
 us-ca105.nordvpn.com
 us-ca106.nordvpn.com
+us-ca109.nordvpn.com
 us-ca111.nordvpn.com
 us-ca112.nordvpn.com
 us-ca113.nordvpn.com
@@ -2588,6 +2590,7 @@ us-ca96.nordvpn.com
 us-ca97.nordvpn.com
 us-ca98.nordvpn.com
 us-ca99.nordvpn.com
+us10020.nordvpn.com
 us10100.nordvpn.com
 us10101.nordvpn.com
 us10102.nordvpn.com
@@ -2711,7 +2714,6 @@ us10313.nordvpn.com
 us10314.nordvpn.com
 us10314.proxy.nordvpn.com
 us10315.nordvpn.com
-us10316.nordvpn.com
 us10347.nordvpn.com
 us10348.nordvpn.com
 us10349.nordvpn.com
@@ -3242,6 +3244,7 @@ us5728.nordvpn.com
 us5729.nordvpn.com
 us5818.nordvpn.com
 us5819.nordvpn.com
+us5820.nordvpn.com
 us5821.nordvpn.com
 us5822.nordvpn.com
 us5823.nordvpn.com
@@ -3527,6 +3530,7 @@ us8349.proxy.nordvpn.com
 us8350.nordvpn.com
 us8351.nordvpn.com
 us8352.nordvpn.com
+us8353.nordvpn.com
 us8355.nordvpn.com
 us8356.nordvpn.com
 us8357.nordvpn.com
@@ -3626,6 +3630,7 @@ us9147.nordvpn.com
 us9148.nordvpn.com
 us9149.nordvpn.com
 us9150.nordvpn.com
+us9151.nordvpn.com
 us9152.nordvpn.com
 us9153.nordvpn.com
 us9154.nordvpn.com
@@ -3710,7 +3715,6 @@ us9515.nordvpn.com
 us9516.nordvpn.com
 us9517.nordvpn.com
 us9518.nordvpn.com
-us9519.nordvpn.com
 us9520.nordvpn.com
 us9521.nordvpn.com
 us9522.nordvpn.com
@@ -3755,6 +3759,7 @@ us9558.proxy.nordvpn.com
 us9559.nordvpn.com
 us9560.nordvpn.com
 us9561.nordvpn.com
+us9562.nordvpn.com
 us9563.nordvpn.com
 us9564.nordvpn.com
 us9564.proxy.nordvpn.com
@@ -4014,6 +4019,7 @@ vm-uk1225.prod.nordvpn.com
 vm-uk1227.prod.nordvpn.com
 vm-uk1230.prod.nordvpn.com
 vm-uk1238.prod.nordvpn.com
+vm-uk1239.prod.nordvpn.com
 vm-uk1298.prod.nordvpn.com
 vm-uk130.prod.nordvpn.com
 vm-uk1307.prod.nordvpn.com
@@ -4162,7 +4168,6 @@ vm-us4873.prod.nordvpn.com
 vm-us4888.prod.nordvpn.com
 vm-us4896.prod.nordvpn.com
 vm-us4897.prod.nordvpn.com
-vm-us4925.prod.nordvpn.com
 vm-us4942.prod.nordvpn.com
 vm-us4988.prod.nordvpn.com
 vm-us5000.prod.nordvpn.com
