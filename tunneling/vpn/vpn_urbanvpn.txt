@@ -8,7 +8,6 @@ assets.urban-vpn.com
 authentication.urban-vpn.com
 cdn-cfg.urban-vpn.com
 config-toolbar.urban-vpn.com
-config.urban-vpn.com
 download.urban-vpn.com
 geo.urban-vpn.com
 install.urban-vpn.com
@@ -30,7 +29,6 @@ p-at4.urban-vpn.com
 p-at5.urban-vpn.com
 p-au1.urban-vpn.com
 p-au10.urban-vpn.com
-p-au12.urban-vpn.com
 p-au2.urban-vpn.com
 p-au3.urban-vpn.com
 p-au4.urban-vpn.com
@@ -92,8 +90,8 @@ p-de11.urban-vpn.com
 p-de12.urban-vpn.com
 p-de13.urban-vpn.com
 p-de14.urban-vpn.com
-p-de16.urban-vpn.com
 p-de17.urban-vpn.com
+p-de18.urban-vpn.com
 p-de19.urban-vpn.com
 p-de2.urban-vpn.com
 p-de3.urban-vpn.com
@@ -112,11 +110,9 @@ p-dz2.urban-vpn.com
 p-ec1.urban-vpn.com
 p-ee1.urban-vpn.com
 p-ee2.urban-vpn.com
-p-eg1.urban-vpn.com
 p-eg2.urban-vpn.com
 p-es1.urban-vpn.com
 p-es2.urban-vpn.com
-p-es3.urban-vpn.com
 p-es4.urban-vpn.com
 p-es5.urban-vpn.com
 p-es6.urban-vpn.com
@@ -149,14 +145,11 @@ p-hk2.urban-vpn.com
 p-hn1.urban-vpn.com
 p-hr1.urban-vpn.com
 p-hr2.urban-vpn.com
-p-hu1.urban-vpn.com
 p-hu2.urban-vpn.com
 p-hu3.urban-vpn.com
-p-id1.urban-vpn.com
 p-id2.urban-vpn.com
 p-id3.urban-vpn.com
 p-ie1.urban-vpn.com
-p-ie2.urban-vpn.com
 p-il1.urban-vpn.com
 p-il2.urban-vpn.com
 p-il3.urban-vpn.com
@@ -173,8 +166,6 @@ p-it3.urban-vpn.com
 p-it4.urban-vpn.com
 p-it5.urban-vpn.com
 p-jo1.urban-vpn.com
-p-jo2.urban-vpn.com
-p-jp1.urban-vpn.com
 p-jp2.urban-vpn.com
 p-jp3.urban-vpn.com
 p-jp4.urban-vpn.com
@@ -241,7 +232,6 @@ p-pl2.urban-vpn.com
 p-pl3.urban-vpn.com
 p-pl4.urban-vpn.com
 p-pr1.urban-vpn.com
-p-pt1.urban-vpn.com
 p-pt2.urban-vpn.com
 p-pt3.urban-vpn.com
 p-py1.urban-vpn.com
@@ -272,12 +262,10 @@ p-tr1.urban-vpn.com
 p-tr2.urban-vpn.com
 p-tr3.urban-vpn.com
 p-tw1.urban-vpn.com
-p-tw2.urban-vpn.com
 p-ua1.urban-vpn.com
 p-ua2.urban-vpn.com
 p-ua3.urban-vpn.com
 p-uk1.urban-vpn.com
-p-uk10.urban-vpn.com
 p-uk11.urban-vpn.com
 p-uk12.urban-vpn.com
 p-uk13.urban-vpn.com
@@ -286,7 +274,6 @@ p-uk2.urban-vpn.com
 p-uk3.urban-vpn.com
 p-uk4.urban-vpn.com
 p-uk5.urban-vpn.com
-p-uk6.urban-vpn.com
 p-uk7.urban-vpn.com
 p-uk8.urban-vpn.com
 p-uk9.urban-vpn.com
@@ -295,7 +282,6 @@ p-uy1.urban-vpn.com
 p-uy2.urban-vpn.com
 p-ve1.urban-vpn.com
 p-vn1.urban-vpn.com
-p-vn2.urban-vpn.com
 p-za1.urban-vpn.com
 p-za2.urban-vpn.com
 ping.urban-vpn.com
