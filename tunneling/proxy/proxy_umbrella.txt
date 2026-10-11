@@ -1,5 +1,3 @@
-api.sse-network-tunnel-mgmt.internal.umbrella.com
-api.tunnels.cdfw.umbrella.com
 proxy.prod.pac.swg.umbrella.com
 sigproxy.aws.umbrella.com
 sigproxy.edge.umbrella.com
@@ -19,4 +17,3 @@ swg-proxy_us-east-2_1_0n.sigproxy.aws.umbrella.com
 swg-proxy_us-east-2_1_1n.sigproxy.aws.umbrella.com
 swg-proxy_us-west-2_1_0n.sigproxy.aws.umbrella.com
 swg-proxy_us-west-2_1_1n.sigproxy.aws.umbrella.com
-tunnels.cdfw.umbrella.com
