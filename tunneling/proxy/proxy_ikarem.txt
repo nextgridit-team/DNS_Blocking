@@ -1,4 +1,5 @@
 chc.proxy.k8s.ikarem.io
+envoy-megaproxy.shared-gateways.apa.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.aps.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.euc.production.k8s.ikarem.io
 envoy-megaproxy.shared-gateways.euw.production.k8s.ikarem.io
@@ -31,9 +32,7 @@ node-server-byoip-dual.nextunnel.euw.production.k8s.ikarem.io
 node-server-byoip-dual.nextunnel.use.production.k8s.ikarem.io
 node-server-byoip-dual.nextunnel.usw.production.k8s.ikarem.io
 presigned-url-proxy.pressmia.use.production.k8s.ikarem.io
-proxy.it-managed.ikarem.io
 proxy.k8s.ikarem.io
-proxy2.it-managed.ikarem.io
 sin.proxy.k8s.ikarem.io
 sva.proxy.k8s.ikarem.io
 syd.proxy.k8s.ikarem.io

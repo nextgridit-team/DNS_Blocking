@@ -1,5 +1,5 @@
 # Badware Hoster Blocklist
-# Generated: 2026-10-11 08:37:57 UTC
+# Generated: 2026-10-12 09:00:29 UTC
 # Format: Hosts file (0.0.0.0 domain.com) - blocks all subdomains
 # Original domains (before deduplication): 1226
 
@@ -425,6 +425,7 @@
 0.0.0.0 domaindlx.com
 0.0.0.0 doodlekit.com
 0.0.0.0 dot.tk
+0.0.0.0 dothome.co.kr
 0.0.0.0 douploads.net
 0.0.0.0 downfall.shop
 0.0.0.0 download.ac
@@ -1011,7 +1012,6 @@
 0.0.0.0 social-networking.me
 0.0.0.0 socialsmp.com
 0.0.0.0 solidwebhost.com
-0.0.0.0 sophiashantidaniel.com
 0.0.0.0 space.lc
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
