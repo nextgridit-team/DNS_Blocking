@@ -109,7 +109,6 @@ blade1.tirana-rack403.nodes.gen4.ninja
 blade1.tirana-rack404.nodes.gen4.ninja
 blade1.tokyo-rack450.nodes.gen4.ninja
 blade1.toronto-rack405.nodes.gen4.ninja
-blade1.ulaanbaatar-rack403.nodes.gen4.ninja
 blade1.vaduz-rack402.nodes.gen4.ninja
 blade1.vaduz-rack403.nodes.gen4.ninja
 blade1.valletta-rack402.nodes.gen4.ninja
@@ -232,6 +231,7 @@ blade10.tokyo-rack408.nodes.gen4.ninja
 blade10.toronto-rack405.nodes.gen4.ninja
 blade10.ulaanbaatar-rack403.nodes.gen4.ninja
 blade10.vaduz-rack402.nodes.gen4.ninja
+blade10.vaduz-rack403.nodes.gen4.ninja
 blade10.valletta-rack402.nodes.gen4.ninja
 blade10.vienna-rack401.nodes.gen4.ninja
 blade10.vienna-rack403.nodes.gen4.ninja
@@ -327,6 +327,7 @@ blade11.saopaulo-rack405.nodes.gen4.ninja
 blade11.saopaulo-rack406.nodes.gen4.ninja
 blade11.seoul-rack401.nodes.gen4.ninja
 blade11.seoul-rack402.nodes.gen4.ninja
+blade11.shenzhen-rack403.nodes.gen4.ninja
 blade11.singapore-rack405.nodes.gen4.ninja
 blade11.singapore-rack456.nodes.gen4.ninja
 blade11.sofia-rack403.nodes.gen4.ninja
@@ -582,7 +583,6 @@ blade14.miami-rack456.nodes.gen4.ninja
 blade14.milano-rack402.nodes.gen4.ninja
 blade14.monaco-rack402.nodes.gen4.ninja
 blade14.mumbai-rack403.nodes.gen4.ninja
-blade14.newyork-rack415.nodes.gen4.ninja
 blade14.newyork-rack418.nodes.gen4.ninja
 blade14.nicosia-rack402.nodes.gen4.ninja
 blade14.nuuk-rack402.nodes.gen4.ninja
@@ -1532,6 +1532,7 @@ blade39.washington-rack421.nodes.gen4.ninja
 blade4.algiers-rack402.nodes.gen4.ninja
 blade4.amsterdam-rack401.nodes.gen4.ninja
 blade4.amsterdam-rack405.nodes.gen4.ninja
+blade4.amsterdam-rack407.nodes.gen4.ninja
 blade4.amsterdam-rack408.nodes.gen4.ninja
 blade4.amsterdam-rack409.nodes.gen4.ninja
 blade4.astana-rack401.nodes.gen4.ninja
@@ -1678,6 +1679,7 @@ blade41.washington-rack421.nodes.gen4.ninja
 blade42.amsterdam-rack408.nodes.gen4.ninja
 blade42.milano-rack404.nodes.gen4.ninja
 blade42.newyork-rack415.nodes.gen4.ninja
+blade42.newyork-rack418.nodes.gen4.ninja
 blade43.amsterdam-rack405.nodes.gen4.ninja
 blade43.amsterdam-rack407.nodes.gen4.ninja
 blade43.amsterdam-rack408.nodes.gen4.ninja

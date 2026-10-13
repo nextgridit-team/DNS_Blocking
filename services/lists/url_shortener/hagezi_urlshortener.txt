@@ -1,8 +1,8 @@
 # HaGeZi URL Shortener
 # Category: url_shortener
-# Generated: 2026-10-12 09:00:29 UTC
+# Generated: 2026-10-13 09:15:02 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 9826
+# Original domains (before deduplication): 9800
 
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -467,6 +467,7 @@
 0.0.0.0 accessmy.tax
 0.0.0.0 accntu.re
 0.0.0.0 acconpit.com
+0.0.0.0 accorcia.to
 0.0.0.0 accorcio.it
 0.0.0.0 accountingde.pt
 0.0.0.0 accu.li
@@ -5474,7 +5475,6 @@
 0.0.0.0 notlong.com
 0.0.0.0 nov.io
 0.0.0.0 nov.link
-0.0.0.0 novaurllight.wexisstudios.com
 0.0.0.0 nowgamejiliwin63.online
 0.0.0.0 nowlinks.net
 0.0.0.0 nowshort.com
@@ -8041,7 +8041,6 @@
 0.0.0.0 tiny.us
 0.0.0.0 tiny123.com
 0.0.0.0 tiny1z.com
-0.0.0.0 tinyard.co
 0.0.0.0 tinyarro.ws
 0.0.0.0 tinybit.cc
 0.0.0.0 tinybro.com
@@ -8192,7 +8191,6 @@
 0.0.0.0 toofficialwebsite.com
 0.0.0.0 toolaxy.com
 0.0.0.0 toolbites.com
-0.0.0.0 toolboxdaily.com
 0.0.0.0 toolify.link
 0.0.0.0 toolking.net
 0.0.0.0 toolkingo.com
@@ -8206,7 +8204,6 @@
 0.0.0.0 toplistt.com
 0.0.0.0 topt.al
 0.0.0.0 topurl.cc
-0.0.0.0 topvir.com
 0.0.0.0 tori.top
 0.0.0.0 toskys.cn
 0.0.0.0 toss.is
@@ -8256,12 +8253,8 @@
 0.0.0.0 travelmarketingandmedia.com
 0.0.0.0 travl.rs
 0.0.0.0 trbs.link
-0.0.0.0 trceme.com
-0.0.0.0 trck.biz
-0.0.0.0 trck.gg
 0.0.0.0 trck.me
 0.0.0.0 tres.at
-0.0.0.0 treszki.com
 0.0.0.0 trezurl.ir
 0.0.0.0 tri.ps
 0.0.0.0 trib.al
@@ -8286,7 +8279,6 @@
 0.0.0.0 trimurls.com
 0.0.0.0 tritri.my
 0.0.0.0 trizlink.com
-0.0.0.0 trk24.com
 0.0.0.0 trkr.ws
 0.0.0.0 trks.ca
 0.0.0.0 trl.ca
@@ -8408,7 +8400,6 @@
 0.0.0.0 tyny.me
 0.0.0.0 tyny.to
 0.0.0.0 typit.in
-0.0.0.0 tyrano-shortener.in
 0.0.0.0 tyurl.ch
 0.0.0.0 tyx.me
 0.0.0.0 tyzdg.com
@@ -8565,7 +8556,6 @@
 0.0.0.0 uri.im
 0.0.0.0 uri.to
 0.0.0.0 uriok.com
-0.0.0.0 urjasi.com
 0.0.0.0 urkbfb.com
 0.0.0.0 url-api.babayev.us
 0.0.0.0 url-l.com
@@ -8664,7 +8654,6 @@
 0.0.0.0 url.yousufraissi.xyz
 0.0.0.0 url.zeus27.com
 0.0.0.0 url1.io
-0.0.0.0 url11xx.com
 0.0.0.0 url127x.com
 0.0.0.0 url12xx.com
 0.0.0.0 url2.fr
@@ -8725,7 +8714,6 @@
 0.0.0.0 urlcut.at
 0.0.0.0 urlcut.ch
 0.0.0.0 urlcut.com
-0.0.0.0 urlcut.in
 0.0.0.0 urlday.cc
 0.0.0.0 urlday.com
 0.0.0.0 urldeclic.com
@@ -8772,7 +8760,6 @@
 0.0.0.0 urlist.net
 0.0.0.0 urlkai.com
 0.0.0.0 urlki.com
-0.0.0.0 urlkit.site
 0.0.0.0 urlklix.com
 0.0.0.0 urlkr.com
 0.0.0.0 urlkw.com
@@ -8795,7 +8782,6 @@
 0.0.0.0 urlo.in
 0.0.0.0 urlo12x.com
 0.0.0.0 urlot.com
-0.0.0.0 urlpi.com
 0.0.0.0 urlplus.net
 0.0.0.0 urlpoints.com
 0.0.0.0 urlq.com
@@ -8803,7 +8789,6 @@
 0.0.0.0 urlra.com
 0.0.0.0 urlro.com
 0.0.0.0 urlroot.com
-0.0.0.0 urlroxx.com
 0.0.0.0 urlrw.com
 0.0.0.0 urls-short.de
 0.0.0.0 urls-shortener.eu
@@ -8846,7 +8831,6 @@
 0.0.0.0 urlshortenerr.live
 0.0.0.0 urlshortenertool.com
 0.0.0.0 urlshortenervip.com
-0.0.0.0 urlshortenerx.com
 0.0.0.0 urlshortening.webalias.com
 0.0.0.0 urlshortly.com
 0.0.0.0 urlshortn.com
@@ -8855,7 +8839,6 @@
 0.0.0.0 urlshortx.com
 0.0.0.0 urlshortx.io
 0.0.0.0 urlshorty.metaapps.com
-0.0.0.0 urlshoter.com
 0.0.0.0 urlshtr.com
 0.0.0.0 urlsmall.com
 0.0.0.0 urlsminify.com
@@ -8962,7 +8945,6 @@
 0.0.0.0 uxkjp.org
 0.0.0.0 uxo.link
 0.0.0.0 uzip.ir
-0.0.0.0 uzurl.com
 0.0.0.0 v-c.link
 0.0.0.0 v-it.in
 0.0.0.0 v-k.pw
@@ -8972,7 +8954,6 @@
 0.0.0.0 v0.dev
 0.0.0.0 v1.ax
 0.0.0.0 v1m.net
-0.0.0.0 v2g.live
 0.0.0.0 v2links.com
 0.0.0.0 v3d.net
 0.0.0.0 v68.io
@@ -9015,14 +8996,12 @@
 0.0.0.0 veja.me
 0.0.0.0 velink.me
 0.0.0.0 vena.sh
-0.0.0.0 vendoagora.live
 0.0.0.0 venkateswaragases.com
 0.0.0.0 venocards.com
 0.0.0.0 ventia.app
 0.0.0.0 vercel.link
 0.0.0.0 verd.in
 0.0.0.0 verdex.au
-0.0.0.0 verdylion.com
 0.0.0.0 verified.bio
 0.0.0.0 verifiedbonuses.com
 0.0.0.0 veshort.com
@@ -9121,7 +9100,6 @@
 0.0.0.0 vns.im
 0.0.0.0 vnshortener.com
 0.0.0.0 vntyfr.com
-0.0.0.0 vnvodich.life
 0.0.0.0 vnxy.me
 0.0.0.0 vo.la
 0.0.0.0 vodafone.uk
@@ -9136,7 +9114,6 @@
 0.0.0.0 vp-link.com
 0.0.0.0 vpbencobb.com
 0.0.0.0 vplink.in
-0.0.0.0 vpn2.win
 0.0.0.0 vpnhoki.com
 0.0.0.0 vprozone.in
 0.0.0.0 vqc.vn
@@ -9181,7 +9158,6 @@
 0.0.0.0 w.wiki
 0.0.0.0 w09.ru
 0.0.0.0 w0o.de
-0.0.0.0 w0of-woof.com
 0.0.0.0 w1p.fr
 0.0.0.0 w2link.com
 0.0.0.0 w2u.io
@@ -9267,12 +9243,10 @@
 0.0.0.0 webz.cc
 0.0.0.0 wec.li
 0.0.0.0 wed.li
-0.0.0.0 wedew.link
 0.0.0.0 wee.so
 0.0.0.0 wee.wtf
 0.0.0.0 weely.ai
 0.0.0.0 weeste.llc
-0.0.0.0 weeurl.eu
 0.0.0.0 weeurl.in
 0.0.0.0 weewz.me
 0.0.0.0 wef.ch
