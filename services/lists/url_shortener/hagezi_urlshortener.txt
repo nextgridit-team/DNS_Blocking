@@ -1,8 +1,8 @@
 # HaGeZi URL Shortener
 # Category: url_shortener
-# Generated: 2026-10-13 09:15:02 UTC
+# Generated: 2026-10-14 07:25:41 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 9800
+# Original domains (before deduplication): 9790
 
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -770,7 +770,6 @@
 0.0.0.0 app.univ-cotedazur.fr
 0.0.0.0 app.url180.com
 0.0.0.0 app.veryimportantlink.com
-0.0.0.0 app.workdog.cc
 0.0.0.0 appbitly.com
 0.0.0.0 appcurt.com
 0.0.0.0 apple.co
@@ -8793,6 +8792,7 @@
 0.0.0.0 urls-short.de
 0.0.0.0 urls-shortener.eu
 0.0.0.0 urls.ae
+0.0.0.0 urls.aikeeda.com
 0.0.0.0 urls.by
 0.0.0.0 urls.direct
 0.0.0.0 urls.fr
@@ -9308,7 +9308,6 @@
 0.0.0.0 wkpwr.be
 0.0.0.0 wl.co
 0.0.0.0 wl.gl
-0.0.0.0 wlink.us
 0.0.0.0 wlinky.com
 0.0.0.0 wluuns.com
 0.0.0.0 wm.edu
@@ -9387,7 +9386,6 @@
 0.0.0.0 wwy.me
 0.0.0.0 wx.pn
 0.0.0.0 wy.si
-0.0.0.0 wyyw.de
 0.0.0.0 wz.my
 0.0.0.0 x-d.me
 0.0.0.0 x-shrtn.com
@@ -9408,7 +9406,6 @@
 0.0.0.0 xailr.com
 0.0.0.0 xavo.wtf
 0.0.0.0 xb5.com
-0.0.0.0 xbig.info
 0.0.0.0 xbitly.com
 0.0.0.0 xboys.online
 0.0.0.0 xbrch.com
@@ -9496,7 +9493,6 @@
 0.0.0.0 xurl.at
 0.0.0.0 xurl.es
 0.0.0.0 xurl.jp
-0.0.0.0 xurl.pk
 0.0.0.0 xurl302.top
 0.0.0.0 xut.io
 0.0.0.0 xvirt.it
@@ -9606,7 +9602,6 @@
 0.0.0.0 yourls.org
 0.0.0.0 yourls.ph-freiburg.de
 0.0.0.0 yourls.pro
-0.0.0.0 yourls.website
 0.0.0.0 yourwish.es
 0.0.0.0 yous.ee
 0.0.0.0 youweepingt.org
@@ -9615,7 +9610,6 @@
 0.0.0.0 yrkus.com
 0.0.0.0 yrl.li
 0.0.0.0 ysear.ch
-0.0.0.0 yshorten.com
 0.0.0.0 yt.cool
 0.0.0.0 yts.nu
 0.0.0.0 ytube.io
@@ -9659,7 +9653,6 @@
 0.0.0.0 zapurl.net
 0.0.0.0 zapurls.com
 0.0.0.0 zaq.be
-0.0.0.0 zarnecka.com
 0.0.0.0 zat.ink
 0.0.0.0 zaya.io
 0.0.0.0 zbitly.com
@@ -9719,7 +9712,6 @@
 0.0.0.0 zipurl.link
 0.0.0.0 zipurl.net
 0.0.0.0 zipurl.vercel.app
-0.0.0.0 zipy.me
 0.0.0.0 zipzy.in
 0.0.0.0 ziturl.com
 0.0.0.0 zixso.com
@@ -9744,7 +9736,6 @@
 0.0.0.0 zo.cm
 0.0.0.0 zobzob.com
 0.0.0.0 zoho.to
-0.0.0.0 zom.ink
 0.0.0.0 zom.io
 0.0.0.0 zoneurl.net
 0.0.0.0 zoodl.com
@@ -9793,7 +9784,6 @@
 0.0.0.0 zyguer.com
 0.0.0.0 zynexly.com
 0.0.0.0 zynga.my
-0.0.0.0 zyp.to
 0.0.0.0 zyva.org
 0.0.0.0 zywv.us
 0.0.0.0 zz-tw.co

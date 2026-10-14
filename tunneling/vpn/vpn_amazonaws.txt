@@ -1,10 +1,10 @@
 abc.cvpn-endpoint-011a35a1726868dd7.prod.clientvpn.us-east-1.amazonaws.com
 abc.cvpn-endpoint-03fb195d166c77f75.prod.clientvpn.us-east-1.amazonaws.com
-abcrt.cvpn-endpoint-05b5f731ff0d9b2af.prod.clientvpn.ap-south-1.amazonaws.com
 altimista.cvpn-endpoint-02b09f05531038811.prod.clientvpn.ap-southeast-1.amazonaws.com
 cbsfth.cvpn-endpoint-0a55a0f065427a956.prod.clientvpn.ap-southeast-7.amazonaws.com
 cbsndthinf.cvpn-endpoint-0a55a0f065427a956.prod.clientvpn.ap-southeast-7.amazonaws.com
 cbsprms.cvpn-endpoint-0a55a0f065427a956.prod.clientvpn.ap-southeast-7.amazonaws.com
+clientvpn.ap-northeast-1.amazonaws.com
 clientvpn.ap-south-1.amazonaws.com
 clientvpn.ap-southeast-1.amazonaws.com
 clientvpn.ap-southeast-2.amazonaws.com
@@ -33,6 +33,7 @@ kmserver-prod-alb-vpn2-843203853.us-west-2.elb.amazonaws.com
 msstore-submissions.s3.amazonaws.com
 ndid.cvpn-endpoint-08690ccaa91aef141.prod.clientvpn.ap-southeast-1.amazonaws.com
 nfct-prod-nordvpn-vernemq-989a9b6cec6b91b6.elb.us-east-1.amazonaws.com
+prod.clientvpn.ap-northeast-1.amazonaws.com
 prod.clientvpn.ap-south-1.amazonaws.com
 prod.clientvpn.ap-southeast-1.amazonaws.com
 prod.clientvpn.ap-southeast-2.amazonaws.com

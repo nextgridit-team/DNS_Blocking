@@ -7,7 +7,7 @@ ap-southeast-1.console.cname-proxy.amazon.com
 ap-southeast-2.console.cname-proxy.amazon.com
 api.us-east-1.prod.gdps-proxy.geospatial.amazon.dev
 api.us-east-1.prod.proxy.live.amazon.com
-clientproxy.us-east-1.prod.gamehub.amazon.dev
+ca-central-1.console.cname-proxy.amazon.com
 cname-proxy.amazon.com
 console.cname-proxy.amazon.com
 d2c.cname-proxy.amazon.com
@@ -47,4 +47,5 @@ us-west-2.console.cname-proxy.amazon.com
 vs.cname-proxy.amazon.com
 widget.console.cname-proxy.amazon.com
 wildcard.us-east-1.console.cname-proxy.amazon.com
+wildcard.us-east-2.console.cname-proxy.amazon.com
 wildcard.widget.console.cname-proxy.amazon.com
