@@ -1,11 +1,11 @@
 ; HaGeZi Badware Hoster
 ; Category: badware_hoster
-; Generated: 2026-10-15 07:16:24 UTC
+; Generated: 2026-10-16 06:59:17 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1071
+; Original domains (before deduplication): 1065
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026101507 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026101607 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 000.pe CNAME .
@@ -180,7 +180,6 @@ axifile.com CNAME .
 az.gp CNAME .
 azl.one CNAME .
 b.gp CNAME .
-b12sites.com CNAME .
 b2b.lc CNAME .
 bakoweb.com CNAME .
 ballern.de CNAME .
@@ -325,7 +324,6 @@ clandomain.de CNAME .
 clandomain.org CNAME .
 cli.re CNAME .
 clipser.com CNAME .
-cloudwaysapps.com CNAME .
 club-area.de CNAME .
 club.lc CNAME .
 clumsy.de CNAME .
@@ -505,6 +503,7 @@ fun.pe CNAME .
 fun5.de CNAME .
 fw.bz CNAME .
 fwh.is CNAME .
+gakken.shop CNAME .
 game.lc CNAME .
 gamer.gd CNAME .
 gaming.lc CNAME .
@@ -567,6 +566,7 @@ iblogger.org CNAME .
 iceiy.com CNAME .
 id.gp CNAME .
 idiot24.de CNAME .
+igg.biz CNAME .
 ij2.de CNAME .
 ilink-to.net CNAME .
 im-internet.eu CNAME .
@@ -615,7 +615,6 @@ j55.eu CNAME .
 ja.cat CNAME .
 janhost.com CNAME .
 jcmemoryscan.com CNAME .
-jimdofree.com CNAME .
 jixx.de CNAME .
 jixx.net CNAME .
 job.ec CNAME .
@@ -671,7 +670,6 @@ lowrihouston.pro CNAME .
 lu.kg CNAME .
 luzzati.com CNAME .
 lyli.fi CNAME .
-m-pages.com CNAME .
 m.vu CNAME .
 ma.gp CNAME .
 macao.net CNAME .
@@ -718,7 +716,6 @@ mybb.pw CNAME .
 myblogvoice.com CNAME .
 mybluehost.me CNAME .
 mybluehostin.me CNAME .
-myclickfunnels.com CNAME .
 mycpanel.rs CNAME .
 mydiscussion.net CNAME .
 myeweb.net CNAME .
@@ -727,7 +724,6 @@ myfreesites.net CNAME .
 myftpupload.com CNAME .
 myfunnelish.com CNAME .
 mylinkinb.io CNAME .
-myportfolio.com CNAME .
 mypressonline.com CNAME .
 mystrikingly.com CNAME .
 mytempdir.com CNAME .
@@ -736,6 +732,7 @@ n.gp CNAME .
 name.ac CNAME .
 name.vg CNAME .
 nathanaeldan.pro CNAME .
+neocities.org CNAME .
 netfast.org CNAME .
 nethouse.ru CNAME .
 netten.ru CNAME .
@@ -747,6 +744,7 @@ nl.gp CNAME .
 nl.kg CNAME .
 noads.biz CNAME .
 nofeeshost.com CNAME .
+nokojp.shop CNAME .
 novamov.com CNAME .
 now.lc CNAME .
 npx.de CNAME .
@@ -835,7 +833,6 @@ reco.ws CNAME .
 redirme.com CNAME .
 reodev.com CNAME .
 replug.link CNAME .
-rf.gd CNAME .
 risu.io CNAME .
 ro.gp CNAME .
 royal-host.com CNAME .
@@ -878,7 +875,6 @@ shorter.me CNAME .
 shortest.link CNAME .
 shortu.be CNAME .
 shorturl.ae CNAME .
-sitebeat.crazydomains.com CNAME .
 sitepalace.com CNAME .
 sitey.me CNAME .
 skul.de CNAME .
@@ -1004,7 +1000,6 @@ voten.in CNAME .
 vpn.net.br CNAME .
 vuzelia.com CNAME .
 vz.lc CNAME .
-w3spaces.com CNAME .
 wapka.club CNAME .
 wapka.site CNAME .
 wapka.store CNAME .
@@ -1017,10 +1012,8 @@ web.pe CNAME .
 web1337.net CNAME .
 webaccess-alert.com CNAME .
 webaccess-email.com CNAME .
-webador.com CNAME .
 webblog24.de CNAME .
 webboss.site CNAME .
-webcindario.com CNAME .
 webn.cc CNAME .
 webnode.com.pt CNAME .
 webobo.com CNAME .
@@ -1068,6 +1061,7 @@ yip.su CNAME .
 yj.ae CNAME .
 ykm.de CNAME .
 you.lc CNAME .
+yovip.net CNAME .
 yu3.io CNAME .
 yuichi.shop CNAME .
 z.gp CNAME .

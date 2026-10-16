@@ -1,14 +1,15 @@
 ; HaGeZi Dynamic DNS
 ; Category: dynamic_dns
-; Generated: 2026-10-15 07:16:24 UTC
+; Generated: 2026-10-16 06:59:17 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1065
+; Original domains (before deduplication): 1067
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026101507 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026101607 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0000000000000000000000.com CNAME .
+001www.com CNAME .
 0rg.us CNAME .
 0x.no CNAME .
 100mountain.com CNAME .
@@ -157,6 +158,7 @@ clickip.de CNAME .
 clienturl.net CNAME .
 cloudwatch.net CNAME .
 cloudxns.net CNAME .
+cmirg.com CNAME .
 cnstefancelmare.ro CNAME .
 coalnet.ru CNAME .
 codns.com CNAME .
