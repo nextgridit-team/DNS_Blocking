@@ -51,6 +51,7 @@ sslproxy.gateway-cloud.cvs-vanalyticscvs-vops.hikops.com
 sslproxy.gateway-development-v.2022-cslaves-v-v.cvs.hikops.com
 sslproxy.gateway-development-v.cslaves-v-v-payment.cvs.hikops.com
 sslproxy.gateway-gateway.dbs-cvs-v-cvs-v.hikops.com
+sslproxy.gateway-git-login.cvs-v-login.hikops.com
 sslproxy.gateway-git-login.prod-v.hikops.com
 sslproxy.gateway-git-loginauthenticate.prod.hikops.com
 sslproxy.gateway-git-v.cvs-v.hikops.com
@@ -89,6 +90,7 @@ sslproxy.gateway-panelteam.cvs-v.hikops.com
 sslproxy.gateway-php-authenticate.prod.hikops.com
 sslproxy.gateway-php-login.cvs-apps.hikops.com
 sslproxy.gateway-php-login.cvs-v-login.hikops.com
+sslproxy.gateway-php-login.cvs.hikops.com
 sslproxy.gateway-php-login.cvspreprod.hikops.com
 sslproxy.gateway-php-login.cvtestrepo-v.hikops.com
 sslproxy.gateway-php-login.prod-login-login.hikops.com
@@ -105,6 +107,7 @@ sslproxy.gateway-php.v-v.hikops.com
 sslproxy.gateway-php.v.hikops.com
 sslproxy.gateway-php2.cvs-v-accounting.hikops.com
 sslproxy.gateway-php2.prodgateway8.hikops.com
+sslproxy.gateway-phpweb-preprod.cvs-v-login.hikops.com
 sslproxy.gateway-prd.cslaves-org-ad.hikops.com
 sslproxy.gateway-stats.gateway-resetcvs-v.hikops.com
 sslproxy.gateway-v-login-gateway-vs-login.prod.hikops.com
@@ -119,6 +122,7 @@ sslproxy.gateway-v-login.cvs-v-login.hikops.com
 sslproxy.gateway-v-login.hikops.com
 sslproxy.gateway-v-login.prod-v.hikops.com
 sslproxy.gateway-v-login.prod.hikops.com
+sslproxy.gateway-v-login.stage-v.hikops.com
 sslproxy.gateway-v-login2.cvs-v.hikops.com
 sslproxy.gateway-v-login2.cvs.hikops.com
 sslproxy.gateway-v-login2.hikops.com
@@ -214,6 +218,7 @@ sslproxy.gateway3-login.hikops.com
 sslproxy.gateway3-login.storageprod-v.hikops.com
 sslproxy.gateway3-login.watson-v-vcvs.hikops.com
 sslproxy.gateway3-v.cvs.hikops.com
+sslproxy.gateway3.cdn-v-v.hikops.com
 sslproxy.gateway3.ckubernetes-v.hikops.com
 sslproxy.gateway3.cmsaops-login.hikops.com
 sslproxy.gateway3.corpprod-login-login.hikops.com
@@ -269,3 +274,4 @@ sslproxy.gatewayscmgatewaypassapiserver.hikops.com
 sslproxy.gatewaywxgateway2.hikops.com
 web-v.sslproxy.gatewayclient-login.cvs-login-login.hikops.com
 www.sslproxy.gateway-login.prodkubernetes.hkyum.hikops.com
+www.sslproxy.gateway5-login.prod-v-login.hikops.com

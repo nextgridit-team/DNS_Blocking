@@ -12,9 +12,11 @@ blade1.astana-rack402.nodes.gen4.ninja
 blade1.bangkok-rack401.nodes.gen4.ninja
 blade1.belgrade-rack403.nodes.gen4.ninja
 blade1.berlin-rack405.nodes.gen4.ninja
+blade1.berlin-rack451.nodes.gen4.ninja
 blade1.berlin-rack452.nodes.gen4.ninja
 blade1.berlin-rack453.nodes.gen4.ninja
 blade1.bucharest-rack452.nodes.gen4.ninja
+blade1.bucharest-rack453.nodes.gen4.ninja
 blade1.budapest-rack401.nodes.gen4.ninja
 blade1.budapest-rack402.nodes.gen4.ninja
 blade1.buenosaires-rack403.nodes.gen4.ninja
@@ -140,6 +142,7 @@ blade10.bangkok-rack401.nodes.gen4.ninja
 blade10.bangkok-rack402.nodes.gen4.ninja
 blade10.berlin-rack405.nodes.gen4.ninja
 blade10.berlin-rack451.nodes.gen4.ninja
+blade10.berlin-rack452.nodes.gen4.ninja
 blade10.berlin-rack453.nodes.gen4.ninja
 blade10.bucharest-rack452.nodes.gen4.ninja
 blade10.budapest-rack401.nodes.gen4.ninja
@@ -258,7 +261,6 @@ blade11.budapest-rack401.nodes.gen4.ninja
 blade11.budapest-rack402.nodes.gen4.ninja
 blade11.buenosaires-rack402.nodes.gen4.ninja
 blade11.buenosaires-rack403.nodes.gen4.ninja
-blade11.buenosaires-rack404.nodes.gen4.ninja
 blade11.cairo-rack451.nodes.gen4.ninja
 blade11.caracas-rack402.nodes.gen4.ninja
 blade11.chicago-rack408.nodes.gen4.ninja
@@ -408,6 +410,7 @@ blade12.milano-rack402.nodes.gen4.ninja
 blade12.monaco-rack403.nodes.gen4.ninja
 blade12.montreal-rack401.nodes.gen4.ninja
 blade12.mumbai-rack403.nodes.gen4.ninja
+blade12.newyork-rack415.nodes.gen4.ninja
 blade12.newyork-rack418.nodes.gen4.ninja
 blade12.newyork-rack421.nodes.gen4.ninja
 blade12.nicosia-rack402.nodes.gen4.ninja
@@ -420,6 +423,7 @@ blade12.paris-rack438.nodes.gen4.ninja
 blade12.phnompenh-rack401.nodes.gen4.ninja
 blade12.prague-rack401.nodes.gen4.ninja
 blade12.prague-rack402.nodes.gen4.ninja
+blade12.rabat-rack402.nodes.gen4.ninja
 blade12.riga-rack401.nodes.gen4.ninja
 blade12.riga-rack402.nodes.gen4.ninja
 blade12.riyadh-rack402.nodes.gen4.ninja
@@ -531,6 +535,7 @@ blade13.vienna-rack412.nodes.gen4.ninja
 blade13.vilnius-rack402.nodes.gen4.ninja
 blade13.warsaw-rack401.nodes.gen4.ninja
 blade13.warsaw-rack402.nodes.gen4.ninja
+blade13.washington-rack423.nodes.gen4.ninja
 blade13.yerevan-rack402.nodes.gen4.ninja
 blade13.zurich-rack403.nodes.gen4.ninja
 blade14.algiers-rack402.nodes.gen4.ninja
@@ -736,6 +741,7 @@ blade17.singapore-rack405.nodes.gen4.ninja
 blade17.singapore-rack456.nodes.gen4.ninja
 blade17.sofia-rack403.nodes.gen4.ninja
 blade17.stockholm-rack403.nodes.gen4.ninja
+blade17.stockholm-rack415.nodes.gen4.ninja
 blade17.tokyo-rack408.nodes.gen4.ninja
 blade17.vienna-rack401.nodes.gen4.ninja
 blade17.vienna-rack410.nodes.gen4.ninja
@@ -773,6 +779,7 @@ blade18.milano-rack403.nodes.gen4.ninja
 blade18.mumbai-rack403.nodes.gen4.ninja
 blade18.newyork-rack415.nodes.gen4.ninja
 blade18.paris-rack403.nodes.gen4.ninja
+blade18.paris-rack404.nodes.gen4.ninja
 blade18.paris-rack434.nodes.gen4.ninja
 blade18.paris-rack438.nodes.gen4.ninja
 blade18.prague-rack401.nodes.gen4.ninja
@@ -793,7 +800,6 @@ blade18.washington-rack421.nodes.gen4.ninja
 blade18.washington-rack423.nodes.gen4.ninja
 blade18.zurich-rack402.nodes.gen4.ninja
 blade18.zurich-rack403.nodes.gen4.ninja
-blade19.amsterdam-rack404.nodes.gen4.ninja
 blade19.amsterdam-rack405.nodes.gen4.ninja
 blade19.amsterdam-rack407.nodes.gen4.ninja
 blade19.amsterdam-rack408.nodes.gen4.ninja
@@ -862,6 +868,7 @@ blade2.chicago-rack404.nodes.gen4.ninja
 blade2.chicago-rack408.nodes.gen4.ninja
 blade2.chicago-rack409.nodes.gen4.ninja
 blade2.chisinau-rack451.nodes.gen4.ninja
+blade2.colombo-rack402.nodes.gen4.ninja
 blade2.copenhagen-rack407.nodes.gen4.ninja
 blade2.copenhagen-rack408.nodes.gen4.ninja
 blade2.doha-rack402.nodes.gen4.ninja
@@ -897,6 +904,7 @@ blade2.manchester-rack454.nodes.gen4.ninja
 blade2.manila-rack402.nodes.gen4.ninja
 blade2.manila-rack451.nodes.gen4.ninja
 blade2.mexicocity-rack405.nodes.gen4.ninja
+blade2.mexicocity-rack406.nodes.gen4.ninja
 blade2.miami-rack456.nodes.gen4.ninja
 blade2.milano-rack402.nodes.gen4.ninja
 blade2.milano-rack403.nodes.gen4.ninja
@@ -993,6 +1001,7 @@ blade20.prague-rack402.nodes.gen4.ninja
 blade20.sofia-rack403.nodes.gen4.ninja
 blade20.stockholm-rack403.nodes.gen4.ninja
 blade20.stockholm-rack415.nodes.gen4.ninja
+blade20.tokyo-rack408.nodes.gen4.ninja
 blade20.vienna-rack401.nodes.gen4.ninja
 blade20.vienna-rack410.nodes.gen4.ninja
 blade20.vienna-rack411.nodes.gen4.ninja
@@ -1082,6 +1091,7 @@ blade22.paris-rack404.nodes.gen4.ninja
 blade22.paris-rack434.nodes.gen4.ninja
 blade22.paris-rack438.nodes.gen4.ninja
 blade22.prague-rack401.nodes.gen4.ninja
+blade22.prague-rack402.nodes.gen4.ninja
 blade22.singapore-rack405.nodes.gen4.ninja
 blade22.sofia-rack403.nodes.gen4.ninja
 blade22.stockholm-rack403.nodes.gen4.ninja
@@ -1092,6 +1102,7 @@ blade22.vienna-rack410.nodes.gen4.ninja
 blade22.vienna-rack411.nodes.gen4.ninja
 blade22.vienna-rack412.nodes.gen4.ninja
 blade22.warsaw-rack401.nodes.gen4.ninja
+blade22.warsaw-rack402.nodes.gen4.ninja
 blade22.washington-rack421.nodes.gen4.ninja
 blade22.zurich-rack403.nodes.gen4.ninja
 blade23.amsterdam-rack404.nodes.gen4.ninja
@@ -1152,6 +1163,7 @@ blade24.copenhagen-rack408.nodes.gen4.ninja
 blade24.frankfurt-rack417.nodes.gen4.ninja
 blade24.frankfurt-rack418.nodes.gen4.ninja
 blade24.frankfurt-rack419.nodes.gen4.ninja
+blade24.helsinki-rack405.nodes.gen4.ninja
 blade24.hongkong-rack402.nodes.gen4.ninja
 blade24.hongkong-rack405.nodes.gen4.ninja
 blade24.lisbon-rack405.nodes.gen4.ninja
@@ -1189,6 +1201,7 @@ blade25.amsterdam-rack408.nodes.gen4.ninja
 blade25.amsterdam-rack409.nodes.gen4.ninja
 blade25.bangkok-rack401.nodes.gen4.ninja
 blade25.cairo-rack402.nodes.gen4.ninja
+blade25.copenhagen-rack408.nodes.gen4.ninja
 blade25.helsinki-rack405.nodes.gen4.ninja
 blade25.lisbon-rack405.nodes.gen4.ninja
 blade25.lisbon-rack406.nodes.gen4.ninja
@@ -1242,6 +1255,7 @@ blade27.amsterdam-rack408.nodes.gen4.ninja
 blade27.amsterdam-rack409.nodes.gen4.ninja
 blade27.cairo-rack402.nodes.gen4.ninja
 blade27.copenhagen-rack407.nodes.gen4.ninja
+blade27.helsinki-rack405.nodes.gen4.ninja
 blade27.losangeles-rack404.nodes.gen4.ninja
 blade27.manila-rack402.nodes.gen4.ninja
 blade27.miami-rack456.nodes.gen4.ninja
@@ -1278,6 +1292,7 @@ blade28.sofia-rack403.nodes.gen4.ninja
 blade28.vienna-rack410.nodes.gen4.ninja
 blade28.vienna-rack411.nodes.gen4.ninja
 blade28.washington-rack421.nodes.gen4.ninja
+blade28.washington-rack423.nodes.gen4.ninja
 blade28.zurich-rack402.nodes.gen4.ninja
 blade29.amsterdam-rack404.nodes.gen4.ninja
 blade29.amsterdam-rack406.nodes.gen4.ninja
@@ -1321,6 +1336,7 @@ blade3.buenosaires-rack404.nodes.gen4.ninja
 blade3.cairo-rack402.nodes.gen4.ninja
 blade3.cairo-rack451.nodes.gen4.ninja
 blade3.caracas-rack402.nodes.gen4.ninja
+blade3.chicago-rack404.nodes.gen4.ninja
 blade3.chicago-rack408.nodes.gen4.ninja
 blade3.chisinau-rack451.nodes.gen4.ninja
 blade3.colombo-rack402.nodes.gen4.ninja
@@ -1343,6 +1359,7 @@ blade3.lisbon-rack406.nodes.gen4.ninja
 blade3.london-rack451.nodes.gen4.ninja
 blade3.london-rack452.nodes.gen4.ninja
 blade3.london-rack453.nodes.gen4.ninja
+blade3.losangeles-rack402.nodes.gen4.ninja
 blade3.losangeles-rack405.nodes.gen4.ninja
 blade3.macau-rack402.nodes.gen4.ninja
 blade3.madrid-rack408.nodes.gen4.ninja
@@ -1527,7 +1544,6 @@ blade4.chicago-rack408.nodes.gen4.ninja
 blade4.chicago-rack409.nodes.gen4.ninja
 blade4.chisinau-rack401.nodes.gen4.ninja
 blade4.colombo-rack402.nodes.gen4.ninja
-blade4.copenhagen-rack407.nodes.gen4.ninja
 blade4.copenhagen-rack408.nodes.gen4.ninja
 blade4.doha-rack402.nodes.gen4.ninja
 blade4.douglas-rack402.nodes.gen4.ninja
@@ -1558,6 +1574,7 @@ blade4.mexicocity-rack406.nodes.gen4.ninja
 blade4.miami-rack456.nodes.gen4.ninja
 blade4.milano-rack402.nodes.gen4.ninja
 blade4.milano-rack403.nodes.gen4.ninja
+blade4.milano-rack405.nodes.gen4.ninja
 blade4.milano-rack406.nodes.gen4.ninja
 blade4.monaco-rack402.nodes.gen4.ninja
 blade4.monaco-rack403.nodes.gen4.ninja
@@ -1616,6 +1633,7 @@ blade4.vienna-rack409.nodes.gen4.ninja
 blade4.vienna-rack410.nodes.gen4.ninja
 blade4.vienna-rack411.nodes.gen4.ninja
 blade4.vienna-rack412.nodes.gen4.ninja
+blade4.vilnius-rack402.nodes.gen4.ninja
 blade4.warsaw-rack401.nodes.gen4.ninja
 blade4.warsaw-rack402.nodes.gen4.ninja
 blade4.yerevan-rack401.nodes.gen4.ninja
@@ -1638,7 +1656,6 @@ blade41.amsterdam-rack407.nodes.gen4.ninja
 blade41.amsterdam-rack408.nodes.gen4.ninja
 blade41.milano-rack404.nodes.gen4.ninja
 blade41.newyork-rack415.nodes.gen4.ninja
-blade41.newyork-rack418.nodes.gen4.ninja
 blade41.washington-rack421.nodes.gen4.ninja
 blade42.amsterdam-rack408.nodes.gen4.ninja
 blade42.milano-rack404.nodes.gen4.ninja
@@ -1662,8 +1679,8 @@ blade45.amsterdam-rack404.nodes.gen4.ninja
 blade45.amsterdam-rack405.nodes.gen4.ninja
 blade45.amsterdam-rack407.nodes.gen4.ninja
 blade45.amsterdam-rack408.nodes.gen4.ninja
-blade45.newyork-rack415.nodes.gen4.ninja
 blade45.newyork-rack418.nodes.gen4.ninja
+blade46.amsterdam-rack404.nodes.gen4.ninja
 blade46.amsterdam-rack405.nodes.gen4.ninja
 blade46.amsterdam-rack407.nodes.gen4.ninja
 blade46.milano-rack404.nodes.gen4.ninja
@@ -1705,6 +1722,7 @@ blade5.budapest-rack402.nodes.gen4.ninja
 blade5.buenosaires-rack402.nodes.gen4.ninja
 blade5.buenosaires-rack403.nodes.gen4.ninja
 blade5.buenosaires-rack404.nodes.gen4.ninja
+blade5.cairo-rack402.nodes.gen4.ninja
 blade5.cairo-rack451.nodes.gen4.ninja
 blade5.caracas-rack402.nodes.gen4.ninja
 blade5.chicago-rack404.nodes.gen4.ninja
@@ -1834,6 +1852,7 @@ blade6.algiers-rack402.nodes.gen4.ninja
 blade6.amsterdam-rack401.nodes.gen4.ninja
 blade6.amsterdam-rack405.nodes.gen4.ninja
 blade6.amsterdam-rack407.nodes.gen4.ninja
+blade6.amsterdam-rack408.nodes.gen4.ninja
 blade6.amsterdam-rack409.nodes.gen4.ninja
 blade6.astana-rack401.nodes.gen4.ninja
 blade6.astana-rack402.nodes.gen4.ninja
@@ -1881,6 +1900,7 @@ blade6.macau-rack402.nodes.gen4.ninja
 blade6.madrid-rack408.nodes.gen4.ninja
 blade6.manchester-rack408.nodes.gen4.ninja
 blade6.manchester-rack454.nodes.gen4.ninja
+blade6.manila-rack402.nodes.gen4.ninja
 blade6.manila-rack451.nodes.gen4.ninja
 blade6.mexicocity-rack405.nodes.gen4.ninja
 blade6.mexicocity-rack406.nodes.gen4.ninja
@@ -1896,6 +1916,7 @@ blade6.moscow-rack406.nodes.gen4.ninja
 blade6.moscow-rack407.nodes.gen4.ninja
 blade6.moscow-rack408.nodes.gen4.ninja
 blade6.mumbai-rack403.nodes.gen4.ninja
+blade6.newyork-rack418.nodes.gen4.ninja
 blade6.newyork-rack421.nodes.gen4.ninja
 blade6.nicosia-rack402.nodes.gen4.ninja
 blade6.nuuk-rack402.nodes.gen4.ninja
@@ -1941,6 +1962,7 @@ blade6.vienna-rack404.nodes.gen4.ninja
 blade6.vienna-rack405.nodes.gen4.ninja
 blade6.vienna-rack409.nodes.gen4.ninja
 blade6.vienna-rack410.nodes.gen4.ninja
+blade6.vienna-rack411.nodes.gen4.ninja
 blade6.vienna-rack412.nodes.gen4.ninja
 blade6.vilnius-rack401.nodes.gen4.ninja
 blade6.vilnius-rack402.nodes.gen4.ninja
@@ -1997,6 +2019,7 @@ blade7.kiev-rack401.nodes.gen4.ninja
 blade7.lisbon-rack406.nodes.gen4.ninja
 blade7.london-rack452.nodes.gen4.ninja
 blade7.london-rack453.nodes.gen4.ninja
+blade7.losangeles-rack402.nodes.gen4.ninja
 blade7.losangeles-rack404.nodes.gen4.ninja
 blade7.losangeles-rack405.nodes.gen4.ninja
 blade7.losangeles-rack408.nodes.gen4.ninja
@@ -2011,6 +2034,7 @@ blade7.mexicocity-rack406.nodes.gen4.ninja
 blade7.miami-rack456.nodes.gen4.ninja
 blade7.milano-rack402.nodes.gen4.ninja
 blade7.milano-rack403.nodes.gen4.ninja
+blade7.milano-rack405.nodes.gen4.ninja
 blade7.milano-rack406.nodes.gen4.ninja
 blade7.monaco-rack402.nodes.gen4.ninja
 blade7.montreal-rack401.nodes.gen4.ninja
@@ -2050,6 +2074,7 @@ blade7.stockholm-rack415.nodes.gen4.ninja
 blade7.tehran-rack402.nodes.gen4.ninja
 blade7.tirana-rack402.nodes.gen4.ninja
 blade7.tirana-rack403.nodes.gen4.ninja
+blade7.tirana-rack404.nodes.gen4.ninja
 blade7.toronto-rack405.nodes.gen4.ninja
 blade7.ulaanbaatar-rack403.nodes.gen4.ninja
 blade7.vaduz-rack402.nodes.gen4.ninja
@@ -2071,6 +2096,7 @@ blade7.yerevan-rack402.nodes.gen4.ninja
 blade7.zurich-rack401.nodes.gen4.ninja
 blade7.zurich-rack402.nodes.gen4.ninja
 blade8.algiers-rack401.nodes.gen4.ninja
+blade8.algiers-rack402.nodes.gen4.ninja
 blade8.amsterdam-rack401.nodes.gen4.ninja
 blade8.amsterdam-rack404.nodes.gen4.ninja
 blade8.amsterdam-rack405.nodes.gen4.ninja
@@ -2150,6 +2176,7 @@ blade8.prague-rack402.nodes.gen4.ninja
 blade8.riga-rack401.nodes.gen4.ninja
 blade8.riga-rack402.nodes.gen4.ninja
 blade8.riyadh-rack402.nodes.gen4.ninja
+blade8.saopaulo-rack401.nodes.gen4.ninja
 blade8.saopaulo-rack402.nodes.gen4.ninja
 blade8.saopaulo-rack404.nodes.gen4.ninja
 blade8.saopaulo-rack405.nodes.gen4.ninja
@@ -2158,6 +2185,7 @@ blade8.seoul-rack402.nodes.gen4.ninja
 blade8.seoul-rack404.nodes.gen4.ninja
 blade8.shenzhen-rack403.nodes.gen4.ninja
 blade8.singapore-rack405.nodes.gen4.ninja
+blade8.singapore-rack456.nodes.gen4.ninja
 blade8.sofia-rack403.nodes.gen4.ninja
 blade8.stockholm-rack403.nodes.gen4.ninja
 blade8.stockholm-rack415.nodes.gen4.ninja
@@ -2173,6 +2201,7 @@ blade8.valletta-rack402.nodes.gen4.ninja
 blade8.vienna-rack401.nodes.gen4.ninja
 blade8.vienna-rack403.nodes.gen4.ninja
 blade8.vienna-rack404.nodes.gen4.ninja
+blade8.vienna-rack405.nodes.gen4.ninja
 blade8.vienna-rack410.nodes.gen4.ninja
 blade8.vienna-rack411.nodes.gen4.ninja
 blade8.vienna-rack412.nodes.gen4.ninja
@@ -2228,6 +2257,7 @@ blade9.kiev-rack401.nodes.gen4.ninja
 blade9.lagos-rack401.nodes.gen4.ninja
 blade9.lisbon-rack405.nodes.gen4.ninja
 blade9.lisbon-rack406.nodes.gen4.ninja
+blade9.london-rack452.nodes.gen4.ninja
 blade9.london-rack453.nodes.gen4.ninja
 blade9.losangeles-rack402.nodes.gen4.ninja
 blade9.losangeles-rack404.nodes.gen4.ninja
@@ -2268,7 +2298,6 @@ blade9.saopaulo-rack402.nodes.gen4.ninja
 blade9.saopaulo-rack404.nodes.gen4.ninja
 blade9.saopaulo-rack405.nodes.gen4.ninja
 blade9.seoul-rack404.nodes.gen4.ninja
-blade9.shenzhen-rack403.nodes.gen4.ninja
 blade9.singapore-rack456.nodes.gen4.ninja
 blade9.sofia-rack403.nodes.gen4.ninja
 blade9.stockholm-rack403.nodes.gen4.ninja
@@ -2279,6 +2308,7 @@ blade9.tirana-rack403.nodes.gen4.ninja
 blade9.tokyo-rack408.nodes.gen4.ninja
 blade9.toronto-rack405.nodes.gen4.ninja
 blade9.vaduz-rack402.nodes.gen4.ninja
+blade9.vaduz-rack403.nodes.gen4.ninja
 blade9.valletta-rack402.nodes.gen4.ninja
 blade9.vienna-rack401.nodes.gen4.ninja
 blade9.vienna-rack403.nodes.gen4.ninja
@@ -2303,3 +2333,4 @@ losangeles-rack422.nodes.gen4.ninja
 newyork-rack418.nodes.gen4.ninja
 ns.strasbourg-rack401.nodes.gen4.ninja
 paris-rack434.nodes.gen4.ninja
+washington-rack421.nodes.gen4.ninja

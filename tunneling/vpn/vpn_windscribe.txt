@@ -115,7 +115,6 @@ ber-449.windscribe.com
 bg-005.windscribe.com
 bg-006.windscribe.com
 bg.windscribe.com
-bkk-137-ike.windscribe.com
 bkk-137.windscribe.com
 bkk-245-ike.windscribe.com
 bkk-245.windscribe.com
@@ -235,6 +234,7 @@ console.int.windscribe.com
 controld-dev-admin.int.windscribe.com
 controld-test.windscribe.com
 controller.opentalk.int.windscribe.com
+cph-153-ike.windscribe.com
 cph-153-wg.windscribe.com
 cph-153.windscribe.com
 cph-429-ike.windscribe.com
@@ -347,6 +347,7 @@ eze-451.windscribe.com
 feedback.int.windscribe.com
 feedback.windscribe.com
 fi-006.windscribe.com
+fi-009.windscribe.com
 fi-010.windscribe.com
 fi.windscribe.com
 files-core.windscribe.com
@@ -387,7 +388,6 @@ garry2-be.windscribe.com
 garry2-fe-staging.windscribe.com
 garry2-fe.windscribe.com
 ge-002.windscribe.com
-ge.windscribe.com
 gitlab-test.int.windscribe.com
 gitlab.int.windscribe.com
 gitlab.prd.ca1.int.windscribe.com
@@ -460,6 +460,7 @@ iah-424-wg.windscribe.com
 iah-424.windscribe.com
 icn-362-ike.windscribe.com
 icn-362-wg.windscribe.com
+icn-362.windscribe.com
 icn-399-ike.windscribe.com
 icn-399.windscribe.com
 id-009.windscribe.com
@@ -479,11 +480,13 @@ in-010.windscribe.com
 in-012.windscribe.com
 in-013.windscribe.com
 in-015.windscribe.com
+in-017.windscribe.com
 in.windscribe.com
 ind-staging.windscribe.com
 ind.windscribe.com
 internal.auth.jitsi-test.int.windscribe.com
 ip.windscribe.com
+iplayer-checkip.windscribe.com
 is-002.windscribe.com
 is-003.windscribe.com
 is.windscribe.com
@@ -520,6 +523,7 @@ jp-011.windscribe.com
 jp-012.windscribe.com
 jp-stc-001.windscribe.com
 jp.windscribe.com
+jpn-staging.windscribe.com
 jpn.windscribe.com
 kbp-383-ike.windscribe.com
 kbp-383.windscribe.com
@@ -567,6 +571,7 @@ lhr-171.windscribe.com
 lhr-335-ike.windscribe.com
 lhr-335.windscribe.com
 lhr-341-ike.windscribe.com
+lhr-341.windscribe.com
 lim-367-ike.windscribe.com
 lim-367.windscribe.com
 lis-249-ike.windscribe.com
@@ -584,6 +589,7 @@ lux-152-ike.windscribe.com
 lux-152.windscribe.com
 lv-013.windscribe.com
 lv-014.windscribe.com
+lv-015.windscribe.com
 lv.windscribe.com
 mad-115-ike.windscribe.com
 mad-115.windscribe.com
@@ -659,6 +665,7 @@ mx-out-21.windscribe.com
 mx-out-22.windscribe.com
 mx-out-23.windscribe.com
 mx-out-24.windscribe.com
+mx-out-25.windscribe.com
 mx-out-26.windscribe.com
 mx.windscribe.com
 mx05.windscribe.com
@@ -792,6 +799,7 @@ qro-420-wg.windscribe.com
 qro-420.windscribe.com
 rad03.windscribe.com
 rad05.windscribe.com
+rad06.windscribe.com
 rc.int.windscribe.com
 recorder.jitsi-test.int.windscribe.com
 redirect-checkip.windscribe.com
@@ -914,6 +922,7 @@ static.windscribe.com
 stats.int.windscribe.com
 stats.windscribe.com
 stun.int.windscribe.com
+sub-454.windscribe.com
 support-staging.int.windscribe.com
 support.int.windscribe.com
 support.windscribe.com
@@ -980,6 +989,7 @@ typesense-dev.windscribe.com
 typesense-staging.windscribe.com
 typesense.windscribe.com
 ua-012.windscribe.com
+ua-013.windscribe.com
 ua.windscribe.com
 ubuntu.mirror.windscribe.com
 uio-385-ike.windscribe.com
@@ -1015,6 +1025,7 @@ us-central-055.windscribe.com
 us-central-068.windscribe.com
 us-central-069.windscribe.com
 us-central-070.windscribe.com
+us-central-074.windscribe.com
 us-central-076.windscribe.com
 us-central-077.windscribe.com
 us-central-078.windscribe.com
@@ -1038,6 +1049,7 @@ us-central-107.windscribe.com
 us-central-108.windscribe.com
 us-central-110.windscribe.com
 us-central-111.windscribe.com
+us-central-112.windscribe.com
 us-central-113.windscribe.com
 us-central-114.windscribe.com
 us-central-115.windscribe.com
@@ -1243,6 +1255,7 @@ za-012.windscribe.com
 za.windscribe.com
 zag-252-ike.windscribe.com
 zag-252.windscribe.com
+zrh-112-ike.windscribe.com
 zrh-112-wg.windscribe.com
 zrh-112.windscribe.com
 zrh-264-ike.windscribe.com
