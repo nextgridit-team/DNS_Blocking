@@ -44,7 +44,6 @@ am03-ca1.int.windscribe.com
 am03-ca3.int.windscribe.com
 am03-hq.int.windscribe.com
 am03.mgmt.ca1.int.windscribe.com
-am03.mgmt.hq.int.windscribe.com
 amazon-checkip.windscribe.com
 ams-120-ike.windscribe.com
 ams-120.windscribe.com
@@ -56,7 +55,6 @@ api-staging.windscribe.com
 api.windscribe.com
 aq-001.windscribe.com
 aq-002.windscribe.com
-aq.windscribe.com
 ar-008.windscribe.com
 ar.windscribe.com
 arch.mirror.windscribe.com
@@ -99,8 +97,6 @@ au.windscribe.com
 auth.int.windscribe.com
 auth.jitsi-test.int.windscribe.com
 ba-001.windscribe.com
-ba-002.windscribe.com
-ba.windscribe.com
 bbb.int.windscribe.com
 bcn-239-ike.windscribe.com
 bcn-239.windscribe.com
@@ -115,6 +111,7 @@ ber-449.windscribe.com
 bg-005.windscribe.com
 bg-006.windscribe.com
 bg.windscribe.com
+bkk-137-ike.windscribe.com
 bkk-137.windscribe.com
 bkk-245-ike.windscribe.com
 bkk-245.windscribe.com
@@ -136,7 +133,6 @@ bom-372.windscribe.com
 bom-457.windscribe.com
 bos-298-ike.windscribe.com
 bos-298.windscribe.com
-bos-408-ike.windscribe.com
 bos-408.windscribe.com
 br-007.windscribe.com
 br-008.windscribe.com
@@ -278,7 +274,6 @@ de-stc-002.windscribe.com
 de.windscribe.com
 del-214.windscribe.com
 del-417-ike.windscribe.com
-del-417-wg.windscribe.com
 del-417.windscribe.com
 den-145-ike.windscribe.com
 den-145.windscribe.com
@@ -286,7 +281,6 @@ den-452-ike.windscribe.com
 den-452.windscribe.com
 deploy-do.windscribe.com
 deploy.windscribe.com
-deu-staging.windscribe.com
 deu.windscribe.com
 dfw-192-ike.windscribe.com
 dfw-192-wg.windscribe.com
@@ -388,6 +382,7 @@ garry2-be.windscribe.com
 garry2-fe-staging.windscribe.com
 garry2-fe.windscribe.com
 ge-002.windscribe.com
+ge.windscribe.com
 gitlab-test.int.windscribe.com
 gitlab.int.windscribe.com
 gitlab.prd.ca1.int.windscribe.com
@@ -493,7 +488,6 @@ is.windscribe.com
 ist-405-ike.windscribe.com
 ist-405-wg.windscribe.com
 ist-405.windscribe.com
-it-009.windscribe.com
 it-010.windscribe.com
 it-014.windscribe.com
 it-015.windscribe.com
@@ -523,10 +517,8 @@ jp-011.windscribe.com
 jp-012.windscribe.com
 jp-stc-001.windscribe.com
 jp.windscribe.com
-jpn-staging.windscribe.com
 jpn.windscribe.com
 kbp-383-ike.windscribe.com
-kbp-383.windscribe.com
 ke.windscribe.com
 kef-121-ike.windscribe.com
 kef-121-wg.windscribe.com
@@ -591,7 +583,6 @@ lv-013.windscribe.com
 lv-014.windscribe.com
 lv-015.windscribe.com
 lv.windscribe.com
-mad-115-ike.windscribe.com
 mad-115.windscribe.com
 mad-427-ike.windscribe.com
 mad-427.windscribe.com
@@ -628,13 +619,11 @@ minio01.prd.ca3.int.windscribe.com
 minio01.stor.ca1.int.windscribe.com
 minio02.prd.ca3.int.windscribe.com
 minio02.stor.ca1.int.windscribe.com
-minio03.prd.ca3.int.windscribe.com
 minio03.stor.ca1.int.windscribe.com
 minio04.prd.ca3.int.windscribe.com
 minio04.stor.ca1.int.windscribe.com
 minio05.prd.ca3.int.windscribe.com
 minio05.stor.ca1.int.windscribe.com
-minio06.prd.ca3.int.windscribe.com
 minio06.stor.ca1.int.windscribe.com
 mirror.windscribe.com
 mk-003.windscribe.com
@@ -869,7 +858,6 @@ sfo-329-ike.windscribe.com
 sfo-329.windscribe.com
 sg-006.windscribe.com
 sg-007.windscribe.com
-sg-008.windscribe.com
 sg-010.windscribe.com
 sg-011.windscribe.com
 sg-012.windscribe.com
@@ -955,14 +943,12 @@ test-chain-009.int.windscribe.com
 test-chain-010.int.windscribe.com
 test.int.windscribe.com
 test00001.stg.ca3.int.windscribe.com
-test2.int.windscribe.com
 test3.int.windscribe.com
 testing.int.windscribe.com
 th-016.windscribe.com
 th-017.windscribe.com
 th-018.windscribe.com
 th.windscribe.com
-tha-staging.windscribe.com
 tha.windscribe.com
 tia-283-ike.windscribe.com
 tia-283.windscribe.com
@@ -1105,7 +1091,6 @@ us-east-124.windscribe.com
 us-east-128.windscribe.com
 us-east-129.windscribe.com
 us-east-131.windscribe.com
-us-east-132.windscribe.com
 us-east-133.windscribe.com
 us-east-134.windscribe.com
 us-east-135.windscribe.com
@@ -1198,7 +1183,6 @@ wf-jp-001.windscribe.com
 wf-jp-002.windscribe.com
 wf-uk-001.windscribe.com
 wf-uk-006.windscribe.com
-wf-uk-007.windscribe.com
 wf-us-001.windscribe.com
 wf-us-002.windscribe.com
 wf-us-003.windscribe.com
@@ -1236,7 +1220,6 @@ yvr-124-ike.windscribe.com
 yvr-124.windscribe.com
 yvr-187-ike.windscribe.com
 yvr-187.windscribe.com
-yvr-311-ike.windscribe.com
 yvr-311.windscribe.com
 yyc-439-ike.windscribe.com
 yyc-439.windscribe.com
