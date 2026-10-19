@@ -1,11 +1,11 @@
 ; HaGeZi Fake
 ; Category: scam
-; Generated: 2026-10-18 07:09:10 UTC
+; Generated: 2026-10-19 07:36:54 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 17433
+; Original domains (before deduplication): 17434
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026101807 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026101907 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 01crypto.com CNAME .
@@ -3286,6 +3286,7 @@ csbsts.site CNAME .
 cschwindt24.de CNAME .
 csschwindt.de CNAME .
 csunbox.com CNAME .
+ctbike.pl CNAME .
 cthesky.com CNAME .
 ctoption.com CNAME .
 ctxholdings.com CNAME .
@@ -10222,7 +10223,6 @@ mfmarketgmbh.de CNAME .
 mfomatratzenmarkt.de CNAME .
 mfsebike.com CNAME .
 mg-management.de CNAME .
-mgaffaires.com CNAME .
 mgmglobal.com CNAME .
 mhamzasaleem.com CNAME .
 mhoptions.com CNAME .
@@ -13097,7 +13097,6 @@ rheumaschuhe.de CNAME .
 rheumatologie-wien.at CNAME .
 rhinoshopsystems.com CNAME .
 rhode.co.at CNAME .
-rhodeshotel24.com CNAME .
 ri-lieeoodu.com CNAME .
 ricadihotelspage.com CNAME .
 ricardo-sofort-deals123.online CNAME .
@@ -13220,6 +13219,7 @@ rohrshop24.com CNAME .
 roinvest.net CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
+rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -16410,6 +16410,7 @@ vivabikes.de CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

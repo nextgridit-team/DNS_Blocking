@@ -24,6 +24,7 @@ api.staticnetcontent.com
 aq-001.staticnetcontent.com
 aq-002.staticnetcontent.com
 aq.staticnetcontent.com
+ar-008.staticnetcontent.com
 ar.staticnetcontent.com
 arn-159-ike.staticnetcontent.com
 arn-159.staticnetcontent.com
@@ -79,6 +80,7 @@ bkk-361-ike.staticnetcontent.com
 bkk-361.staticnetcontent.com
 bne-225-ike.staticnetcontent.com
 bne-225.staticnetcontent.com
+bne-357-ike.staticnetcontent.com
 bne-357.staticnetcontent.com
 bog-360-ike.staticnetcontent.com
 bog-360.staticnetcontent.com
@@ -101,6 +103,7 @@ buf-281.staticnetcontent.com
 ca-002.staticnetcontent.com
 ca-003.staticnetcontent.com
 ca-009.staticnetcontent.com
+ca-017.staticnetcontent.com
 ca-021.staticnetcontent.com
 ca-023.staticnetcontent.com
 ca-024.staticnetcontent.com
@@ -132,7 +135,9 @@ ca-west-018.staticnetcontent.com
 ca-west-019.staticnetcontent.com
 ca-west-020.staticnetcontent.com
 ca-west.staticnetcontent.com
+ca.staticnetcontent.com
 cbr-353-ike.staticnetcontent.com
+cbr-353.staticnetcontent.com
 cdg-103-ike.staticnetcontent.com
 cdg-103.staticnetcontent.com
 cdg-342-ike.staticnetcontent.com
@@ -190,6 +195,7 @@ de-022.staticnetcontent.com
 de-023.staticnetcontent.com
 de-024.staticnetcontent.com
 de-025.staticnetcontent.com
+de-026.staticnetcontent.com
 de-027.staticnetcontent.com
 de-stc-001.staticnetcontent.com
 de.staticnetcontent.com
@@ -197,6 +203,7 @@ del-214.staticnetcontent.com
 den-145-ike.staticnetcontent.com
 den-145.staticnetcontent.com
 den-301-ike.staticnetcontent.com
+den-301.staticnetcontent.com
 deploy.staticnetcontent.com
 dfw-192-ike.staticnetcontent.com
 dfw-192.staticnetcontent.com
@@ -337,6 +344,7 @@ in.staticnetcontent.com
 is-001.staticnetcontent.com
 is-002.staticnetcontent.com
 is.staticnetcontent.com
+ist-250-ike.staticnetcontent.com
 ist-250.staticnetcontent.com
 ist-279-ike.staticnetcontent.com
 ist-279.staticnetcontent.com
@@ -354,6 +362,7 @@ jfk-330-ike.staticnetcontent.com
 jfk-330.staticnetcontent.com
 jfk-384-ike.staticnetcontent.com
 jfk-384.staticnetcontent.com
+jnb-164-ike.staticnetcontent.com
 jnb-164.staticnetcontent.com
 jnb-232-ike.staticnetcontent.com
 jnb-232.staticnetcontent.com
@@ -503,11 +512,13 @@ no-009.staticnetcontent.com
 no-010.staticnetcontent.com
 no-011.staticnetcontent.com
 no-012.staticnetcontent.com
+no.staticnetcontent.com
 nx-002.staticnetcontent.com
 nx-003.staticnetcontent.com
 nx-004.staticnetcontent.com
 nz-002.staticnetcontent.com
 nz-003.staticnetcontent.com
+nz.staticnetcontent.com
 ord-130-ike.staticnetcontent.com
 ord-130.staticnetcontent.com
 ord-323-ike.staticnetcontent.com
@@ -646,9 +657,10 @@ th.staticnetcontent.com
 tia-283-ike.staticnetcontent.com
 tia-283.staticnetcontent.com
 tll-299-ike.staticnetcontent.com
-tlv-218-ike.staticnetcontent.com
+tll-299.staticnetcontent.com
 tlv-218.staticnetcontent.com
 tlv-397-ike.staticnetcontent.com
+tlv-397.staticnetcontent.com
 tpa-349-ike.staticnetcontent.com
 tpa-349.staticnetcontent.com
 tpe-314-ike.staticnetcontent.com
@@ -662,6 +674,7 @@ tr-016.staticnetcontent.com
 tr-018.staticnetcontent.com
 tr.staticnetcontent.com
 tw-010.staticnetcontent.com
+tw-011.staticnetcontent.com
 tw-012.staticnetcontent.com
 tw-013.staticnetcontent.com
 tw.staticnetcontent.com
@@ -809,6 +822,7 @@ us-east-072.staticnetcontent.com
 us-east-074.staticnetcontent.com
 us-east-075.staticnetcontent.com
 us-east-076.staticnetcontent.com
+us-east-077.staticnetcontent.com
 us-east-079.staticnetcontent.com
 us-east-082.staticnetcontent.com
 us-east-083.staticnetcontent.com
@@ -858,6 +872,7 @@ us-west-046.staticnetcontent.com
 us-west-047.staticnetcontent.com
 us-west-048.staticnetcontent.com
 us-west-050.staticnetcontent.com
+us-west-051.staticnetcontent.com
 us-west-052.staticnetcontent.com
 us-west-053.staticnetcontent.com
 us-west-054.staticnetcontent.com
@@ -899,6 +914,7 @@ waw-237-ike.staticnetcontent.com
 waw-237.staticnetcontent.com
 waw-309-ike.staticnetcontent.com
 waw-309.staticnetcontent.com
+waw-85-ike.staticnetcontent.com
 waw-85.staticnetcontent.com
 wf-ca-001.staticnetcontent.com
 wf-ca-002.staticnetcontent.com
@@ -952,6 +968,7 @@ yvr-311.staticnetcontent.com
 yyz-197-ike.staticnetcontent.com
 yyz-197.staticnetcontent.com
 yyz-292-ike.staticnetcontent.com
+yyz-292.staticnetcontent.com
 yyz-72-ike.staticnetcontent.com
 yyz-72.staticnetcontent.com
 za-001.staticnetcontent.com

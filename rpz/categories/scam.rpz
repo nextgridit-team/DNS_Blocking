@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-10-18 07:09:10 UTC
+; Generated: 2026-10-19 07:36:54 UTC
 ; Format: RPZ (exact hostnames preserved)
 ; Original domains (before deduplication): 310567
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026101807 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026101907 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -101626,7 +101626,6 @@ mg.cpcempower.com CNAME .
 mg.sabzgostar.net CNAME .
 mg5-yahoo.com CNAME .
 mg6vlp.qpon CNAME .
-mgaffaires.com CNAME .
 mgassessments.com CNAME .
 mgbrown.com.au CNAME .
 mgdatasoft.com CNAME .
@@ -134412,7 +134411,6 @@ rhodeisland-job-openings.info CNAME .
 rhodeislandsexbook.com CNAME .
 rhodeislandsexdating.com CNAME .
 rhodeislandwebmarketing.com CNAME .
-rhodeshotel24.com CNAME .
 rhodesnine.us CNAME .
 rhodianfour.us CNAME .
 rhodofitti.cyou CNAME .
@@ -135481,6 +135479,7 @@ rolexvipwatch.com CNAME .
 rolexvipwatches.com CNAME .
 rolexwaatch.com CNAME .
 rolexwactch.com CNAME .
+rolexwanduhr.de CNAME .
 rolexwatch.cc CNAME .
 rolexwatches.site CNAME .
 rolexwatchescheapsale.top CNAME .
@@ -172336,6 +172335,7 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
