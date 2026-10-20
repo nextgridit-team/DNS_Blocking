@@ -1,7 +1,7 @@
 # Badware Hoster Blocklist
-# Generated: 2026-10-19 07:36:54 UTC
+# Generated: 2026-10-20 07:23:35 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 1074
+# Original domains (before deduplication): 1075
 
 0.0.0.0 000.pe
 0.0.0.0 000a.de
@@ -792,6 +792,7 @@
 0.0.0.0 pixelt.de
 0.0.0.0 pizzakeep.shop
 0.0.0.0 pk.gp
+0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
 0.0.0.0 planet.tl

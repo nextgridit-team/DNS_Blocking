@@ -1,10 +1,10 @@
 ; Scam Blocklist
-; Generated: 2026-10-19 07:36:54 UTC
+; Generated: 2026-10-20 07:23:35 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 310567
+; Original domains (before deduplication): 310562
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026101907 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026102007 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 0-0-----------------------------------------------------------0.com CNAME .
@@ -17867,7 +17867,6 @@ apostasy.stream CNAME .
 apostderma.cyou CNAME .
 apostils.stream CNAME .
 apostles.stream CNAME .
-apotek-no24.com CNAME .
 apotek-norge24.com CNAME .
 apotek-norsk.com CNAME .
 apotekb213.com CNAME .
@@ -19858,6 +19857,7 @@ ateetmjk.com CNAME .
 atefab.stream CNAME .
 atelcominer.com CNAME .
 atelectases.stream CNAME .
+atelier-romand.com CNAME .
 atelierbyrichardgillet.com CNAME .
 atelierdepilar.com CNAME .
 atelierdudiamant.com CNAME .
@@ -23342,6 +23342,7 @@ berdisa.com CNAME .
 berenmedeterrian.com CNAME .
 berettagunlife.com CNAME .
 berfumetee.com CNAME .
+berg-blum.de CNAME .
 berg-mode.de CNAME .
 bergandlind.com CNAME .
 bergarafirearmstoreusa.com CNAME .
@@ -23734,7 +23735,6 @@ bestelektronicshop.de CNAME .
 bestellen-ciao-ciao-pf.de CNAME .
 bestellundgut.de CNAME .
 bestelnuar.click CNAME .
-bestemed.com CNAME .
 bestemedikamente.com CNAME .
 bestemoneys.com CNAME .
 bestenpcschutzartleitlinien.blogspot.com CNAME .
@@ -24532,6 +24532,7 @@ bijouxtiffanyco.com CNAME .
 bikdor-invest.com CNAME .
 bike-pl.shop CNAME .
 bike-trailer24.de CNAME .
+bike2bikes.com CNAME .
 bike69-shop.de CNAME .
 bikeaccessoriesshop.com CNAME .
 bikeambulanz-mobil.de CNAME .
@@ -25145,6 +25146,7 @@ bitcoin-server.de CNAME .
 bitcoin-smart.net CNAME .
 bitcoin-support-number.com CNAME .
 bitcoin-ukraine.com.ua CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoin.au-topselection.online CNAME .
 bitcoin.bg CNAME .
@@ -29814,6 +29816,7 @@ by1984.tk CNAME .
 by2050.tkby2050.tk CNAME .
 byanshi.net CNAME .
 bybene.net CNAME .
+bybiesje.com CNAME .
 bybitbaltic.info CNAME .
 bybvgd.com CNAME .
 bycarwe.tk CNAME .
@@ -31564,7 +31567,6 @@ catalanscoin.cat CNAME .
 catalia.de CNAME .
 catalog.dkn-group.ru CNAME .
 catalsbull.cyou CNAME .
-catalunyafarm.com CNAME .
 catalyst.ivertise.info CNAME .
 catastic.pet CNAME .
 catastrophemy.tk CNAME .
@@ -43894,7 +43896,6 @@ cryptocurrencytrainingandsupport.com CNAME .
 cryptocustomersupport.net CNAME .
 cryptodig.ru CNAME .
 cryptodrilling.com CNAME .
-cryptoeasily.com CNAME .
 cryptoeice.biz CNAME .
 cryptoemailalerts.com CNAME .
 cryptoescrow.eu CNAME .
@@ -47892,7 +47893,6 @@ diapason-shop.fr CNAME .
 diapausing.us CNAME .
 diarioplusdump.top CNAME .
 diaristnike.online CNAME .
-diaryofafitmommy.com CNAME .
 diastfowle.cyou CNAME .
 diastmisma.cyou CNAME .
 diatoyakat.cyou CNAME .
@@ -52209,7 +52209,6 @@ ecwdskndsdcsa.com CNAME .
 ecwisconsinnews.com CNAME .
 ecxtrade.com CNAME .
 ed-apotheke.de CNAME .
-ed-hrvatski.com CNAME .
 ed-nachrichtdienst.com CNAME .
 ed.cpcempower.com CNAME .
 eda-yandex.su CNAME .
@@ -57731,7 +57730,6 @@ europalettenmoebel.de CNAME .
 europan.pl CNAME .
 europaptieka.com CNAME .
 europe-pack.eu CNAME .
-europe-pharm.com CNAME .
 europe-pimco.com CNAME .
 europe.9hdxhairs.com CNAME .
 europe.dexlonghis.shop CNAME .
@@ -57789,7 +57787,6 @@ eutklhuazxlt.com CNAME .
 eutracking.me CNAME .
 euvalentinogaravani.de CNAME .
 euvendorshub.online CNAME .
-euvitafarm.com CNAME .
 euxbaseruvr.tk CNAME .
 euxclusives.shop CNAME .
 euxjkoes.shop CNAME .
@@ -62828,7 +62825,6 @@ fielmercovia.live CNAME .
 fiemayas.stream CNAME .
 fiera-global.gq CNAME .
 fiercapoeuvre.live CNAME .
-fiercehealthfinance.com CNAME .
 fiero-valtrix-it.live CNAME .
 fierovaltrix-ai.live CNAME .
 fierropropova-ai.com CNAME .
@@ -63606,7 +63602,6 @@ finkulrontix.org CNAME .
 finland.nport.link CNAME .
 finmanage.live CNAME .
 finmarks.us CNAME .
-finmaxbo.com CNAME .
 finmaxfx.com CNAME .
 finnansera-ai.live CNAME .
 finnanseraai.live CNAME .
@@ -68690,7 +68685,6 @@ get-adel.de CNAME .
 get-adobe.tech CNAME .
 get-airzuma.com CNAME .
 get-airzuma.topashopo.com CNAME .
-get-akusoli.com CNAME .
 get-alerts.net CNAME .
 get-antivirus.ru CNAME .
 get-aol.com CNAME .
@@ -70966,7 +70960,6 @@ goldenpassmedia.com CNAME .
 goldenpay.ltd CNAME .
 goldenpennysemovita.com CNAME .
 goldenporch.eu CNAME .
-goldenpump.de CNAME .
 goldenquartzworks.info CNAME .
 goldenravenstudio.live CNAME .
 goldenrest.eu CNAME .
@@ -73260,7 +73253,6 @@ hagedornmode.de CNAME .
 hagement.com CNAME .
 hagensdogcare.com CNAME .
 hagertydirect.com CNAME .
-hagezi.com CNAME .
 haggardhillock.online CNAME .
 haggardnessekks.info CNAME .
 haglofsoutletsuomi.com CNAME .
@@ -74507,6 +74499,7 @@ heimwerkende.de CNAME .
 heimwerkzeugesde.com CNAME .
 heinen-klimahaus.myshopify.com CNAME .
 heinrich-baumarkt.com CNAME .
+heinrich-handel.com CNAME .
 heirloomsnapshots.com CNAME .
 heisehaus.com CNAME .
 heisen-handels.de CNAME .
@@ -75637,7 +75630,6 @@ highheeledshoes.cn CNAME .
 highheeledshoes.co CNAME .
 highjel.com CNAME .
 highjiko.com CNAME .
-highlandshotels.net CNAME .
 highlevelessay.com CNAME .
 highlightsinistanbulworkshops.com CNAME .
 highlineworkwear.co.uk CNAME .
@@ -78410,7 +78402,6 @@ hotelsellef.com CNAME .
 hotelsinperm.ru CNAME .
 hotelsinvienna.org CNAME .
 hotelsitsupport.com CNAME .
-hotelsofmenorca.com CNAME .
 hotelsveriifed-confistay9855.com CNAME .
 hotelsysconfvalencia-1352315.digital CNAME .
 hotelwareus.com CNAME .
@@ -88158,6 +88149,7 @@ kamagra-original.sk CNAME .
 kamagra-premium.net CNAME .
 kamagra-pro.com CNAME .
 kamagra-pro.net CNAME .
+kamagra-pro.online CNAME .
 kamagra-prodej-levne.cz CNAME .
 kamagra-prodej.cz CNAME .
 kamagra-prodej.online CNAME .
@@ -107058,7 +107050,6 @@ muxdux.com CNAME .
 muyuqq.com CNAME .
 muzaika.fr CNAME .
 muzam.de CNAME .
-muzenaudio.com CNAME .
 muzenly.com CNAME .
 muzey-kbr.ru CNAME .
 muzic247.com CNAME .
@@ -110544,6 +110535,7 @@ nicepool.net CNAME .
 nicesales.shop CNAME .
 niceshop24.biz CNAME .
 niceteeshops.com CNAME .
+nicetossyhn.click CNAME .
 nicevirus.website CNAME .
 nicewatches.co CNAME .
 nicewatches.me CNAME .
@@ -124115,6 +124107,7 @@ phaph.ru CNAME .
 pharaohstore.com CNAME .
 pharm-24h.com CNAME .
 pharm-discount.com CNAME .
+pharm-discounter.com CNAME .
 pharm-pl.shop CNAME .
 pharm-support-group-canada.com CNAME .
 pharma-cards.de CNAME .
@@ -136380,6 +136373,7 @@ rwiudwiruwieudiwere.site CNAME .
 rwtvvdspsbll.com CNAME .
 rwwny7.com CNAME .
 rx-budapest.com CNAME .
+rx-discount.com CNAME .
 rx-dl.net CNAME .
 rx-order-support.com CNAME .
 rx-pharma.net CNAME .
@@ -137567,6 +137561,7 @@ sarahgsunu.com CNAME .
 sarahkothari.com CNAME .
 sarahmeyer.com CNAME .
 sarahravengb.com CNAME .
+sarahrmeyer.com CNAME .
 sarahrodigari.com CNAME .
 saramaud.com CNAME .
 sarasohaus.com CNAME .
@@ -141488,6 +141483,7 @@ shinyflakes.de CNAME .
 shinyflame.club CNAME .
 ship-notebook.tk CNAME .
 ship-shape.com.au CNAME .
+shipafreight.com CNAME .
 shipgratis.eu CNAME .
 shipmanopened.online CNAME .
 shiporama.com CNAME .
@@ -142950,6 +142946,7 @@ skywonfx-solution.com CNAME .
 skyworldintl.com.my CNAME .
 skzhfyqozkic.com CNAME .
 skzsukues.bid CNAME .
+sl-handel.de CNAME .
 sl-leasinggesmbh.at CNAME .
 sl.cenesea.com CNAME .
 sl.cpcempower.com CNAME .
@@ -172335,7 +172332,6 @@ vivahglow.shop CNAME .
 vivahketotke.wordpress.com CNAME .
 vivahumanidad.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -308219,7 +308215,6 @@ yonifxesthetics.com CNAME .
 yoo.brickmastersak.com CNAME .
 yoocaa.com CNAME .
 yoocare.com CNAME .
-yoohal.com CNAME .
 yooofa.com CNAME .
 yootet.com CNAME .
 yoquierounodeesos.com CNAME .
