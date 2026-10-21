@@ -1,10 +1,10 @@
 ; Badware Hoster Blocklist
-; Generated: 2026-10-20 07:23:35 UTC
+; Generated: 2026-10-21 07:24:52 UTC
 ; Format: RPZ (exact hostnames preserved)
-; Original domains (before deduplication): 1075
+; Original domains (before deduplication): 1078
 
 $TTL 300
-@ 300 IN SOA localhost. root.localhost. 2026102007 3600 900 1209600 300
+@ 300 IN SOA localhost. root.localhost. 2026102107 3600 900 1209600 300
 @ 300 IN NS localhost.
 
 000.pe CNAME .
@@ -882,6 +882,7 @@ shorter.me CNAME .
 shortest.link CNAME .
 shortu.be CNAME .
 shorturl.ae CNAME .
+sitebeat.crazydomains.com CNAME .
 sitepalace.com CNAME .
 sitey.me CNAME .
 skul.de CNAME .
@@ -901,6 +902,7 @@ start.lc CNAME .
 start.page CNAME .
 staticrun.app CNAME .
 stormpages.com CNAME .
+studio.site CNAME .
 suchtis.de CNAME .
 supload.com CNAME .
 surfblocked.co.cc CNAME .
@@ -1066,6 +1068,7 @@ xxl.lc CNAME .
 y.gp CNAME .
 y55.eu CNAME .
 ygrrvlvvgf.top CNAME .
+yi.org CNAME .
 yip.su CNAME .
 yj.ae CNAME .
 ykm.de CNAME .

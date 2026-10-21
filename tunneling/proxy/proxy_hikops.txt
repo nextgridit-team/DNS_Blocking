@@ -90,6 +90,7 @@ sslproxy.gateway-php-login.cvs-apps.hikops.com
 sslproxy.gateway-php-login.cvs-v-login.hikops.com
 sslproxy.gateway-php-login.cvspreprod.hikops.com
 sslproxy.gateway-php-login.cvtestrepo-v.hikops.com
+sslproxy.gateway-php-login.prod-login-login.hikops.com
 sslproxy.gateway-php-login.prod-login.hikops.com
 sslproxy.gateway-php-v.cvs-v.hikops.com
 sslproxy.gateway-php-v.prod-v-prod.hikops.com
@@ -171,6 +172,7 @@ sslproxy.gateway.cvs-v.customerproductionsbeanstalk.hikops.com
 sslproxy.gateway.cvs-v.cvs-vinternalsbeanstalk.hikops.com
 sslproxy.gateway.cvs-v.devcvs-v.hikops.com
 sslproxy.gateway.cvs-v.elasticbeanstalk.hikops.com
+sslproxy.gateway.cvs-v.hikops.com
 sslproxy.gateway.cvs-v.team.hikops.com
 sslproxy.gateway.cvs-v.turk.hikops.com
 sslproxy.gateway.cvs-vcvs-v.hikops.com

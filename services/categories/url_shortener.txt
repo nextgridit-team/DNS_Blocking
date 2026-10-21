@@ -1,7 +1,7 @@
 # Url Shortener Blocklist
-# Generated: 2026-10-20 07:23:35 UTC
+# Generated: 2026-10-21 07:24:52 UTC
 # Format: Hosts file (0.0.0.0 hostname) - exact hostnames preserved
-# Original domains (before deduplication): 9898
+# Original domains (before deduplication): 9899
 
 0.0.0.0 0.gp
 0.0.0.0 00m.in
@@ -928,6 +928,7 @@
 0.0.0.0 azshrtr.com
 0.0.0.0 azx.az
 0.0.0.0 b-gat.es
+0.0.0.0 b-short.link
 0.0.0.0 b-url.it
 0.0.0.0 b.bw
 0.0.0.0 b.link

@@ -1,7 +1,9 @@
+2k7m8vfa85vd0t7kc2ttj2vja.privateinternetaccess.com
 accounts.privateinternetaccess.com
 ae.http-proxy.privateinternetaccess.com
 api.jwks.privateinternetaccess.com
 api.privateinternetaccess.com
+apiv2.privateinternetaccess.com
 apiv4.privateinternetaccess.com
 apiv5.privateinternetaccess.com
 ara-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
@@ -34,6 +36,7 @@ email.privateinternetaccess.com
 email2.accounts.privateinternetaccess.com
 email2.offers.privateinternetaccess.com
 email2.privateinternetaccess.com
+fi.http-proxy.privateinternetaccess.com
 files.privateinternetaccess.com
 fin-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 fra-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
@@ -47,13 +50,18 @@ in.http-proxy.privateinternetaccess.com
 installers.privateinternetaccess.com
 ireland.http-proxy.privateinternetaccess.com
 isr-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
+israel.http-proxy.privateinternetaccess.com
 ita.privateinternetaccess.com
+italy.http-proxy.privateinternetaccess.com
 japan.http-proxy.privateinternetaccess.com
 jpn-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 kor-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 kor.privateinternetaccess.com
 links.news.privateinternetaccess.com
+lu.http-proxy.privateinternetaccess.com
+mex-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 mp-feedback.privateinternetaccess.com
+nl-amsterdam.http-proxy.privateinternetaccess.com
 nld-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 nld.privateinternetaccess.com
 nor-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
@@ -67,7 +75,7 @@ proxy-nl.privateinternetaccess.com
 ro.http-proxy.privateinternetaccess.com
 rou-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 sg.http-proxy.privateinternetaccess.com
-socks5-hk.privateinternetaccess.com
+socks5-ca-vancouver.privateinternetaccess.com
 socks5-nl.privateinternetaccess.com
 socks5-us-dal.privateinternetaccess.com
 socks5-us-seattle.privateinternetaccess.com
@@ -75,10 +83,12 @@ socks5-us-west.privateinternetaccess.com
 spain.http-proxy.privateinternetaccess.com
 staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 staging-assets-cms.privateinternetaccess.com
+staging-www.privateinternetaccess.com
 staging.api.jwks.privateinternetaccess.com
 sweden.http-proxy.privateinternetaccess.com
 tha.privateinternetaccess.com
 tur-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
+tur.privateinternetaccess.com
 uk-london.http-proxy.privateinternetaccess.com
 uk-manchester.http-proxy.privateinternetaccess.com
 uk-southampton.http-proxy.privateinternetaccess.com
@@ -96,6 +106,7 @@ us-newjersey.http-proxy.privateinternetaccess.com
 us-newyorkcity.http-proxy.privateinternetaccess.com
 us-seattle.http-proxy.privateinternetaccess.com
 us-siliconvalley.http-proxy.privateinternetaccess.com
+us-texas.http-proxy.privateinternetaccess.com
 us-washingtondc.http-proxy.privateinternetaccess.com
 us3.http-proxy.privateinternetaccess.com
 vnm-staging-3-77b8e3a311bcb6ec5e96.privateinternetaccess.com
